@@ -1,0 +1,3014 @@
+[
+{
+"id": "Turbid9.v0",
+"title": "2004 Measurements made in the Chesapeake Bay"
+},
+{
+"id": "GreenBay.v0",
+"title": "2010 Measurements made in Green Bay, Wisconsin"
+},
+{
+"id": "Catlin_Arctic_Survey.v0",
+"title": "2011 R/V Catlin cruise in the Arctic Ocean"
+},
+{
+"id": "chesapeake_val_2013.v0",
+"title": "2013 Chesapeake Bay measurements"
+},
+{
+"id": "lake_erie_aug_2014.v0",
+"title": "2014 Lake Erie measurements"
+},
+{
+"id": "MURI_Camouflage.v0",
+"title": "A Multi University Research Initiative (MURI) Camouflage Project"
+},
+{
+"id": "MURI_HI.v0",
+"title": "A Multi University Research Initiative (MURI) near the Hawaiian Islands"
+},
+{
+"id": "AAOT.v0",
+"title": "Acqua Alta Oceanographic Tower (AAOT)"
+},
+{
+"id": "ACIDD.v0",
+"title": "Across the Channel Investigating Diel Dynamics project"
+},
+{
+"id": "Active_Fluorescence_2001.v0",
+"title": "Active fluorescence measurements in the Gulf Stream in 2001"
+},
+{
+"id": "OCTS_L3b_CHL.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Chlorophyll (CHL) Global Binned Data"
+},
+{
+"id": "OCTS_L3m_CHL.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Chlorophyll (CHL) Global Mapped Data"
+},
+{
+"id": "OCTS_L1.v1",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Data Regional Data"
+},
+{
+"id": "OCTS_L3b_KD.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Global Binned Data"
+},
+{
+"id": "OCTS_L3m_KD.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Global Mapped Data"
+},
+{
+"id": "OCTS_L3b_IOP.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Inherent Optical Properties (IOP) Global Binned Data"
+},
+{
+"id": "OCTS_L3m_IOP.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Inherent Optical Properties (IOP) Global Mapped Data"
+},
+{
+"id": "OCTS_L2_IOP.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Inherent Optical Properties (IOP) Regional Data"
+},
+{
+"id": "OCTS_L2_OC.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Ocean Color (OC) Regional Data"
+},
+{
+"id": "OCTS_L3b_PIC.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Particulate Inorganic Carbon (PIC) Global Binned Data"
+},
+{
+"id": "OCTS_L3m_PIC.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Particulate Inorganic Carbon (PIC) Global Mapped Data"
+},
+{
+"id": "OCTS_L3b_POC.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Particulate Organic Carbon (POC) Global Binned Data"
+},
+{
+"id": "OCTS_L3m_POC.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Particulate Organic Carbon (POC) Global Mapped Data"
+},
+{
+"id": "OCTS_L3b_PAR.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Photosynthetically Available Radiation (PAR) Global Binned Data"
+},
+{
+"id": "OCTS_L3m_PAR.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Photosynthetically Available Radiation (PAR) Global Mapped Data"
+},
+{
+"id": "OCTS_L3b_RRS.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Remote-Sensing Reflectance (RRS) Global Binned Data"
+},
+{
+"id": "OCTS_L3m_RRS.v2014",
+"title": "ADEOS-I Ocean Color and Temperature Scanner (OCTS) Remote-Sensing Reflectance (RRS) Global Mapped Data"
+},
+{
+"id": "AOPEX.v0",
+"title": "Advanced Optical Properties Experiment (AOPEX) Program"
+},
+{
+"id": "ACE.v0",
+"title": "Aerosol Characterization Experiment (ACE)"
+},
+{
+"id": "ACE-ASIA.v0",
+"title": "Aerosol Characterization Experiment (ACE) - Asia"
+},
+{
+"id": "ACE-INC.v0",
+"title": "Aerosol Characterization Experiment (ACE) for the in-land Chesapeake Bay region"
+},
+{
+"id": "AMMA.v0",
+"title": "African Monsoon Multidisciplinary Analyses (AMMA)"
+},
+{
+"id": "ASIRI.v0",
+"title": "Air-Sea Interaction Research Initiative (ASIRI), Bay of Bengal"
+},
+{
+"id": "ANACONDAS.v0",
+"title": "Amazon iNfluence on the Atlantic: CarbOn export from Nitrogen fixation by DiAtom Symbioses (ANACONDAS)"
+},
+{
+"id": "GEOTRACES.v0",
+"title": "An International Study of the Marine Biogeochemical Cycles of Trace Elements and Isotopes (GEOTRACES)"
+},
+{
+"id": "AMLR.v0",
+"title": "Antarctic Marine Living Resources (AMLR) program"
+},
+{
+"id": "ANTARES_Baja_California_Station.v0",
+"title": "ANTARES Baja California Station"
+},
+{
+"id": "Cartagena_Station.v0",
+"title": "Antares Cartagena station, Colombia"
+},
+{
+"id": "EPEA.v0",
+"title": "ANTARES monitoring station at the EPEA Station on the Argentina shelf"
+},
+{
+"id": "ANTARES_Ubatuba_Station.v0",
+"title": "ANTARES monitoring station in Ubatuba, Southeast Brazilian Bight"
+},
+{
+"id": "MODISA_L4b_GSM.vR2022.0",
+"title": "Aqua MODIS 4B Global Binned Garver-Siegel-Maritorena Model (GSM) Data, version R2022.0"
+},
+{
+"id": "MODISA_L4m_GSM.vR2022.0",
+"title": "Aqua MODIS 4M Global Mapped Garver-Siegel-Maritorena Model (GSM) Data, version R2022.0"
+},
+{
+"id": "MODISA_L1_GEO.v1",
+"title": "Aqua MODIS Geolocation Product Data, version 1"
+},
+{
+"id": "MODISA_L3b_SST_NRT.vR2019.0",
+"title": "Aqua MODIS Global Binned 11\u00b5m Day/Night Sea Surface Temperature (SST) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODISA_L3b_SST.vR2019.0",
+"title": "Aqua MODIS Global Binned 11\u00b5m Daytime Sea Surface Temperature (SST) Data, version R2019.0"
+},
+{
+"id": "MODISA_L3b_NSST_NRT.vR2019.0",
+"title": "Aqua MODIS Global Binned 11\u00b5m Nighttime Sea Surface Temperature (NSST) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODISA_L3b_NSST.vR2019.0",
+"title": "Aqua MODIS Global Binned 11\u00b5m Nighttime Sea Surface Temperature (NSST) Data, version R2019.0"
+},
+{
+"id": "MODISA_L3b_SST4_NRT.vR2019.0",
+"title": "Aqua MODIS Global Binned 4\u00b5m Day/Night Sea Surface Temperature (SST4) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODISA_L3b_SST4.vR2019.0",
+"title": "Aqua MODIS Global Binned 4\u00b5m Nighttime Sea Surface Temperature (SST4) Data, version R2019.0"
+},
+{
+"id": "MODISA_L3b_CHL_NRT.vR2022.0",
+"title": "Aqua MODIS Global Binned Chlorophyll (CHL) - NRT Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_CHL.vR2022.0",
+"title": "Aqua MODIS Global Binned Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_KD_NRT.vR2022.0",
+"title": "Aqua MODIS Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_KD.vR2022.0",
+"title": "Aqua MODIS Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_FLH_NRT.vR2022.0",
+"title": "Aqua MODIS Global Binned Fluorescence Line Height (FLH) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_FLH.vR2022.0",
+"title": "Aqua MODIS Global Binned Fluorescence Line Height (FLH) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_IOP_NRT.vR2022.0",
+"title": "Aqua MODIS Global Binned Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_IOP.vR2022.0",
+"title": "Aqua MODIS Global Binned Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_LAND.vR2022.0",
+"title": "Aqua MODIS Global Binned Normalized Difference Vegetation Index Land Reflectance Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_PIC_NRT.vR2022.0",
+"title": "Aqua MODIS Global Binned Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_PIC.vR2022.0",
+"title": "Aqua MODIS Global Binned Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_POC_NRT.vR2022.0",
+"title": "Aqua MODIS Global Binned Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_POC.vR2022.0",
+"title": "Aqua MODIS Global Binned Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_PAR.vR2022.0",
+"title": "Aqua MODIS Global Binned Photosynthetically Active Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_PAR_NRT.vR2022.0",
+"title": "Aqua MODIS Global Binned Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_RRS_NRT.vR2022.0",
+"title": "Aqua MODIS Global Binned Remote-Sensing Reflectance (RRS) - NRT Data, version R2022.0"
+},
+{
+"id": "MODISA_L3b_RRS.vR2022.0",
+"title": "Aqua MODIS Global Binned Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_SST_NRT.vR2019.0",
+"title": "Aqua MODIS Global Mapped 11\u00b5m Day/Night Sea Surface Temperature (SST) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODISA_L3m_SST.vR2019.0",
+"title": "Aqua MODIS Global Mapped 11\u00b5m Daytime Sea Surface Temperature (SST) Data, version R2019.0"
+},
+{
+"id": "MODISA_L3m_NSST_NRT.vR2019.0",
+"title": "Aqua MODIS Global Mapped 11\u00b5m Nighttime Sea Surface Temperature (NSST) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODISA_L3m_NSST.vR2019.0",
+"title": "Aqua MODIS Global Mapped 11\u00b5m Nighttime Sea Surface Temperature (NSST) Data, version R2019.0"
+},
+{
+"id": "MODISA_L3m_SST4_NRT.vR2019.0",
+"title": "Aqua MODIS Global Mapped 4\u00b5m Day/Night Sea Surface Temperature (SST4) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODISA_L3m_SST4.vR2019.0",
+"title": "Aqua MODIS Global Mapped 4\u00b5m Nighttime Sea Surface Temperature (SST4) Data, version R2019.0"
+},
+{
+"id": "MODISA_L3m_CHL_NRT.vR2022.0",
+"title": "Aqua MODIS Global Mapped Chlorophyll (CHL) - NRT Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_CHL.vR2022.0",
+"title": "Aqua MODIS Global Mapped Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_KD_NRT.vR2022.0",
+"title": "Aqua MODIS Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_KD.vR2022.0",
+"title": "Aqua MODIS Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_FLH_NRT.vR2022.0",
+"title": "Aqua MODIS Global Mapped Fluorescence Line Height (FLH) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_FLH.vR2022.0",
+"title": "Aqua MODIS Global Mapped Fluorescence Line Height (FLH) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_IOP_NRT.vR2022.0",
+"title": "Aqua MODIS Global Mapped Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_IOP.vR2022.0",
+"title": "Aqua MODIS Global Mapped Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_LAND.vR2022.0",
+"title": "Aqua MODIS Global Mapped Normalized Difference Vegetation Index Land Reflectance Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_PIC_NRT.vR2022.0",
+"title": "Aqua MODIS Global Mapped Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_PIC.vR2022.0",
+"title": "Aqua MODIS Global Mapped Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_POC_NRT.vR2022.0",
+"title": "Aqua MODIS Global Mapped Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_POC.vR2022.0",
+"title": "Aqua MODIS Global Mapped Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_PAR.vR2022.0",
+"title": "Aqua MODIS Global Mapped Photosynthetically Active Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_PAR_NRT.vR2022.0",
+"title": "Aqua MODIS Global Mapped Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_RRS_NRT.vR2022.0",
+"title": "Aqua MODIS Global Mapped Remote-Sensing Reflectance (RRS) - NRT Data, version R2022.0"
+},
+{
+"id": "MODISA_L3m_RRS.vR2022.0",
+"title": "Aqua MODIS Global Mapped Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "MODISA_L1.v1",
+"title": "Aqua MODIS Level-1 Data"
+},
+{
+"id": "MODISA_L2_SST_NRT.vR2019.0",
+"title": "Aqua MODIS Regional 11\u00b5m Day/Night Sea Surface Temperature (SST) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODISA_L2_SST.vR2019.0",
+"title": "Aqua MODIS Regional 11\u00b5m Day/Night Sea Surface Temperature (SST) Data, version R2019.0"
+},
+{
+"id": "MODISA_L2_SST4_NRT.vR2019.0",
+"title": "Aqua MODIS Regional 4\u00b5m Day/Night Sea Surface Temperature (SST4) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODISA_L2_SST4.vR2019.0",
+"title": "Aqua MODIS Regional 4\u00b5m Nighttime Sea Surface Temperature (SST4) Data, version R2019.0"
+},
+{
+"id": "MODISA_L2_IOP_NRT.vR2022.0",
+"title": "Aqua MODIS Regional Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L2_IOP.vR2022.0",
+"title": "Aqua MODIS Regional Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "MODISA_L2_LAND.vR2022.0",
+"title": "Aqua MODIS Regional Normalized Difference Vegetation Index Land Reflectance Data, version R2022.0"
+},
+{
+"id": "MODISA_L2_OC_NRT.vR2022.0",
+"title": "Aqua MODIS Regional Ocean Color (OC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODISA_L2_OC.vR2022.0",
+"title": "Aqua MODIS Regional Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "ArcticNET.v0",
+"title": "Artic Network of Centres of Excellence of Canada"
+},
+{
+"id": "AMT.v0",
+"title": "Atlantic Meridional Transect (AMT) cruises"
+},
+{
+"id": "AOSNII.v0",
+"title": "Autonomous Ocean Sampling Networks (AOSN) second deployment"
+},
+{
+"id": "AQUALOOKS.v0",
+"title": "Belgium Aqualooks Experiment 2021"
+},
+{
+"id": "BenthicEcology_fromSpace.v0",
+"title": "Benthic ecology measurements near Panama City and Florida Keys"
+},
+{
+"id": "BEST.v0",
+"title": "Bering Ecosystem STudy (BEST) project"
+},
+{
+"id": "Ber96.v0",
+"title": "Bering Sea measurements in 1995"
+},
+{
+"id": "Ber95.v0",
+"title": "Bering Sea measurements in 1996"
+},
+{
+"id": "BBOP.v0",
+"title": "Bermuda Bio-Optics Project (BBOP)"
+},
+{
+"id": "Bermuda_Testbed_Mooring.v0",
+"title": "Bermuda Testbed Mooring"
+},
+{
+"id": "Bio_optics_Chl_polarization.v0",
+"title": "Bio-optical chlorophyll-a polarization measurements"
+},
+{
+"id": "Optique_St_Laurent.v0",
+"title": "Bio-optical properties of the different water masses in the Gulf of St. Lawrence"
+},
+{
+"id": "BIOSCAPE_COASTAL_CARBON.v0",
+"title": "Biodiversity Survey of the Cape - Mapping Dissolved Organic Carbon sources and cycling in aquatic biodiversity hotspots across South Africa's Greater Cape Floristic Region"
+},
+{
+"id": "BIOSOPE.v0",
+"title": "Biogeochemistry and Optics South Pacific Experiment"
+},
+{
+"id": "BIO-GO-SHIP.v0",
+"title": "Biological Global Ocean Ship-based Hydrographic Investigations Program (Bio-GO-SHIP)"
+},
+{
+"id": "BOUSSOLE.v0",
+"title": "BOUSSOLE project"
+},
+{
+"id": "BowdoinBuoy.v0",
+"title": "Bowdoin buoy measurements"
+},
+{
+"id": "BNL.v0",
+"title": "Brookhaven National Laboratory (BNL) measurements near the Bahamas in 1998"
+},
+{
+"id": "CalCOFI.v0",
+"title": "California Cooperative Oceanic Fisheries Investigations (CalCOFI)"
+},
+{
+"id": "CCE-LTER.v0",
+"title": "California Current Ecosystem (CCE) - Long Term Ecological Research Network (LTER)"
+},
+{
+"id": "CASES.v0",
+"title": "Canadian Arctic Shelf Exchange Study"
+},
+{
+"id": "Carbon_Estuaries.v0",
+"title": "Carbon Cycling to Climatic and Anthropogenic Perturbations in Tampa Bay and Biscayne Bay"
+},
+{
+"id": "Carbon_UAV.v0",
+"title": "Carbon Dynamics in Seagrass and Coral Reef Biomes in the Florida Keys"
+},
+{
+"id": "Carbon_Transport_MS_River.v0",
+"title": "Carbon transport in the Mississippi River"
+},
+{
+"id": "CUSTARD.v0",
+"title": "Carbon Uptake and SeasonalTraitsin Antarctic Remineralisation Depth(CUSTARD)"
+},
+{
+"id": "CARIACO.v0",
+"title": "CARIACO Ocean Time Series program, Cariaco Basin, Venezuela"
+},
+{
+"id": "CaTS.v0",
+"title": "Caribbean Time Series (CaTS), Puerto Rico, 1993 - 2007"
+},
+{
+"id": "BIOCOMPLEXITY.v0",
+"title": "Chesapeake Bay and Mid-Atlantic Bight measurements by the Bio-complexity Project"
+},
+{
+"id": "Chesapeake_Bay_Helicopter.v0",
+"title": "Chesapeake Bay Helicopter"
+},
+{
+"id": "2009oct_Chesapeake.v0",
+"title": "Chesapeake Bay measurements during October 2009"
+},
+{
+"id": "Chesapeake_Bay_Plume.v0",
+"title": "Chesapeake Bay Plume optical measurements"
+},
+{
+"id": "DFO_Canada_Time_Series.v0",
+"title": "Chlorophyll time series, Department of Fisheries and Oceans (DFO), Canada"
+},
+{
+"id": "VOLPE.v0",
+"title": "Chlorophyll-a measurements off the San Diego coast in 1999"
+},
+{
+"id": "CFL.v0",
+"title": "Circumpolar\u00a0Flaw Lead System Study"
+},
+{
+"id": "CLIVAR.v0",
+"title": "Climate Variability and Predictability (CLIVAR)"
+},
+{
+"id": "C-HARRIER.v0",
+"title": "Coastal High Acquisition Rate Radiometers for Innovative Environmental Research Project"
+},
+{
+"id": "COOA.v0",
+"title": "Coastal Ocean Observation and Analysis (COOA) Gulf of Maine measurements"
+},
+{
+"id": "COASTAL.v0",
+"title": "COASTAL Project"
+},
+{
+"id": "GOCI_L1.v1",
+"title": "COMS Geostationary Ocean Color Imager (GOCI) Data Regional  Data"
+},
+{
+"id": "GOCI_L2_OC.v2014",
+"title": "COMS Geostationary Ocean Color Imager (GOCI) Ocean Color (OC) Regional  Data"
+},
+{
+"id": "SEAHAWK_VALIDATION.v0",
+"title": "Continuing the Mission: SeaHawk-1 Ocean Color CubeSat Nanosatellite"
+},
+{
+"id": "CORAL.v0",
+"title": "CORAL Experiment"
+},
+{
+"id": "Cyanate.v0",
+"title": "Cyanate and CDOM measurements in the mid-Atlantic Bight"
+},
+{
+"id": "CAML.v0",
+"title": "Cyanobacteria Aggregated Manual Labels"
+},
+{
+"id": "CoJet.v0",
+"title": "Dynamics of coastal buoyancy jets (CoJet) Naval Research Lab (NRL) project"
+},
+{
+"id": "ECS.v0",
+"title": "East China Sea (ECS) measurements"
+},
+{
+"id": "GOCI_2013.v0",
+"title": "East China Sea validation measurements for GOCI instrument"
+},
+{
+"id": "ECOA.v0",
+"title": "East Coast Ocean Acidification cruise"
+},
+{
+"id": "ECOHAB.v0",
+"title": "Ecology and Oceanography of Harmful Algal Blooms (ECOHAB)"
+},
+{
+"id": "EDDIES.v0",
+"title": "Eddy Dynamics, mIxing, Export, and Species composition (EDDIES)"
+},
+{
+"id": "EKAMSAT_Pilot_ASTRAL.v0",
+"title": "Enhancing Knowledge of the Arabian Sea Marine environment through Science and Advanced Training (EKAMSAT)"
+},
+{
+"id": "Bold_EPAHypoxia.v0",
+"title": "Environmental Protection Agency (EPA) Ocean Survey Vessel (OSV) Bold hypoxia measurements"
+},
+{
+"id": "MERIS_L4b_GSM.vR2022.0",
+"title": "ENVISAT MERIS 4B Global Binned Garver-Siegel-Maritorena Model (GSM) Data, version R2022.0"
+},
+{
+"id": "MERIS_L4m_GSM.vR2022.0",
+"title": "ENVISAT MERIS 4M Global Mapped Garver-Siegel-Maritorena Model (GSM) Data, version R2022.0"
+},
+{
+"id": "MERIS_L1_FRS.v4",
+"title": "ENVISAT MERIS Full Resolution, Full Swath (FRS) Data, version 4"
+},
+{
+"id": "MERIS_L3b_CHL.vR2022.0",
+"title": "ENVISAT MERIS Global Binned Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "MERIS_L3b_CYANTC.v5.0",
+"title": "ENVISAT MERIS Global Binned CyAN Project, True Color (TC) Data, version 5.0"
+},
+{
+"id": "MERIS_L3b_CYAN.v5.0",
+"title": "ENVISAT MERIS Global Binned Cyanobacteria Index (CI) Data, version 5.0"
+},
+{
+"id": "MERIS_L3b_KD.vR2022.0",
+"title": "ENVISAT MERIS Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "MERIS_L3b_IOP.vR2022.0",
+"title": "ENVISAT MERIS Global Binned Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "MERIS_L3b_PIC.vR2022.0",
+"title": "ENVISAT MERIS Global Binned Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "MERIS_L3b_POC.vR2022.0",
+"title": "ENVISAT MERIS Global Binned Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "MERIS_L3b_PAR.vR2022.0",
+"title": "ENVISAT MERIS Global Binned Photosynthetically Available Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "MERIS_L3b_RRS.vR2022.0",
+"title": "ENVISAT MERIS Global Binned Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "MERIS_L3m_CHL.vR2022.0",
+"title": "ENVISAT MERIS Global Mapped Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "MERIS_L3m_CYANTC.v5.0",
+"title": "ENVISAT MERIS Global Mapped CyAN Project, True Color (TC) Data, version 5.0"
+},
+{
+"id": "MERIS_L3m_CYAN.v5.0",
+"title": "ENVISAT MERIS Global Mapped Cyanobacteria Index (CI) Data, version 5.0"
+},
+{
+"id": "MERIS_L3m_KD.vR2022.0",
+"title": "ENVISAT MERIS Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "MERIS_L3m_IOP.vR2022.0",
+"title": "ENVISAT MERIS Global Mapped Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "MERIS_L3m_PIC.vR2022.0",
+"title": "ENVISAT MERIS Global Mapped Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "MERIS_L3m_POC.vR2022.0",
+"title": "ENVISAT MERIS Global Mapped Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "MERIS_L3m_PAR.vR2022.0",
+"title": "ENVISAT MERIS Global Mapped Photosynthetically Available Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "MERIS_L3m_RRS.vR2022.0",
+"title": "ENVISAT MERIS Global Mapped Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "MERIS_L1_RR.v4",
+"title": "ENVISAT MERIS Reduced Resolution (RR) Data, version 4"
+},
+{
+"id": "MERIS_L3b_ILW.v4",
+"title": "ENVISAT MERIS Regional Binned Inland Waters (ILW) Data, version 4"
+},
+{
+"id": "MERIS_L2_FRS_IOP.vR2022.0",
+"title": "ENVISAT MERIS Regional Full Resolution, Full Swath (FRS) Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "MERIS_L2_FRS_OC.vR2022.0",
+"title": "ENVISAT MERIS Regional Full Resolution, Full Swath (FRS) Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "MERIS_L2_ILW.v4",
+"title": "ENVISAT MERIS Regional Inland Waters (ILW) Data, version 4"
+},
+{
+"id": "MERIS_L3m_ILW.v4",
+"title": "ENVISAT MERIS Regional Mapped Inland Waters (ILW) Data, version 4"
+},
+{
+"id": "MERIS_L2_RR_IOP.vR2022.0",
+"title": "ENVISAT MERIS Regional Reduced Resolution (RR) Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "MERIS_L2_RR_OC.vR2022.0",
+"title": "ENVISAT MERIS Regional Reduced Resolution (RR) Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "EUMELI.v0",
+"title": "EUtrophic, MEsotrophic and oLIgotrophic (EUMELI) regimes program"
+},
+{
+"id": "Large_River_DOC_Export.v0",
+"title": "Export of dissolved organic carbon (DOC) by large rivers"
+},
+{
+"id": "EXPORTS.v0",
+"title": "EXport Processes in the Ocean from Remote Sensing"
+},
+{
+"id": "Del_Ches_Bay_Fluorescence.v0",
+"title": "Fluorescence measurements along Chesapeake Bay and Delaware coast"
+},
+{
+"id": "Hudson_River_Fluorescence.v0",
+"title": "Fluorescence measurements along the Hudson River"
+},
+{
+"id": "GEO-CAPE.v0",
+"title": "GEO-CAPE : Geostationary Coastal and Air Pollution Events"
+},
+{
+"id": "GePCO.v0",
+"title": "Geochemistry, Phytoplankton, and Color of the Ocean (GePCO) program"
+},
+{
+"id": "GEO-CAPE_GOCI.v0",
+"title": "Geostationary Coastal and Air Pollution Events measurements for Geostationary Ocean Color Imager (GOCI)"
+},
+{
+"id": "glider.v0",
+"title": "Glider measurements near Tampa, FL"
+},
+{
+"id": "Global_CDOM.v0",
+"title": "Global colored dissolved organic matter (CDOM) measurements"
+},
+{
+"id": "GO-BGC.v0",
+"title": "Global Ocean Biogeochemistry Array"
+},
+{
+"id": "GLOBEC.v0",
+"title": "Global Ocean Ecosystem Dynamics (GLOBEC)"
+},
+{
+"id": "GO-SHIP.v0",
+"title": "Global Ocean Ship-based Hydrographic Investigations Program (GO-SHIP)"
+},
+{
+"id": "Great_Belt.v0",
+"title": "Great Belt research cruise in the Southern Ocean"
+},
+{
+"id": "GOA97.v0",
+"title": "Gulf of Alaska measurements in 1997"
+},
+{
+"id": "GOC.v0",
+"title": "Gulf of California (GOC) measurements in 2003"
+},
+{
+"id": "GOCAL.v0",
+"title": "Gulf of California long-term sampling program"
+},
+{
+"id": "EGEE3.v0",
+"title": "Gulf of Guinea climate and ocean circulation study (EGEE) project - Gulf of Guinea off of west-central Africa"
+},
+{
+"id": "EGEE5.v0",
+"title": "Gulf of Guinea climate and ocean circulation study (EGEES)"
+},
+{
+"id": "BIODIVERSITY.v0",
+"title": "Gulf of Maine measurements in 2007 under the BIODIVERSITY program"
+},
+{
+"id": "B06.v0",
+"title": "Gulf of Maine measurements in 2008"
+},
+{
+"id": "GNATS.v0",
+"title": "Gulf of Maine North Atlantic Time Series (GNATS)"
+},
+{
+"id": "Gulf_of_Maine_Nutrients.v0",
+"title": "Gulf of Maine nutrient measurements from 1933 to 1991"
+},
+{
+"id": "Gulf_Of_Maine.v0",
+"title": "Gulf of Maine optical measurements between 2004 and 2007"
+},
+{
+"id": "Gulf_of_Maine_Optics.v0",
+"title": "Gulf of Maine optical measurements from 1933 to 1991"
+},
+{
+"id": "GOM.v0",
+"title": "Gulf of Mexico (GOM) measurements, 1994 and 1997"
+},
+{
+"id": "GOMECC.v0",
+"title": "Gulf of Mexico and East Coast Carbon Cruise (GOMECC)"
+},
+{
+"id": "GulfCarbon.v0",
+"title": "Gulf of Mexico carbon and bio-optical measurements"
+},
+{
+"id": "GOMEX.v0",
+"title": "Gulf of Mexico measurements in 1993"
+},
+{
+"id": "HAB.v0",
+"title": "Harmful Algal Blooms (HABs) measurements from multiple sites in 2006"
+},
+{
+"id": "HOT.v0",
+"title": "Hawaii Ocean Time-series (HOT) Program"
+},
+{
+"id": "HIVE.v0",
+"title": "High-latitude Intercomparison and Validation Experiment (HIVE)"
+},
+{
+"id": "Hydroprofiler.v0",
+"title": "Hydroprofiler measurements from Monterey Bay in 2011"
+},
+{
+"id": "HYCODE_LEO-15.v0",
+"title": "Hyperspectral Coastal Ocean Dynamics Experiment (HyCoDE) measurements at Long-term Ecosystem Observatory 15 (LEO-15) oceanographic and meteorological station"
+},
+{
+"id": "ICESCAPE.v0",
+"title": "Impacts of Climate on the Eco-Systems and Chemistry of the Arctic Pacific Environment (ICESCAPE)"
+},
+{
+"id": "CliVEC.v0",
+"title": "Impacts of Climate Variability on Primary Productivity and Carbon Distributions in the Middle Atlantic Bight and Gulf of Maine (CliVEC)"
+},
+{
+"id": "Arctic_RSWQ.v0",
+"title": "Impacts of estuarine processes on delivery of Arctic riverine materials to the near coastal environment: Implications for water quality and biogeochemical cycling in preparation for Arctic-COLORS"
+},
+{
+"id": "Sargassum_GOM.v0",
+"title": "Importance of pelagic Sargassum to fisheries management in the Northern Gulf of Mexico"
+},
+{
+"id": "INDOEX.v0",
+"title": "India Ocean Experiment"
+},
+{
+"id": "WHITECAPS.v0",
+"title": "Influence of Whitecaps on Aerosol and Ocean-Color Remote Sensing"
+},
+{
+"id": "IMARPE-Callao_Station.v0",
+"title": "Instituto del Mar del Peru (IMARPE)- Callao Station"
+},
+{
+"id": "IDS_LIS.v0",
+"title": "Interdisciplinary Research in Earth Science, Long Island Sound"
+},
+{
+"id": "INTRO.v0",
+"title": "Intermediate Trophic Levels: Interconnections with Fronts, Eddies, and Primary Production"
+},
+{
+"id": "IMECOCAL.v0",
+"title": "Investigaciones Mexicanas de la Corriente de California (IMECOCAL)"
+},
+{
+"id": "IronEx.v0",
+"title": "Iron Fertilization Experiment (IronEx)"
+},
+{
+"id": "EUCFe.v0",
+"title": "Iron in the Equatorial Undercurrent (EUCFe)"
+},
+{
+"id": "HICO_L1.v2",
+"title": "ISS Hyperspectral Imager for the Coastal Ocean (HICO) L1 Full-Resolution Calibrated Science Data"
+},
+{
+"id": "JHUAPL_SRI_Kauai.v0",
+"title": "Johns Hopkins University Applied Physics Laboratory (JHUAPL) measurements near the island of Kauai in 1993"
+},
+{
+"id": "JGOFS.v0",
+"title": "Joint Global Ocean Flux Study (JGOFS)"
+},
+{
+"id": "JGOFS_EQPAC.v0",
+"title": "Joint Global Ocean Flux Study (JGOFS) - Central Equatorial Pacific"
+},
+{
+"id": "JGOFS_WOCE.v0",
+"title": "Joint Global Ocean Flux Study (JGOFS) - World Ocean Circulation Experiment"
+},
+{
+"id": "JGOFS_Arabian_Sea.v0",
+"title": "Joint Global Ocean Flux Study (JGOFS) Arabian Sea measurements"
+},
+{
+"id": "JGOFS_BOFS.v0",
+"title": "Joint Global Ocean Flux Study (JGOFS) Arabian Sea measurements - Biogeochemical Ocean Flux Study (BOFS)"
+},
+{
+"id": "Kennebec.v0",
+"title": "Kennebec River Plume - Gulf of Maine ecosystem measurements"
+},
+{
+"id": "KORUS.v0",
+"title": "Korea-United States Ocean Color expedition"
+},
+{
+"id": "LAB97.v0",
+"title": "Labrador Sea 1997 optical measurements"
+},
+{
+"id": "Lab96.v0",
+"title": "Labrador Sea measurements in 1996"
+},
+{
+"id": "Lab2000.v0",
+"title": "Labrador Sea measurements in 2000"
+},
+{
+"id": "LATTE.v0",
+"title": "Lagrangian Transport and Transformation Experiment (LaTTE)"
+},
+{
+"id": "NIH-NSF_Lake_Erie.v0",
+"title": "Lake Erie optical measurements"
+},
+{
+"id": "LAMONT_SAB.v0",
+"title": "Lamont-Doherty Earth Observatory (LDEO) - South Atlantic Bight (SAB)"
+},
+{
+"id": "LAMONT_GOM.v0",
+"title": "Lamont-Doherty Earth Observatory measurements from the Gulf of Mexico (GOM)"
+},
+{
+"id": "LAMONT_ATL.v0",
+"title": "Lamont-Doherty Earth Observatory measurements from the South Atlantic Ocean (ATL)"
+},
+{
+"id": "LAMONT_SCS.v0",
+"title": "Lamont-Doherty Earth Observatory measurements from the South China Sea (SCS)"
+},
+{
+"id": "LMER-TIES.v0",
+"title": "Land Margin Ecosystem Research (LMER): Trophic Interactions in Estuarine Systems (TIES)"
+},
+{
+"id": "LOBO_timeseries.v0",
+"title": "Land/Ocean Biogeochemical Observatory (LOBO) water quality monitoring system timeseries"
+},
+{
+"id": "BeringSea_LaserFluoMon.v0",
+"title": "Laser Fluorometry measurements in the Bering Sea"
+},
+{
+"id": "Line_P.v0",
+"title": "Line P oceanic transect"
+},
+{
+"id": "LWAD01-2.v0",
+"title": "Littoral Warfare Advanced Development (LWAD) Program 2001-2002"
+},
+{
+"id": "LTER.v0",
+"title": "Long Term Ecological Research Network (LTER)"
+},
+{
+"id": "LEO.v0",
+"title": "Long-term Ecosystem Observatory (LEO) oceanographic and meteorological data collection system"
+},
+{
+"id": "MagMix.v0",
+"title": "MagMix project"
+},
+{
+"id": "MALINA.v0",
+"title": "Malina Oceanographic Expedition"
+},
+{
+"id": "MBON.v0",
+"title": "Marine Biodiversity Observation Network (MBON)"
+},
+{
+"id": "MIRC.v0",
+"title": "Marine Information Research Center (MIRC) measurements"
+},
+{
+"id": "MOCE.v0",
+"title": "Marine Optical Characterization Experiment (MOCE)"
+},
+{
+"id": "Marlon_Lewis_92.v0",
+"title": "Marlon Lewis drifting buoys 1992"
+},
+{
+"id": "MVCO.v0",
+"title": "Martha's Vineyard Coastal Observatory (MVCO)"
+},
+{
+"id": "C5.v0",
+"title": "Measurements across the Gulf Stream in 2007"
+},
+{
+"id": "Big_Bend.v0",
+"title": "Measurements along the Big Bend Wildlife Preservation area, Florida"
+},
+{
+"id": "MAA.v0",
+"title": "Measurements along the Massachusetts and Maine coast"
+},
+{
+"id": "B07.v0",
+"title": "Measurements along the New Hampshire and Massachusetts coast in 2009"
+},
+{
+"id": "GOM_Oil_Spill.v0",
+"title": "Measurements during the Deepwater Horizon Oil Spill in the Gulf of Mexico (GOM)"
+},
+{
+"id": "P380108.v0",
+"title": "Measurements from Hawaii to the Gulf of Alaska in 2001"
+},
+{
+"id": "PTLO.v0",
+"title": "Measurements from Monterey Bay from 2001 to 2003"
+},
+{
+"id": "MumfordCove.v0",
+"title": "Measurements from Mumford Cove, Connecticut"
+},
+{
+"id": "UMD_GEOL388.v0",
+"title": "Measurements from the Atlantic Ocean made by the University of Maryland (UMD)"
+},
+{
+"id": "BAHAMAS2004.v0",
+"title": "Measurements from the Bahamas in 2004"
+},
+{
+"id": "Searcher.v0",
+"title": "Measurements from the Baltic Sea in 1999"
+},
+{
+"id": "Chesapeake_Light_Tower.v0",
+"title": "Measurements from the Chesapeake Light Tower"
+},
+{
+"id": "GulfOfMaine.v0",
+"title": "Measurements from the Gulf Of Maine during 2008 and 2009"
+},
+{
+"id": "Medit_Ligurian.v0",
+"title": "Measurements from the Ligurian Sea"
+},
+{
+"id": "North_Carolina_Sabrina.v0",
+"title": "Measurements from the Outer Banks and coastal regions of North Carolina onboard the R/V Sabrina"
+},
+{
+"id": "Sea_of_Japan.v0",
+"title": "Measurements from the Sea of Japan between 1999 and 2000"
+},
+{
+"id": "ZonalFlux.v0",
+"title": "Measurements from the western equatorial Pacific Ocean"
+},
+{
+"id": "MOKIHANA.v0",
+"title": "Measurements from the western Pacific Ocean in 1998"
+},
+{
+"id": "Okeechobee.v0",
+"title": "Measurements in Lake Okeechobee, Florida, 1997 - 1999"
+},
+{
+"id": "Arc00.v0",
+"title": "Measurements in the Arctic north of Alaska during 2000"
+},
+{
+"id": "ARC02.v0",
+"title": "Measurements in the Arctic region north of Alaska in 2002"
+},
+{
+"id": "Kuroshio_Area.v0",
+"title": "Measurements in the Kuroshio current"
+},
+{
+"id": "California_2002.v0",
+"title": "Measurements made along the California coast in 2002"
+},
+{
+"id": "IOFFE.v0",
+"title": "Measurements made by the Akademik Ioffe Russian vessel"
+},
+{
+"id": "Academ_Kurchatov.v0",
+"title": "Measurements made by the Akademik Kurchatov Russian research vessel"
+},
+{
+"id": "Ft_Lauderdale.v0",
+"title": "Measurements made by the Lady Pamela research vessel off the south Florida coast"
+},
+{
+"id": "RON_BROWN.v0",
+"title": "Measurements made by the NOAA R/V Ron H. Brown"
+},
+{
+"id": "MASS_BAY.v0",
+"title": "Measurements made in Massachusetts Bay from 2002 to 2005"
+},
+{
+"id": "MONTEREY_BAY.v0",
+"title": "Measurements made in Monterey Bay spanning 2003 to 2006"
+},
+{
+"id": "BRAZIL.v0",
+"title": "Measurements made in the Amazon River outflow region in 2002"
+},
+{
+"id": "ArabianSea_2011.v0",
+"title": "Measurements made in the monsoonal Arabian Sea in 2011"
+},
+{
+"id": "Dolche-Vita.v0",
+"title": "Measurements made in the northern Adriatic Sea in 2003"
+},
+{
+"id": "OAHU.v0",
+"title": "Measurements made in the west-central Pacific near Wake Island"
+},
+{
+"id": "LIS.v0",
+"title": "Measurements made near Long Island"
+},
+{
+"id": "ewing.v0",
+"title": "Measurements made near South Africa in 2001"
+},
+{
+"id": "explorer.v0",
+"title": "Measurements made near the Cayman Islands between 2001 and 2003"
+},
+{
+"id": "KingSejong.v0",
+"title": "Measurements made off King George Island near Antarctica"
+},
+{
+"id": "BENEFIT.v0",
+"title": "Measurements made off the Namibian and South African coasts between 2000 and 2002"
+},
+{
+"id": "North_Carolina_Coast.v0",
+"title": "Measurements made off the North Carolina coast"
+},
+{
+"id": "DECKLAB.v0",
+"title": "Measurements made off the western African coast in 1997"
+},
+{
+"id": "MIRAI.v0",
+"title": "Measurements made onboard the R/V MIRAI between 2000 and 2003"
+},
+{
+"id": "B08.v0",
+"title": "Measurements near Bermuda in 2009"
+},
+{
+"id": "CapeHatteras2010.v0",
+"title": "Measurements near Cape Hatteras in 2010"
+},
+{
+"id": "nauru99.v0",
+"title": "Measurements near Nauru, Micronesia in 1999"
+},
+{
+"id": "B09.v0",
+"title": "Measurements near Santa Barbara, California in 2009"
+},
+{
+"id": "ORINOCO.v0",
+"title": "Measurements near the Orinoco River outflow region, 1998 to 2000"
+},
+{
+"id": "Proantar.v0",
+"title": "Measurements off James Ross Island, Antarctica"
+},
+{
+"id": "Patagonian_Coastal.v0",
+"title": "Measurements off the Argentinian coast near Drakes Passage"
+},
+{
+"id": "MELVILLE.v0",
+"title": "Measurements off the coast of Baja California onboard R/V Melville in 1999"
+},
+{
+"id": "B05.v0",
+"title": "Measurements off the San Diego, Californian coast"
+},
+{
+"id": "B01.v0",
+"title": "Measurements off the Virginia coast in 2005"
+},
+{
+"id": "Akademik_Sergey_Vavilov.v0",
+"title": "Measurements onboard the Russian R/V Akademik Sergey Vavilov"
+},
+{
+"id": "BILIM.v0",
+"title": "Measurements onboard the Turkish research vessel Bilim"
+},
+{
+"id": "MICRONESIAN.v0",
+"title": "Measurements stretching across the Pacific Ocean to the Hawaiian Islands from 1998 to 1999"
+},
+{
+"id": "AKWANAVT.v0",
+"title": "Measurements taken in the Aegean and Black seas onboard the R/V Akwanavt"
+},
+{
+"id": "North_Sea.v0",
+"title": "Measurements taken in the North Sea in 1994"
+},
+{
+"id": "RESOLUTE.v0",
+"title": "Measurements taken off Cornwallis Island off Resolute"
+},
+{
+"id": "ESCAPE.v0",
+"title": "Measurements taken off The Netherlands in the North Sea in 1998"
+},
+{
+"id": "AOL.v0",
+"title": "Measurements taken off the New England Coast in 1997"
+},
+{
+"id": "KAIMIMOANA.v0",
+"title": "Measurements taken onboard R/V Kaimimoana between 1999 and 2002"
+},
+{
+"id": "Oceania.v0",
+"title": "Measurements taken onboard the R/V Oceania during 1998 to 2000"
+},
+{
+"id": "BOA.v0",
+"title": "Measurements used to develop the Bio-Optical Algorithm (BOA)"
+},
+{
+"id": "SIMBAD_DESCHAMPS_LOA.v0",
+"title": "Measurements using the SIMBAD radiometer by the Laboratoire dOptique Atmospherique (LOA)"
+},
+{
+"id": "MIPOT.v0",
+"title": "Mediterranean, Indian and Pacific Ocean Transect (MIPOT)"
+},
+{
+"id": "MERCHANT_SHIP.v0",
+"title": "Merchant ships measurements in Micronesia and the Southern Ocean"
+},
+{
+"id": "MERGED_S3_OLCI_L3b_CYANTC_NRT.v5.0",
+"title": "Merged Sentinel-3A and Sentinel-3B OLCI Global Binned CyAN Project, True Color (TC) - Near Real-Time (NRT) Data, version 5.0"
+},
+{
+"id": "MERGED_S3_OLCI_L3b_CYANTC.v5.0",
+"title": "Merged Sentinel-3A and Sentinel-3B OLCI Global Binned CyAN Project, True Color (TC) Data, version 5.0"
+},
+{
+"id": "MERGED_S3_OLCI_L3b_CYAN_NRT.v5.0",
+"title": "Merged Sentinel-3A and Sentinel-3B OLCI Global Binned Cyanobacteria Index (CI) - Near Real-time (NRT) Data, version 5.0"
+},
+{
+"id": "MERGED_S3_OLCI_L3b_CYAN.v5.0",
+"title": "Merged Sentinel-3A and Sentinel-3B OLCI Global Binned Cyanobacteria Index (CI) Data, version 5.0"
+},
+{
+"id": "MERGED_S3_OLCI_L3m_CYANTC_NRT.v5.0",
+"title": "Merged Sentinel-3A and Sentinel-3B OLCI Global Mapped CyAN Project, True Color (TC) - Near Real-Time (NRT) Data, version 5.0"
+},
+{
+"id": "MERGED_S3_OLCI_L3m_CYANTC.v5.0",
+"title": "Merged Sentinel-3A and Sentinel-3B OLCI Global Mapped CyAN Project, True Color (TC) Data, version 5.0"
+},
+{
+"id": "MERGED_S3_OLCI_L3m_CYAN_NRT.v5.0",
+"title": "Merged Sentinel-3A and Sentinel-3B OLCI Global Mapped Cyanobacteria Index (CI) - Near Real-time (NRT) Data, version 5.0"
+},
+{
+"id": "MERGED_S3_OLCI_L3m_CYAN.v5.0",
+"title": "Merged Sentinel-3A and Sentinel-3B OLCI Global Mapped Cyanobacteria Index (CI) Data, version 5.0"
+},
+{
+"id": "MERGED_S3_OLCI_L3b_ILW.v4",
+"title": "Merged Sentinel-3A and Sentinel-3B OLCI Regional Binned Inland Waters (ILW) Data, version 4"
+},
+{
+"id": "MERGED_S3_OLCI_L3m_ILW.v4",
+"title": "Merged Sentinel-3A and Sentinel-3B OLCI Regional Mapped Inland Waters (ILW) Data, version 4"
+},
+{
+"id": "BIOME.v0",
+"title": "Mid-Atlantic coastal and Chesapeake Bay outflow optical measurements"
+},
+{
+"id": "B03.v0",
+"title": "Mid-Atlantic coastal region and Monterey Bay measurements"
+},
+{
+"id": "B04.v0",
+"title": "Mid-Atlantic coastal region measurements"
+},
+{
+"id": "B02.v0",
+"title": "Mid-Atlantic coastal region measurements in 2005"
+},
+{
+"id": "MISC_Apex_Floats.v0",
+"title": "Miscellaneous Autonomous Profiling Explorer (APEX) floats measurements"
+},
+{
+"id": "MS_Sound.v0",
+"title": "Mississippi (MS) Sound optical measurements"
+},
+{
+"id": "OCEANSAT-2.v0",
+"title": "Monsoonal Arabian Sea measurements to validate OceanSat-2"
+},
+{
+"id": "MUSE.v0",
+"title": "Monterey Ocean Observing System (MOOS) Upper-water-column Science Experiment (MUSE)"
+},
+{
+"id": "MCR_LTER.v0",
+"title": "Moorea Coral Reef Long-Term Ecological Research site (MCR LTER)"
+},
+{
+"id": "NFRDI.v0",
+"title": "National Fisheries Research and Development Institute (NFRDI)"
+},
+{
+"id": "FRONT.v0",
+"title": "National Ocean Partnership Program (NOPP) Front Resolving Observational Network with Telemetry (FRONT) site"
+},
+{
+"id": "NOAA.v0",
+"title": "National Oceanic and Atmospheric Administration (NOAA)"
+},
+{
+"id": "NOPP_float.v0",
+"title": "National Oceanographic Partnership Program ARGO profiling floats"
+},
+{
+"id": "NSF-BWZ.v0",
+"title": "National Science Foundation (NSF)-Blue Water Zone (BWZ) measurements"
+},
+{
+"id": "Optical_Layers.v0",
+"title": "Naval Research Lab measurements off the coast of Louisiana"
+},
+{
+"id": "CZCS_L1.v1",
+"title": "Nimbus-7 Coastal Zone Color Scanner (CZCS) Data Regional Data"
+},
+{
+"id": "CZCS_L2_OC.v2014",
+"title": "Nimbus-7 Coastal Zone Color Scanner (CZCS) Ocean Color (OC) Regional Data"
+},
+{
+"id": "CZCS_L3b_CHL.v2014",
+"title": "Nimbus-7 CZCS Global Binned Chlorophyll (CHL) Data, version 2014"
+},
+{
+"id": "CZCS_L3b_KD.v2014",
+"title": "Nimbus-7 CZCS Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD490) Data, version 2014"
+},
+{
+"id": "CZCS_L3b_PIC.v2014",
+"title": "Nimbus-7 CZCS Global Binned Particulate Inorganic Carbon (PIC) Data, version 2014"
+},
+{
+"id": "CZCS_L3b_POC.v2014",
+"title": "Nimbus-7 CZCS Global Binned Particulate Organic Carbon (POC) Data, version 2014"
+},
+{
+"id": "CZCS_L3b_RRS.v2014",
+"title": "Nimbus-7 CZCS Global Binned Remote-Sensing Reflectance (RRS) Data, version 2014"
+},
+{
+"id": "CZCS_L3m_CHL.v2014",
+"title": "Nimbus-7 CZCS Global Mapped Chlorophyll (CHL) Data, version 2014"
+},
+{
+"id": "CZCS_L3m_KD.v2014",
+"title": "Nimbus-7 CZCS Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD490) Data, version 2014"
+},
+{
+"id": "CZCS_L3m_PIC.v2014",
+"title": "Nimbus-7 CZCS Global Mapped Particulate Inorganic Carbon (PIC) Data, version 2014"
+},
+{
+"id": "CZCS_L3m_POC.v2014",
+"title": "Nimbus-7 CZCS Global Mapped Particulate Organic Carbon (POC) Data, version 2014"
+},
+{
+"id": "CZCS_L3m_RRS.v2014",
+"title": "Nimbus-7 CZCS Global Mapped Remote-Sensing Reflectance (RRS) Data, version 2014"
+},
+{
+"id": "ECOMON.v0",
+"title": "NOAA Fisheries Ecosystem Monitoring Program"
+},
+{
+"id": "VIIRSJ1_L1_GEO.v2",
+"title": "NOAA-20 VIIRS Geolocation Product Data, version 2"
+},
+{
+"id": "VIIRSJ1_L3b_CHL_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Chlorophyll (CHL) - NRT Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_CHL.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_KD_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_KD.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_IOP_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_IOP.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_LAND.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Normalized Difference Vegetation Index Land Reflectance Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_PIC_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_PIC.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_POC_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_POC.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_PAR.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Photosynthetically Active Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_PAR_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_RRS_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Remote-Sensing Reflectance (RRS) - NRT Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3b_RRS.vR2022.0",
+"title": "NOAA-20 VIIRS Global Binned Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_CHL_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Chlorophyll (CHL) - NRT Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_CHL.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_KD_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_KD.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_IOP_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_IOP.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_LAND.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Normalized Difference Vegetation Index Land Reflectance Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_PIC_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_PIC.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_POC_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_POC.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_PAR.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Photosynthetically Active Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_PAR_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_RRS_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Remote-Sensing Reflectance (RRS) - NRT Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L3m_RRS.vR2022.0",
+"title": "NOAA-20 VIIRS Global Mapped Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L1.v2",
+"title": "NOAA-20 VIIRS Level-1 Data, version 2"
+},
+{
+"id": "VIIRSJ1_L1_OBC.v2",
+"title": "NOAA-20 VIIRS On-Board Calibartion Product Data, version 2"
+},
+{
+"id": "VIIRSJ1_L2_IOP_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Regional Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L2_IOP.vR2022.0",
+"title": "NOAA-20 VIIRS Regional Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L2_OC_NRT.vR2022.0",
+"title": "NOAA-20 VIIRS Regional Ocean Color (OC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ1_L2_OC.vR2022.0",
+"title": "NOAA-20 VIIRS Regional Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L1_GEO.v1",
+"title": "NOAA-21 VIIRS Geolocation Product Data, version 1"
+},
+{
+"id": "VIIRSJ2_L3b_CHL_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Chlorophyll (CHL) - NRT Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_CHL.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_KD_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_KD.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_IOP_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_IOP.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_LAND.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Normalized Difference Vegetation Index Land Reflectance Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_PIC_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_PIC.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_POC_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_POC.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_PAR.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Photosynthetically Active Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_PAR_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_RRS_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Remote-Sensing Reflectance (RRS) - NRT Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3b_RRS.vR2022.0",
+"title": "NOAA-21 VIIRS Global Binned Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_CHL_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Chlorophyll (CHL) - NRT Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_CHL.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_KD_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_KD.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_IOP_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_IOP.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_LAND.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Normalized Difference Vegetation Index Land Reflectance Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_PIC_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_PIC.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_POC_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_POC.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_PAR.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Photosynthetically Active Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_PAR_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_RRS_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Remote-Sensing Reflectance (RRS) - NRT Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L3m_RRS.vR2022.0",
+"title": "NOAA-21 VIIRS Global Mapped Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L1.v1",
+"title": "NOAA-21 VIIRS Level-1 Data, version 1"
+},
+{
+"id": "VIIRSJ2_L1_OBC.v1",
+"title": "NOAA-21 VIIRS On-Board Calibartion Product Data, version 1"
+},
+{
+"id": "VIIRSJ2_L2_IOP_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Regional Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L2_IOP.vR2022.0",
+"title": "NOAA-21 VIIRS Regional Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L2_LAND.vR2022.0",
+"title": "NOAA-21 VIIRS Regional Normalized Difference Vegetation Index Land Reflectance Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L2_OC_NRT.vR2022.0",
+"title": "NOAA-21 VIIRS Regional Ocean Color (OC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSJ2_L2_OC.vR2022.0",
+"title": "NOAA-21 VIIRS Regional Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "NAAMES.v0",
+"title": "North Atlantic Aerosols and Marine Ecosystems Study"
+},
+{
+"id": "NAB08.v0",
+"title": "North Atlantic Bight measurements in 2008"
+},
+{
+"id": "NABE.v0",
+"title": "North Atlantic Bloom Experiment (NABE)"
+},
+{
+"id": "ANT.v0",
+"title": "North Atlantic Transect (ANT) program"
+},
+{
+"id": "NES-LTER.v0",
+"title": "Northeast U.S. Shelf (NES), Long-Term Ecological Research (LTER)"
+},
+{
+"id": "NORBAL.v0",
+"title": "Northern Balearic (NORBAL) Sea measurements in 2002"
+},
+{
+"id": "NGLI_Lake_Bourne.v0",
+"title": "Northern Gulf Littoral Initiative (NGLI) measurements in Lake Bourne, Louisiana"
+},
+{
+"id": "SEA.v0",
+"title": "Northwest Atlantic and northeast Pacific oceans measurements collected during Sea Education Association (SEA) cruises"
+},
+{
+"id": "NSF_Gulf_Rapid.v0",
+"title": "NSF Collaborative Research: A RAPID response to Hurricane Harvey impacts on coastal carbon cycle, metabolic balance and ocean acidification"
+},
+{
+"id": "APPSS.v0",
+"title": "Observations from the Autonomous Polar Productivity Sampling System."
+},
+{
+"id": "Western_Gulf_of_Maine.v0",
+"title": "Observations from the Western Gulf of Maine"
+},
+{
+"id": "OASIS_Moorings.v0",
+"title": "Ocean Acquisition System for Interdisciplinary Science (OASIS) moorings"
+},
+{
+"id": "Ocean_Color_Cal_Val.v0",
+"title": "Ocean color calibration and validation measurements off the New Jersey and New York coasts"
+},
+{
+"id": "OCEAN_LIDAR.v0",
+"title": "Ocean LiDAR measurements Pacific Ocean"
+},
+{
+"id": "OMEXII.v0",
+"title": "Ocean Margin Exchange Phase II (OMEX II) Project"
+},
+{
+"id": "OTZ_WHOI.v0",
+"title": "Ocean Twilight Zone: Woods Hole Oceanographic Institution"
+},
+{
+"id": "Odyssee_Saint_Laurent.v0",
+"title": "Odyssee Saint Laurent"
+},
+{
+"id": "ONR-MAB.v0",
+"title": "Office of Naval Research (ONR) - Mid-Atlantic Bight (MAB) measurements"
+},
+{
+"id": "ONR_PenobscotRiverSystem.v0",
+"title": "Office of Naval Research (ONR) measurements in the Penobscot River System"
+},
+{
+"id": "ODU_CBM.v0",
+"title": "Old Dominion University (ODU) - Chesapeake Bay Mouth (CBM) measurements"
+},
+{
+"id": "OLIPAC.v0",
+"title": "Oligotrophic Southern Pacific Ocean measurements onboard the French R/V Latalante"
+},
+{
+"id": "ONDEQUE.v0",
+"title": "Optical and Nutrient Dependence of Quantum Efficiency (ON DEQUE) Program"
+},
+{
+"id": "PERU.v0",
+"title": "Optical measurements along the northern coast of Peru in 2003"
+},
+{
+"id": "Horn_Island.v0",
+"title": "Optical measurements from  Horn Island, Mississippi in 2003"
+},
+{
+"id": "TAHOE.v0",
+"title": "Optical measurements in Lake Tahoe during 2001"
+},
+{
+"id": "ARK.v0",
+"title": "Optical measurements in the Arctic Ocean during 2002 and 2003"
+},
+{
+"id": "THAILAND.v0",
+"title": "Optical measurements in the Gulf of Thailand and the Andaman Sea in 2003"
+},
+{
+"id": "polar_star.v0",
+"title": "Optical measurements taken in the Southern Ocean in 2002"
+},
+{
+"id": "Opt_Sed_Trap_Cal.v0",
+"title": "Optical Sediment Trap Calibration on the New England coast"
+},
+{
+"id": "Panhandle_OWQ.v0",
+"title": "Optical Water quality measurements made in the Florida Panhandle estuaries"
+},
+{
+"id": "SeaWiFS_L4b_GSM.vR2022.0",
+"title": "OrbView-2 SeaWiFS 4B Global Binned Garver-Siegel-Maritorena Model (GSM) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L4m_GSM.vR2022.0",
+"title": "OrbView-2 SeaWiFS 4M Global Mapped Garver-Siegel-Maritorena Model (GSM) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L1_GAC.v1",
+"title": "OrbView-2 SeaWiFS Global Area Coverage (GAC) Data, version 1"
+},
+{
+"id": "SeaWiFS_L3b_CHL.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Binned Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_KD.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_IOP.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Binned Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_PIC.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Binned Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_POC.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Binned Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_PAR.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Binned Photosynthetically Available Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_RRS.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Binned Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_CHL.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Mapped Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_KD.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_IOP.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Mapped Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_PIC.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Mapped Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_POC.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Mapped Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_PAR.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Mapped Photosynthetically Available Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_RRS.vR2022.0",
+"title": "OrbView-2 SeaWiFS Global Mapped Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L1_MLAC.v1",
+"title": "OrbView-2 SeaWiFS Merged Local Area Coverage (MLAC) Data, version 1"
+},
+{
+"id": "SeaWiFS_L2_GAC_IOP.vR2022.0",
+"title": "OrbView-2 SeaWiFS Regional Global Area Coverage (GAC) Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L2_GAC_OC.vR2022.0",
+"title": "OrbView-2 SeaWiFS Regional Global Area Coverage (GAC) Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L2_MLAC_IOP.vR2022.0",
+"title": "OrbView-2 SeaWiFS Regional Merged Local Area Coverage (MLAC) Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L2_MLAC_OC.vR2022.0",
+"title": "OrbView-2 SeaWiFS Regional Merged Local Area Coverage (MLAC) Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "PACE_ABSclosure.v0",
+"title": "PACE Absorbance Closure project, Florida"
+},
+{
+"id": "PVST_PRINGLS.v0",
+"title": "PACE Radiometry and IOPs for Novel Great Lakes Science"
+},
+{
+"id": "PAL-LTER.v0",
+"title": "Palmer Station Antarctica (PAL) Long Term Ecological Research Network (LTER)"
+},
+{
+"id": "PanamaCity.v0",
+"title": "Panama City, Florida optical measurements in 1993"
+},
+{
+"id": "PAC_DFO_PAR_BUOY.v0",
+"title": "PAR data from buoys along the west coast of Canada"
+},
+{
+"id": "Pelican_PCO2.v0",
+"title": "Partial pressure of carbon dioxide (PCO2) onboard the Pelican research vessel"
+},
+{
+"id": "PATEX.v0",
+"title": "PATagonia EXperiment (PATEX) Project"
+},
+{
+"id": "PREPP.v0",
+"title": "Pearl River Estuary Pollution Project (PREPP)"
+},
+{
+"id": "PenBaySurvey.v0",
+"title": "Penobscot Bay Optical Survey"
+},
+{
+"id": "Kieber_Photochemistry.v0",
+"title": "Photochemistry measurements made along the mid-Atlantic and New England coastal regions"
+},
+{
+"id": "PMNS.v0",
+"title": "Phytoplankton Monitoring in the North Sea (PMNS)"
+},
+{
+"id": "PICOLO.v0",
+"title": "PICOLO (Production Induite en Zone de Convergence par les Ondes Longues Oceaniques) Program"
+},
+{
+"id": "LIDAR.v0",
+"title": "Pigment measurements from 1989 and 1990 in the Gulf of St Lawrence"
+},
+{
+"id": "Plumes_and_Blooms.v0",
+"title": "Plumes and Blooms"
+},
+{
+"id": "PRISM_CORAL_L2.v1.0",
+"title": "Portable Remote Imaging Spectrometer (PRISM) COral Reef Airborne Laboratory (CORAL) Regional Benthic Cover Data"
+},
+{
+"id": "PRISM_CORAL_L1.v1.0",
+"title": "Portable Remote Imaging Spectrometer (PRISM) COral Reef Airborne Laboratory (CORAL) Regional Reflectance Data"
+},
+{
+"id": "PRISM_Elkhorn_Slough.v0",
+"title": "Portable Remote Imaging SpectroMeter (PRISM) from Elkhorn Slough to Monterey Bay, California"
+},
+{
+"id": "PEACETIME.v0",
+"title": "ProcEss studies at the Air-sEa Interface after dust deposition in the MEditerranean sea project (PEACETIME)"
+},
+{
+"id": "SUPERYACHT_SCIENCE.v0",
+"title": "Processing and Distribution of Hyperspectral Radiometer Data from Ships of Opportunity for Monitoring Phytoplankton in the Ocean"
+},
+{
+"id": "PRONEX.v0",
+"title": "Programa de Apoio a Nucleos de Excelencia (PRONEX)"
+},
+{
+"id": "POMME.v0",
+"title": "Programme Ocean Multidisciplinaire Meso-Echelle (POMME)"
+},
+{
+"id": "RED_TIDE.v0",
+"title": "Red tide measurements from Central Florida Gulf Coast"
+},
+{
+"id": "RIO-SFE.v0",
+"title": "Remote and In Situ Observations - San Francisco Bay and Delta Ecosystem (RIO-SFE)"
+},
+{
+"id": "CRP.v0",
+"title": "Remote sensing and field-based studies in the coastal Gulf of Alaska adjacent to the Copper River"
+},
+{
+"id": "RdlP_PT.v0",
+"title": "Remote sensing in the Rio de la Plata estuary near Punta del Tigre"
+},
+{
+"id": "RemSensPOC.v0",
+"title": "Remote-sensing-derived particulate organic carbon (POC) validation"
+},
+{
+"id": "MANTRA_PIRANA.v0",
+"title": "Repeat MP (MANTRA/PIRANA) Atlantic Ocean Cruises measurements"
+},
+{
+"id": "ROAVERRS.v0",
+"title": "Research on Ocean-Atmosphere Variability and Ecosystem Response in the Ross Sea (ROAVERRS) Project"
+},
+{
+"id": "LB02.v0",
+"title": "Research vessel Lady Basten (LB) measurements in 2002 in Australia"
+},
+{
+"id": "Missouri_Reservoirs_RSWQ.v0",
+"title": "Retrospective analysis of anthropogenic change in Midwest reservoirs: Integrating earth observing data with statewide reservoir monitoring programs"
+},
+{
+"id": "Prudhoe_Freshets.v0",
+"title": "Riverine Carbon Contributions to Alaskan Arctic Coastal Margins"
+},
+{
+"id": "AEROSE.v0",
+"title": "Saharan Dust AERosols and Ocean Science Expeditions"
+},
+{
+"id": "San_Diego_Coastal_Project.v0",
+"title": "San Diego Coastal Project"
+},
+{
+"id": "Scotia_Prince_ferry.v0",
+"title": "Scotia Prince ferry dataset"
+},
+{
+"id": "SIO-Pier.v0",
+"title": "Scripps Ocean Institute (SOI) pier measurements"
+},
+{
+"id": "Sea2Space.v0",
+"title": "Sea to Space expedition"
+},
+{
+"id": "HAWKEYE_L1.v1",
+"title": "SeaHawk HawkEye Level-1 Data, version 1"
+},
+{
+"id": "HAWKEYE_L2_OC.v2018.0",
+"title": "SeaHawk HawkEye Regional Ocean Color (OC) Data, version 2018.0"
+},
+{
+"id": "SEED.v0",
+"title": "SEED Project Gulf of Mexico optical data"
+},
+{
+"id": "OLCIS3A_L3b_CYANTC_NRT.v5.0",
+"title": "Sentinel-3A OLCI Global Binned CyAN Project, True Color (TC) - Near Real-Time (NRT) Data, version 5.0"
+},
+{
+"id": "OLCIS3A_L3b_CYANTC.v5.0",
+"title": "Sentinel-3A OLCI Global Binned CyAN Project, True Color (TC) Data, version 5.0"
+},
+{
+"id": "OLCIS3A_L3b_CYAN_NRT.v5.0",
+"title": "Sentinel-3A OLCI Global Binned Cyanobacteria Index (CI) - Near Real-time (NRT) Data, version 5.0"
+},
+{
+"id": "OLCIS3A_L3b_CYAN.v5.0",
+"title": "Sentinel-3A OLCI Global Binned Cyanobacteria Index (CI) Data, version 5.0"
+},
+{
+"id": "OLCIS3A_L3m_CYANTC_NRT.v5.0",
+"title": "Sentinel-3A OLCI Global Mapped CyAN Project, True Color (TC) - Near Real-Time (NRT) Data, version 5.0"
+},
+{
+"id": "OLCIS3A_L3m_CYANTC.v5.0",
+"title": "Sentinel-3A OLCI Global Mapped CyAN Project, True Color (TC) Data, version 5.0"
+},
+{
+"id": "OLCIS3A_L3m_CYAN_NRT.v5.0",
+"title": "Sentinel-3A OLCI Global Mapped Cyanobacteria Index (CI) - Near Real-time (NRT) Data, version 5.0"
+},
+{
+"id": "OLCIS3A_L3m_CYAN.v5.0",
+"title": "Sentinel-3A OLCI Global Mapped Cyanobacteria Index (CI) Data, version 5.0"
+},
+{
+"id": "OLCIS3A_L2_ILW.v4",
+"title": "Sentinel-3A OLCI Inland Waters (ILW) Data, version 4"
+},
+{
+"id": "OLCIS3A_L1_EFR.v1",
+"title": "Sentinel-3A OLCI Level-1B Earth-observation Full Resolution (EFR) Data, version 1"
+},
+{
+"id": "OLCIS3A_L1_ERR.v1",
+"title": "Sentinel-3A OLCI Level-1B Earth-observation Reduced Resolution (ERR) Data, version 1"
+},
+{
+"id": "OLCIS3A_L2_EFR_IOP.vR2022.0",
+"title": "Sentinel-3A OLCI Level-2 Earth-observation Full Resolution (EFR) Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L2_EFR_OC.vR2022.0",
+"title": "Sentinel-3A OLCI Level-2 Earth-observation Full Resolution (EFR) Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L2_ERR_OC_NRT.vR2022.0",
+"title": "Sentinel-3A OLCI Level-2 Earth-observation Reduced Resolution (ERR) Ocean Color (OC) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L2_ERR_OC.vR2022.0",
+"title": "Sentinel-3A OLCI Level-2 Earth-observation Reduced Resolution (ERR) Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L2_ERR_IOP.vR2022.0",
+"title": "Sentinel-3A OLCI Level-2 Earth-observation Reduced-Resolution (ERR) Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L2_ERR_IOP_NRT.vR2022.0",
+"title": "Sentinel-3A OLCI Level-2 Earth-observation Reduced-Resolution (ERR) Inherent Optical Properties (IOP), Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3b_ERR_CHL_NRT.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3B Global Binned Earth-observation Reduced Resolution (ERR) Chlorophyll (CHL) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3b_ERR_CHL.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3b Global Binned Earth-observation Reduced Resolution (ERR) Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3b_ERR_KD_NRT.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3B Global Binned Earth-observation Reduced Resolution (ERR) Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3b_ERR_KD.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3b Global Binned Earth-observation Reduced Resolution (ERR) Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3b_ERR_RRS_NRT.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3B Global Binned Earth-observation Reduced Resolution (ERR) Remote-Sensing Reflectance (RRS) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3b_ERR_RRS.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3b Global Binned Earth-observation Reduced Resolution (ERR) Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3b_ERR_IOP.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3b Global Binned Earth-observation Reduced-Resolution (ERR) Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3b_ERR_IOP_NRT.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3B Global Binned Earth-observation Reduced-Resolution (ERR) Inherent Optical Properties (IOP), Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3m_ERR_CHL_NRT.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3M Global Mapped Earth-observation Reduced Resolution (ERR) Chlorophyll (CHL) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3m_ERR_CHL.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3M Global Mapped Earth-observation Reduced Resolution (ERR) Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3m_ERR_KD_NRT.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3M Global Mapped Earth-observation Reduced Resolution (ERR) Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3m_ERR_KD.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3M Global Mapped Earth-observation Reduced Resolution (ERR) Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3m_ERR_RRS_NRT.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3M Global Mapped Earth-observation Reduced Resolution (ERR) Remote-Sensing Reflectance (RRS) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3m_ERR_RRS.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3M Global Mapped Earth-observation Reduced Resolution (ERR) Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3m_ERR_IOP.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3M Global Mapped Earth-observation Reduced-Resolution (ERR) Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3m_ERR_IOP_NRT.vR2022.0",
+"title": "Sentinel-3A OLCI Level-3M Global Mapped Earth-observation Reduced-Resolution (ERR) Inherent Optical Properties (IOP), Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3A_L3b_ILW.v4",
+"title": "Sentinel-3A OLCI Regional Binned Inland Waters (ILW) Data, version 4"
+},
+{
+"id": "OLCIS3A_L3m_ILW.v4",
+"title": "Sentinel-3A OLCI Regional Mapped Inland Waters (ILW) Data, version 4"
+},
+{
+"id": "OLCIS3B_L1_EFR.v1",
+"title": "Sentinel-3B OLCI Data, version 1"
+},
+{
+"id": "OLCIS3B_L1_ERR.v1",
+"title": "Sentinel-3B OLCI Earth-observation Reduced Resolution (ERR) Data, version 1"
+},
+{
+"id": "OLCIS3B_L3b_CYANTC_NRT.v5.0",
+"title": "Sentinel-3B OLCI Global Binned CyAN Project, True Color (TC) - Near Real-Time (NRT) Data, version 5.0"
+},
+{
+"id": "OLCIS3B_L3b_CYANTC.v5.0",
+"title": "Sentinel-3B OLCI Global Binned CyAN Project, True Color (TC) Data, version 5.0"
+},
+{
+"id": "OLCIS3B_L3b_CYAN_NRT.v5.0",
+"title": "Sentinel-3B OLCI Global Binned Cyanobacteria Index (CI) - Near Real-time (NRT) Data, version 5.0"
+},
+{
+"id": "OLCIS3B_L3b_CYAN.v5.0",
+"title": "Sentinel-3B OLCI Global Binned Cyanobacteria Index (CI) Data, version 5.0"
+},
+{
+"id": "OLCIS3B_L3m_CYANTC_NRT.v5.0",
+"title": "Sentinel-3B OLCI Global Mapped CyAN Project, True Color (TC) - Near Real-Time (NRT) Data, version 5.0"
+},
+{
+"id": "OLCIS3B_L3m_CYANTC.v5.0",
+"title": "Sentinel-3B OLCI Global Mapped CyAN Project, True Color (TC) Data, version 5.0"
+},
+{
+"id": "OLCIS3B_L3m_CYAN_NRT.v5.0",
+"title": "Sentinel-3B OLCI Global Mapped Cyanobacteria Index (CI) - Near Real-time (NRT) Data, version 5.0"
+},
+{
+"id": "OLCIS3B_L3m_CYAN.v5.0",
+"title": "Sentinel-3B OLCI Global Mapped Cyanobacteria Index (CI) Data, version 5.0"
+},
+{
+"id": "OLCIS3B_L2_ILW.v4",
+"title": "Sentinel-3B OLCI Inland Waters (ILW) Data, version 4"
+},
+{
+"id": "OLCIS3B_L2_EFR_IOP.vR2022.0",
+"title": "Sentinel-3B OLCI Level-2 Earth-observation Full Resolution (EFR) Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L2_EFR_OC.vR2022.0",
+"title": "Sentinel-3B OLCI Level-2 Earth-observation Full Resolution (EFR) Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L2_ERR_OC_NRT.vR2022.0",
+"title": "Sentinel-3B OLCI Level-2 Earth-observation Reduced Resolution (ERR) Ocean Color (OC) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L2_ERR_OC.vR2022.0",
+"title": "Sentinel-3B OLCI Level-2 Earth-observation Reduced Resolution (ERR) Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L2_ERR_IOP.vR2022.0",
+"title": "Sentinel-3B OLCI Level-2 Earth-observation Reduced-Resolution (ERR) Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L2_ERR_IOP_NRT.vR2022.0",
+"title": "Sentinel-3B OLCI Level-2 Earth-observation Reduced-Resolution (ERR) Inherent Optical Properties (IOP), Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3b_ERR_CHL_NRT.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3B Global Binned Earth-observation Reduced Resolution (ERR) Chlorophyll (CHL) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3b_ERR_CHL.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3B Global Binned Earth-observation Reduced Resolution (ERR) Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3b_ERR_KD_NRT.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3B Global Binned Earth-observation Reduced Resolution (ERR) Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3b_ERR_KD.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3B Global Binned Earth-observation Reduced Resolution (ERR) Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3b_ERR_RRS_NRT.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3B Global Binned Earth-observation Reduced Resolution (ERR) Remote-Sensing Reflectance (RRS) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3b_ERR_RRS.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3B Global Binned Earth-observation Reduced Resolution (ERR) Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3b_ERR_IOP.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3B Global Binned Earth-observation Reduced-Resolution (ERR) Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3b_ERR_IOP_NRT.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3B Global Binned Earth-observation Reduced-Resolution (ERR) Inherent Optical Properties (IOP), Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3m_ERR_CHL_NRT.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3M Global Mapped Earth-observation Reduced Resolution (ERR) Chlorophyll (CHL) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3m_ERR_CHL.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3M Global Mapped Earth-observation Reduced Resolution (ERR) Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3m_ERR_KD_NRT.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3M Global Mapped Earth-observation Reduced Resolution (ERR) Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3m_ERR_KD.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3M Global Mapped Earth-observation Reduced Resolution (ERR) Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3m_ERR_RRS_NRT.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3M Global Mapped Earth-observation Reduced Resolution (ERR) Remote-Sensing Reflectance (RRS) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3m_ERR_RRS.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3M Global Mapped Earth-observation Reduced Resolution (ERR) Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3m_ERR_IOP.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3M Global Mapped Earth-observation Reduced-Resolution (ERR) Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3m_ERR_IOP_NRT.vR2022.0",
+"title": "Sentinel-3B OLCI Level-3M Global Mapped Earth-observation Reduced-Resolution (ERR) Inherent Optical Properties (IOP), Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "OLCIS3B_L3b_ILW.v4",
+"title": "Sentinel-3B OLCI Regional Binned Inland Waters (ILW) Data, version 4"
+},
+{
+"id": "OLCIS3B_L3m_ILW.v4",
+"title": "Sentinel-3B OLCI Regional Mapped Inland Waters (ILW) Data, version 4"
+},
+{
+"id": "sabor.v0",
+"title": "Ship-Aircraft Bio-Optical Research (SABOR) collaborative campaign"
+},
+{
+"id": "SGER.v0",
+"title": "Small Grant for Exploratory Research (SGER) program to study the Chesapeake Bay in 2003"
+},
+{
+"id": "SAB_Mapping.v0",
+"title": "South Atlantic Bight (SAB) mapping"
+},
+{
+"id": "SFMBON.v0",
+"title": "South Florida Marine Biodiversity Observation Network (SFMBON)"
+},
+{
+"id": "SFP.v0",
+"title": "South Florida Program (SFP)"
+},
+{
+"id": "SOCCOM.v0",
+"title": "Southern Ocean Carbon and Climate Observations and Modeling project (SOCCOM)"
+},
+{
+"id": "GasEx.v0",
+"title": "Southern Ocean Gas Exchange Experiment (GasEx)"
+},
+{
+"id": "Southern_Ocean_Drifter.v0",
+"title": "Southern Pacific Ocean drifter measurements in 1996"
+},
+{
+"id": "SwAO.v0",
+"title": "Southwest Atlantic Ocean (SwAO) optical measurements"
+},
+{
+"id": "SWFL.v0",
+"title": "Southwest Florida optical measurements"
+},
+{
+"id": "SORTIE.v0",
+"title": "Spectral Ocean Radiance Transfer Investigation and Experiment (SORTIE) program"
+},
+{
+"id": "Secret.v0",
+"title": "Studies of Ecological and Chemical Responses to Environmental Trends (SECRET)"
+},
+{
+"id": "SAV_Plymouth_Bay.v0",
+"title": "Submersed Aquatic Vegetation (SAV) over Buttermilk and Plymouth Bays, Massachusetts"
+},
+{
+"id": "VIIRSN_L1_GEO.v2",
+"title": "Suomi-NPP VIIRS Geolocation Product Data, version 2"
+},
+{
+"id": "VIIRSN_L3b_SST_NRT.v2016.2",
+"title": "Suomi-NPP VIIRS Global Binned 11\u00b5m Day/Night Sea Surface Temperature (SST) - Near Real Time (NRT) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L3b_SST.v2016.2",
+"title": "Suomi-NPP VIIRS Global Binned 11\u00b5m Daytime Sea Surface Temperature (SST) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L3b_NSST_NRT.v2016.2",
+"title": "Suomi-NPP VIIRS Global Binned 11\u00b5m Nighttime Sea Surface Temperature (NSST) - Near Real Time (NRT) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L3b_NSST.v2016.2",
+"title": "Suomi-NPP VIIRS Global Binned 11\u00b5m Nighttime Sea Surface Temperature (NSST) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L3b_CHL_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Chlorophyll (CHL) - NRT Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_CHL.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_KD_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_KD.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_IOP_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_IOP.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_LAND.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Normalized Difference Vegetation Index Land Reflectance Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_PIC_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_PIC.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_POC_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_POC.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_PAR.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Photosynthetically Active Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_PAR_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_RRS_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Remote-Sensing Reflectance (RRS) - NRT Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_RRS.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Binned Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3b_SST3_NRT.v2016.2",
+"title": "Suomi-NPP VIIRS Global Binned Triple-window Sea Surface Temperature (SST3) - Near Real Time (NRT) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L3b_SST3.v2016.2",
+"title": "Suomi-NPP VIIRS Global Binned Triple-window Sea Surface Temperature (SST3) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L3m_SST_NRT.v2016.2",
+"title": "Suomi-NPP VIIRS Global Mapped 11\u00b5m Day/Night Sea Surface Temperature (SST) - Near Real Time (NRT) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L3m_SST.v2016.2",
+"title": "Suomi-NPP VIIRS Global Mapped 11\u00b5m Daytime Sea Surface Temperature (SST) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L3m_NSST_NRT.v2016.2",
+"title": "Suomi-NPP VIIRS Global Mapped 11\u00b5m Nighttime Sea Surface Temperature (NSST) - Near Real Time (NRT) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L3m_NSST.v2016.2",
+"title": "Suomi-NPP VIIRS Global Mapped 11\u00b5m Nighttime Sea Surface Temperature (NSST) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L3m_CHL_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Chlorophyll (CHL) - NRT Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_CHL.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_KD_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_KD.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_IOP_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_IOP.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_LAND.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Normalized Difference Vegetation Index Land Reflectance Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_PIC_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_PIC.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_POC_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_POC.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_PAR.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Photosynthetically Active Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_PAR_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_RRS.vR2022.0",
+"title": "Suomi-NPP VIIRS Global Mapped Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L3m_SST3_NRT.v2016.2",
+"title": "Suomi-NPP VIIRS Global Mapped Triple-window Sea Surface Temperature (SST3) - Near Real Time (NRT) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L3m_SST3.v2016.2",
+"title": "Suomi-NPP VIIRS Global Mapped Triple-window Sea Surface Temperature (SST3) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L1.v2",
+"title": "Suomi-NPP VIIRS Level-1 Data, version 2"
+},
+{
+"id": "VIIRSN_L2_SST_NRT.v2016.2",
+"title": "Suomi-NPP VIIRS Regional 11\u00b5m Day/Night Sea Surface Temperature (SST) - Near Real Time (NRT) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L2_SST.v2016.2",
+"title": "Suomi-NPP VIIRS Regional 11\u00b5m Day/Night Sea Surface Temperature (SST) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L2_IOP_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Regional Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L2_IOP.vR2022.0",
+"title": "Suomi-NPP VIIRS Regional Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L2_OC_NRT.vR2022.0",
+"title": "Suomi-NPP VIIRS Regional Ocean Color (OC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L2_OC.vR2022.0",
+"title": "Suomi-NPP VIIRS Regional Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "VIIRSN_L2_SST3_NRT.v2016.2",
+"title": "Suomi-NPP VIIRS Regional Triple-window Sea Surface Temperature (SST3) - Near Real Time (NRT) Data, version 2016.2"
+},
+{
+"id": "VIIRSN_L2_SST3.v2016.2",
+"title": "Suomi-NPP VIIRS Regional Triple-window Sea Surface Temperature (SST3) Data, version 2016.2"
+},
+{
+"id": "Chesapeake_Bay_DataFlow.v0",
+"title": "Supporting Shellfish Aquaculture in the Chesapeake Bay using Artificial Intelligence to Detect Poor Water Quality through Field Sampling and Remote Sensing"
+},
+{
+"id": "Chesapeake_Bay_Water_Quality.v0",
+"title": "Supporting Shellfish Aquaculture in the Chesapeake Bay using Artificial Intelligence to Detect Poor Water Quality through Sampling and Remote Sensing"
+},
+{
+"id": "Surface_Oligo_Med_Sea.v0",
+"title": "Surface oligotrophic measurements in the West-central Mediterranean Sea"
+},
+{
+"id": "Tampa_Bay.v0",
+"title": "Tampa Bay measurements between 2008 and 2012"
+},
+{
+"id": "Tara_Mediterranean.v0",
+"title": "Tara Mediterranean Expedition in 2014"
+},
+{
+"id": "Microbiome.v0",
+"title": "Tara microbiome"
+},
+{
+"id": "Tara_Oceans_expedition.v0",
+"title": "Tara Oceans Expedition"
+},
+{
+"id": "TARA_PACIFIC_expedition.v0",
+"title": "Tara Oceans Pacific Expedition"
+},
+{
+"id": "Tara_Oceans_Polar_Circle.v0",
+"title": "Tara Oceans Polar Circle 2013 Expedition"
+},
+{
+"id": "MODIST_L4b_GSM.vR2022.0",
+"title": "Terra MODIS 4B Global Binned Garver-Siegel-Maritorena Model (GSM) Data, version R2022.0"
+},
+{
+"id": "MODIST_L4m_GSM.vR2022.0",
+"title": "Terra MODIS 4M Global Mapped Garver-Siegel-Maritorena Model (GSM) Data, version R2022.0"
+},
+{
+"id": "MODIST_L1_GEO.v1",
+"title": "Terra MODIS Data, version 1"
+},
+{
+"id": "MODIST_L3b_SST_NRT.vR2019.0",
+"title": "Terra MODIS Global Binned 11\u00b5m Day/Night Sea Surface Temperature (SST) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODIST_L3b_SST.vR2019.0",
+"title": "Terra MODIS Global Binned 11\u00b5m Daytime Sea Surface Temperature (SST) Data, version R2019.0"
+},
+{
+"id": "MODIST_L3b_NSST_NRT.vR2019.0",
+"title": "Terra MODIS Global Binned 11\u00b5m Nighttime Sea Surface Temperature (NSST) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODIST_L3b_NSST.vR2019.0",
+"title": "Terra MODIS Global Binned 11\u00b5m Nighttime Sea Surface Temperature (NSST) Data, version R2019.0"
+},
+{
+"id": "MODIST_L3b_SST4_NRT.vR2019.0",
+"title": "Terra MODIS Global Binned 4\u00b5m Day/Night Sea Surface Temperature (SST4) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODIST_L3b_SST4.vR2019.0",
+"title": "Terra MODIS Global Binned 4\u00b5m Nighttime Sea Surface Temperature (SST4) Data, version R2019.0"
+},
+{
+"id": "MODIST_L3b_CHL_NRT.vR2022.0",
+"title": "Terra MODIS Global Binned Chlorophyll (CHL) - NRT Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_CHL.vR2022.0",
+"title": "Terra MODIS Global Binned Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_KD_NRT.vR2022.0",
+"title": "Terra MODIS Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_KD.vR2022.0",
+"title": "Terra MODIS Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_FLH_NRT.vR2022.0",
+"title": "Terra MODIS Global Binned Fluorescence Line Height (FLH) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_FLH.vR2022.0",
+"title": "Terra MODIS Global Binned Fluorescence Line Height (FLH) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_IOP_NRT.vR2022.0",
+"title": "Terra MODIS Global Binned Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_IOP.vR2022.0",
+"title": "Terra MODIS Global Binned Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_PIC_NRT.vR2022.0",
+"title": "Terra MODIS Global Binned Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_PIC.vR2022.0",
+"title": "Terra MODIS Global Binned Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_POC_NRT.vR2022.0",
+"title": "Terra MODIS Global Binned Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_POC.vR2022.0",
+"title": "Terra MODIS Global Binned Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_PAR.vR2022.0",
+"title": "Terra MODIS Global Binned Photosynthetically Active Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_PAR_NRT.vR2022.0",
+"title": "Terra MODIS Global Binned Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_RRS_NRT.vR2022.0",
+"title": "Terra MODIS Global Binned Remote-Sensing Reflectance (RRS) - NRT Data, version R2022.0"
+},
+{
+"id": "MODIST_L3b_RRS.vR2022.0",
+"title": "Terra MODIS Global Binned Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_SST_NRT.vR2019.0",
+"title": "Terra MODIS Global Mapped 11\u00b5m Day/Night Sea Surface Temperature (SST) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODIST_L3m_SST.vR2019.0",
+"title": "Terra MODIS Global Mapped 11\u00b5m Daytime Sea Surface Temperature (SST) Data, version R2019.0"
+},
+{
+"id": "MODIST_L3m_NSST_NRT.vR2019.0",
+"title": "Terra MODIS Global Mapped 11\u00b5m Nighttime Sea Surface Temperature (NSST) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODIST_L3m_NSST.vR2019.0",
+"title": "Terra MODIS Global Mapped 11\u00b5m Nighttime Sea Surface Temperature (NSST) Data, version R2019.0"
+},
+{
+"id": "MODIST_L3m_SST4_NRT.vR2019.0",
+"title": "Terra MODIS Global Mapped 4\u00b5m Day/Night Sea Surface Temperature (SST4) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODIST_L3m_SST4.vR2019.0",
+"title": "Terra MODIS Global Mapped 4\u00b5m Nighttime Sea Surface Temperature (SST4) Data, version R2019.0"
+},
+{
+"id": "MODIST_L3m_CHL_NRT.vR2022.0",
+"title": "Terra MODIS Global Mapped Chlorophyll (CHL) - NRT Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_CHL.vR2022.0",
+"title": "Terra MODIS Global Mapped Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_KD_NRT.vR2022.0",
+"title": "Terra MODIS Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_KD.vR2022.0",
+"title": "Terra MODIS Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_FLH_NRT.vR2022.0",
+"title": "Terra MODIS Global Mapped Fluorescence Line Height (FLH) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_FLH.vR2022.0",
+"title": "Terra MODIS Global Mapped Fluorescence Line Height (FLH) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_IOP_NRT.vR2022.0",
+"title": "Terra MODIS Global Mapped Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_IOP.vR2022.0",
+"title": "Terra MODIS Global Mapped Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_PIC_NRT.vR2022.0",
+"title": "Terra MODIS Global Mapped Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_PIC.vR2022.0",
+"title": "Terra MODIS Global Mapped Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_POC_NRT.vR2022.0",
+"title": "Terra MODIS Global Mapped Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_POC.vR2022.0",
+"title": "Terra MODIS Global Mapped Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_PAR.vR2022.0",
+"title": "Terra MODIS Global Mapped Photosynthetically Active Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_PAR_NRT.vR2022.0",
+"title": "Terra MODIS Global Mapped Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_RRS_NRT.vR2022.0",
+"title": "Terra MODIS Global Mapped Remote-Sensing Reflectance (RRS) - NRT Data, version R2022.0"
+},
+{
+"id": "MODIST_L3m_RRS.vR2022.0",
+"title": "Terra MODIS Global Mapped Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "MODIST_L1.v1",
+"title": "Terra MODIS Level-1 Data"
+},
+{
+"id": "MODIST_L2_SST_NRT.vR2019.0",
+"title": "Terra MODIS Regional 11\u00b5m Day/Night Sea Surface Temperature (SST) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODIST_L2_SST.vR2019.0",
+"title": "Terra MODIS Regional 11\u00b5m Day/Night Sea Surface Temperature (SST) Data, version R2019.0"
+},
+{
+"id": "MODIST_L2_SST4_NRT.vR2019.0",
+"title": "Terra MODIS Regional 4\u00b5m Day/Night Sea Surface Temperature (SST4) - Near Real Time (NRT) Data, version R2019.0"
+},
+{
+"id": "MODIST_L2_SST4.vR2019.0",
+"title": "Terra MODIS Regional 4\u00b5m Nighttime Sea Surface Temperature (SST4) Data, version R2019.0"
+},
+{
+"id": "MODIST_L2_IOP_NRT.vR2022.0",
+"title": "Terra MODIS Regional Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L2_IOP.vR2022.0",
+"title": "Terra MODIS Regional Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "MODIST_L2_OC_NRT.vR2022.0",
+"title": "Terra MODIS Regional Ocean Color (OC) - Near Real Time (NRT) Data, version R2022.0"
+},
+{
+"id": "MODIST_L2_OC.vR2022.0",
+"title": "Terra MODIS Regional Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "ATCS.v0",
+"title": "The A-Train Cloud Segmentation Dataset"
+},
+{
+"id": "LISCO_mooring.v0",
+"title": "The Long Island Sound Coastal Observational (LISCO) platform"
+},
+{
+"id": "TRATLEQ1.v0",
+"title": "The Transatlantic Equatorial Cruise I, TRIATLAS"
+},
+{
+"id": "Tokyo_Bay.v0",
+"title": "Tokyo Bay measurements from 1982-1984"
+},
+{
+"id": "TOTO.v0",
+"title": "Tongue of the Ocean (TOTO) experiment"
+},
+{
+"id": "trichototo.v0",
+"title": "Trichodesmium Toto (TRICHOTOTO) cruise"
+},
+{
+"id": "trichonesia.v0",
+"title": "Trichonesia cruise"
+},
+{
+"id": "TAO_Moorings.v0",
+"title": "Tropical Atmosphere Ocean (TAO) Moored Buoy Array"
+},
+{
+"id": "TAO.v0",
+"title": "Tropical Atmosphere Ocean (TOA) buoy array"
+},
+{
+"id": "Turkish_Seas.v0",
+"title": "Turkish Seas pigment measurements"
+},
+{
+"id": "UNEP_SDG14_2022.v0",
+"title": "United Nations Environment Programme - Sustainable Development Goal 14(2022): Index of coastal eutrophication in Latin America"
+},
+{
+"id": "LakeSuperior.v0",
+"title": "University of Rhode Island measurements in Lake Superior"
+},
+{
+"id": "USM_pCO2.v0",
+"title": "University of Southern Mississippi (USM) - partial pressure of carbon dioxide (pCO2) project"
+},
+{
+"id": "VIIRS_Validation.v0",
+"title": "VIIRS Validation measurements"
+},
+{
+"id": "VIIRS_Val_FLKeys.v0",
+"title": "VIIRS validation measurements made in the Florida Keys"
+},
+{
+"id": "VIMS_2005.v0",
+"title": "Virginia Institute of Marine Science 2005 optical measurements"
+},
+{
+"id": "VIIRSN_L2_LAND.v2014",
+"title": "Visible Infrared Imager-Radiometer Suite NPP Level-2 Normalized Difference Vegetation Index Land Reflectance Data Version 2014"
+},
+{
+"id": "Great_Lakes.v0",
+"title": "Water quality measurements from the Great Lakes"
+},
+{
+"id": "ChesBay.v0",
+"title": "Water quality measurements in the Chesapeake Bay"
+},
+{
+"id": "Seagrass_Mapping_Florida.v0",
+"title": "Water quality measurements near the Big Bend Seagrasses Aquatic Preserve, Florida"
+},
+{
+"id": "Lake_MI_2012_WaterQual.v0",
+"title": "Water quality monitoring program in Lake Michigan and Green Bay"
+},
+{
+"id": "ThreeRivers.v0",
+"title": "Watershed sampling of the Kennebec, Androscoggin, St. John Rivers, Maine, and New Brunswick, Canada"
+},
+{
+"id": "West_Florida_Shelf.v0",
+"title": "West Florida Shelf measurements between 2005 and 2008"
+},
+{
+"id": "SBI.v0",
+"title": "Western Arctic Shelf-Basin Interactions (SBI) experiment"
+},
+{
+"id": "WACS2.v0",
+"title": "Western Atlantic Climate Study II"
+},
+{
+"id": "ARCTICCC.v0",
+"title": "Yukon Arctic Carbon Cycle Project"
+},
+{
+"id": "N01.v0",
+"title": "Zonal transect from Hawaii across the western Pacific Ocean in 2011"
+}
+]

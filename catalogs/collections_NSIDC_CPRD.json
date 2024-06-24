@@ -1,0 +1,142 @@
+[
+{
+"id": "ATL02.v006",
+"title": "ATLAS/ICESat-2 L1B Converted Telemetry Data V006"
+},
+{
+"id": "ATL03.v006",
+"title": "ATLAS/ICESat-2 L2A Global Geolocated Photon Data V006"
+},
+{
+"id": "ATL04.v006",
+"title": "ATLAS/ICESat-2 L2A Normalized Relative Backscatter Profiles V006"
+},
+{
+"id": "ATL13.v006",
+"title": "ATLAS/ICESat-2 L3A Along Track Inland Surface Water Data V006"
+},
+{
+"id": "ATL09.v006",
+"title": "ATLAS/ICESat-2 L3A Calibrated Backscatter Profiles and Atmospheric Layer Characteristics V006"
+},
+{
+"id": "ATL08.v006",
+"title": "ATLAS/ICESat-2 L3A Land and Vegetation Height V006"
+},
+{
+"id": "ATL06.v006",
+"title": "ATLAS/ICESat-2 L3A Land Ice Height V006"
+},
+{
+"id": "ATL12.v006",
+"title": "ATLAS/ICESat-2 L3A Ocean Surface Height V006"
+},
+{
+"id": "ATL10.v006",
+"title": "ATLAS/ICESat-2 L3A Sea Ice Freeboard V006"
+},
+{
+"id": "ATL07.v006",
+"title": "ATLAS/ICESat-2 L3A Sea Ice Height V006"
+},
+{
+"id": "ATL21.v003",
+"title": "ATLAS/ICESat-2 L3B Daily and Monthly Gridded Polar Sea Surface Height Anomaly V003"
+},
+{
+"id": "ATL20.v004",
+"title": "ATLAS/ICESat-2 L3B Daily and Monthly Gridded Sea Ice Freeboard V004"
+},
+{
+"id": "ATL15.v003",
+"title": "ATLAS/ICESat-2 L3B Gridded Antarctic and Arctic Land Ice Height Change V003"
+},
+{
+"id": "ATL14.v003",
+"title": "ATLAS/ICESat-2 L3B Gridded Antarctic and Arctic Land Ice Height V003"
+},
+{
+"id": "ATL22.v003",
+"title": "ATLAS/ICESat-2 L3B Mean Inland Surface Water Data V003"
+},
+{
+"id": "ATL23.v001",
+"title": "ATLAS/ICESat-2 L3B Monthly 3-Month Gridded Dynamic Ocean Topography V001"
+},
+{
+"id": "ATL17.v005",
+"title": "ATLAS/ICESat-2 L3B Monthly Gridded Atmosphere V005"
+},
+{
+"id": "ATL19.v003",
+"title": "ATLAS/ICESat-2 L3B Monthly Gridded Dynamic Ocean Topography V003"
+},
+{
+"id": "ATL11.v006",
+"title": "ATLAS/ICESat-2 L3B Slope-Corrected Land Ice Height Time Series V006"
+},
+{
+"id": "ATL16.v005",
+"title": "ATLAS/ICESat-2 L3B Weekly Gridded Atmosphere V005"
+},
+{
+"id": "GLAH01.v033",
+"title": "GLAS/ICESat L1A Global Altimetry Data (HDF5) V033"
+},
+{
+"id": "GLAH02.v033",
+"title": "GLAS/ICESat L1A Global Atmosphere Data (HDF5) V033"
+},
+{
+"id": "GLAH03.v033",
+"title": "GLAS/ICESat L1A Global Engineering Data (HDF5) V033"
+},
+{
+"id": "GLAH04.v033",
+"title": "GLAS/ICESat L1A Global Laser Pointing Data (HDF5) V033"
+},
+{
+"id": "GLAH07.v033",
+"title": "GLAS/ICESat L1B Global Backscatter Data (HDF5) V033"
+},
+{
+"id": "GLAH06.v034",
+"title": "GLAS/ICESat L1B Global Elevation Data (HDF5) V034"
+},
+{
+"id": "GLAH05.v034",
+"title": "GLAS/ICESat L1B Global Waveform-based Range Corrections Data (HDF5) V034"
+},
+{
+"id": "GLAH10.v033",
+"title": "GLAS/ICESat L2 Global Aerosol Vertical Structure Data (HDF5) V033"
+},
+{
+"id": "GLAH12.v034",
+"title": "GLAS/ICESat L2 Global Antarctic and Greenland Ice Sheet Altimetry Data (HDF5) V034"
+},
+{
+"id": "GLAH09.v033",
+"title": "GLAS/ICESat L2 Global Cloud Heights for Multi-layer Clouds (HDF5) V033"
+},
+{
+"id": "GLAH14.v034",
+"title": "GLAS/ICESat L2 Global Land Surface Altimetry Data (HDF5) V034"
+},
+{
+"id": "GLAH08.v033",
+"title": "GLAS/ICESat L2 Global Planetary Boundary Layer and Elevated Aerosol Layer Heights (HDF5) V033"
+},
+{
+"id": "GLAH11.v033",
+"title": "GLAS/ICESat L2 Global Thin Cloud/Aerosol Optical Depths Data (HDF5) V033"
+},
+{
+"id": "GLAH15.v034",
+"title": "GLAS/ICESat L2 Ocean Altimetry Data (HDF5) V034"
+},
+{
+"id": "GLAH13.v034",
+"title": "GLAS/ICESat L2 Sea Ice Altimetry Data (HDF5) V034"
+}
+]

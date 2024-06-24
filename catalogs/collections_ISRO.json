@@ -1,0 +1,158 @@
+[
+{
+"id": "C1_PANA_STUC00GTD.v1",
+"title": "Cartosat-1 PANA Standard Products"
+},
+{
+"id": "C1_PANF_STUC00GTD.v1",
+"title": "Cartosat-1 PANF Standard Products"
+},
+{
+"id": "E06_OCM_GAC_STGO00GND.v1.0",
+"title": "EOS-06 OCM Global Area Coverage (GAC) - 1080m resolution Standard Products - Oceansat Series"
+},
+{
+"id": "E06_OCM_LAC_STGO00GND.v1.0",
+"title": "EOS-06 OCM Local Area Coverage (LAC) - 366m Resolution Standard Products - Oceansat Series"
+},
+{
+"id": "IMS1_HYSI_GEO.v1.0",
+"title": "IMS-1 HYSI TOA Radiance and Reflectance Product"
+},
+{
+"id": "3DIMG_L1B_STD",
+"title": "INSAT-3D Imager Level-1B Full Acquisition Standard Product"
+},
+{
+"id": "3DIMG_L1C_SGP",
+"title": "INSAT-3D Imager Level-1C Sector Product"
+},
+{
+"id": "3DIMG_L2B_CMK",
+"title": "INSAT-3D Imager Level-2B Cloud Map"
+},
+{
+"id": "3DIMG_L2B_OLR",
+"title": "INSAT-3D Imager Level-2B Outgoing Longwave Radiation"
+},
+{
+"id": "3DIMG_L2B_HEM",
+"title": "INSAT-3D Imager Level-2B Precipitation Using Hydroestimator Technique"
+},
+{
+"id": "3DIMG_L2B_SST",
+"title": "INSAT-3D Imager Level-2B Sea Surface Temperature"
+},
+{
+"id": "3DIMG_L2B_UTH",
+"title": "INSAT-3D Imager Level-2B Upper Tropospheric Humidity"
+},
+{
+"id": "3DIMG_L2C_FOG",
+"title": "INSAT-3D Imager Level-2C FOG"
+},
+{
+"id": "3DIMG_L2C_SNW",
+"title": "INSAT-3D Imager Level-2C SNOW MAP"
+},
+{
+"id": "3DIMG_L2P_IRW",
+"title": "INSAT-3D Imager Level-2P IR WINDS"
+},
+{
+"id": "3DIMG_L2P_MRW",
+"title": "INSAT-3D Imager Level-2P MIR WINDS"
+},
+{
+"id": "3DIMG_L2P_SMK",
+"title": "INSAT-3D Imager Level-2P SMOKE"
+},
+{
+"id": "3DIMG_L2P_VSW",
+"title": "INSAT-3D Imager Level-2P VISIBLE WINDS"
+},
+{
+"id": "3DIMG_L2P_WVW",
+"title": "INSAT-3D Imager Level-2P WV WINDS"
+},
+{
+"id": "1C_LIS3_STUC00GTD.v1.0",
+"title": "IRS 1C LIS3 Standard Products"
+},
+{
+"id": "1C_WIFS_STUC00GTD.v1.0",
+"title": "IRS 1C Standard Geo Referenced Product"
+},
+{
+"id": "K1VHR_L02_OLR",
+"title": "KALPANA-1 Level-2B Outgoing Longwave Radiation"
+},
+{
+"id": "K1VHR_L1B_STD",
+"title": "KALPANA-1 VHRR Level-1B Full Acquisition Standard Product"
+},
+{
+"id": "K1VHR_L02_SGP",
+"title": "KALPANA-1 VHRR Level-1C Sector Product"
+},
+{
+"id": "K1VHR_L02_HEM",
+"title": "KALPANA-1 VHRR Level-2B Precipitation Using Hydroestimator Technique"
+},
+{
+"id": "K1VHR_L02_SST",
+"title": "KALPANA-1 VHRR Level-2B Sea Surface Temperature"
+},
+{
+"id": "K1VHR_L02_UTH",
+"title": "KALPANA-1 VHRR Level-2B Upper Tropospheric Humidity"
+},
+{
+"id": "O2_OCM_STUC00GHD.v1.0",
+"title": "Ocean Color Monitor Standard Products"
+},
+{
+"id": "OS2_SCAT_L2B.v1",
+"title": "Oceansat -2 Scatterometer Level-2B wind Vector Products"
+},
+{
+"id": "OS2_SCAT_L3SH.v1",
+"title": "Oceansat-2 Scatterometer Level-3SH Sigma-0 Products Horizantal Polarization"
+},
+{
+"id": "OS2_SCAT_L3SV.v1",
+"title": "Oceansat-2 Scatterometer Level-3SV Sigma-0 Products Vertical Polarization"
+},
+{
+"id": "OS2_GAC_RAD.v1.0",
+"title": "OCM-2 GAC Level 1B Products"
+},
+{
+"id": "RS2_AWIF_STUC00GTD.v1.0",
+"title": "Resourcesat 2 AWIFS Standard Products"
+},
+{
+"id": "RS2_LIS3_STUC00GTD.v1.0",
+"title": "Resourcesat 2 LIS3 Standard Products"
+},
+{
+"id": "RS2_LIS4_FMX_STUC00GTD.v1.0",
+"title": "Resourcesat 2 LIS4 FMX Standard Products"
+},
+{
+"id": "R2A_LIS3_STUC00GTD.v1.0",
+"title": "Resourcesat 2A LIS3 Standard Products"
+},
+{
+"id": "R2A_LIS4_FMX_STUC00GTD.v1.0",
+"title": "Resourcesat 2A LIS4 FMX Standard Products"
+},
+{
+"id": "P6_AWIF_STUC00GTD.v1.0",
+"title": "Resourcesat-1 AWIFS Standard Products"
+},
+{
+"id": "P6_LIS3_STUC00GTD.v1.0",
+"title": "Resourcesat-1 LIS3 Standard Products"
+}
+]

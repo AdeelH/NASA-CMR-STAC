@@ -1,0 +1,2146 @@
+[
+{
+"id": "ABOLVIS1A.v1",
+"title": "ABoVE LVIS L1A Geotagged Images V001"
+},
+{
+"id": "ABLVIS1B.v1",
+"title": "ABoVE LVIS L1B Geolocated Return Energy Waveforms V001"
+},
+{
+"id": "ABLVIS2.v1",
+"title": "ABoVE LVIS L2 Geolocated Surface Elevation Product V001"
+},
+{
+"id": "AFOLVIS1A.v1",
+"title": "AfriSAR LVIS L1A Geotagged Images V001"
+},
+{
+"id": "AFLVIS1B.v1",
+"title": "AfriSAR LVIS L1B Geolocated Return Energy Waveforms V001"
+},
+{
+"id": "AFLVIS2.v1",
+"title": "AfriSAR LVIS L2 Geolocated Surface Elevation Product V001"
+},
+{
+"id": "AU_Ocean.v1",
+"title": "AMSR-E/AMSR2 Unified L2B Global Swath Ocean Products V001"
+},
+{
+"id": "AU_Rain.v1",
+"title": "AMSR-E/AMSR2 Unified L2B Global Swath Surface Precipitation V001"
+},
+{
+"id": "AU_Land.v1",
+"title": "AMSR-E/AMSR2 Unified L2B Half-Orbit 25 km EASE-Grid Surface Soil Moisture V001"
+},
+{
+"id": "AU_SI12.v1",
+"title": "AMSR-E/AMSR2 Unified L3 Daily 12.5 km Brightness Temperatures, Sea Ice Concentration, Motion & Snow Depth Polar Grids V001"
+},
+{
+"id": "AU_SI25.v1",
+"title": "AMSR-E/AMSR2 Unified L3 Daily 25 km Brightness Temperatures & Sea Ice Concentration Polar Grids V001"
+},
+{
+"id": "AU_SI6.v1",
+"title": "AMSR-E/AMSR2 Unified L3 Daily 6.25 km Polar Gridded 89 GHz Brightness Temperatures V001"
+},
+{
+"id": "AU_5DSno.v1",
+"title": "AMSR-E/AMSR2 Unified L3 Global 5-Day 25 km EASE-Grid Snow Water Equivalent V001"
+},
+{
+"id": "AU_DySno.v1",
+"title": "AMSR-E/AMSR2 Unified L3 Global Daily 25 km EASE-Grid Snow Water Equivalent V001"
+},
+{
+"id": "AU_MoSno.v1",
+"title": "AMSR-E/AMSR2 Unified L3 Global Monthly 25 km EASE-Grid Snow Water Equivalent V001"
+},
+{
+"id": "AE_5DSno.v2",
+"title": "AMSR-E/Aqua 5-Day L3 Global Snow Water Equivalent EASE-Grids V002"
+},
+{
+"id": "AE_SI12.v3",
+"title": "AMSR-E/Aqua Daily L3 12.5 km Brightness Temperature, Sea Ice Concentration, & Snow Depth Polar Grids V003"
+},
+{
+"id": "AE_SI25.v3",
+"title": "AMSR-E/Aqua Daily L3 25 km Brightness Temperature & Sea Ice Concentration Polar Grids V003"
+},
+{
+"id": "AE_SI6.v3",
+"title": "AMSR-E/Aqua Daily L3 6.25 km 89 GHz Brightness Temperature Polar Grids V003"
+},
+{
+"id": "AE_SID.v1",
+"title": "AMSR-E/Aqua Daily L3 6.25 km Sea Ice Drift Polar Grids V001"
+},
+{
+"id": "AE_DyOcn.v2",
+"title": "AMSR-E/Aqua Daily L3 Global Ascending/Descending .25x.25 deg Ocean Grids V002"
+},
+{
+"id": "AE_DySno.v2",
+"title": "AMSR-E/Aqua Daily L3 Global Snow Water Equivalent EASE-Grids V002"
+},
+{
+"id": "AE_Land3.v2",
+"title": "AMSR-E/Aqua Daily L3 Surface Soil Moisture, Interpretive Parameters, & QC EASE-Grids V002"
+},
+{
+"id": "AMSREL1A.v3",
+"title": "AMSR-E/Aqua L1A Raw Observation Counts V003"
+},
+{
+"id": "AE_L2A.v4",
+"title": "AMSR-E/Aqua L2A Global Swath Spatially-Resampled Brightness Temperatures V004"
+},
+{
+"id": "AE_Ocean.v2",
+"title": "AMSR-E/Aqua L2B Global Swath Ocean Products derived from Wentz Algorithm V002"
+},
+{
+"id": "AE_Rain.v3",
+"title": "AMSR-E/Aqua L2B Global Swath Surface Precipitation GSFC Profiling Algorithm V003"
+},
+{
+"id": "AE_Rain.v4",
+"title": "AMSR-E/Aqua L2B Global Swath Surface Precipitation GSFC Profiling Algorithm V004"
+},
+{
+"id": "AE_Land.v2",
+"title": "AMSR-E/Aqua L2B Surface Soil Moisture, Ancillary Parms, & QC EASE-Grids V002"
+},
+{
+"id": "AE_Land.v3",
+"title": "AMSR-E/Aqua L2B Surface Soil Moisture, Ancillary Parms, & QC EASE-Grids V003"
+},
+{
+"id": "AE_RnGd.v2",
+"title": "AMSR-E/Aqua Monthly L3 5x5 deg Rainfall Accumulations V002"
+},
+{
+"id": "AE_MoOcn.v2",
+"title": "AMSR-E/Aqua Monthly L3 Global Ascending/Descending .25x.25 deg Ocean Grids V002"
+},
+{
+"id": "AE_MoSno.v2",
+"title": "AMSR-E/Aqua Monthly L3 Global Snow Water Equivalent EASE-Grids V002"
+},
+{
+"id": "AE_WkOcn.v2",
+"title": "AMSR-E/Aqua Weekly L3 Global Ascending/Descending .25x.25 deg Ocean Grids V002"
+},
+{
+"id": "AMSR-L1A.v3",
+"title": "AMSR/ADEOS-II L1A Raw Observation Counts V003"
+},
+{
+"id": "AA_L2A.v1",
+"title": "AMSR/ADEOS-II L2A Global Swath Spatially-Resampled Brightness Temperatures V001"
+},
+{
+"id": "AQ2_SM.v5",
+"title": "Aquarius L2 Swath Single Orbit Soil Moisture V005"
+},
+{
+"id": "AQ3_ANSM.v5",
+"title": "Aquarius L3 Gridded 1-Degree Annual Soil Moisture V005"
+},
+{
+"id": "AQ3_DYSM.v5",
+"title": "Aquarius L3 Gridded 1-Degree Daily Soil Moisture V005"
+},
+{
+"id": "AQ3_MCSM.v5",
+"title": "Aquarius L3 Gridded 1-Degree Monthly Soil Moisture Climatology V005"
+},
+{
+"id": "AQ3_MOSM.v5",
+"title": "Aquarius L3 Gridded 1-Degree Monthly Soil Moisture V005"
+},
+{
+"id": "AQ3_SCSM.v5",
+"title": "Aquarius L3 Gridded 1-Degree Seasonal Soil Moisture Climatology V005"
+},
+{
+"id": "AQ3_SNSM.v5",
+"title": "Aquarius L3 Gridded 1-Degree Seasonal Soil Moisture V005"
+},
+{
+"id": "AQ3_WKSM.v5",
+"title": "Aquarius L3 Gridded 1-Degree Weekly Soil Moisture V005"
+},
+{
+"id": "AQ3_TB.v5",
+"title": "Aquarius L3 Weekly Polar-Gridded Brightness Temperature and Sea Surface Salinity V005"
+},
+{
+"id": "AQ3_FT.v5",
+"title": "Aquarius L3 Weekly Polar-Gridded Landscape Freeze/Thaw Data V005"
+},
+{
+"id": "AQ3_NRCS.v5",
+"title": "Aquarius L3 Weekly Polar-Gridded Normalized Radar Cross Section V005"
+},
+{
+"id": "AQ3_SSS.v5",
+"title": "Aquarius L3 Weekly Polar-Gridded Sea Surface Salinity V005"
+},
+{
+"id": "ASO_3M_PCDTM.v1",
+"title": "ASO L4 Lidar Point Cloud Digital Terrain Model 3m UTM Grid V001"
+},
+{
+"id": "ASO_3M_SD.v1",
+"title": "ASO L4 Lidar Snow Depth 3m UTM Grid V001"
+},
+{
+"id": "ASO_50M_SD.v1",
+"title": "ASO L4 Lidar Snow Depth 50m UTM Grid V001"
+},
+{
+"id": "ASO_50M_SWE.v1",
+"title": "ASO L4 Lidar Snow Water Equivalent 50m UTM Grid V001"
+},
+{
+"id": "ATL02.v006",
+"title": "ATLAS/ICESat-2 L1B Converted Telemetry Data V006"
+},
+{
+"id": "ATL03.v006",
+"title": "ATLAS/ICESat-2 L2A Global Geolocated Photon Data V006"
+},
+{
+"id": "ATL04.v006",
+"title": "ATLAS/ICESat-2 L2A Normalized Relative Backscatter Profiles V006"
+},
+{
+"id": "ATL13QL.v006",
+"title": "ATLAS/ICESat-2 L3A Along Track Inland Surface Water Data Quick Look V006"
+},
+{
+"id": "ATL13.v006",
+"title": "ATLAS/ICESat-2 L3A Along Track Inland Surface Water Data V006"
+},
+{
+"id": "ATL09QL.v006",
+"title": "ATLAS/ICESat-2 L3A Calibrated Backscatter Profiles and Atmospheric Layer Characteristics Quick Look V006"
+},
+{
+"id": "ATL09.v006",
+"title": "ATLAS/ICESat-2 L3A Calibrated Backscatter Profiles and Atmospheric Layer Characteristics V006"
+},
+{
+"id": "ATL08QL.v006",
+"title": "ATLAS/ICESat-2 L3A Land and Vegetation Height Quick Look V006"
+},
+{
+"id": "ATL08.v006",
+"title": "ATLAS/ICESat-2 L3A Land and Vegetation Height V006"
+},
+{
+"id": "ATL06.v006",
+"title": "ATLAS/ICESat-2 L3A Land Ice Height V006"
+},
+{
+"id": "ATL12.v006",
+"title": "ATLAS/ICESat-2 L3A Ocean Surface Height V006"
+},
+{
+"id": "ATL10QL.v006",
+"title": "ATLAS/ICESat-2 L3A Sea Ice Freeboard Quick Look V006"
+},
+{
+"id": "ATL10.v006",
+"title": "ATLAS/ICESat-2 L3A Sea Ice Freeboard V006"
+},
+{
+"id": "ATL07QL.v006",
+"title": "ATLAS/ICESat-2 L3A Sea Ice Height Quick Look V006"
+},
+{
+"id": "ATL07.v006",
+"title": "ATLAS/ICESat-2 L3A Sea Ice Height V006"
+},
+{
+"id": "ATL21.v003",
+"title": "ATLAS/ICESat-2 L3B Daily and Monthly Gridded Polar Sea Surface Height Anomaly V003"
+},
+{
+"id": "ATL20.v004",
+"title": "ATLAS/ICESat-2 L3B Daily and Monthly Gridded Sea Ice Freeboard V004"
+},
+{
+"id": "ATL15.v003",
+"title": "ATLAS/ICESat-2 L3B Gridded Antarctic and Arctic Land Ice Height Change V003"
+},
+{
+"id": "ATL14.v003",
+"title": "ATLAS/ICESat-2 L3B Gridded Antarctic and Arctic Land Ice Height V003"
+},
+{
+"id": "ATL22.v003",
+"title": "ATLAS/ICESat-2 L3B Mean Inland Surface Water Data V003"
+},
+{
+"id": "ATL23.v001",
+"title": "ATLAS/ICESat-2 L3B Monthly 3-Month Gridded Dynamic Ocean Topography V001"
+},
+{
+"id": "ATL17.v005",
+"title": "ATLAS/ICESat-2 L3B Monthly Gridded Atmosphere V005"
+},
+{
+"id": "ATL19.v003",
+"title": "ATLAS/ICESat-2 L3B Monthly Gridded Dynamic Ocean Topography V003"
+},
+{
+"id": "ATL11.v006",
+"title": "ATLAS/ICESat-2 L3B Slope-Corrected Land Ice Height Time Series V006"
+},
+{
+"id": "ATL16.v005",
+"title": "ATLAS/ICESat-2 L3B Weekly Gridded Atmosphere V005"
+},
+{
+"id": "NSIDC-0079.v4",
+"title": "Bootstrap Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I-SSMIS V004"
+},
+{
+"id": "NSIDC-0764.v1",
+"title": "CALFIN Subseasonal Greenland Glacial Terminus Positions V001"
+},
+{
+"id": "CL07SM.v1",
+"title": "CLASIC07 In Situ Soil Moisture Data V001"
+},
+{
+"id": "CL07V.v1",
+"title": "CLASIC07 In Situ Vegetation Data V001"
+},
+{
+"id": "CL07LC.v1",
+"title": "CLASIC07 Land Cover Classification Map V001"
+},
+{
+"id": "CL07PLBK.v1",
+"title": "CLASIC07 PALS Backscatter Data V001"
+},
+{
+"id": "CL07PLTB.v1",
+"title": "CLASIC07 PALS Brightness Temperature Data V001"
+},
+{
+"id": "CL07ST.v1",
+"title": "CLASIC07 Soil Texture Data V001"
+},
+{
+"id": "CL07VWC.v1",
+"title": "CLASIC07 Vegetation Water Content Map V001"
+},
+{
+"id": "RDWES1B.v1",
+"title": "CryoSat-2 Level-1B Waveforms, Sea Ice Elevation, and Surface Roughness V001"
+},
+{
+"id": "RDEFT4.v1",
+"title": "CryoSat-2 Level-4 Sea Ice Elevation, Freeboard, and Thickness V001"
+},
+{
+"id": "NSIDC-0001.v6",
+"title": "DMSP SSM/I-SSMIS Daily Polar Gridded Brightness Temperatures V006"
+},
+{
+"id": "GLAH01.v033",
+"title": "GLAS/ICESat L1A Global Altimetry Data (HDF5) V033"
+},
+{
+"id": "GLAH02.v033",
+"title": "GLAS/ICESat L1A Global Atmosphere Data (HDF5) V033"
+},
+{
+"id": "GLAH03.v033",
+"title": "GLAS/ICESat L1A Global Engineering Data (HDF5) V033"
+},
+{
+"id": "GLAH04.v033",
+"title": "GLAS/ICESat L1A Global Laser Pointing Data (HDF5) V033"
+},
+{
+"id": "GLAH07.v033",
+"title": "GLAS/ICESat L1B Global Backscatter Data (HDF5) V033"
+},
+{
+"id": "GLAH06.v034",
+"title": "GLAS/ICESat L1B Global Elevation Data (HDF5) V034"
+},
+{
+"id": "GLAH05.v034",
+"title": "GLAS/ICESat L1B Global Waveform-based Range Corrections Data (HDF5) V034"
+},
+{
+"id": "GLAH10.v033",
+"title": "GLAS/ICESat L2 Global Aerosol Vertical Structure Data (HDF5) V033"
+},
+{
+"id": "GLAH12.v034",
+"title": "GLAS/ICESat L2 Global Antarctic and Greenland Ice Sheet Altimetry Data (HDF5) V034"
+},
+{
+"id": "GLAH09.v033",
+"title": "GLAS/ICESat L2 Global Cloud Heights for Multi-layer Clouds (HDF5) V033"
+},
+{
+"id": "GLAH14.v034",
+"title": "GLAS/ICESat L2 Global Land Surface Altimetry Data (HDF5) V034"
+},
+{
+"id": "GLAH08.v033",
+"title": "GLAS/ICESat L2 Global Planetary Boundary Layer and Elevated Aerosol Layer Heights (HDF5) V033"
+},
+{
+"id": "GLAH11.v033",
+"title": "GLAS/ICESat L2 Global Thin Cloud/Aerosol Optical Depths Data (HDF5) V033"
+},
+{
+"id": "GLAH15.v034",
+"title": "GLAS/ICESat L2 Ocean Altimetry Data (HDF5) V034"
+},
+{
+"id": "GLAH13.v034",
+"title": "GLAS/ICESat L2 Sea Ice Altimetry Data (HDF5) V034"
+},
+{
+"id": "HMA_DTE.v1",
+"title": "Global Glacier Debris Thickness Estimates and Sub-Debris Melt Factors V001"
+},
+{
+"id": "HMA2_GGP.v1",
+"title": "Global PyGEM-OGGM Glacier Projections with RCP and SSP Scenarios V001"
+},
+{
+"id": "HMA_DM_6H.v1",
+"title": "High Mountain Asia 1 km 6-hourly Downscaled Meteorological Data 2003 to 2018 V001"
+},
+{
+"id": "HMA2_FGP.v1",
+"title": "High Mountain Asia 30m and 8m Flood Geomorphic Potential V001"
+},
+{
+"id": "HMA2_HFD.v1",
+"title": "High Mountain Asia 5 Arc-Minute Hydrological Flow Direction for the Headwaters of the Amu Darya and Indus River Basins V001"
+},
+{
+"id": "HMA_DEM8m_MOS.v1",
+"title": "High Mountain Asia 8-meter DEM Mosaics Derived from Optical Imagery V001"
+},
+{
+"id": "HMA_DEM8m_AT.v1",
+"title": "High Mountain Asia 8-meter DEMs Derived from Along-track Optical Imagery V001"
+},
+{
+"id": "HMA_DEM8m_CT.v1",
+"title": "High Mountain Asia 8-meter DEMs Derived from Cross-track Optical Imagery V001"
+},
+{
+"id": "HMA_GSM.v1",
+"title": "High Mountain Asia Annual 90m Glacier Surface Melt/Freeze Phenology from SAR Imagery V001"
+},
+{
+"id": "HMA_FreezeThawMelt_ASCAT.v1",
+"title": "High Mountain Asia ASCAT Freeze/Thaw/Melt Status V001"
+},
+{
+"id": "HMA_GlacierAvg_dH.v1",
+"title": "High Mountain Asia Average Glacier Thickness Change from Multi-Sensor DEMs V001"
+},
+{
+"id": "HMA2_WBP.v1",
+"title": "High Mountain Asia CMIP6 Monthly and Yearly Water Balance Projections, 2016-2099 for Parts of Afghanistan, Tajikistan, Kyrgyzstan, and Pakistan V001"
+},
+{
+"id": "HMA_RCMO_6H.v1",
+"title": "High Mountain Asia COAWST 6-Hourly 4km Regional Climate Model Simulations V001"
+},
+{
+"id": "HMA_RCMO_D.v1",
+"title": "High Mountain Asia COAWST Daily 4km Regional Climate Model Simulations V001"
+},
+{
+"id": "HMA_RCMO_1H.v1",
+"title": "High Mountain Asia COAWST Hourly 4km Regional Climate Model Simulations V001"
+},
+{
+"id": "HMA_RCMO_M.v1",
+"title": "High Mountain Asia COAWST Monthly 4km Regional Climate Model Simulations V001"
+},
+{
+"id": "HMA2_NLSMR.v1",
+"title": "High Mountain Asia Daily 0.05 x 0.05 deg Noah-MP Land Surface Model Reanalysis V001"
+},
+{
+"id": "HMA2_DSPAT.v1",
+"title": "High Mountain Asia Daily 5 km Downscaled SPEAR Precipitation and Air Temperature Projections V001"
+},
+{
+"id": "HMA2_LHI.v1",
+"title": "High Mountain Asia Daily 5km Landslide Hazard Indicator V001"
+},
+{
+"id": "HMA_EAPrecip_FLOR.v1",
+"title": "High Mountain Asia GFDL FLOR Modeled Daily Precipitation for Extreme Analysis V001"
+},
+{
+"id": "HMA_Precip_FLOR.v1",
+"title": "High Mountain Asia GFDL FLOR Modeled Extreme Precipitation Indices V001"
+},
+{
+"id": "HMA_Glacier_dH_Mosaics.v1",
+"title": "High Mountain Asia Glacier Thickness Change Mosaics from Multi-Sensor DEMs V001"
+},
+{
+"id": "HMA_Glacier_dH.v1",
+"title": "High Mountain Asia Gridded Glacier Thickness Change from Multi-Sensor DEMs V001"
+},
+{
+"id": "HMA_LS_Cat.v2",
+"title": "High Mountain Asia Landslide Catalog V002"
+},
+{
+"id": "HMA_AWS.v1",
+"title": "High Mountain Asia Langtang Automatic Weather Station Measurements V001"
+},
+{
+"id": "HMA_SDI.v1",
+"title": "High Mountain Asia Langtang Shortwave Downward Irradiance V001"
+},
+{
+"id": "HMA_SBRF.v1",
+"title": "High Mountain Asia Langtang Snow Bidirectional Reflectance Factor V001"
+},
+{
+"id": "HMA_Snowfield.v1",
+"title": "High Mountain Asia Langtang Snow Properties V001"
+},
+{
+"id": "HMA_STParams.v1",
+"title": "High Mountain Asia LDAS 1 km Snow and Temperature Parameters V001"
+},
+{
+"id": "HMA_LIS_LandSurfaceHydro.v1",
+"title": "High Mountain Asia LIS Model Terrestrial Hydrological Parameters V001"
+},
+{
+"id": "HMA_MAR3_5.v1",
+"title": "High Mountain Asia MAR V3.5 Regional Climate Model Output V001"
+},
+{
+"id": "HMA_OptDepth.v1",
+"title": "High Mountain Asia MODIS Aerosol Optical Depth V001"
+},
+{
+"id": "HMA_MTLI.v1",
+"title": "High Mountain Asia Multitemporal Landslide Inventories V001"
+},
+{
+"id": "HMA2_MTLI.v1",
+"title": "High Mountain Asia Multitemporal Landslide Inventory for the Pumqu/Arun River Basin V001"
+},
+{
+"id": "HMA_GLI.v1",
+"title": "High Mountain Asia Near-Global Multi-Decadal Glacial Lake Inventory V001"
+},
+{
+"id": "HMA_GL_RCP.v1",
+"title": "High Mountain Asia PyGEM Glacier Projections with RCP Scenarios V001"
+},
+{
+"id": "HMA_GL_RCPR.v1",
+"title": "High Mountain Asia Rasterized PyGEM Glacier Projections with RCP Scenarios V001"
+},
+{
+"id": "HMA_Precip_3B42.v1",
+"title": "High Mountain Asia TRMM-derived 3B42 Extreme Precipitation Indices V001"
+},
+{
+"id": "HMA_SR_D.v1",
+"title": "High Mountain Asia UCLA Daily Snow Reanalysis V001"
+},
+{
+"id": "IRACC1B.v2",
+"title": "IceBridge Accumulation Radar L1B Geolocated Radar Echo Strength Profiles V002"
+},
+{
+"id": "IRARES1B.v1",
+"title": "IceBridge ARES L1B Geolocated Radar Echo Strength Profiles V001"
+},
+{
+"id": "ILATM1B.v2",
+"title": "IceBridge ATM L1B Elevation and Return Strength V002"
+},
+{
+"id": "ILATMW1B.v1",
+"title": "IceBridge ATM L1B Elevation and Return Strength with Waveforms V001"
+},
+{
+"id": "ILNIRW1B.v1",
+"title": "IceBridge ATM L1B Near-Infrared Waveforms V001"
+},
+{
+"id": "ILATM1B.v1",
+"title": "IceBridge ATM L1B Qfit Elevation and Return Strength V001"
+},
+{
+"id": "ILATM2.v2",
+"title": "IceBridge ATM L2 Icessn Elevation, Slope, and Roughness V002"
+},
+{
+"id": "IDHDT4.v1",
+"title": "IceBridge ATM L4 Surface Elevation Rate of Change V001"
+},
+{
+"id": "ILATMGR.v1",
+"title": "IceBridge ATM Waveform Derived Snow Effective Grain Radius V001"
+},
+{
+"id": "IDBMG4.v5",
+"title": "IceBridge BedMachine Greenland V005"
+},
+{
+"id": "IGBGM1B.v1",
+"title": "IceBridge BGM-3 Gravimeter L1B Time-Tagged Accelerations V001"
+},
+{
+"id": "IGBGM2.v1",
+"title": "IceBridge BGM-3 Gravimeter L2 Geolocated Free Air Anomalies V001"
+},
+{
+"id": "IOCAM0.v1",
+"title": "IceBridge CAMBOT L0 Raw Imagery V001"
+},
+{
+"id": "IOCAM1B.v1",
+"title": "IceBridge CAMBOT L1B Geolocated Images V001"
+},
+{
+"id": "IOCAM1B.v2",
+"title": "IceBridge CAMBOT L1B Geolocated Images V002"
+},
+{
+"id": "IGCMG1B.v1",
+"title": "IceBridge CMG 1A Dynamic Gravity Meter Time-Tagged L1B Vertical Accelerations V001"
+},
+{
+"id": "IGCMG2.v1",
+"title": "IceBridge CMG GT-1A Gravimeter L2 Geolocated Free Air Gravity Disturbances V001"
+},
+{
+"id": "IODCC0.v1",
+"title": "IceBridge DMS L0 Camera Calibration V001"
+},
+{
+"id": "IODMS1B.v1",
+"title": "IceBridge DMS L1B Geolocated and Orthorectified Images V001"
+},
+{
+"id": "IODIM3.v1",
+"title": "IceBridge DMS L3 Ames Stereo Pipeline Orthorectified Images V001"
+},
+{
+"id": "IODEM3.v1",
+"title": "IceBridge DMS L3 Ames Stereo Pipeline Photogrammetric DEM V001"
+},
+{
+"id": "IODMS3.v1",
+"title": "IceBridge DMS L3 Photogrammetric DEM V001"
+},
+{
+"id": "IR1HI1B.v1",
+"title": "IceBridge HiCARS 1 L1B Time-Tagged Echo Strength Profiles V001"
+},
+{
+"id": "IR1HI2.v1",
+"title": "IceBridge HiCARS 1 L2 Geolocated Ice Thickness V001"
+},
+{
+"id": "IR2HI1B.v1",
+"title": "IceBridge HiCARS 2 L1B Time-Tagged Echo Strength Profiles V001"
+},
+{
+"id": "IR2HI2.v1",
+"title": "IceBridge HiCARS 2 L2 Geolocated Ice Thickness V001"
+},
+{
+"id": "IAKST1B.v1",
+"title": "IceBridge KT19 IR Surface Temperature V001"
+},
+{
+"id": "IAKST1B.v2",
+"title": "IceBridge KT19 IR Surface Temperature V002"
+},
+{
+"id": "IRKUB1B.v2",
+"title": "IceBridge Ku-Band Radar L1B Geolocated Radar Echo Strength Profiles V002"
+},
+{
+"id": "IPFLR1B.v1",
+"title": "IceBridge L1B Flight Reports V001"
+},
+{
+"id": "IPFLT1B.v1",
+"title": "IceBridge L1B Thinned Flight Lines V001"
+},
+{
+"id": "IDCSI4.v1",
+"title": "IceBridge L4 Sea Ice Freeboard, Snow Depth, and Thickness V001"
+},
+{
+"id": "IGLGS1B.v1",
+"title": "IceBridge LDEO Gravimeter Suite L1B Geolocated Free Air Gravity Anomalies V001"
+},
+{
+"id": "ILVIS0.v1",
+"title": "IceBridge LVIS L0 Raw Ranges V001"
+},
+{
+"id": "IOLVIS1A.v1",
+"title": "IceBridge LVIS L1A Geotagged Images V001"
+},
+{
+"id": "ILVIS1B.v2",
+"title": "IceBridge LVIS L1B Geolocated Return Energy Waveforms V002"
+},
+{
+"id": "ILVIS2.v1",
+"title": "IceBridge LVIS L2 Geolocated Surface Elevation Product V001"
+},
+{
+"id": "ILVIS2.v2",
+"title": "IceBridge LVIS L2 Geolocated Surface Elevation Product V002"
+},
+{
+"id": "ILVGH1B.v1",
+"title": "IceBridge LVIS-GH L1B Geolocated Return Energy Waveforms V001"
+},
+{
+"id": "ILVGH2.v1",
+"title": "IceBridge LVIS-GH L2 Geolocated Surface Elevation Product V001"
+},
+{
+"id": "IRMCR1B.v2",
+"title": "IceBridge MCoRDS L1B Geolocated Radar Echo Strength Profiles V002"
+},
+{
+"id": "IRMCR2.v1",
+"title": "IceBridge MCoRDS L2 Ice Thickness V001"
+},
+{
+"id": "IRMCR3.v2",
+"title": "IceBridge MCoRDS L3 Gridded Ice Thickness, Surface, and Bottom V002"
+},
+{
+"id": "ILSNP4.v1",
+"title": "IceBridge Merged Photon Counting Lidar/Profiler L4 Surface Slope and Elevations V001"
+},
+{
+"id": "ILNSA1B.v2",
+"title": "IceBridge Narrow Swath ATM L1B Elevation and Return Strength V002"
+},
+{
+"id": "ILNSAW1B.v1",
+"title": "IceBridge Narrow Swath ATM L1B Elevation and Return Strength with Waveforms V001"
+},
+{
+"id": "ILNSA1B.v1",
+"title": "IceBridge Narrow Swath ATM L1B Qfit Elevation and Return Strength V001"
+},
+{
+"id": "IRPAR2.v1",
+"title": "IceBridge PARIS L2 Ice Thickness V001"
+},
+{
+"id": "IAPRS1B.v1",
+"title": "IceBridge Paroscientific L1B Pressure Altimeter Time-Tagged Air Pressure V001"
+},
+{
+"id": "ILSNP1B.v1",
+"title": "IceBridge Photon Counting Lidar L1B Subset Geolocated Photon Elevations V001"
+},
+{
+"id": "ILSIG1B.v1",
+"title": "IceBridge Photon Counting Lidar L1B Unclassified Geolocated Photon Elevations V001"
+},
+{
+"id": "IRTIT3.v2",
+"title": "IceBridge Radar L3 Tomographic Ice Thickness V002"
+},
+{
+"id": "ILUTP1B.v1",
+"title": "IceBridge Riegl Laser Altimeter L1B Time-Tagged Laser Ranges V001"
+},
+{
+"id": "ILUTP2.v1",
+"title": "IceBridge Riegl Laser Altimeter L2 Geolocated Surface Elevation Triplets V001"
+},
+{
+"id": "IGGRV1B.v1",
+"title": "IceBridge Sander AIRGrav L1B Geolocated Free Air Gravity Anomalies V001"
+},
+{
+"id": "IGBTH4.v1",
+"title": "IceBridge Sander AIRGrav L4 Bathymetry V001"
+},
+{
+"id": "IMCS31B.v2",
+"title": "IceBridge Scintrex CS-3 Cesium Magnetometer L1B Geolocated Magnetic Anomalies V002"
+},
+{
+"id": "IRSNO1B.v2",
+"title": "IceBridge Snow Radar L1B Geolocated Radar Echo Strength Profiles V002"
+},
+{
+"id": "IRUAFHF1B.v1",
+"title": "IceBridge UAF L1B HF Geolocated Radar Echo Strength Profiles V001"
+},
+{
+"id": "ILAKP1B.v1",
+"title": "IceBridge UAF Lidar Profiler L1B Geolocated Surface Elevation Triplets V001"
+},
+{
+"id": "ILAKS1B.v1",
+"title": "IceBridge UAF Lidar Scanner L1B Geolocated Surface Elevation Triplets V001"
+},
+{
+"id": "IMFGM1B.v1",
+"title": "IceBridge Watson-Gyro Fluxgate Magnetometer L1B Time-Tagged Magnetic Field V001"
+},
+{
+"id": "IRWIS2.v1",
+"title": "IceBridge WISE L2 Ice Thickness and Surface Elevation V001"
+},
+{
+"id": "IGZLS1B.v1",
+"title": "IceBridge ZLS Dynamic Gravity Meter Time-Registered L1B Vertical Accelerations V001"
+},
+{
+"id": "RDSISC4.v1",
+"title": "IceBridge-Related DMS-Derived L4 Sea Ice Surface Cover Classification Images V001"
+},
+{
+"id": "RDSISCO4.v1",
+"title": "IceBridge-Related DMS-Derived L4 Sea Ice Surface Cover Classification Orthorectified Images V001"
+},
+{
+"id": "RGGRV1B.v1",
+"title": "IceBridge-Related Sander AIRGrav L1B Geolocated Free Air Gravity Anomalies V001"
+},
+{
+"id": "ISSITGR4.v1",
+"title": "ICESat L4 Seasonal Gridded Sea Ice Thickness V001"
+},
+{
+"id": "IS2OLVIS1BCV.v1",
+"title": "ICESat-2 Calibration/Validation LVIS L1B Georeferenced Imagery V001"
+},
+{
+"id": "IS2ATBABD.v1",
+"title": "ICESat-2 Derived 30 m Along-Track Boreal Aboveground Biomass Density V001"
+},
+{
+"id": "IS2MPDDA.v3",
+"title": "ICESat-2 Derived Sea Ice Melt Pond Characteristics from the Density-Dimension Algorithm V003"
+},
+{
+"id": "IS2SITDAT4.v001",
+"title": "ICESat-2 L4 Along-Track Sea Ice Thickness V001"
+},
+{
+"id": "IS2GZANT.v1",
+"title": "ICESat-2 L4 Grounding Zone for Antarctic Ice Shelves V001"
+},
+{
+"id": "IS2SITMOGR4.v3",
+"title": "ICESat-2 L4 Monthly Gridded Sea Ice Thickness V003"
+},
+{
+"id": "WV_LCC_SC_FSCA.v1",
+"title": "Land Cover Classification, Snow Cover, and Fractional Snow-Covered Area Maps from Maxar WorldView Satellite Images V001"
+},
+{
+"id": "RDGBV4.v1",
+"title": "Level-4 9ka Greenland Ice Sheet Balance Velocity V001"
+},
+{
+"id": "RDBTS4.v2",
+"title": "Likely Basal Thermal State of the Greenland Ice Sheet V002"
+},
+{
+"id": "LVISC1B.v1",
+"title": "LVIS Classic L1B Geolocated Return Energy Waveforms V001"
+},
+{
+"id": "LVISC2.v1",
+"title": "LVIS Classic L2 Geolocated Surface Elevation and Canopy Height Product V001"
+},
+{
+"id": "LVISF1B.v1",
+"title": "LVIS Facility L1B Geolocated Return Energy Waveforms V001"
+},
+{
+"id": "LVISF2.v1",
+"title": "LVIS Facility L2 Geolocated Surface Elevation and Canopy Height Product V001"
+},
+{
+"id": "OLVIS1A.v1",
+"title": "LVIS L1A Geotagged Images V001"
+},
+{
+"id": "NSIDC-0720.v1",
+"title": "MEaSUREs Annual Antarctic Ice Velocity Maps V001"
+},
+{
+"id": "NSIDC-0642.v2",
+"title": "MEaSUREs Annual Greenland Outlet Glacier Terminus Positions from SAR Mosaics V002"
+},
+{
+"id": "NSIDC-0709.v2",
+"title": "MEaSUREs Antarctic Boundaries for IPY 2007-2009 from Satellite Radar V002"
+},
+{
+"id": "NSIDC-0498.v2",
+"title": "MEaSUREs Antarctic Grounding Line from Differential Satellite Radar Interferometry V002"
+},
+{
+"id": "NSIDC-0532.v1",
+"title": "MEaSUREs Arctic Sea Ice Characterization Daily 25km EASE-Grid 2.0 V001"
+},
+{
+"id": "NSIDC-0756.v3",
+"title": "MEaSUREs BedMachine Antarctica V003"
+},
+{
+"id": "NSIDC-0630.v1",
+"title": "MEaSUREs Calibrated Enhanced-Resolution Passive Microwave Daily EASE-Grid 2.0 Brightness Temperature ESDR V001"
+},
+{
+"id": "NSIDC-0477.v5",
+"title": "MEaSUREs Global Record of Daily Landscape Freeze/Thaw Status V005"
+},
+{
+"id": "NSIDC-0766.v1",
+"title": "MEaSUREs Greenland 6 and 12 day Ice Sheet Velocity Mosaics from SAR V001"
+},
+{
+"id": "NSIDC-0766.v2",
+"title": "MEaSUREs Greenland 6 and 12 day Ice Sheet Velocity Mosaics from SAR V002"
+},
+{
+"id": "NSIDC-0725.v5",
+"title": "MEaSUREs Greenland Annual Ice Sheet Velocity Mosaics from SAR and Landsat V005"
+},
+{
+"id": "NSIDC-0713.v1",
+"title": "MEaSUREs Greenland Ice Mapping Project (GIMP) 2000 Image Mosaic V001"
+},
+{
+"id": "NSIDC-0645.v1",
+"title": "MEaSUREs Greenland Ice Mapping Project (GIMP) Digital Elevation Model V001"
+},
+{
+"id": "NSIDC-0714.v1",
+"title": "MEaSUREs Greenland Ice Mapping Project (GIMP) Land Ice and Ocean Classification Mask V001"
+},
+{
+"id": "NSIDC-0715.v2",
+"title": "MEaSUREs Greenland Ice Mapping Project (GrIMP) Digital Elevation Model from GeoEye and WorldView Imagery V002"
+},
+{
+"id": "NSIDC-0478.v2",
+"title": "MEaSUREs Greenland Ice Sheet Velocity Map from InSAR Data V002"
+},
+{
+"id": "NSIDC-0777.v1",
+"title": "MEaSUREs Greenland Ice Velocity: Selected Glacier Site Single-Pair Velocity Maps from Optical Images V001"
+},
+{
+"id": "NSIDC-0481.v4",
+"title": "MEaSUREs Greenland Ice Velocity: Selected Glacier Site Velocity Maps from InSAR V004"
+},
+{
+"id": "NSIDC-0646.v3",
+"title": "MEaSUREs Greenland Ice Velocity: Selected Glacier Site Velocity Maps from Optical Images V003"
+},
+{
+"id": "NSIDC-0723.v4",
+"title": "MEaSUREs Greenland Image Mosaics from Sentinel-1A and -1B V004"
+},
+{
+"id": "NSIDC-0731.v5",
+"title": "MEaSUREs Greenland Monthly Ice Sheet Velocity Mosaics from SAR and Landsat V005"
+},
+{
+"id": "NSIDC-0724.v1",
+"title": "MEaSUREs Greenland Monthly Image Mosaics from MODIS V001"
+},
+{
+"id": "NSIDC-0727.v5",
+"title": "MEaSUREs Greenland Quarterly Ice Sheet Velocity Mosaics from SAR and Landsat V005"
+},
+{
+"id": "NSIDC-0533.v1",
+"title": "MEaSUREs Greenland Surface Melt Daily 25km EASE-Grid 2.0 V001"
+},
+{
+"id": "NSIDC-0778.v1",
+"title": "MEaSUREs Grounding Zone of the Antarctic Ice Sheet V001"
+},
+{
+"id": "NSIDC-0484.v2",
+"title": "MEaSUREs InSAR-Based Antarctica Ice Velocity Map V002"
+},
+{
+"id": "NSIDC-0525.v1",
+"title": "MEaSUREs InSAR-Based Ice Velocity Maps of Central Antarctica: 1997 and 2009 V001"
+},
+{
+"id": "NSIDC-0545.v1",
+"title": "MEaSUREs InSAR-Based Ice Velocity of the Amundsen Sea Embayment, Antarctica V001"
+},
+{
+"id": "NSIDC-0782.v1",
+"title": "MEaSUREs ITS_LIVE Antarctic Grounded Ice Sheet Elevation Change V001"
+},
+{
+"id": "NSIDC-0775.v1",
+"title": "MEaSUREs ITS_LIVE Landsat Image-Pair Glacier and Ice Sheet Surface Velocities V001"
+},
+{
+"id": "NSIDC-0776.v1",
+"title": "MEaSUREs ITS_LIVE Regional Glacier and Ice Sheet Surface Velocities V001"
+},
+{
+"id": "NSIDC-0547.v2",
+"title": "MEaSUREs MODIS Mosaic of Greenland (MOG) 2005, 2010, and 2015 Image Maps V002"
+},
+{
+"id": "NSIDC-0670.v1",
+"title": "MEaSUREs Multi-year Greenland Ice Sheet Velocity Mosaic V001"
+},
+{
+"id": "NSIDC-0761.v1",
+"title": "MEaSUREs Multi-year Reference Velocity Maps of the Antarctic Ice Sheet V001"
+},
+{
+"id": "NSIDC-0534.v1",
+"title": "MEaSUREs Northern Hemisphere State of Cryosphere Daily 25km EASE-Grid 2.0 V001"
+},
+{
+"id": "NSIDC-0535.v1",
+"title": "MEaSUREs Northern Hemisphere State of Cryosphere Weekly 100km EASE-Grid 2.0 V001"
+},
+{
+"id": "NSIDC-0530.v1",
+"title": "MEaSUREs Northern Hemisphere Terrestrial Snow Cover Extent Daily 25km EASE-Grid 2.0 V001"
+},
+{
+"id": "NSIDC-0531.v1",
+"title": "MEaSUREs Northern Hemisphere Terrestrial Snow Cover Extent Weekly 100km EASE-Grid 2.0 V001"
+},
+{
+"id": "NSIDC-0754.v1",
+"title": "MEaSUREs Phase-Based Antarctica Ice Velocity Map V001"
+},
+{
+"id": "NSIDC-0781.v1",
+"title": "MEaSUREs Weekly to Monthly Greenland Outlet Glacier Terminus Positions from Sentinel-1 Mosaics V001"
+},
+{
+"id": "MYD10A1F.v61",
+"title": "MODIS/Aqua CGF Snow Cover Daily L3 Global 500m SIN Grid V061"
+},
+{
+"id": "MYD29.v61",
+"title": "MODIS/Aqua Sea Ice Extent 5-Min L2 Swath 1km V061"
+},
+{
+"id": "MYD29E1D.v61",
+"title": "MODIS/Aqua Sea Ice Extent and IST Daily L3 Global 4km EASE-Grid Day V061"
+},
+{
+"id": "MYD29P1D.v61",
+"title": "MODIS/Aqua Sea Ice Extent Daily L3 Global 1km EASE-Grid Day V061"
+},
+{
+"id": "MYD29P1N.v61",
+"title": "MODIS/Aqua Sea Ice Extent Daily L3 Global 1km EASE-Grid Night V061"
+},
+{
+"id": "MYD10_L2.v61",
+"title": "MODIS/Aqua Snow Cover 5-Min L2 Swath 500m V061"
+},
+{
+"id": "MYD10C2.v61",
+"title": "MODIS/Aqua Snow Cover 8-Day L3 Global 0.05Deg CMG V061"
+},
+{
+"id": "MYD10A2.v61",
+"title": "MODIS/Aqua Snow Cover 8-Day L3 Global 500m SIN Grid V061"
+},
+{
+"id": "MYD10C1.v61",
+"title": "MODIS/Aqua Snow Cover Daily L3 Global 0.05Deg CMG V061"
+},
+{
+"id": "MYD10A1.v61",
+"title": "MODIS/Aqua Snow Cover Daily L3 Global 500m SIN Grid V061"
+},
+{
+"id": "MYD10CM.v61",
+"title": "MODIS/Aqua Snow Cover Monthly L3 Global 0.05Deg CMG V061"
+},
+{
+"id": "MOD10A1F.v61",
+"title": "MODIS/Terra CGF Snow Cover Daily L3 Global 500m SIN Grid V061"
+},
+{
+"id": "NSIDC-0791.v1",
+"title": "MODIS/Terra Global Annual 0.01Deg CMG Snow Cover Climatology V001"
+},
+{
+"id": "MOD29.v61",
+"title": "MODIS/Terra Sea Ice Extent 5-Min L2 Swath 1km V061"
+},
+{
+"id": "MOD29E1D.v61",
+"title": "MODIS/Terra Sea Ice Extent and IST Daily L3 Global 4km EASE-Grid Day V061"
+},
+{
+"id": "MOD29P1D.v61",
+"title": "MODIS/Terra Sea Ice Extent Daily L3 Global 1km EASE-Grid Day V061"
+},
+{
+"id": "MOD29P1N.v61",
+"title": "MODIS/Terra Sea Ice Extent Daily L3 Global 1km EASE-Grid Night V061"
+},
+{
+"id": "MOD10_L2.v61",
+"title": "MODIS/Terra Snow Cover 5-Min L2 Swath 500m V061"
+},
+{
+"id": "MOD10C2.v61",
+"title": "MODIS/Terra Snow Cover 8-Day L3 Global 0.05Deg CMG V061"
+},
+{
+"id": "MOD10A2.v61",
+"title": "MODIS/Terra Snow Cover 8-Day L3 Global 500m SIN Grid V061"
+},
+{
+"id": "MOD10C1.v61",
+"title": "MODIS/Terra Snow Cover Daily L3 Global 0.05Deg CMG V061"
+},
+{
+"id": "MOD10A1.v61",
+"title": "MODIS/Terra Snow Cover Daily L3 Global 500m SIN Grid V061"
+},
+{
+"id": "MOD10CM.v61",
+"title": "MODIS/Terra Snow Cover Monthly L3 Global 0.05Deg CMG V061"
+},
+{
+"id": "MODGRNLD.v1",
+"title": "Multilayer Greenland Ice Surface Temperature, Surface Albedo, and Water Vapor from MODIS V001"
+},
+{
+"id": "SPL1BTB_NRT.v105",
+"title": "Near Real-time SMAP L1B Radiometer Half-Orbit Time-Ordered Brightness Temperatures V105"
+},
+{
+"id": "SPL2SMP_NRT.v107",
+"title": "Near Real-time SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture V107"
+},
+{
+"id": "NSIDC-0080.v2",
+"title": "Near-Real-Time DMSP SSM/I-SSMIS Daily Polar Gridded Brightness Temperatures V002"
+},
+{
+"id": "NSIDC-0081.v2",
+"title": "Near-Real-Time DMSP SSMIS Daily Polar Gridded Sea Ice Concentrations V002"
+},
+{
+"id": "NISE.v2",
+"title": "Near-Real-Time SSM/I EASE-Grid Daily Global Ice Concentration and Snow Extent V002"
+},
+{
+"id": "NISE.v3",
+"title": "Near-Real-Time SSM/I-SSMIS EASE-Grid Daily Global Ice Concentration and Snow Extent V003"
+},
+{
+"id": "NISE.v4",
+"title": "Near-Real-Time SSM/I-SSMIS EASE-Grid Daily Global Ice Concentration and Snow Extent V004"
+},
+{
+"id": "NISE.v5",
+"title": "Near-Real-Time SSM/I-SSMIS EASE-Grid Daily Global Ice Concentration and Snow Extent V005"
+},
+{
+"id": "NmAVCS3G.v1",
+"title": "Nimbus Advanced Vidicon Camera System Remapped Visible Imagery Daily L3, GeoTIFF V001"
+},
+{
+"id": "NmAVCS3H.v1",
+"title": "Nimbus Advanced Vidicon Camera System Remapped Visible Imagery Daily L3, HDF5 V001"
+},
+{
+"id": "NmAVCS1H.v1",
+"title": "Nimbus Advanced Vidicon Camera System Visible Imagery L1, HDF5 V001"
+},
+{
+"id": "NmHRIR1H.v1",
+"title": "Nimbus High Resolution Infrared Radiometer Digital Swath Data L1, HDF5 V001"
+},
+{
+"id": "NmHRIR1T.v1",
+"title": "Nimbus High Resolution Infrared Radiometer Grayscale Swath Data L1, TIFF V001"
+},
+{
+"id": "NmHRIR3G.v1",
+"title": "Nimbus High Resolution Infrared Radiometer Remapped Digital Data Daily L3, GeoTIFF V001"
+},
+{
+"id": "NmHRIR3H.v1",
+"title": "Nimbus High Resolution Infrared Radiometer Remapped Digital Data Daily L3, HDF5 V001"
+},
+{
+"id": "NmIcEdg2.v1",
+"title": "Nimbus Ice Edge Points from Nimbus Visible Imagery L2, CSV V001"
+},
+{
+"id": "NmIDCS3G.v1",
+"title": "Nimbus Image Dissector Camera System Remapped Visible Imagery Daily L3, GeoTIFF V001"
+},
+{
+"id": "NmIDCS3H.v1",
+"title": "Nimbus Image Dissector Camera System Remapped Visible Imagery Daily L3, HDF5 V001"
+},
+{
+"id": "NmIDCS1H.v1",
+"title": "Nimbus Image Dissector Camera System Visible Imagery L1, HDF5 V001"
+},
+{
+"id": "NmTHIR115-1T.v1",
+"title": "Nimbus Temperature-Humidity Infrared Radiometer 11.5 \u00b5m Grayscale Swath Data L1, TIFF V001"
+},
+{
+"id": "NmTHIR115-3G.v1",
+"title": "Nimbus Temperature-Humidity Infrared Radiometer 11.5 \u00b5m Remapped Digital Data Daily L3, GeoTIFF V001"
+},
+{
+"id": "NmTHIR115-3H.v1",
+"title": "Nimbus Temperature-Humidity Infrared Radiometer 11.5 \u00b5m Remapped Digital Data Daily L3, HDF5 V001"
+},
+{
+"id": "NmTHIR115-1H.v1",
+"title": "Nimbus Temperature-Humidity Infrared Radiometer 11.5 \u00b5m Swath L1, HDF5 V001"
+},
+{
+"id": "NmTHIR67-1T.v1",
+"title": "Nimbus Temperature-Humidity Infrared Radiometer 6.7 \u00b5m Grayscale Swath Data L1, TIFF V001"
+},
+{
+"id": "NmTHIR67-3G.v1",
+"title": "Nimbus Temperature-Humidity Infrared Radiometer 6.7 \u00b5m Water Vapor Remapped Digital Data Daily L3, GeoTIFF V001"
+},
+{
+"id": "NmTHIR67-3H.v1",
+"title": "Nimbus Temperature-Humidity Infrared Radiometer 6.7 \u00b5m Water Vapor Remapped Digital Data Daily L3, HDF5 V001"
+},
+{
+"id": "NmTHIR67-1H.v1",
+"title": "Nimbus Temperature-Humidity Infrared Radiometer 6.7 \u00b5m Water Vapor Swath L1, HDF5 V001"
+},
+{
+"id": "NmTHIRmtg-1T.v1",
+"title": "Nimbus Temperature-Humidity Infrared Radiometer Global Montage Grayscale L1, TIFF V001"
+},
+{
+"id": "NSIDC-0077.v2",
+"title": "Nimbus-5 ESMR Polar Gridded Brightness Temperatures V002"
+},
+{
+"id": "NSIDC-0071.v1",
+"title": "Nimbus-7 SMMR Pathfinder Daily EASE-Grid Brightness Temperatures V001"
+},
+{
+"id": "NSIDC-0786.v1",
+"title": "NSCAT Twice-Daily SIR-Enhanced EASE-Grid 2.0 Radar Backscatter V001"
+},
+{
+"id": "NSIDC-0666.v1",
+"title": "PALS/In Situ Multi-Campaign 800 m UTM Grid Brightness Temperature, Backscatter, and Soil Moisture Match-Up V001"
+},
+{
+"id": "BLATM1B.v1",
+"title": "Pre-IceBridge ATM L1B Qfit Elevation and Return Strength V001"
+},
+{
+"id": "BLATM2.v1",
+"title": "Pre-IceBridge ATM L2 Icessn Elevation, Slope, and Roughness V001"
+},
+{
+"id": "BLVIS2.v1",
+"title": "Pre-IceBridge LVIS L2 Geolocated Ground Elevation and Return Energy Quartiles V001"
+},
+{
+"id": "BRMCR2.v1",
+"title": "Pre-IceBridge MCoRDS L2 Ice Thickness V001"
+},
+{
+"id": "RRRAG4.v1",
+"title": "Radiostratigraphy and Age Structure of the Greenland Ice Sheet V001"
+},
+{
+"id": "NSIDC-0787.v1",
+"title": "SASS Twice-Daily SIR-Enhanced EASE-Grid 2.0 Radar Backscatter V001"
+},
+{
+"id": "NSIDC-0051.v2",
+"title": "Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I-SSMIS Passive Microwave Data V002"
+},
+{
+"id": "SPL1CTB_E.v003",
+"title": "SMAP Enhanced L1C Radiometer Half-Orbit 9 km EASE-Grid Brightness Temperatures V003"
+},
+{
+"id": "SPL1CTB_E.v004",
+"title": "SMAP Enhanced L1C Radiometer Half-Orbit 9 km EASE-Grid Brightness Temperatures V004"
+},
+{
+"id": "SPL2SMP_E.v005",
+"title": "SMAP Enhanced L2 Radiometer Half-Orbit 9 km EASE-Grid Soil Moisture V005"
+},
+{
+"id": "SPL2SMP_E.v006",
+"title": "SMAP Enhanced L2 Radiometer Half-Orbit 9 km EASE-Grid Soil Moisture V006"
+},
+{
+"id": "SPL3FTP_E.v003",
+"title": "SMAP Enhanced L3 Radiometer Global and Northern Hemisphere Daily 9 km EASE-Grid Freeze/Thaw State V003"
+},
+{
+"id": "SPL3FTP_E.v004",
+"title": "SMAP Enhanced L3 Radiometer Global and Northern Hemisphere Daily 9 km EASE-Grid Freeze/Thaw State V004"
+},
+{
+"id": "SPL3SMP_E.v005",
+"title": "SMAP Enhanced L3 Radiometer Global and Polar Grid Daily 9 km EASE-Grid Soil Moisture V005"
+},
+{
+"id": "SPL3SMP_E.v006",
+"title": "SMAP Enhanced L3 Radiometer Global and Polar Grid Daily 9 km EASE-Grid Soil Moisture V006"
+},
+{
+"id": "SPL1AP.v002",
+"title": "SMAP L1A Radiometer Time-Ordered Parsed Telemetry V002"
+},
+{
+"id": "SPL1BTB.v005",
+"title": "SMAP L1B Radiometer Half-Orbit Time-Ordered Brightness Temperatures V005"
+},
+{
+"id": "SPL1BTB.v006",
+"title": "SMAP L1B Radiometer Half-Orbit Time-Ordered Brightness Temperatures V006"
+},
+{
+"id": "SPL1CTB.v005",
+"title": "SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures V005"
+},
+{
+"id": "SPL1CTB.v006",
+"title": "SMAP L1C Radiometer Half-Orbit 36 km EASE-Grid Brightness Temperatures V006"
+},
+{
+"id": "SPL2SMA.v003",
+"title": "SMAP L2 Radar Half-Orbit 3 km EASE-Grid Soil Moisture V003"
+},
+{
+"id": "SPL2SMAP.v003",
+"title": "SMAP L2 Radar/Radiometer Half-Orbit 9 km EASE-Grid Soil Moisture V003"
+},
+{
+"id": "SPL2SMP.v008",
+"title": "SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture V008"
+},
+{
+"id": "SPL2SMP.v009",
+"title": "SMAP L2 Radiometer Half-Orbit 36 km EASE-Grid Soil Moisture V009"
+},
+{
+"id": "SPL3SMA.v003",
+"title": "SMAP L3 Radar Global Daily 3 km EASE-Grid Soil Moisture V003"
+},
+{
+"id": "SPL3FTA.v003",
+"title": "SMAP L3 Radar Northern Hemisphere Daily 3 km EASE-Grid Freeze/Thaw State V003"
+},
+{
+"id": "SPL3SMAP.v003",
+"title": "SMAP L3 Radar/Radiometer Global Daily 9 km EASE-Grid Soil Moisture V003"
+},
+{
+"id": "SPL3FTP.v003",
+"title": "SMAP L3 Radiometer Global and Northern Hemisphere Daily 36 km EASE-Grid Freeze/Thaw State V003"
+},
+{
+"id": "SPL3FTP.v004",
+"title": "SMAP L3 Radiometer Global and Northern Hemisphere Daily 36 km EASE-Grid Freeze/Thaw State V004"
+},
+{
+"id": "SPL3SMP.v008",
+"title": "SMAP L3 Radiometer Global Daily 36 km EASE-Grid Soil Moisture V008"
+},
+{
+"id": "SPL3SMP.v009",
+"title": "SMAP L3 Radiometer Global Daily 36 km EASE-Grid Soil Moisture V009"
+},
+{
+"id": "SPL4SMAU.v007",
+"title": "SMAP L4 Global 3-hourly 9 km EASE-Grid Surface and Root Zone Soil Moisture Analysis Update V007"
+},
+{
+"id": "SPL4SMGP.v007",
+"title": "SMAP L4 Global 3-hourly 9 km EASE-Grid Surface and Root Zone Soil Moisture Geophysical Data V007"
+},
+{
+"id": "SPL4SMLM.v007",
+"title": "SMAP L4 Global 9 km EASE-Grid Surface and Root Zone Soil Moisture Land Model Constants V007"
+},
+{
+"id": "SPL4CMDL.v007",
+"title": "SMAP L4 Global Daily 9 km EASE-Grid Carbon Net Ecosystem Exchange V007"
+},
+{
+"id": "NSIDC-0774.v1",
+"title": "SMAP Radar Twice-Daily SAR and SIR-Enhanced Scatterometer EASE-Grid 2.0 Radar Backscatter V001"
+},
+{
+"id": "NSIDC-0738.v2",
+"title": "SMAP Radiometer Twice-Daily rSIR-Enhanced EASE-Grid 2.0 Brightness Temperatures V002"
+},
+{
+"id": "NSIDC-0779.v1",
+"title": "SMAP-Derived 1-km Downscaled Surface Soil Moisture Product V001"
+},
+{
+"id": "NSIDC-0712.v1",
+"title": "SMAP/In Situ Core Validation Site Land Surface Parameters Match-Up Data V001"
+},
+{
+"id": "SPL2SMAP_S.v003",
+"title": "SMAP/Sentinel-1 L2 Radiometer/Radar 30-Second Scene 3 km EASE-Grid Soil Moisture V003"
+},
+{
+"id": "SV08SM.v1",
+"title": "SMAPVEX08 In Situ Soil Moisture Data V001"
+},
+{
+"id": "SV08V.v1",
+"title": "SMAPVEX08 In Situ Vegetation Data V001"
+},
+{
+"id": "SV08LC.v1",
+"title": "SMAPVEX08 Land Cover Classification Map V001"
+},
+{
+"id": "SV08PLBK.v1",
+"title": "SMAPVEX08 PALS Backscatter Data V001"
+},
+{
+"id": "SV08PLTB.v1",
+"title": "SMAPVEX08 PALS Brightness Temperature Data V001"
+},
+{
+"id": "SV08ST.v1",
+"title": "SMAPVEX08 Soil Texture Data V001"
+},
+{
+"id": "SV08SR.v1",
+"title": "SMAPVEX08 Surface Roughness Data V001"
+},
+{
+"id": "SV08VWC.v1",
+"title": "SMAPVEX08 Vegetation Water Content Map V001"
+},
+{
+"id": "SV12CSMA.v1",
+"title": "SMAPVEX12 Core-Based In Situ Soil Moisture Data for Agricultural Area V001"
+},
+{
+"id": "SV12CST.v1",
+"title": "SMAPVEX12 Core-Based Soil Texture Data V001"
+},
+{
+"id": "SV12VA.v1",
+"title": "SMAPVEX12 In Situ Vegetation Data for Agricultural Area V001"
+},
+{
+"id": "SV12VF.v1",
+"title": "SMAPVEX12 In Situ Vegetation Data for Forest Area V001"
+},
+{
+"id": "SV12LC.v1",
+"title": "SMAPVEX12 Land Cover Classification Map V001"
+},
+{
+"id": "SV12PLBK.v1",
+"title": "SMAPVEX12 PALS Backscatter Data V001"
+},
+{
+"id": "SV12PLTB.v1",
+"title": "SMAPVEX12 PALS Brightness Temperature Data V001"
+},
+{
+"id": "SV12PLSM.v1",
+"title": "SMAPVEX12 PALS Soil Moisture Data V001"
+},
+{
+"id": "SV12PSMA.v1",
+"title": "SMAPVEX12 Probe-Based In Situ Soil Moisture Data for Agricultural Area V001"
+},
+{
+"id": "SV12PSMF.v1",
+"title": "SMAPVEX12 Probe-Based In Situ Soil Moisture Data for Forest Area V001"
+},
+{
+"id": "SV12STM.v1",
+"title": "SMAPVEX12 Soil Texture Map V001"
+},
+{
+"id": "SV12SRA.v1",
+"title": "SMAPVEX12 Surface Roughness Data for Agricultural Area V001"
+},
+{
+"id": "SV12SRF.v1",
+"title": "SMAPVEX12 Surface Roughness Data for Forest Area V001"
+},
+{
+"id": "SV12UBK.v1",
+"title": "SMAPVEX12 UAVSAR Incidence-Angle Normalized Backscatter Data V001"
+},
+{
+"id": "SV12VWC.v1",
+"title": "SMAPVEX12 Vegetation Water Content Map V001"
+},
+{
+"id": "SV15PLTB.v1",
+"title": "SMAPVEX15 PALS Brightness Temperature Data V001"
+},
+{
+"id": "SV15PLSM.v1",
+"title": "SMAPVEX15 PALS Soil Moisture Data V001"
+},
+{
+"id": "SV15PSM.v1",
+"title": "SMAPVEX15 Probe-Based In Situ Soil Moisture Data V001"
+},
+{
+"id": "SV16I_TPSM.v1",
+"title": "SMAPVEX16 Iowa Manual ThetaProbe Soil Moisture V001"
+},
+{
+"id": "SV16I_PLTBSM.v1",
+"title": "SMAPVEX16 Iowa PALS Brightness Temperature and Soil Moisture Data V001"
+},
+{
+"id": "SV16I_PNET.v1",
+"title": "SMAPVEX16 Iowa Permanent Soil Moisture Network V001"
+},
+{
+"id": "SV16I_TNET.v1",
+"title": "SMAPVEX16 Iowa Temporary Network Soil Moisture and Temperature V001"
+},
+{
+"id": "SV16M_CSM.v1",
+"title": "SMAPVEX16 Manitoba Core-Based In Situ Soil Moisture Data V001"
+},
+{
+"id": "SV16M_CRS.v1",
+"title": "SMAPVEX16 Manitoba CropScan Data V001"
+},
+{
+"id": "SV16M_V.v1",
+"title": "SMAPVEX16 Manitoba In Situ Vegetation Data V001"
+},
+{
+"id": "SV16M_LC.v1",
+"title": "SMAPVEX16 Manitoba Land Cover Classification Map V001"
+},
+{
+"id": "SV16M_LAI.v1",
+"title": "SMAPVEX16 Manitoba Leaf Area Index V001"
+},
+{
+"id": "SV16M_MET.v1",
+"title": "SMAPVEX16 Manitoba Meteorological Data V001"
+},
+{
+"id": "SV16M_PLTBSM.v1",
+"title": "SMAPVEX16 Manitoba PALS Brightness Temperature and Soil Moisture Data V001"
+},
+{
+"id": "SV16M_PSM.v1",
+"title": "SMAPVEX16 Manitoba Probe-Based In Situ Soil Moisture Data V001"
+},
+{
+"id": "SV16M_TB.v1",
+"title": "SMAPVEX16 Manitoba Radiometer Brightness Temperature Data V001"
+},
+{
+"id": "SV16M_ST.v1",
+"title": "SMAPVEX16 Manitoba Soil Texture Data V001"
+},
+{
+"id": "SV16M_SDB.v1",
+"title": "SMAPVEX16 Manitoba Soils Geodatabase V001"
+},
+{
+"id": "SV16M_SSM.v1",
+"title": "SMAPVEX16 Manitoba Station Soil Moisture Data V001"
+},
+{
+"id": "SV16M_SR.v1",
+"title": "SMAPVEX16 Manitoba Surface Roughness Data V001"
+},
+{
+"id": "SV19MA_LID.v1",
+"title": "SMAPVEX19-22 Massachusetts Airborne Lidar V001"
+},
+{
+"id": "SV19MA_DEM.v1",
+"title": "SMAPVEX19-22 Massachusetts Lidar Derived Digital Elevation Model V001"
+},
+{
+"id": "SV19MA_DSM.v1",
+"title": "SMAPVEX19-22 Massachusetts Lidar Derived Digital Surface Model V001"
+},
+{
+"id": "SV19MA_TNET.v001",
+"title": "SMAPVEX19-22 Massachusetts Temporary Soil Moisture Network V001"
+},
+{
+"id": "SV19MA_VOD.v1",
+"title": "SMAPVEX19-22 Massachusetts Vegetation Optical Depth V001"
+},
+{
+"id": "SV19MB_LID.v1",
+"title": "SMAPVEX19-22 Millbrook Airborne Lidar V001"
+},
+{
+"id": "SV19MB_DEM.v1",
+"title": "SMAPVEX19-22 Millbrook Lidar Derived Digital Elevation Model V001"
+},
+{
+"id": "SV19MB_DSM.v1",
+"title": "SMAPVEX19-22 Millbrook Lidar Derived Digital Surface Model V001"
+},
+{
+"id": "SV19MB_TNET.v001",
+"title": "SMAPVEX19-22 Millbrook Temporary Soil Moisture Network V001"
+},
+{
+"id": "SNEX_HRSI_SD_DEM_CO.v1",
+"title": "SnowEx Colorado 3M Snow Depth Time Series and DEMs from High-Resolution Satellite Image Pairs V001"
+},
+{
+"id": "SNEX_Met_Raw.v1",
+"title": "SnowEx Meteorological Station Measurements from Grand Mesa, CO Raw V001"
+},
+{
+"id": "SNEX_Met.v1",
+"title": "SnowEx Meteorological Station Measurements from Grand Mesa, CO V001"
+},
+{
+"id": "SNEX17_TLS_PC_BSU_Raw.v1",
+"title": "SnowEx17 Boise State University Raw Terrestrial Laser Scanner (TLS) Point Cloud V001"
+},
+{
+"id": "SNEX17_TLS_PC_BSU.v1",
+"title": "SnowEx17 Boise State University Terrestrial Laser Scanner (TLS) Point Cloud V001"
+},
+{
+"id": "SNEX17_CAR.v1",
+"title": "SnowEx17 Cloud Absorption Radiometer BRDF V001"
+},
+{
+"id": "SNEX17_SD.v1",
+"title": "SnowEx17 Community Snow Depth Probe Measurements V001"
+},
+{
+"id": "SNEX17_SnowPits.v1",
+"title": "SnowEx17 Community Snow Pit Measurements V001"
+},
+{
+"id": "SNEX17_DGNSS1.v1",
+"title": "SnowEx17 CRREL Differential GNSS Survey V001"
+},
+{
+"id": "SNEX17_TLS_PC_CRREL.v1",
+"title": "SnowEx17 CRREL Terrestrial Laser Scanner (TLS) Point Cloud V001"
+},
+{
+"id": "SNEX17_GPR_Raw.v1",
+"title": "SnowEx17 Ground Penetrating Radar Raw V001"
+},
+{
+"id": "SNEX17_GPR.v2",
+"title": "SnowEx17 Ground Penetrating Radar V002"
+},
+{
+"id": "SNEX17_UWScat.v1",
+"title": "SnowEx17 Ground-Based UWScat Ku- and X-Band Frequency Modulated Continuous Wave Radar V001"
+},
+{
+"id": "SNEX17_KT15_TB.v1",
+"title": "SnowEx17 KT-15 Infrared Brightness Temperature V001"
+},
+{
+"id": "SNEX17_SSA.v1",
+"title": "SnowEx17 Laser Snow Microstructure Specific Surface Area Data V001"
+},
+{
+"id": "SNEX17_P3V.v1",
+"title": "SnowEx17 P-3 Airborne Video V001"
+},
+{
+"id": "SNEX17_SBR.v1",
+"title": "SnowEx17 Radiometrics Surface-Based Radiometer Brightness Temperatures V001"
+},
+{
+"id": "SNEX17_SMP2.v1",
+"title": "SnowEx17 Senator Beck SnowMicroPen (SMP) Raw Penetration Force Profiles V001"
+},
+{
+"id": "SNEX17_SMP.v1",
+"title": "SnowEx17 SnowMicroPen (SMP) Raw Penetration Force Profiles V001"
+},
+{
+"id": "SNEX17_SnowSAR.v1",
+"title": "SnowEx17 SnowSAR Multi-look Synthetic Aperture Radar Backscatter Amplitude Images V001"
+},
+{
+"id": "SNEX17_SnowSAR_Raw.v1",
+"title": "SnowEx17 SnowSAR Raw FMCW Waveforms V001"
+},
+{
+"id": "SNEX17_SSD.v1",
+"title": "SnowEx17 Time Series Sonic Snow Depth Measurement Array V001"
+},
+{
+"id": "SNEX17_TLI.v1",
+"title": "SnowEx17 Time-Lapse Imagery V001"
+},
+{
+"id": "SNEX17_QWIP_ST.v1",
+"title": "SnowEx17 UM Quantum Well Infrared Photodetector (QWIP) Surface Temperature V001"
+},
+{
+"id": "SNEX20_SWESARR_TB.v1",
+"title": "SnowEx20 Airborne SWESARR Brightness Temperature V001"
+},
+{
+"id": "SNEX20_BR_BSU_SMP.v1",
+"title": "SnowEx20 Boise River Basin SnowMicroPen (SMP) Raw Penetration Force Profiles V001"
+},
+{
+"id": "SNEX20_TLS_PC_BSU_RAW.v1",
+"title": "SnowEx20 Boise State University Raw Terrestrial Laser Scanner (TLS) Point Cloud V001"
+},
+{
+"id": "SNEX20_TLS_PC_BSU.v1",
+"title": "SnowEx20 Boise State University Terrestrial Laser Scanner (TLS) Point Cloud V001"
+},
+{
+"id": "SNEX20_COCP_GPR_Raw.v1",
+"title": "SnowEx20 Cameron Pass Ground Penetrating Radar Raw V001"
+},
+{
+"id": "SNEX20_COCP_GPR.v1",
+"title": "SnowEx20 Cameron Pass Ground Penetrating Radar V001"
+},
+{
+"id": "SNEX20_SD.v1",
+"title": "SnowEx20 Community Snow Depth Probe Measurements V001"
+},
+{
+"id": "SNEX20_CRSM.v1",
+"title": "SnowEx20 COSMOS Rover Soil Moisture V001"
+},
+{
+"id": "SNEX20_CSSM.v1",
+"title": "SnowEx20 COSMOS Stationary Soil Moisture V001"
+},
+{
+"id": "SNEX20_TLS_PC_CRREL.v1",
+"title": "SnowEx20 CRREL Terrestrial Laser Scanner (TLS) Point Cloud V001"
+},
+{
+"id": "SNEX20_A19_GSM.v1",
+"title": "SnowEx20 Grand Mesa Autumn 2019 Gravimetric Soil Moisture V001"
+},
+{
+"id": "SNEX20_A19_SD.v1",
+"title": "SnowEx20 Grand Mesa Autumn 2019 Snow Depth V001"
+},
+{
+"id": "SNEX20_A19_SP.v1",
+"title": "SnowEx20 Grand Mesa Autumn 2019 Snow Pits V001"
+},
+{
+"id": "SNEX20_A19_SWE.v1",
+"title": "SnowEx20 Grand Mesa Autumn 2019 Snow Water Equivalent V001"
+},
+{
+"id": "SNEX20_DSM.v1",
+"title": "SnowEx20 Grand Mesa In Situ Dielectric Soil Moisture V001"
+},
+{
+"id": "SNEX20_GM_SP.v1",
+"title": "SnowEx20 Grand Mesa Intensive Observation Period Snow Pit Measurements V001"
+},
+{
+"id": "SNEX20_BSU_CMP_SWE.v1",
+"title": "SnowEx20 Grand Mesa IOP BSU 1 GHz Multi-polarization GPR CMP Snow Water Equivalent V001"
+},
+{
+"id": "SNEX20_BSU_GPR_Raw.v1",
+"title": "SnowEx20 Grand Mesa IOP BSU 1 GHz Multi-polarization GPR Raw V001"
+},
+{
+"id": "SNEX20_BSU_GPR.v1",
+"title": "SnowEx20 Grand Mesa IOP BSU 1 GHz Multi-polarization GPR V001"
+},
+{
+"id": "SNEX20_BSU_CMP_Raw.v1",
+"title": "SnowEx20 Grand Mesa IOP BSU Multi-polarization 1 GHz GPR CMP Raw V001"
+},
+{
+"id": "SNEX20_BSU_CMP_TT.v1",
+"title": "SnowEx20 Grand Mesa IOP BSU Multi-polarization 1 GHz GPR CMP Travel-Times V001"
+},
+{
+"id": "SNEX20_GM_CTSM.v1",
+"title": "SnowEx20 Grand Mesa IOP Computed Tomography Snow Microstructure V001"
+},
+{
+"id": "SNEX20_GM_CSU_GPR_RAW.v1",
+"title": "SnowEx20 Grand Mesa IOP CSU 1GHz GPR Raw V001"
+},
+{
+"id": "SNEX20_GM_CSU_GPR.v1",
+"title": "SnowEx20 Grand Mesa IOP CSU 1GHz GPR V001"
+},
+{
+"id": "SNEX20_UNM_GPR.v1",
+"title": "SnowEx20 Grand Mesa IOP UNM 800 and 1600 MHz MALA GPR V001"
+},
+{
+"id": "SNEX20_GIS_REF.v1",
+"title": "SnowEx20 Grand Mesa Reference GIS Data Sets V001"
+},
+{
+"id": "SNEX20_SD_TLI.v1",
+"title": "SnowEx20 Grand Mesa Snow Depth from Snow Pole Time-Lapse Imagery V001"
+},
+{
+"id": "SNEX20_J_UNM_GPR.v1",
+"title": "SnowEx20 Jemez UNM 800 MHz MALA GPR V001"
+},
+{
+"id": "SNEX20_SSA.v1",
+"title": "SnowEx20 Laser Snow Microstructure Specific Surface Area Data V001"
+},
+{
+"id": "SNEX20_VPTS_Raw.v1",
+"title": "SnowEx20 Raw Near Surface Snow Temperature Profile Time Series V001"
+},
+{
+"id": "SNEX20_SB_GST.v1",
+"title": "SnowEx20 Senator Beck Basin Transect Ground Surface Temperature V001"
+},
+{
+"id": "SNEX20_SMP.v1",
+"title": "SnowEx20 SnowMicroPen (SMP) Raw Penetration Force Profiles V001"
+},
+{
+"id": "SNEX20_TS_SP.v1",
+"title": "SnowEx20 Time Series Snow Pit Measurements V001"
+},
+{
+"id": "SNEX20_TLI.v1",
+"title": "SnowEx20 Time-Lapse Imagery V001"
+},
+{
+"id": "SNEX20_COCP_SPD.v1",
+"title": "SnowEx20-21 Cameron Pass Derived Snowpack Relative Permittivities and Densities from Ground Penetrating Radar V001"
+},
+{
+"id": "SNEX20_QSI_DEM.v1",
+"title": "SnowEx20-21 QSI Lidar DEM 0.5m UTM Grid V001"
+},
+{
+"id": "SNEX20_QSI_DEM_3m.v1",
+"title": "SnowEx20-21 QSI Lidar DEM 3m UTM Grid V001"
+},
+{
+"id": "SNEX20_QSI_SD.v1",
+"title": "SnowEx20-21 QSI Lidar Snow Depth 0.5m UTM Grid V001"
+},
+{
+"id": "SNEX20_QSI_SD_3m.v1",
+"title": "SnowEx20-21 QSI Lidar Snow Depth 3m UTM Grid V001"
+},
+{
+"id": "SNEX20_QSI_VH.v1",
+"title": "SnowEx20-21 QSI Lidar Vegetation Height 0.5m UTM Grid V001"
+},
+{
+"id": "SNEX20_QSI_VH_3m.v1",
+"title": "SnowEx20-21 QSI Lidar Vegetation Height 3m UTM Grid V001"
+},
+{
+"id": "SNEX21_COCP_GPR_Raw.v1",
+"title": "SnowEx21 Cameron Pass Ground Penetrating Radar Raw V001"
+},
+{
+"id": "SNEX21_COCP_GPR.v1",
+"title": "SnowEx21 Cameron Pass Ground Penetrating Radar V001"
+},
+{
+"id": "SNEX21_DSM.v1",
+"title": "SnowEx21 Prairie Station In Situ Dielectric Soil Moisture and Soil Temperature V001"
+},
+{
+"id": "SNEX21_SSR.v1",
+"title": "SnowEx21 Senator Beck Basin and Grand Mesa, CO AVIRIS-NG Surface Spectral Reflectance V001"
+},
+{
+"id": "SNEX21_TS_SP.v1",
+"title": "SnowEx21 Time Series Snow Pits V001"
+},
+{
+"id": "SNEX23_Lidar_Raw.v1",
+"title": "SnowEx23 Airborne Lidar Scans Raw V001"
+},
+{
+"id": "SNEX23_Lidar.v1",
+"title": "SnowEx23 Airborne Lidar-Derived 0.25M Snow Depth and Canopy Height V001"
+},
+{
+"id": "SNEX23_BCEF_TLS_Raw.v1",
+"title": "SnowEx23 Bonanza Creek Experimental Forest Terrestrial Lidar Scans Raw V001"
+},
+{
+"id": "SNEX23_BCEF_TLS.v1",
+"title": "SnowEx23 Bonanza Creek Experimental Forest Terrestrial Lidar Scans V001"
+},
+{
+"id": "SNEX23_SSA.v1",
+"title": "SnowEx23 Laser Snow Microstructure Specific Surface Area Data V001"
+},
+{
+"id": "SNEX23_SSA_SO.v1",
+"title": "SnowEx23 Laser Snow Microstructure Specific Surface Area Snow-off Data V001"
+},
+{
+"id": "SNEX23_SWE.v1",
+"title": "SnowEx23 Snow Water Equivalent V001"
+},
+{
+"id": "SNEX23_UW_GPR.v1",
+"title": "SnowEx23 University of Wyoming Ground Penetrating Radar V001"
+},
+{
+"id": "SMAP_L1_L3_ANC_GEOS.v1",
+"title": "Soil Moisture Active Passive (SMAP) L1-L3 Ancillary GEOS Data V001"
+},
+{
+"id": "SMAP_L1_L3_ANC_NOAA.v1",
+"title": "Soil Moisture Active Passive (SMAP) L1-L3 Ancillary NOAA Data V001"
+},
+{
+"id": "SMAP_L1_L3_ANC_SATELLITE.v1",
+"title": "Soil Moisture Active Passive (SMAP) L1-L3 Ancillary Satellite Data V001"
+},
+{
+"id": "SMAP_L1_L3_ANC_STATIC.v1",
+"title": "Soil Moisture Active Passive (SMAP) L1-L3 Ancillary Static Data V001"
+},
+{
+"id": "SMAP_L4_C_ANC_BPLUT.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Carbon Ancillary Biome Parameter Look Up Table V001"
+},
+{
+"id": "SMAP_L4_C_ANC_FPAR_CLIM.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Carbon Ancillary FPAR Climatology V001"
+},
+{
+"id": "SMAP_L4_C_ANC_MET_LOG.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Carbon Ancillary Meteorology Preprocessor Output Log Files V001"
+},
+{
+"id": "SMAP_L4_C_ANC_MET_RIP.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Carbon Ancillary Meteorology Preprocessor Run Time Input Parameters V001"
+},
+{
+"id": "SMAP_L4_C_ANC_MDL_LOG.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Carbon Ancillary Model Output Log Files V001"
+},
+{
+"id": "SMAP_L4_C_ANC_MDL_RIP.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Carbon Ancillary Model Run Time Input Parameters V001"
+},
+{
+"id": "SMAP_L4_C_ANC_MOD_LOG.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Carbon Ancillary MODIS FPAR Preprocessor Output Log Files V001"
+},
+{
+"id": "SMAP_L4_C_ANC_MOD_RIP.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Carbon Ancillary MODIS Preprocessor Run Time Input Parameters V001"
+},
+{
+"id": "SMAP_L4_C_ANC_PARAM.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Carbon Ancillary Parameters V001"
+},
+{
+"id": "SMAP_L4_C_ANC_SOC_RST.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Carbon Ancillary Soil Organic Carbon Restart File V001"
+},
+{
+"id": "SMAP_L4_C_ANC_MET.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Carbon Ancillary Surface Meteorological Forcing Data V001"
+},
+{
+"id": "SMAP_L4_SM_ANC_CAT_TILE.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Soil Moisture Ancillary Catchment Model Tile Space V001"
+},
+{
+"id": "SMAP_L4_SM_ANC_CLIM.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Soil Moisture Ancillary Climatology Files V001"
+},
+{
+"id": "SMAP_L4_SM_ANC_PARAM.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Soil Moisture Ancillary LDAS Parameters Files V001"
+},
+{
+"id": "SMAP_L4_SM_ANC_LOG.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Soil Moisture Ancillary Output Log Files V001"
+},
+{
+"id": "SMAP_L4_SM_ANC_RST.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Soil Moisture Ancillary Restart Files V001"
+},
+{
+"id": "SMAP_L4_SM_ANC_RIP.v1",
+"title": "Soil Moisture Active Passive (SMAP) L4 Soil Moisture Ancillary Run Time Input Parameters V001"
+},
+{
+"id": "VJ110A1F.v2",
+"title": "VIIRS/JPSS1 CGF Snow Cover Daily L3 Global 375m SIN Grid V002"
+},
+{
+"id": "VJ130.v2",
+"title": "VIIRS/JPSS1 Ice Surface Temperature 6-Min L2 Swath 750m V002"
+},
+{
+"id": "VJ130P1D.v2",
+"title": "VIIRS/JPSS1 Ice Surface Temperature Daily L3 Global 750m EASE-Grid 2.0 Day V002"
+},
+{
+"id": "VJ130P1N.v2",
+"title": "VIIRS/JPSS1 Ice Surface Temperature Daily L3 Global 750m EASE-Grid 2.0 Night V002"
+},
+{
+"id": "VJ129.v2",
+"title": "VIIRS/JPSS1 Sea Ice Cover 6-Min L2 Swath 375m V002"
+},
+{
+"id": "VJ129P1D.v2",
+"title": "VIIRS/JPSS1 Sea Ice Cover Daily L3 Global 375m EASE-Grid 2.0 Day V002"
+},
+{
+"id": "VJ110.v2",
+"title": "VIIRS/JPSS1 Snow Cover 6-Min L2 Swath 375m V002"
+},
+{
+"id": "VJ110C1.v2",
+"title": "VIIRS/JPSS1 Snow Cover Daily L3 Global 0.05Deg CMG V002"
+},
+{
+"id": "VJ110A1.v2",
+"title": "VIIRS/JPSS1 Snow Cover Daily L3 Global 375m SIN Grid V002"
+},
+{
+"id": "VNP10A1F.v1",
+"title": "VIIRS/NPP CGF Snow Cover Daily L3 Global 375m SIN Grid V001"
+},
+{
+"id": "VNP10A1F.v2",
+"title": "VIIRS/NPP CGF Snow Cover Daily L3 Global 375m SIN Grid V002"
+},
+{
+"id": "VNP30.v1",
+"title": "VIIRS/NPP Ice Surface Temperature 6-Min L2 Swath 750m V001"
+},
+{
+"id": "VNP30.v2",
+"title": "VIIRS/NPP Ice Surface Temperature 6-Min L2 Swath 750m V002"
+},
+{
+"id": "VNP30P1D.v2",
+"title": "VIIRS/NPP Ice Surface Temperature Daily L3 Global 750m EASE-Grid 2.0 Day V002"
+},
+{
+"id": "VNP30P1N.v2",
+"title": "VIIRS/NPP Ice Surface Temperature Daily L3 Global 750m EASE-Grid 2.0 Night V002"
+},
+{
+"id": "VNP29.v1",
+"title": "VIIRS/NPP Sea Ice Cover 6-Min L2 Swath 375 m V001"
+},
+{
+"id": "VNP29.v2",
+"title": "VIIRS/NPP Sea Ice Cover 6-Min L2 Swath 375m V002"
+},
+{
+"id": "VNP29P1D.v2",
+"title": "VIIRS/NPP Sea Ice Cover Daily L3 Global 375m EASE-Grid 2.0 Day V002"
+},
+{
+"id": "VNP10.v1",
+"title": "VIIRS/NPP Snow Cover 6-Min L2 Swath 375m V001"
+},
+{
+"id": "VNP10.v2",
+"title": "VIIRS/NPP Snow Cover 6-Min L2 Swath 375m V002"
+},
+{
+"id": "VNP10C1.v2",
+"title": "VIIRS/NPP Snow Cover Daily L3 Global 0.05Deg CMG V002"
+},
+{
+"id": "VNP10A1.v1",
+"title": "VIIRS/NPP Snow Cover Daily L3 Global 375m SIN Grid V001"
+},
+{
+"id": "VNP10A1.v2",
+"title": "VIIRS/NPP Snow Cover Daily L3 Global 375m SIN Grid V002"
+},
+{
+"id": "WUS_UCLA_SR.v1",
+"title": "Western United States UCLA Daily Snow Reanalysis V001"
+}
+]

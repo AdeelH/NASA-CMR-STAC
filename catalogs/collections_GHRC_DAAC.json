@@ -1,0 +1,2434 @@
+[
+{
+"id": "aamhcpex.v1",
+"title": "AAMH CPEX"
+},
+{
+"id": "aces1am.v1",
+"title": "ACES Aircraft and Mechanical Data"
+},
+{
+"id": "aces1cont.v1",
+"title": "ACES CONTINUOUS DATA V1"
+},
+{
+"id": "aces1efm.v1",
+"title": "ACES ELECTRIC FIELD MILL V1"
+},
+{
+"id": "aces1log.v1",
+"title": "ACES LOG DATA"
+},
+{
+"id": "aces1time.v1",
+"title": "ACES TIMING DATA"
+},
+{
+"id": "aces1trig.v1",
+"title": "ACES TRIGGERED DATA"
+},
+{
+"id": "amprimpacts.v1",
+"title": "Advanced Microwave Precipitation Radiometer (AMPR) IMPACTS"
+},
+{
+"id": "amsua15sp.v1",
+"title": "ADVANCED MICROWAVE SOUNDING UNIT-A (AMSU-A) SWATH FROM NOAA-15"
+},
+{
+"id": "amsua16sp.v1",
+"title": "ADVANCED MICROWAVE SOUNDING UNIT-A (AMSU-A) SWATH FROM NOAA-16"
+},
+{
+"id": "amsua17sp.v1",
+"title": "ADVANCED MICROWAVE SOUNDING UNIT-A (AMSU-A) SWATH FROM NOAA-17"
+},
+{
+"id": "ascatcpex.v1",
+"title": "Advanced Scatterometer (ASCAT) CPEX"
+},
+{
+"id": "avapsimpacts.v1",
+"title": "Advanced Vertical Atmospheric Profiling System Dropsondes (AVAPS) IMPACTS"
+},
+{
+"id": "apr3cpex.v1",
+"title": "Airborne Precipitation Radar 3rd Generation (APR-3) CPEX"
+},
+{
+"id": "apr3cpexaw.v1",
+"title": "Airborne Precipitation Radar 3rd Generation (APR-3) CPEX-AW"
+},
+{
+"id": "apr3cpexcv.v1",
+"title": "Airborne Precipitation Radar 3rd Generation (APR-3) CPEX-CV"
+},
+{
+"id": "amprtbkwj.v1",
+"title": "AMPR BRIGHTNESS TEMPERATURE (TB) KWAJEX"
+},
+{
+"id": "amprtbtc.v2",
+"title": "AMPR BRIGHTNESS TEMPERATURE (TB) TOGA COARE"
+},
+{
+"id": "amprtbcx1.v2",
+"title": "AMPR BRIGHTNESS TEMPERATURE CAMEX-1"
+},
+{
+"id": "amprtbcx2.v2",
+"title": "AMPR BRIGHTNESS TEMPERATURE CAMEX-2"
+},
+{
+"id": "amprtbcp.v2",
+"title": "AMPR BRIGHTNESS TEMPERATURE CAPE EXPERIMENT"
+},
+{
+"id": "amprtbf3a.v1",
+"title": "AMPR FIRE III ACE"
+},
+{
+"id": "amprtbjax.v2",
+"title": "AMPR JACKSONVILLE BRIGHTNESS TEMPERATURE (TB)"
+},
+{
+"id": "amprtbta.v1",
+"title": "AMPR TEFLUN-A BRIGHTNESS TEMPERATURE (TB)"
+},
+{
+"id": "msutls.v6",
+"title": "AMSU/MSU Lowstratosphere Day/Month Temperature Anomalies and Annual Cycle"
+},
+{
+"id": "msutlt.v6",
+"title": "AMSU/MSU Lowtroposphere Day/Month Temperature Anomalies and Annual Cycle V6"
+},
+{
+"id": "msutmt.v6",
+"title": "AMSU/MSU Midtroposphere Day/Month Temperature Anomalies and Annual Cycle V6"
+},
+{
+"id": "msuttp.v6",
+"title": "AMSU/MSU Tropopause Day/Month Temperature Anomalies and Annual Cycle V6"
+},
+{
+"id": "airscpex.v1",
+"title": "Atmospheric Infrared Sounder (AIRS) CPEX"
+},
+{
+"id": "asosimpacts.v1",
+"title": "Automated Surface Observing System (ASOS) IMPACTS"
+},
+{
+"id": "apuimpacts.v1",
+"title": "Autonomous Parsivel Unit (APU) IMPACTS"
+},
+{
+"id": "dc8avaps.v1",
+"title": "CAMEX-3 AIRBORNE VERTICAL ATMOSPHERE PROFILING SYSTEM (AVAPS) V1"
+},
+{
+"id": "amprtbcx3.v1",
+"title": "CAMEX-3 AMPR BRIGHTNESS TEMPERATURE (TB) V1"
+},
+{
+"id": "cmx3andros.v1",
+"title": "CAMEX-3 ANDROS ISLAND RAWINSONDE AND RADIOSONDES V1"
+},
+{
+"id": "cmx3aeri.v1",
+"title": "CAMEX-3 ATMOSPHERIC EMITTED RADIANCE INTERFEROMETER (AERI) V1"
+},
+{
+"id": "dc8capac.v1",
+"title": "CAMEX-3 CLOUD AND AEROSOL PARTICLE CHARACTERIZATION (CAPAC) V1"
+},
+{
+"id": "dc8capacv.v1",
+"title": "CAMEX-3 CLOUD AND AEROSOL PARTICLE CHARACTERIZATION VIDEO V1"
+},
+{
+"id": "dc8ammr.v1",
+"title": "CAMEX-3 DC-8 Airborne Multichannel Microwave Radiometer (AMMR) V1"
+},
+{
+"id": "dc8mms.v1",
+"title": "CAMEX-3 DC-8 METEOROLOGICAL MEASUREMENT SYSTEM (MMS) V1"
+},
+{
+"id": "dc8dads.v1",
+"title": "CAMEX-3 DC-8 NAVIGATION (DADS) DATA"
+},
+{
+"id": "er2edop.v1",
+"title": "CAMEX-3 ER-2 Doppler Radar (EDOP)"
+},
+{
+"id": "er2mir.v1",
+"title": "CAMEX-3 ER-2 Millimeter-wave Imaging Radiometer (MIR)"
+},
+{
+"id": "er2mts.v1",
+"title": "CAMEX-3 ER-2 NAST-MTS V1"
+},
+{
+"id": "er2nav.v1",
+"title": "CAMEX-3 ER-2 NAVIGATION V1"
+},
+{
+"id": "cmx3g8.v1",
+"title": "CAMEX-3 GOES-8 PRODUCTS V1"
+},
+{
+"id": "dc8laserh.v1",
+"title": "CAMEX-3 JPL LASER HYGROMETER V1"
+},
+{
+"id": "dc8jplsaw.v1",
+"title": "CAMEX-3 JPL SURFACE ACOUSTIC WAVE (SAW) HYGROMETER V1"
+},
+{
+"id": "dc8lase.v1",
+"title": "CAMEX-3 LiDAR Atmospheric Sensing Experiment (LASE) Imagery"
+},
+{
+"id": "er2lip.v1",
+"title": "CAMEX-3 LIGHTNING INSTRUMENT PACKAGE (LIP) V1"
+},
+{
+"id": "dc8macaws.v1",
+"title": "CAMEX-3 MACAWS V1"
+},
+{
+"id": "cmx3misrep.v1",
+"title": "CAMEX-3 MISSION REPORTS V1"
+},
+{
+"id": "er2mams.v1",
+"title": "CAMEX-3 MULTISPECTRAL ATMOSPHERIC MAPPING SENSOR (MAMS) V1"
+},
+{
+"id": "er2nasti.v1",
+"title": "CAMEX-3 NAST-I RADIANCE PRODUCTS V1"
+},
+{
+"id": "dc8psr.v1",
+"title": "CAMEX-3 POLARIMETRIC SCANNING RADIOMETER (PSR) V1"
+},
+{
+"id": "cmx3srl.v1",
+"title": "CAMEX-3 SCANNING RAMAN LIDAR V1"
+},
+{
+"id": "c4dpr2.v1",
+"title": "CAMEX-4 2ND GENERATION PRECIPITATION RADAR V1"
+},
+{
+"id": "c4aaero.v1",
+"title": "CAMEX-4 AEROSONDE V1"
+},
+{
+"id": "c4eampr.v1",
+"title": "CAMEX-4 AMPR BRIGHTNESS TEMPERATURE (TB) V1"
+},
+{
+"id": "c4gandros.v1",
+"title": "CAMEX-4 ANDROS ISLAND RAWINSONDE AND RADIOSONDES V1"
+},
+{
+"id": "c4dcm.v1",
+"title": "CAMEX-4 CLOUD MICROPHYSICS V1"
+},
+{
+"id": "c4dcstar.v1a",
+"title": "CAMEX-4 CONICALLY-SCANNING TWO-LOOK AIRBORNE RADIOMETER (C-STAR) V1a"
+},
+{
+"id": "c4dcvi.v1",
+"title": "CAMEX-4 CVI CLOUD CONDENSED WATER CONTENT V1"
+},
+{
+"id": "c4dd8d.v1",
+"title": "CAMEX-4 DC-8 DROPSONDE SYSTEM V1"
+},
+{
+"id": "c4dvid.v1",
+"title": "CAMEX-4 DC-8 FORWARD AND NADIR VIDEO"
+},
+{
+"id": "c4dicats.v1",
+"title": "CAMEX-4 DC-8 INFORMATION COLLECTION AND TRANSMISSION SYSTEM V1"
+},
+{
+"id": "c4dlip.v1",
+"title": "CAMEX-4 DC-8 LIGHTNING INSTRUMENT PACKAGE (LIP) V1"
+},
+{
+"id": "c4dmms.v1",
+"title": "CAMEX-4 DC-8 METEOROLOGICAL MEASUREMENT SYSTEM (MMS) V1"
+},
+{
+"id": "c4dmtp.v1",
+"title": "CAMEX-4 DC-8 MICROWAVE TEMPERATURE PROFILER (MTP) V1"
+},
+{
+"id": "c4dnevzor.v1",
+"title": "CAMEX-4 DC-8 NEVZOROV TOTAL CONDENSED WATER CONTENT SENSOR V1"
+},
+{
+"id": "c4eo3p.v1",
+"title": "CAMEX-4 DUAL-BEAM UV-ABSORPTION OZONE PHOTOMETER V1"
+},
+{
+"id": "c4eedop.v1",
+"title": "CAMEX-4 ER-2 DOPPLER RADAR V1"
+},
+{
+"id": "c4eehad.v1",
+"title": "CAMEX-4 ER-2 HIGH ALTITUDE DROPSONDE V1"
+},
+{
+"id": "c4elip.v1",
+"title": "CAMEX-4 ER-2 LIGHTNING INSTRUMENT PACKAGE (LIP) V1"
+},
+{
+"id": "c4emtp.v1",
+"title": "CAMEX-4 ER-2 MICROWAVE TEMPERATURE PROFILER V1"
+},
+{
+"id": "c4emas.v1",
+"title": "CAMEX-4 ER-2 MODIS AIRBORNE SIMULATOR (MAS) V1"
+},
+{
+"id": "c4enav.v1",
+"title": "CAMEX-4 ER-2 NAVIGATION DATA V1"
+},
+{
+"id": "c4sg8.v1",
+"title": "CAMEX-4 GOES-8 PRODUCTS V1"
+},
+{
+"id": "c4ehamsr.v1",
+"title": "CAMEX-4 HIGH ALTITUDE MMIC SOUNDING RADIOMETER (HAMSR) V1"
+},
+{
+"id": "c4djlh.v1",
+"title": "CAMEX-4 JPL LASER HYGROMETER V1"
+},
+{
+"id": "c4dlase.v1",
+"title": "CAMEX-4 LIDAR ATMOSPHERIC SENSING EXPERIMENT (LASE) V1"
+},
+{
+"id": "c4gmipwp.v1",
+"title": "CAMEX-4 MIPS 915 MHZ DOPPLER WIND PROFILER V1"
+},
+{
+"id": "c4gmipclo.v1",
+"title": "CAMEX-4 MIPS CEILOMETER V1"
+},
+{
+"id": "c4gmipfm.v1",
+"title": "CAMEX-4 MIPS FIELD MILL V1"
+},
+{
+"id": "c4gmipmpr.v1",
+"title": "CAMEX-4 MIPS MICROWAVE PROFILING RADIOMETER V1"
+},
+{
+"id": "c4gmipsod.v1",
+"title": "CAMEX-4 MIPS SODAR V1"
+},
+{
+"id": "c4gmipss1.v1",
+"title": "CAMEX-4 MIPS SURFACE STATION 1 V1"
+},
+{
+"id": "c4gmipss2.v1",
+"title": "CAMEX-4 MIPS SURFACE STATION 2 V1"
+},
+{
+"id": "c4gmisrep.v1",
+"title": "CAMEX-4 MISSION REPORTS V1"
+},
+{
+"id": "c4gxpow.v1",
+"title": "CAMEX-4 MOBILE X-BAND POLARIMETRIC WEATHER RADAR V1"
+},
+{
+"id": "c4gnpol.v1",
+"title": "CAMEX-4 NASA PORTABLE S-BAND MULTIPARAMETER WX RESEARCH RADAR V1"
+},
+{
+"id": "c4enlh.v1",
+"title": "CAMEX-4 NOAA LYMAN-ALPHA HYGROMETER V1"
+},
+{
+"id": "c4p3cp.v1",
+"title": "CAMEX-4 NOAA WP-3D CLOUD PHYSICS V1"
+},
+{
+"id": "c4p3flt.v1",
+"title": "CAMEX-4 NOAA WP-3D FLIGHT LEVEL DATA V1"
+},
+{
+"id": "c4p3rad.v1",
+"title": "CAMEX-4 NOAA WP-3D RADAR V1"
+},
+{
+"id": "c4p3vid.v1",
+"title": "CAMEX-4 NOAA WP-3D VIDEO V1"
+},
+{
+"id": "c4gsmart.v1",
+"title": "CAMEX-4 SHARED MOBILE ATMOSPHERIC RESEARCH AND TEACHING RADARS V1"
+},
+{
+"id": "c4gtoga.v1",
+"title": "CAMEX-4 TOGA RADAR V1"
+},
+{
+"id": "cplimpacts.v1",
+"title": "Cloud Physics LiDAR (CPL) IMPACTS"
+},
+{
+"id": "crsimpacts.v1",
+"title": "Cloud Radar System (CRS) IMPACTS"
+},
+{
+"id": "cossirimpacts.v1",
+"title": "Compact Scanning Submillimter-wave Imaging Radiometer (CoSSIR) IMPACTS"
+},
+{
+"id": "cosmirimpacts.v1",
+"title": "Conical Scanning Millimeter-wave Imaging Radiometer (CoSMIR) IMPACTS V1"
+},
+{
+"id": "metnavcpexaw.v1",
+"title": "DC-8 Meteorological and Navigation Data CPEX-AW"
+},
+{
+"id": "metnavcpexcv.v1",
+"title": "DC-8 Meteorological and Navigation Data CPEX-CV"
+},
+{
+"id": "navdc8cpex.v1",
+"title": "DC-8 Navigation Data CPEX"
+},
+{
+"id": "er2navimpacts.v1",
+"title": "ER-2 Navigation Data IMPACTS"
+},
+{
+"id": "exradepoch.v1",
+"title": "ER-2 X-Band Doppler Radar (EXRAD) EPOCH"
+},
+{
+"id": "exradimpacts.v1",
+"title": "ER-2 X-Band Doppler Radar (EXRAD) IMPACTS"
+},
+{
+"id": "exrad3dimpacts.v1",
+"title": "ER-2 X-band Radar (EXRAD) 3D Winds IMPACTS"
+},
+{
+"id": "fltrepepoch.v1",
+"title": "Flight Reports EPOCH"
+},
+{
+"id": "gfscpex.v1",
+"title": "Global Forecast System (GFS) CPEX"
+},
+{
+"id": "navghepoch.v1",
+"title": "Global Hawk Navigation EPOCH"
+},
+{
+"id": "goescpex.v1",
+"title": "GOES CPEX"
+},
+{
+"id": "goescpexcv.v1",
+"title": "GOES CPEX-CV"
+},
+{
+"id": "goesimpacts.v1",
+"title": "GOES IMPACTS"
+},
+{
+"id": "goeswvt.v1",
+"title": "GOES WATER VAPOR TRANSPORT V1"
+},
+{
+"id": "glmgoesL3.v1",
+"title": "GOES-R Geostationary Lightning Mapper (GLM) Gridded Data Products"
+},
+{
+"id": "goesrpltaviris.v1",
+"title": "GOES-R PLT Airborne Visible/Infrared Imaging Spectrometer (AVIRIS)"
+},
+{
+"id": "goesrpltcpl.v1",
+"title": "GOES-R PLT Cloud Physics LiDAR (CPL)"
+},
+{
+"id": "goesrpltcrs.v1",
+"title": "GOES-R PLT Cloud Radar System (CRS)"
+},
+{
+"id": "goesrpltcolma.v1",
+"title": "GOES-R PLT Colorado Lightning Mapping Array (LMA)"
+},
+{
+"id": "goesrpltnaver2.v1",
+"title": "GOES-R PLT ER-2 Flight Navigation Data"
+},
+{
+"id": "goesrpltavirisng.v1",
+"title": "GOES-R PLT Field Campaign Airborne Visible/Infrared Imaging Spectrometer Next Generation (AVIRIS-NG)"
+},
+{
+"id": "goesrpltfegs.v1",
+"title": "GOES-R PLT Fly's Eye GLM Simulator (FEGS)"
+},
+{
+"id": "goesrpltgcas.v1",
+"title": "GOES-R PLT Geostationary Coastal and Air Pollution Event (GEO-CAPE) Airborne Simulator (GCAS)"
+},
+{
+"id": "goesrpltksclma.v1",
+"title": "GOES-R PLT Kennedy Space Center Lightning Mapping Array (LMA)"
+},
+{
+"id": "goesrpltlip.v1",
+"title": "GOES-R PLT Lightning Instrument Package (LIP)"
+},
+{
+"id": "goesrpltmisrep.v1",
+"title": "GOES-R PLT Mission Reports"
+},
+{
+"id": "goesrpltnalma.v1",
+"title": "GOES-R PLT North Alabama Lightning Mapping Array (LMA)"
+},
+{
+"id": "goesrpltoklma.v1",
+"title": "GOES-R PLT Oklahoma Lightning Mapping Array (LMA) V1"
+},
+{
+"id": "goesrpltshis.v1",
+"title": "GOES-R PLT Scanning High-Resolution Interferometer Sounder (S-HIS) V1"
+},
+{
+"id": "goesrpltsolma.v1",
+"title": "GOES-R PLT Southern Ontario Lightning Mapping Array (LMA) V1"
+},
+{
+"id": "goesrpltivanpah.v1",
+"title": "GOES-R PLT Surface Radiance Ivanpah V1"
+},
+{
+"id": "goesrpltredlake.v1",
+"title": "GOES-R PLT Surface Radiance Red Lake V1"
+},
+{
+"id": "goesrpltdclma.v1",
+"title": "GOES-R PLT Washington D.C. Lightning Mapping Array (LMA) V1"
+},
+{
+"id": "goesrpltwtlma.v1",
+"title": "GOES-R PLT West Texas Lightning Mapping Array (LMA) V1"
+},
+{
+"id": "gpmwbandiphx.v1",
+"title": "GPM GROUND VALIDATION ACHIEVE W-BAND CLOUD RADAR IPHEX V1"
+},
+{
+"id": "gpmampriphx2.v2",
+"title": "GPM GROUND VALIDATION ADVANCED MICROWAVE PRECIPITATION RADIOMETER (AMPR) IPHEX V2"
+},
+{
+"id": "gpmamprmc3e.v1",
+"title": "GPM GROUND VALIDATION ADVANCED MICROWAVE PRECIPITATION RADIOMETER (AMPR) MC3E V1"
+},
+{
+"id": "gpmamprolyx.v1",
+"title": "GPM Ground Validation Advanced Microwave Precipitation Radiometer (AMPR) OLYMPEX V1"
+},
+{
+"id": "gpmadmirgcpex.v1",
+"title": "GPM GROUND VALIDATION ADVANCED MICROWAVE RADIOMETER RAIN IDENTIFICATION (ADMIRARI) GCPEX V1"
+},
+{
+"id": "gpmavapsolyx.v1",
+"title": "GPM Ground Validation Advanced Vertical Atmospheric Profiling System (AVAPS) OLYMPEX V1"
+},
+{
+"id": "gpmlidargcpex.v1",
+"title": "GPM GROUND VALIDATION AEROSOL AND WATER VAPOR LIDAR QUICKLOOKS GCPEX V1"
+},
+{
+"id": "gpmapr3olyx2.v2",
+"title": "GPM Ground Validation Airborne Precipitation Radar 3rd Generation (APR-3) OLYMPEX V2"
+},
+{
+"id": "gpmapr2gcpex.v1",
+"title": "GPM GROUND VALIDATION AIRBORNE SECOND GENERATION PRECIPITATION RADAR (APR-2) GCPEX V1"
+},
+{
+"id": "gpmasoolyx.v1",
+"title": "GPM Ground Validation Airborne Snow Observatory (ASO) OLYMPEX V1"
+},
+{
+"id": "gpmahdmetolyx.v1",
+"title": "GPM Ground Validation Albert Head (AHD) Ground Meteorological Station (MET) OLYMPEX V1"
+},
+{
+"id": "gpmpagcpex.v1",
+"title": "GPM GROUND VALIDATION AUTONOMOUS PARSIVEL UNIT (APU) GCPEX V1"
+},
+{
+"id": "gpmpahymex.v1",
+"title": "GPM GROUND VALIDATION AUTONOMOUS PARSIVEL UNIT (APU) HYMEX V1"
+},
+{
+"id": "gpmapuicepop.v1",
+"title": "GPM Ground Validation Autonomous Parsivel Unit (APU) ICE POP V1"
+},
+{
+"id": "gpmpaifld.v1",
+"title": "GPM GROUND VALIDATION AUTONOMOUS PARSIVEL UNIT (APU) IFLOODS V1"
+},
+{
+"id": "gpmpaiphx.v1",
+"title": "GPM GROUND VALIDATION AUTONOMOUS PARSIVEL UNIT (APU) IPHEx V1"
+},
+{
+"id": "gpmpalpvex.v1",
+"title": "GPM GROUND VALIDATION AUTONOMOUS PARSIVEL UNIT (APU) LPVEX V1"
+},
+{
+"id": "gpmpamc3e.v1",
+"title": "GPM GROUND VALIDATION AUTONOMOUS PARSIVEL UNIT (APU) MC3E V1"
+},
+{
+"id": "gpmpansstc.v1",
+"title": "GPM GROUND VALIDATION AUTONOMOUS PARSIVEL UNIT (APU) NSSTC V1"
+},
+{
+"id": "gpmapuolyx.v1",
+"title": "GPM Ground Validation Autonomous Parsivel Unit (APU) OLYMPEX V1"
+},
+{
+"id": "gpmapuwff.v1",
+"title": "GPM Ground Validation Autonomous Parsivel Unit (APU) Wallops Flight Facility (WFF) V1"
+},
+{
+"id": "gpmikalpvex.v1",
+"title": "GPM Ground Validation C-band Ikaalinen (IKA) Radar LPVEx V1"
+},
+{
+"id": "gpmkerlpvex.v1",
+"title": "GPM Ground Validation C-band Kerava (KER) Radar LPVEx V1"
+},
+{
+"id": "gpmkorlpvex.v1",
+"title": "GPM Ground Validation C-band Korpo (KOR) Radar LPVEx V1"
+},
+{
+"id": "gpmkumlpvex.v1",
+"title": "GPM Ground Validation C-band Kumpula (KUM) Radar LPVEx V1"
+},
+{
+"id": "gpmvanlpvex.v1",
+"title": "GPM Ground Validation C-band Vantaa (VAN) Radar LPVEx V1"
+},
+{
+"id": "gpmmisrepifld.v1",
+"title": "GPM GROUND VALIDATION CAMPAIGN REPORTS IFLOODS V1"
+},
+{
+"id": "gpmmisrepiphx.v1",
+"title": "GPM GROUND VALIDATION CAMPAIGN REPORTS IPHEx V1"
+},
+{
+"id": "gpmmisrepmc3e.v1",
+"title": "GPM GROUND VALIDATION CAMPAIGN REPORTS MC3E V1"
+},
+{
+"id": "gpmmisrepolyx.v1",
+"title": "GPM Ground Validation Campaign Reports OLYMPEX V1"
+},
+{
+"id": "gpmopasscgcpex.v1",
+"title": "GPM GROUND VALIDATION CARE SATELLITE OVERPASS IMAGES GCPEX V1"
+},
+{
+"id": "gpmcax1cfolyx.v1",
+"title": "GPM Ground Validation CAX1 Radar CFradial format OLYMPEX V1"
+},
+{
+"id": "gpmcax1odolyx.v1",
+"title": "GPM Ground Validation CAX1 Radar ODIM format OLYMPEX V1"
+},
+{
+"id": "gpmcax1rbolyx.v1",
+"title": "GPM Ground Validation CAX1 Radar RB5 format OLYMPEX V1"
+},
+{
+"id": "gpmchillmc3e.v1",
+"title": "GPM GROUND VALIDATION CHILL RADAR MC3E V1"
+},
+{
+"id": "gpmcitvidiphx.v1",
+"title": "GPM GROUND VALIDATION CITATION VIDEOS IPHEX V1"
+},
+{
+"id": "gpmcplolyx.v1",
+"title": "GPM Ground Validation Cloud Physics LiDAR (CPL) OLYMPEX V1"
+},
+{
+"id": "gpmcrsiphx.v1",
+"title": "GPM GROUND VALIDATION CLOUD RADAR SYSTEM (CRS) IPHEx V1"
+},
+{
+"id": "gpmcrsolyx.v1",
+"title": "GPM Ground Validation Cloud Radar System (CRS) OLYMPEX V1"
+},
+{
+"id": "gpmcilpvex.v1",
+"title": "GPM GROUND VALIDATION CLOUD SPECTROMETER AND IMPACTOR (CIP) LPVEX V1"
+},
+{
+"id": "gpmsogcpex.v1",
+"title": "GPM GROUND VALIDATION COMPOSITE SATELLITE OVERPASSES GCPEX V1"
+},
+{
+"id": "gpmsomc3e.v1",
+"title": "GPM GROUND VALIDATION COMPOSITE SATELLITE OVERPASSES MC3E V1"
+},
+{
+"id": "gpmopassolyx.v4",
+"title": "GPM Ground Validation Composite Satellite Overpasses OLYMPEX"
+},
+{
+"id": "gpmcosmirgcpex.v1",
+"title": "GPM GROUND VALIDATION CONICAL SCANNING MILLIMETER-WAVE IMAGING RADIOMETER (COSMIR) GCPEX"
+},
+{
+"id": "gpmcosmiriphx.v1",
+"title": "GPM GROUND VALIDATION CONICAL SCANNING MILLIMETER-WAVE IMAGING RADIOMETER (COSMIR) IPHEx"
+},
+{
+"id": "gpmcosmirmc3e.v1",
+"title": "GPM GROUND VALIDATION CONICAL SCANNING MILLIMETER-WAVE IMAGING RADIOMETER (COSMIR) MC3E"
+},
+{
+"id": "gpmcosmirolyx.v1",
+"title": "GPM Ground Validation Conical Scanning Millimeter-wave Imaging Radiometer (CoSMIR) OLYMPEX"
+},
+{
+"id": "gpmcxsiolyx.v1",
+"title": "GPM Ground Validation CXSI Radar Imagery OLYMPEX"
+},
+{
+"id": "gpmprecipolyx.v1",
+"title": "GPM Ground Validation Daily Precipitation OLYMPEX"
+},
+{
+"id": "gpmncamdc8gcpex.v1",
+"title": "GPM GROUND VALIDATION DC-8 CAMERA NADIR GCPEX"
+},
+{
+"id": "gpmnavdc8gcpex.v1",
+"title": "GPM GROUND VALIDATION DC-8 NAVIGATION AND HOUSEKEEPING DATA GCPEX"
+},
+{
+"id": "gpmdowolyx2.v2",
+"title": "GPM Ground Validation Doppler on Wheels (DOW) OLYMPEX"
+},
+{
+"id": "gpmraddpgcpex.v1",
+"title": "GPM GROUND VALIDATION DUAL POLARIZATION RADIOMETER GCPEX"
+},
+{
+"id": "gpmkcradgcpex.v1",
+"title": "GPM GROUND VALIDATION DUAL POLARIZED C-BAND DOPPLER RADAR KING CITY GCPEX"
+},
+{
+"id": "gpmd3rgcpex.v1",
+"title": "GPM GROUND VALIDATION DUAL-FREQUENCY DUAL-POLARIZED DOPPLER RADAR (D3R) GCPEX"
+},
+{
+"id": "gpmd3ricepop.v1",
+"title": "GPM Ground Validation Dual-frequency Dual-polarized Doppler Radar (D3R) ICE POP"
+},
+{
+"id": "gpmd3rifld.v1",
+"title": "GPM GROUND VALIDATION DUAL-FREQUENCY DUAL-POLARIZED DOPPLER RADAR (D3R) IFLOODS"
+},
+{
+"id": "gpmd3riphx.v1",
+"title": "GPM GROUND VALIDATION DUAL-FREQUENCY DUAL-POLARIZED DOPPLER RADAR (D3R) IPHEX"
+},
+{
+"id": "gpmd3rolyx.v1",
+"title": "GPM Ground Validation Dual-frequency Dual-polarized Doppler Radar (D3R) OLYMPEX"
+},
+{
+"id": "gpmmrrdukeiphx.v1",
+"title": "GPM Ground Validation Duke Micro Rain Radar (MRR) IPHEx"
+},
+{
+"id": "gpmmwrdukeiphx.v1",
+"title": "GPM Ground Validation Duke Microwave Radiometer (MWR) IPHEx"
+},
+{
+"id": "gpmpadukeiphx.v1",
+"title": "GPM Ground Validation Duke Parsivel IPHEx"
+},
+{
+"id": "gpmrgdukeiphx.v1",
+"title": "GPM Ground Validation Duke Rain Gauges IPHEx"
+},
+{
+"id": "gpmsmdukeiphx.v1",
+"title": "GPM Ground Validation Duke Soil Moisture IPHEx"
+},
+{
+"id": "gpmprecipmgcpex.v1",
+"title": "GPM GROUND VALIDATION ENVIRONMENT CANADA (EC) MANUAL PRECIPITATION MEASUREMENTS GCPEX"
+},
+{
+"id": "gpmmrrecgcpex2.v2",
+"title": "GPM GROUND VALIDATION ENVIRONMENT CANADA (EC) MICRO RAIN RADAR (MRR) GCPEX"
+},
+{
+"id": "gpmradpmgcpex.v1",
+"title": "GPM GROUND VALIDATION ENVIRONMENT CANADA (EC) PASSIVE MICROWAVE RADIOMETER AND SOIL MOISTURE-TEMPERATURE DATA GCPEX"
+},
+{
+"id": "gpmpossgcpex.v1",
+"title": "GPM GROUND VALIDATION ENVIRONMENT CANADA (EC) PRECIPITATION OCCURRENCE SENSOR SYSTEM (POSS) GCPEX"
+},
+{
+"id": "gpmradmecgcpex.v1",
+"title": "GPM GROUND VALIDATION ENVIRONMENT CANADA (EC) RADIOMETER GCPEX V1"
+},
+{
+"id": "gpmradsecgcpex.v1",
+"title": "GPM GROUND VALIDATION ENVIRONMENT CANADA (EC) RADIOSONDE GCPEX V1"
+},
+{
+"id": "gpmsnowgcpex.v1",
+"title": "GPM GROUND VALIDATION ENVIRONMENT CANADA (EC) SNOW SURVEYS GCPEX V1"
+},
+{
+"id": "gpmceilgcpex.v1",
+"title": "GPM GROUND VALIDATION ENVIRONMENT CANADA (EC) VAISALA CEILOMETER GCPEX V1"
+},
+{
+"id": "gpmvisecgcpex.v1",
+"title": "GPM GROUND VALIDATION ENVIRONMENT CANADA (EC) VISIBILITY SENSOR FD12P AND PRESENT WEATHER DETECTOR GCPEX V1"
+},
+{
+"id": "gpmvisecc3vp.v1",
+"title": "GPM Ground Validation Environment Canada (EC) Visibility Sensor FD12P C3VP V1"
+},
+{
+"id": "gpmxetc3vp.v1",
+"title": "GPM Ground Validation Environment Canada (EC) Weather Station XET C3VP V1"
+},
+{
+"id": "gpmwebecgcpex.v1",
+"title": "GPM GROUND VALIDATION ENVIRONMENT CANADA (EC) WEB CAMERA IMAGES GCPEX V1"
+},
+{
+"id": "gpmwpecgcpex.v1",
+"title": "GPM GROUND VALIDATION ENVIRONMENT CANADA (EC) WIND PROFILER GCPEX V1"
+},
+{
+"id": "gpmexradiphx.v1",
+"title": "GPM GROUND VALIDATION ER-2 X-BAND RADAR (EXRAD) IPHEX V1"
+},
+{
+"id": "gpmfltsummc3e.v1",
+"title": "GPM GROUND VALIDATION FLIGHT SUMMARIES AND FLIGHT TRACKS IMAGERY MC3E V1"
+},
+{
+"id": "csgcpex01.v1",
+"title": "GPM GROUND VALIDATION GCPEX SNOW MICROPHYSICS CASE STUDY V1"
+},
+{
+"id": "gpmtfmifld.v1",
+"title": "GPM Ground Validation Global Flood Monitoring System (GFMS) Flood Maps IFloodS V1"
+},
+{
+"id": "gpmgsmapjifld.v1",
+"title": "GPM Ground Validation Global Satellite Mapping of Precipitation (GSMaP) IFloodS V1"
+},
+{
+"id": "gpmgprof2014ifld.v3",
+"title": "GPM Ground Validation Goddard Profiling Algorithm (GPROF) 2014 IFloodS V3"
+},
+{
+"id": "gpmgoes13gcpexB.v1",
+"title": "GPM GROUND VALIDATION GOES 13 VISIBLE AND INFRARED IMAGES GCPEX V1"
+},
+{
+"id": "gpmgoes13iphxB.v1",
+"title": "GPM Ground Validation GOES 13 Visible and Infrared Images IPHEx V1"
+},
+{
+"id": "gpmgoes13mc3eB.v1",
+"title": "GPM GROUND VALIDATION GOES 13 VISIBLE AND INFRARED IMAGES MC3E V1"
+},
+{
+"id": "gpmgoes14iphxB.v1",
+"title": "GPM Ground Validation GOES 14 Visible and Infrared Images IPHEx V1"
+},
+{
+"id": "gpmgoes15olyxB.v1",
+"title": "GPM Ground Validation GOES 15 Visible and Infrared Images OLYMPEX V1"
+},
+{
+"id": "gpmhiwrapiphx.v1",
+"title": "GPM GROUND VALIDATION HIGH ALTITUDE IMAGING WIND AND RAIN AIRBORNE PROFILER (HIWRAP) IPHEX V1"
+},
+{
+"id": "gpmhiwrapmc3e.v1",
+"title": "GPM GROUND VALIDATION HIGH ALTITUDE IMAGING WIND AND RAIN AIRBORNE PROFILER (HIWRAP) MC3E V1"
+},
+{
+"id": "gpmhiwrapolyx.v1a",
+"title": "GPM Ground Validation High Altitude Imaging Wind and Rain Airborne Profiler (HIWRAP) OLYMPEX V1a"
+},
+{
+"id": "gpmheifld.v1",
+"title": "GPM Ground Validation Hydro-Estimator IFloodS V1"
+},
+{
+"id": "gpmheiphx.v1",
+"title": "GPM Ground Validation Hydro-Estimator IPHEx V1"
+},
+{
+"id": "gpmrfcmpifld.v1",
+"title": "GPM Ground Validation Iowa Flood Center (IFC) NEXRAD Composite IFloodS V1"
+},
+{
+"id": "gpmrgifcifld.v1",
+"title": "GPM Ground Validation Iowa Flood Center (IFC) Rain Gauges IFloodS V1"
+},
+{
+"id": "gpmsgifcifld.v1",
+"title": "GPM Ground Validation Iowa Flood Center (IFC) Stream Flow IFloodS V1"
+},
+{
+"id": "gpmxpolifld.v1",
+"title": "GPM GROUND VALIDATION IOWA X-BAND POLARIMETRIC MOBILE DOPPLER WEATHER RADARS IFLOODS V1"
+},
+{
+"id": "gpmjwlpvex.v1",
+"title": "GPM Ground Validation Joss-Waldvogel Disdrometer (JW) LPVEx V1"
+},
+{
+"id": "gpmjwnsstc.v1",
+"title": "GPM GROUND VALIDATION JOSS-WALDVOGEL DISDROMETER (JW) NSSTC V1"
+},
+{
+"id": "gpmkapxgcpex.v1",
+"title": "GPM GROUND VALIDATION KAPX NEXRAD GCPEX V1"
+},
+{
+"id": "gpmkatx2olyx.v1",
+"title": "GPM Ground Validation KATX NEXRAD OLYMPEX V1"
+},
+{
+"id": "gpmkboxgcpex.v1",
+"title": "GPM GROUND VALIDATION KBOX NEXRAD GCPEX V1"
+},
+{
+"id": "gpmkbufgcpex.v1",
+"title": "GPM GROUND VALIDATION KBUF NEXRAD GCPEX V1"
+},
+{
+"id": "gpmkcae2iphx.v1",
+"title": "GPM Ground Validation KCAE NEXRAD IPHEx V1"
+},
+{
+"id": "gpmkcbwgcpex.v1",
+"title": "GPM GROUND VALIDATION KCBW NEXRAD GCPEX V1"
+},
+{
+"id": "gpmkcxxgcpex.v1",
+"title": "GPM GROUND VALIDATION KCXX NEXRAD GCPEX V1"
+},
+{
+"id": "gpmkgldmc3e.v1",
+"title": "GPM GROUND VALIDATION KGLD NEXRAD MC3E V1"
+},
+{
+"id": "gpmkgsp2iphx.v1",
+"title": "GPM Ground Validation KGSP NEXRAD IPHEx V1"
+},
+{
+"id": "gpmkgyxgcpex.v1",
+"title": "GPM GROUND VALIDATION KGYX NEXRAD GCPEX V1"
+},
+{
+"id": "gpmkhtx2iphx.v1",
+"title": "GPM Ground Validation KHTX NEXRAD IPHEx V1"
+},
+{
+"id": "gpmkictmc3e.v1",
+"title": "GPM GROUND VALIDATION KICT NEXRAD MC3E V1"
+},
+{
+"id": "gpmkinxmc3e.v1",
+"title": "GPM GROUND VALIDATION KINX NEXRAD MC3E V1"
+},
+{
+"id": "gpmklgx2olyx.v1",
+"title": "GPM Ground Validation KLGX NEXRAD OLYMPEX V1"
+},
+{
+"id": "gpmkltx2iphx.v1",
+"title": "GPM Ground Validation KLTX NEXRAD IPHEx V1"
+},
+{
+"id": "gpmkmhx2iphx.v1",
+"title": "GPM Ground Validation KMHX NEXRAD IPHEx V1"
+},
+{
+"id": "gpmkmrx2iphx.v1",
+"title": "GPM Ground Validation KMRX NEXRAD IPHEx V1"
+},
+{
+"id": "gpmkrax2iphx.v1",
+"title": "GPM Ground Validation KRAX NEXRAD IPHEx V1"
+},
+{
+"id": "gpmkrtx2olyx.v1",
+"title": "GPM Ground Validation KRTX NEXRAD OLYMPEX V1"
+},
+{
+"id": "gpmktlxmc3e.v1",
+"title": "GPM GROUND VALIDATION KTLX NEXRAD MC3E V1"
+},
+{
+"id": "gpmktwxmc3e.v1",
+"title": "GPM GROUND VALIDATION KTWX NEXRAD MC3E V1"
+},
+{
+"id": "gpmktyxgcpex.v1",
+"title": "GPM GROUND VALIDATION KTYX NEXRAD GCPEX V1"
+},
+{
+"id": "gpmmastmetlpvex.v1",
+"title": "GPM Ground Validation Kumpula Mast Meteorological Data LPVEx V1"
+},
+{
+"id": "gpmkvnxmc3e.v1",
+"title": "GPM GROUND VALIDATION KVNX NEXRAD MC3E V1"
+},
+{
+"id": "gpmlipiphx.v1",
+"title": "GPM Ground Validation Lightning Instrument Package (LIP) IPHEx V1"
+},
+{
+"id": "gpmvertixgcpex.v1",
+"title": "GPM GROUND VALIDATION MCGILL VERTICAL POINTING X-BAND (VERTIX) RADAR GCPEX V1"
+},
+{
+"id": "gpmwbandgcpex.v1",
+"title": "GPM GROUND VALIDATION MCGILL W-BAND RADAR GCPEX V1"
+},
+{
+"id": "gpmrgnaifld2.v2",
+"title": "GPM GROUND VALIDATION MET ONE RAIN GAUGE PAIRS IFLOODS V2"
+},
+{
+"id": "gpmrgnaiphx2.v2",
+"title": "GPM GROUND VALIDATION MET ONE RAIN GAUGE PAIRS IPHEX V2"
+},
+{
+"id": "gpmrgnaolyx.v1",
+"title": "GPM Ground Validation Met One Rain Gauge Pairs OLYMPEX V1"
+},
+{
+"id": "gpmgaugewff.v1",
+"title": "GPM Ground Validation Met One Rain Gauge Pairs Wallops Flight Facility (WFF) V1"
+},
+{
+"id": "gpmmettecgcpex.v1",
+"title": "GPM GROUND VALIDATION METEOROLOGICAL TOWER ENVIRONMENT CANADA GCPEX V1"
+},
+{
+"id": "gpmmrricepop.v1",
+"title": "GPM Ground Validation Micro Rain Radar (MRR) ICE POP V1"
+},
+{
+"id": "gpmmrrlpvex.v1",
+"title": "GPM Ground Validation Micro Rain Radar (MRR) LPVEx V1"
+},
+{
+"id": "gpmmrrnaachiphx.v1",
+"title": "GPM GROUND VALIDATION MICRO RAIN RADAR (MRR) NASA ACHIEVE IPHEX V1"
+},
+{
+"id": "gpmmrrhymex.v1",
+"title": "GPM GROUND VALIDATION MICRO RAIN RADAR (MRR) NASA HYMEX V1"
+},
+{
+"id": "gpmmrrnaifld.v1",
+"title": "GPM GROUND VALIDATION MICRO RAIN RADAR (MRR) NASA IFLOODS V1"
+},
+{
+"id": "gpmmrrnaiphx.v1",
+"title": "GPM GROUND VALIDATION MICRO RAIN RADAR (MRR) NASA IPHEX V1"
+},
+{
+"id": "gpmmrrolyx.v1",
+"title": "GPM Ground Validation Micro Rain Radar (MRR) OLYMPEX V1"
+},
+{
+"id": "gpmmascolyx.v1",
+"title": "GPM Ground Validation Microwave Atmospheric Sounder on Cubesat (MASC) OLYMPEX V1"
+},
+{
+"id": "gpmmisrepgcpex.v1",
+"title": "GPM GROUND VALIDATION MISSION REPORTS GCPEX V1"
+},
+{
+"id": "gpmmrms.v1",
+"title": "GPM Ground Validation Multi-Radar/Multi-Sensor (MRMS) Precipitation Reanalysis for Satellite Validation Product V1"
+},
+{
+"id": "gpmepfl.v1",
+"title": "GPM Ground Validation NASA EPFL-LTE Parsivel DSD Data Lausanne, Switzerland"
+},
+{
+"id": "gpmnaver2iphx.v1",
+"title": "GPM Ground Validation NASA ER-2 Navigation Data IPHEx"
+},
+{
+"id": "gpmer2navmc3e.v1",
+"title": "GPM GROUND VALIDATION NASA ER-2 NAVIGATION DATA MC3E"
+},
+{
+"id": "gpmnaver2olyx.v1",
+"title": "GPM Ground Validation NASA ER-2 Navigation Data OLYMPEX"
+},
+{
+"id": "gpmmrrnagcpex2.v2",
+"title": "GPM GROUND VALIDATION NASA MICRO RAIN RADAR (MRR) GCPEX"
+},
+{
+"id": "gpmmrrnamc3e.v1",
+"title": "GPM GROUND VALIDATION NASA MICRO RAIN RADAR (MRR) MC3E"
+},
+{
+"id": "gpmnpolifld2.v2",
+"title": "GPM GROUND VALIDATION NASA S-BAND DUAL POLARIMETRIC (NPOL) DOPPLER RADAR IFLOODS"
+},
+{
+"id": "gpmnpoliphx.v1",
+"title": "GPM Ground Validation NASA S-Band Dual Polarimetric (NPOL) Doppler Radar IPHEx"
+},
+{
+"id": "gpmnpolmc3e.v1",
+"title": "GPM GROUND VALIDATION NASA S-BAND DUAL POLARIMETRIC (NPOL) DOPPLER RADAR MC3E"
+},
+{
+"id": "gpmnpololyx2.v2",
+"title": "GPM Ground Validation NASA S-Band Dual Polarimetric (NPOL) Doppler Radar OLYMPEX"
+},
+{
+"id": "gpmnpolwff.v1",
+"title": "GPM Ground Validation NASA S-Band Dual Polarimetric (NPOL) Doppler Radar Wallops Flight Facility (WFF)"
+},
+{
+"id": "gpmwacrc3vp.v1",
+"title": "GPM Ground Validation NASA W-band Aircraft Cloud Radar (WACR) C3VP"
+},
+{
+"id": "gpmnmqifld.v1",
+"title": "GPM Ground Validation National Mosaic and Multi-Sensor QPE (NMQ) System IFloodS"
+},
+{
+"id": "gpmnmqiphx.v1",
+"title": "GPM Ground Validation National Mosaic and Multi-Sensor QPE (NMQ) System IPHEx"
+},
+{
+"id": "gpmnrlrtifld.v1",
+"title": "GPM Ground Validation Naval Research Laboratory (NRL) Near-Real Time Rain Rates IFloodS"
+},
+{
+"id": "gpmnavdc8olyx.v1",
+"title": "GPM Ground Validation Navigation Data DC-8 OLYMPEX"
+},
+{
+"id": "gpmparprbgcpex.v1",
+"title": "GPM GROUND VALIDATION NCAR CLOUD MICROPHYSICS PARTICLE PROBES GCPEX"
+},
+{
+"id": "gpmparprbmc3e.v1",
+"title": "GPM GROUND VALIDATION NCAR CLOUD MICROPHYSICS PARTICLE PROBES MC3E"
+},
+{
+"id": "gpmparprbiphx.v1",
+"title": "GPM Ground Validation NCAR Particle Probes IPHEx"
+},
+{
+"id": "gpmparprbolyx.v1",
+"title": "GPM Ground Validation NCAR Particle Probes OLYMPEX"
+},
+{
+"id": "gpmkarx2ifld.v1",
+"title": "GPM GROUND VALIDATION NEXRAD LEVEL II KARX IFLOODS"
+},
+{
+"id": "gpmkdmx2ifld.v1",
+"title": "GPM GROUND VALIDATION NEXRAD LEVEL II KDMX IFLOODS"
+},
+{
+"id": "gpmkdvn2ifld.v1",
+"title": "GPM GROUND VALIDATION NEXRAD LEVEL II KDVN IFLOODS"
+},
+{
+"id": "gpmkmpx2ifld.v1",
+"title": "GPM GROUND VALIDATION NEXRAD LEVEL II KMPX IFLOODS"
+},
+{
+"id": "gpmkarx3ifld.v1",
+"title": "GPM Ground Validation NEXRAD Level III KARX IFloodS"
+},
+{
+"id": "gpmkdmx3ifld.v1",
+"title": "GPM Ground Validation NEXRAD Level III KDMX IFloodS"
+},
+{
+"id": "gpmkdvn3ifld.v1",
+"title": "GPM Ground Validation NEXRAD Level III KDVN IFloodS"
+},
+{
+"id": "gpmkmpx3ifld.v1",
+"title": "GPM Ground Validation NEXRAD Level III KMPX IFloodS"
+},
+{
+"id": "gpmcmorphnifld.v1",
+"title": "GPM GROUND VALIDATION NOAA CPC MORPHING TECHNIQUE (CMORPH) IFLOODS"
+},
+{
+"id": "gpmcmorphniphx.v1",
+"title": "GPM GROUND VALIDATION NOAA CPC MORPHING TECHNIQUE (CMORPH) IPHEX"
+},
+{
+"id": "gpmpanoaamc3e.v1",
+"title": "GPM GROUND VALIDATION NOAA PARSIVEL MC3E"
+},
+{
+"id": "gpmsbdminmc3e.v1",
+"title": "GPM GROUND VALIDATION NOAA S-BAND PROFILER MINUTE DATA MC3E"
+},
+{
+"id": "gpmsbdorgmc3e.v1",
+"title": "GPM GROUND VALIDATION NOAA S-BAND PROFILER ORIGINAL DWELL DATA MC3E"
+},
+{
+"id": "gpmsbdrwncmc3e.v1",
+"title": "GPM GROUND VALIDATION NOAA S-BAND PROFILER RAW DATA NETCDF FORMAT MC3E"
+},
+{
+"id": "gpmsbdrwspcmc3e.v1",
+"title": "GPM GROUND VALIDATION NOAA S-BAND PROFILER RAW DATA SPC FORMAT MC3E"
+},
+{
+"id": "gpmsurmetmc3e.v1",
+"title": "GPM GROUND VALIDATION NOAA SURFACE METEOROLOGICAL STATION MC3E"
+},
+{
+"id": "gpmuhfnoaamc3e.v1",
+"title": "GPM GROUND VALIDATION NOAA UHF 449 PROFILER MC3E"
+},
+{
+"id": "gpmnoxpiphx.v1",
+"title": "GPM Ground Validation NOAA X-band Polarimetric Radar (NOXP) IPHEx"
+},
+{
+"id": "gpmoumesmc3e.v1",
+"title": "GPM GROUND VALIDATION OKLAHOMA CLIMATOLOGICAL SURVEY MESONET MC3E"
+},
+{
+"id": "gpmodmlpvex.v1",
+"title": "GPM Ground Validation Optical Disdrometer (ODM) LPVEx"
+},
+{
+"id": "gpmpal.v1",
+"title": "GPM Ground Validation Passive Aquatic Listener (PAL)"
+},
+{
+"id": "gpmpawneemc3e.v1",
+"title": "GPM GROUND VALIDATION PAWNEE RADAR MC3E"
+},
+{
+"id": "gpmpmastmetlpvex.v1",
+"title": "GPM Ground Validation Physicum Building Mast Meteorological Data LPVEx"
+},
+{
+"id": "gpmplgcpex.v1",
+"title": "GPM GROUND VALIDATION PLUVIO PRECIPITATION GAUGE GCPEX"
+},
+{
+"id": "gpmpllpvex.v1",
+"title": "GPM GROUND VALIDATION PLUVIO PRECIPITATION GAUGE LPVEX"
+},
+{
+"id": "gpmplolyx.v1",
+"title": "GPM Ground Validation Pluvio Precipitation Gauges OLYMPEX"
+},
+{
+"id": "gpmpersucifld.v1",
+"title": "GPM Ground Validation Precipitation Estimation from Remotely Sensed Information using Artificial Neural Networks Cloud Classification System (PERSIANN-CCS) IFloodS"
+},
+{
+"id": "gpmpipicepop.v1",
+"title": "GPM Ground Validation Precipitation Imaging Package (PIP) ICE POP V1"
+},
+{
+"id": "gpmposslpvex.v1",
+"title": "GPM Ground Validation Precipitation Occurrence Sensor System (POSS) LPVEx V1"
+},
+{
+"id": "gpmpvigcpex.v1",
+"title": "GPM GROUND VALIDATION PRECIPITATION VIDEO IMAGER (PVI) GCPEX V1"
+},
+{
+"id": "gpmpvilpvex.v1",
+"title": "GPM Ground Validation Precipitation Video Imager (PVI) LPVEx V1"
+},
+{
+"id": "gpmrgnamc3e2.v2",
+"title": "GPM GROUND VALIDATION RAIN GAUGE PAIRS MC3E V2"
+},
+{
+"id": "gpmrgachiphx.v1",
+"title": "GPM Ground Validation Rain Gauges NASA ACHIEVE IPHEx V1"
+},
+{
+"id": "gpmparawifld.v1",
+"title": "GPM Ground Validation Raw Autonomous Parsivel Unit (APU) IFloodS V1"
+},
+{
+"id": "gpmrefpreiphx.v1",
+"title": "GPM Ground Validation Reference Precipitation IPHEx V1"
+},
+{
+"id": "gpmrefifld.v1",
+"title": "GPM Ground Validation Reference Rainfall Data Product IFloodS V1"
+},
+{
+"id": "gpmsatpaifld.v1",
+"title": "GPM Ground Validation Satellite Overpasses IFloodS V1"
+},
+{
+"id": "gpmsimorbc3vp.v1",
+"title": "GPM GROUND VALIDATION SATELLITE SIMULATED ORBITS C3VP V1"
+},
+{
+"id": "gpmsimorblpvex.v1",
+"title": "GPM GROUND VALIDATION SATELLITE SIMULATED ORBITS LPVEX V1"
+},
+{
+"id": "gpmsimorbmc3e.v1",
+"title": "GPM GROUND VALIDATION SATELLITE SIMULATED ORBITS MC3E V1"
+},
+{
+"id": "gpmsimorbtwpice.v1",
+"title": "GPM GROUND VALIDATION SATELLITE SIMULATED ORBITS TWP-ICE V1"
+},
+{
+"id": "gpmseafluxicepop.v1",
+"title": "GPM Ground Validation SEA FLUX ICE POP V1"
+},
+{
+"id": "gpmscampriphx.v1",
+"title": "GPM Ground Validation Self-Calibrating Multivariate Precipitation Retrieval (SCaMPR) IPHEx V1"
+},
+{
+"id": "gpmsnowolyx.v1",
+"title": "GPM Ground Validation Snow Depth Monitoring System OLYMPEX V1"
+},
+{
+"id": "gpmrgsaiphx.v1",
+"title": "GPM Ground Validation Southern Appalachian Rain Gauge IPHEx V1"
+},
+{
+"id": "gpmsslpvex.v1",
+"title": "GPM GROUND VALIDATION SPECIAL SENSOR MICROWAVE IMAGER/SOUNDER (SSMI/S) LPVEX V1"
+},
+{
+"id": "gpmsurmetc3vp.v1",
+"title": "GPM Ground Validation Surface Meteorological Station C3VP V1"
+},
+{
+"id": "gpmtpshpgcpex.v1",
+"title": "GPM GROUND VALIDATION TOTAL PRECIPITATION SENSOR (HOTPLATE) GCPEX V1"
+},
+{
+"id": "gpmasinaiphx.v1",
+"title": "GPM GROUND VALIDATION TOTAL SKY IMAGER IPHEX V1"
+},
+{
+"id": "gpmtrm2A25iphx.v7",
+"title": "GPM Ground Validation TRMM 2A25 NRT Precipitation Radar IPHEx V7"
+},
+{
+"id": "gpmtmpaifld.v7",
+"title": "GPM Ground Validation TRMM Multi-satellite Precipitation Analysis (TMPA) IFloodS V7"
+},
+{
+"id": "gpmtmpaiphx.v7",
+"title": "GPM Ground Validation TRMM Multi-satellite Precipitation Analysis (TMPA) IPHEx V7"
+},
+{
+"id": "gpm2dc3vp.v1",
+"title": "GPM Ground Validation Two-Dimensional Video Disdrometer (2DVD) C3VP V1"
+},
+{
+"id": "gpm2dgcpex.v1",
+"title": "GPM GROUND VALIDATION TWO-DIMENSIONAL VIDEO DISDROMETER (2DVD) GCPEX V1"
+},
+{
+"id": "gpm2dhymex.v1",
+"title": "GPM GROUND VALIDATION TWO-DIMENSIONAL VIDEO DISDROMETER (2DVD) HYMEX V1"
+},
+{
+"id": "gpm2difld.v1",
+"title": "GPM GROUND VALIDATION TWO-DIMENSIONAL VIDEO DISDROMETER (2DVD) IFLOODS V1"
+},
+{
+"id": "gpm2diphx.v1",
+"title": "GPM GROUND VALIDATION TWO-DIMENSIONAL VIDEO DISDROMETER (2DVD) IPHEX V1"
+},
+{
+"id": "gpm2dlpvex.v1",
+"title": "GPM GROUND VALIDATION TWO-DIMENSIONAL VIDEO DISDROMETER (2DVD) LPVEX V1"
+},
+{
+"id": "gpm2dmc3e.v1",
+"title": "GPM GROUND VALIDATION TWO-DIMENSIONAL VIDEO DISDROMETER (2DVD) MC3E V1"
+},
+{
+"id": "gpm2dnsstc.v1",
+"title": "GPM GROUND VALIDATION TWO-DIMENSIONAL VIDEO DISDROMETER (2DVD) NSSTC V1"
+},
+{
+"id": "gpm2dvdolyx.v1",
+"title": "GPM Ground Validation Two-Dimensional Video Disdrometer (2DVD) OLYMPEX V1"
+},
+{
+"id": "gpm2dwff2.v2",
+"title": "GPM Ground Validation Two-Dimensional Video Disdrometer (2DVD) WFF V2"
+},
+{
+"id": "gpmradioiphx.v1",
+"title": "GPM Ground Validation UNCA Upper Air Radiosonde IPHEx V1"
+},
+{
+"id": "gpmcmgcpex2.v2",
+"title": "GPM GROUND VALIDATION UND CITATION CLOUD MICROPHYSICS GCPEX V2"
+},
+{
+"id": "gpmcmiphx.v1",
+"title": "GPM GROUND VALIDATION UND CITATION CLOUD MICROPHYSICS IPHEx V1"
+},
+{
+"id": "gpmcmmc3e.v1",
+"title": "GPM GROUND VALIDATION UND CITATION CLOUD MICROPHYSICS MC3E V1"
+},
+{
+"id": "gpmcmolyx.v1",
+"title": "GPM Ground Validation UND Citation Cloud Microphysics OLYMPEX V1"
+},
+{
+"id": "gpmnavcitgcpex2.v2",
+"title": "GPM GROUND VALIDATION UND CITATION NAVIGATION DATA GCPEX V2"
+},
+{
+"id": "gpmnavcitiphx.v1",
+"title": "GPM GROUND VALIDATION UND CITATION NAVIGATION DATA IPHEx V1"
+},
+{
+"id": "gpmnavcitmc3e.v1",
+"title": "GPM GROUND VALIDATION UND CITATION NAVIGATION DATA MC3E V1"
+},
+{
+"id": "gpmnavcitolyx.v1",
+"title": "GPM Ground Validation UND Citation Navigation Data OLYMPEX V1"
+},
+{
+"id": "gpmsondelpvex.v1",
+"title": "GPM Ground Validation Upper Air Radiosonde LPVEx V1"
+},
+{
+"id": "gpmsondeolyx.v1",
+"title": "GPM Ground Validation Upper Air Radiosonde OLYMPEX V1"
+},
+{
+"id": "gpmarsifld.v1",
+"title": "GPM Ground Validation USDA ARS Soil Moisture IFloodS V1"
+},
+{
+"id": "gpmsgusgsifld.v1",
+"title": "GPM Ground Validation USGS Stream Flow IFloodS V1"
+},
+{
+"id": "gpmceiliphx.v1",
+"title": "GPM GROUND VALIDATION VAISALA CEILOMETER IPHEx V1"
+},
+{
+"id": "gpmvn.v1",
+"title": "GPM Ground Validation Validation Network (VN) V1"
+},
+{
+"id": "gpmwrfmc3e.v1",
+"title": "GPM Ground Validation Weather Research and Forecasting (WRF) Images MC3E V1"
+},
+{
+"id": "gpmwrflpvex.v1",
+"title": "GPM Ground Validation Weather Research and Forecasting (WRF) Model LPVEx V1"
+},
+{
+"id": "gpmwcrlpvex.v2",
+"title": "GPM GROUND VALIDATION WYOMING CLOUD RADAR (WCR) LPVEX V2"
+},
+{
+"id": "gpmwkacmlpvex.v1",
+"title": "GPM GROUND VALIDATION WYOMING KING AIR CLOUD MICROPHYSICS LPVEX V1"
+},
+{
+"id": "gripapr2.v1",
+"title": "GRIP AIRBORNE SECOND GENERATION PRECIPITATION RADAR (APR-2) V1"
+},
+{
+"id": "gripradio.v1",
+"title": "GRIP BARBADOS/CAPE VERDE RADIOSONDE V1"
+},
+{
+"id": "gripmisrep.v1",
+"title": "GRIP CAMPAIGN REPORTS V1"
+},
+{
+"id": "gripcaps.v1",
+"title": "GRIP CLOUD MICROPHYSICS V1"
+},
+{
+"id": "gripdropdc83.v3",
+"title": "GRIP DC-8 DROPSONDE V3"
+},
+{
+"id": "gripmms.v1",
+"title": "GRIP DC-8 METEOROLOGICAL MEASUREMENT SYSTEM (MMS) V1"
+},
+{
+"id": "gripnavdc8.v1",
+"title": "GRIP DC-8 NAVIGATION AND HOUSEKEEPING DATA V1"
+},
+{
+"id": "gripdawn.v1",
+"title": "GRIP DOPPLER AEROSOL WIND LIDAR (DAWN) V1"
+},
+{
+"id": "gripflt.v1",
+"title": "GRIP FLIGHT TRACKS AND ANIMATIONS V1"
+},
+{
+"id": "gripnavgh.v1",
+"title": "GRIP GLOBAL HAWK NAVIGATION AND HOUSEKEEPING DATA V1"
+},
+{
+"id": "gripgoes11B.v1",
+"title": "GRIP GOES 11 VISIBLE AND INFRARED IMAGES V1"
+},
+{
+"id": "gripgoesot.v1",
+"title": "GRIP GOES 13 OVERSHOOTING TOP V1"
+},
+{
+"id": "gripgoes13B.v1",
+"title": "GRIP GOES 13 VISIBLE AND INFRARED IMAGES V1"
+},
+{
+"id": "griphiwrap.v1",
+"title": "GRIP HIGH ALTITUDE IMAGING WIND AND RAIN AIRBORNE PROFILER (HIWRAP) V1"
+},
+{
+"id": "griphamsr.v1",
+"title": "GRIP HIGH-ALTITUDE MMIC SOUNDING RADIOMETER (HAMSR) V1"
+},
+{
+"id": "gripstorm.v1",
+"title": "GRIP Hurricane and Tropical Storm Forecasts V1"
+},
+{
+"id": "griphirad.v0",
+"title": "GRIP HURRICANE IMAGING RADIOMETER (HIRAD) V0"
+},
+{
+"id": "griphirad1.v1",
+"title": "GRIP HURRICANE IMAGING RADIOMETER (HIRAD) V1"
+},
+{
+"id": "griplarge.v1",
+"title": "GRIP LANGLEY AEROSOL RESEARCH GROUP EXPERIMENT (LARGE) V1"
+},
+{
+"id": "griplase.v1",
+"title": "GRIP LIDAR ATMOSPHERIC SENSING EXPERIMENT (LASE) V1"
+},
+{
+"id": "griplip.v1",
+"title": "GRIP LIGHTNING INSTRUMENT PACKAGE (LIP) V1"
+},
+{
+"id": "gripmsg.v1",
+"title": "GRIP METEOSAT SECOND GENERATION (MSG) IMAGE DATA V1"
+},
+{
+"id": "gripghis.v1",
+"title": "GRIP NOAA GLOBAL HAWK IN-FLIGHT TURBULENCE SENSOR (GHIS) V1"
+},
+{
+"id": "gripnavwb57.v1",
+"title": "GRIP WB-57 NAVIGATION AND HOUSEKEEPING DATA V1"
+},
+{
+"id": "hiwrapimpacts.v1",
+"title": "High Altitude Imaging Wind and Rain Airborne Profiler (HIWRAP) IMPACTS"
+},
+{
+"id": "hamsrcpex.v1",
+"title": "High Altitude MMIC Sounding Radiometer (HAMSR) CPEX V1"
+},
+{
+"id": "hamsrcpexaw.v1",
+"title": "High Altitude MMIC Sounding Radiometer (HAMSR) CPEX-AW V1"
+},
+{
+"id": "hamsrcpexcv.v1",
+"title": "High Altitude MMIC Sounding Radiometer (HAMSR) CPEX-CV"
+},
+{
+"id": "hamsrepoch.v1",
+"title": "High Altitude MMIC Sounding Radiometer (HAMSR) EPOCH V1"
+},
+{
+"id": "hiwat.v1",
+"title": "High-Impact Weather Assessment Toolkit (HIWAT)"
+},
+{
+"id": "hs3nrltrop.v1",
+"title": "Hurricane and Severe Storm Sentinel (HS3)  Naval Research Laboratory (NRL) Tropics Satellite Data V1"
+},
+{
+"id": "hs3cimssbt.v1",
+"title": "Hurricane and Severe Storm Sentinel (HS3) Cooperative Institute for Meteorological Satellite Studies (CIMSS) Brightness Temperature V1"
+},
+{
+"id": "hs3cimsscth.v1",
+"title": "Hurricane and Severe Storm Sentinel (HS3) Cooperative Institute for Meteorological Satellite Studies (CIMSS) Cloud Top Height V1"
+},
+{
+"id": "hs3cimsstot.v1",
+"title": "Hurricane and Severe Storm Sentinel (HS3) Cooperative Institute for Meteorological Satellite Studies (CIMSS) Tropical Overshooting Tops V1"
+},
+{
+"id": "hs3fltrep.v1",
+"title": "HURRICANE AND SEVERE STORM SENTINEL (HS3) FLIGHT REPORTS V1"
+},
+{
+"id": "hs3avaps2.v2",
+"title": "HURRICANE AND SEVERE STORM SENTINEL (HS3) GLOBAL HAWK ADVANCED VERTICAL ATMOSPHERIC PROFILING SYSTEM (AVAPS) DROPSONDE SYSTEM V2"
+},
+{
+"id": "hs3cpl.v1",
+"title": "HURRICANE AND SEVERE STORM SENTINEL (HS3) GLOBAL HAWK CLOUD PHYSICS LIDAR (CPL) V1"
+},
+{
+"id": "hs3hamsr.v1",
+"title": "HURRICANE AND SEVERE STORM SENTINEL (HS3) GLOBAL HAWK HIGH ALTITUDE MMIC SOUNDING RADIOMETER (HAMSR) V1"
+},
+{
+"id": "hs3navgh.v1",
+"title": "HURRICANE AND SEVERE STORM SENTINEL (HS3) GLOBAL HAWK NAVIGATION V1"
+},
+{
+"id": "hs3gmaodustaot.v1",
+"title": "Hurricane and Severe Storm Sentinel (HS3) Global Modeling and Assimilation Office (GMAO) Dust Aerosol Optical Thickness Imagery V1"
+},
+{
+"id": "hs3hiwrap.v1",
+"title": "HURRICANE AND SEVERE STORM SENTINEL (HS3) HIGH-ALTITUDE IMAGING WIND AND RAIN AIRBORNE PROFILER (HIWRAP) V1"
+},
+{
+"id": "hs3hirad.v1",
+"title": "HURRICANE AND SEVERE STORM SENTINEL (HS3) HURRICANE IMAGING RADIOMETER (HIRAD) V1"
+},
+{
+"id": "hs3shis.v1",
+"title": "Hurricane and Severe Storm Sentinel (HS3) Scanning High-Resolution Interferometer Sounder (S-HIS) V1"
+},
+{
+"id": "hs3ships.v1",
+"title": "Hurricane and Severe Storm Sentinel (HS3) Statistical Hurricane Intensity Prediction Scheme (SHIPS) Intensity V1"
+},
+{
+"id": "hs3wwlln.v1",
+"title": "HURRICANE AND SEVERE STORM SENTINEL (HS3) WORLD WIDE LIGHTNING LOCATION NETWORK (WWLLN) STORMS V1"
+},
+{
+"id": "globalir.v1",
+"title": "INFRARED GLOBAL GEOSTATIONARY COMPOSITE V1"
+},
+{
+"id": "imergcpex.v1",
+"title": "Integrated Multi-satellitE Retrievals for GPM (IMERG) CPEX V1"
+},
+{
+"id": "kakqimpacts.v1",
+"title": "KAKQ NEXRAD IMPACTS V1"
+},
+{
+"id": "kbgmimpacts.v1",
+"title": "KBGM NEXRAD IMPACTS V1"
+},
+{
+"id": "kboximpacts.v1",
+"title": "KBOX NEXRAD IMPACTS V1"
+},
+{
+"id": "kbufimpacts.v1",
+"title": "KBUF NEXRAD IMPACTS V1"
+},
+{
+"id": "kccximpacts.v1",
+"title": "KCCX NEXRAD IMPACTS V1"
+},
+{
+"id": "kcleimpacts.v1",
+"title": "KCLE NEXRAD IMPACTS V1"
+},
+{
+"id": "kcxximpacts.v1",
+"title": "KCXX NEXRAD IMPACTS V1"
+},
+{
+"id": "kdiximpacts.v1",
+"title": "KDIX NEXRAD IMPACTS V1"
+},
+{
+"id": "kdoximpacts.v1",
+"title": "KDOX NEXRAD IMPACTS V1"
+},
+{
+"id": "kdtximpacts.v1",
+"title": "KDTX NEXRAD IMPACTS V1"
+},
+{
+"id": "kdvnimpacts.v1",
+"title": "KDVN NEXRAD IMPACTS V1"
+},
+{
+"id": "kenximpacts.v1",
+"title": "KENX NEXRAD IMPACTS V1"
+},
+{
+"id": "kfcximpacts.v1",
+"title": "KFCX NEXRAD IMPACTS V1"
+},
+{
+"id": "kgrbimpacts.v1",
+"title": "KGRB NEXRAD IMPACTS V1"
+},
+{
+"id": "kgrrimpacts.v1",
+"title": "KGRR NEXRAD IMPACTS V1"
+},
+{
+"id": "kgyximpacts.v1",
+"title": "KGYX NEXRAD IMPACTS V1"
+},
+{
+"id": "kilnimpacts.v1",
+"title": "KILN NEXRAD IMPACTS V1"
+},
+{
+"id": "kilximpacts.v1",
+"title": "KILX NEXRAD IMPACTS V1"
+},
+{
+"id": "kindimpacts.v1",
+"title": "KIND NEXRAD IMPACTS V1"
+},
+{
+"id": "kiwximpacts.v1",
+"title": "KIWX NEXRAD IMPACTS V1"
+},
+{
+"id": "kjklimpacts.v1",
+"title": "KJKL NEXRAD IMPACTS V1"
+},
+{
+"id": "klotimpacts.v1",
+"title": "KLOT NEXRAD IMPACTS V1"
+},
+{
+"id": "klwximpacts.v1",
+"title": "KLWX NEXRAD IMPACTS V1"
+},
+{
+"id": "kmhximpacts.v1",
+"title": "KMHX NEXRAD IMPACTS V1"
+},
+{
+"id": "kmkximpacts.v1",
+"title": "KMKX NEXRAD IMPACTS V1"
+},
+{
+"id": "kokximpacts.v1",
+"title": "KOKX NEXRAD IMPACTS V1"
+},
+{
+"id": "kpbzimpacts.v1",
+"title": "KPBZ NEXRAD IMPACTS V1"
+},
+{
+"id": "kraximpacts.v1",
+"title": "KRAX NEXRAD IMPACTS V1"
+},
+{
+"id": "krlximpacts.v1",
+"title": "KRLX NEXRAD IMPACTS V1"
+},
+{
+"id": "kscmill.v1",
+"title": "KSC ADVANCED GROUND BASED FIELD MILL V1"
+},
+{
+"id": "ktyximpacts.v1",
+"title": "KTYX NEXRAD IMPACTS V1"
+},
+{
+"id": "kvwximpacts.v1",
+"title": "KVWX NEXRAD IMPACTS V1"
+},
+{
+"id": "ldarraw.v1",
+"title": "LIGHTNING DETECTION AND RANGING (LDAR) RAW DATA V1"
+},
+{
+"id": "lislipG.v4",
+"title": "Lightning Imaging Sensor (LIS) on TRMM Backgrounds V4"
+},
+{
+"id": "lislip.v4",
+"title": "Lightning Imaging Sensor (LIS) on TRMM Science Data V4"
+},
+{
+"id": "lipimpacts.v2",
+"title": "Lightning Instrument Package (LIP) IMPACTS V2"
+},
+{
+"id": "lisvhrac.v1",
+"title": "LIS 0.1 DEGREE VERY HIGH RESOLUTION GRIDDED LIGHTNING ANNUAL CLIMATOLOGY (VHRAC) V1"
+},
+{
+"id": "lisvhrdc.v1",
+"title": "LIS 0.1 DEGREE VERY HIGH RESOLUTION GRIDDED LIGHTNING DIURNAL CLIMATOLOGY (VHRDC) V1"
+},
+{
+"id": "lisvhrfc.v1",
+"title": "LIS 0.1 DEGREE VERY HIGH RESOLUTION GRIDDED LIGHTNING FULL CLIMATOLOGY (VHRFC) V1"
+},
+{
+"id": "lisvhrmc.v1",
+"title": "LIS 0.1 DEGREE VERY HIGH RESOLUTION GRIDDED LIGHTNING MONTHLY CLIMATOLOGY (VHRMC) V1"
+},
+{
+"id": "lisvhrsc.v1",
+"title": "LIS 0.1 DEGREE VERY HIGH RESOLUTION GRIDDED LIGHTNING SEASONAL CLIMATOLOGY (VHRSC) V1"
+},
+{
+"id": "lohrac.v2.3.2015",
+"title": "LIS/OTD 0.5 Degree High Resolution Annual Climatology (HRAC) V2.3.2015"
+},
+{
+"id": "lohrfc.v2.3.2015",
+"title": "LIS/OTD 0.5 Degree High Resolution Full Climatology (HRFC) V2.3.2015"
+},
+{
+"id": "lohrmc.v2.3.2015",
+"title": "LIS/OTD 0.5 Degree High Resolution Monthly Climatology (HRMC) V2.3.2015"
+},
+{
+"id": "lolrac.v2.3.2015",
+"title": "LIS/OTD 2.5 Degree Low Resolution Annual Climatology (LRAC) V2.3.2015"
+},
+{
+"id": "lolracts.v2.3.2015",
+"title": "LIS/OTD 2.5 Degree Low Resolution Annual Climatology Time Series (LRACTS) V2.3.2015"
+},
+{
+"id": "lolradc.v2.3.2015",
+"title": "LIS/OTD 2.5 Degree Low Resolution Annual Diurnal Climatology (LRADC) V2.3.2015"
+},
+{
+"id": "lolrdc.v2.3.2015",
+"title": "LIS/OTD 2.5 Degree Low Resolution Diurnal Climatology (LRDC) V2.3.2015"
+},
+{
+"id": "lolrfc.v2.3.2015",
+"title": "LIS/OTD 2.5 Degree Low Resolution Full Climatology (LRFC) V2.3.2015"
+},
+{
+"id": "lolrmts.v2.3.2015",
+"title": "LIS/OTD 2.5 Degree Low Resolution Monthly Climatology Time Series (LRMTS) V2.3.2015"
+},
+{
+"id": "lolrts.v2.3.2015",
+"title": "LIS/OTD 2.5 Degree Low Resolution Time Series (LRTS) V2.3.2015"
+},
+{
+"id": "masccpex.v1",
+"title": "Microwave Atmospheric Sounder on Cubesat (MASC) CPEX V1"
+},
+{
+"id": "musondeimpacts.v1",
+"title": "Millersville University Upper Air Radiosondes IMPACTS V1"
+},
+{
+"id": "misrepcpexaw.v1",
+"title": "Mission Reports CPEX-AW V1"
+},
+{
+"id": "misrepimpacts.v1",
+"title": "Mission Reports IMPACTS"
+},
+{
+"id": "uiucsndimpacts.v1",
+"title": "Mobile UIUC Soundings IMPACTS V1"
+},
+{
+"id": "modiscpex.v1",
+"title": "Moderate Resolution Imaging Spectroradiometer (MODIS) CPEX V1"
+},
+{
+"id": "mrmsimpacts.v1",
+"title": "Multi-Radar/Multi-Sensor (MRMS) Precipitation Reanalysis for Satellite Validation Product IMPACTS V1"
+},
+{
+"id": "namukatd.v1",
+"title": "NAMMA ATD LIGHTNING DATA V1"
+},
+{
+"id": "namcobalt.v1",
+"title": "NAMMA CARBON MONOXIDE BY ATTENUATED LASER TRANSMISSION (COBALT) V1"
+},
+{
+"id": "namcaps.v1",
+"title": "NAMMA CLOUD MICROPHYSICS (CAPS-PIP) V1"
+},
+{
+"id": "namcvi.v1",
+"title": "NAMMA CVI CLOUD CONDENSED WATER CONTENT V1"
+},
+{
+"id": "namdrop.v1",
+"title": "NAMMA DC-8 DROPSONDE V1"
+},
+{
+"id": "nammms.v1",
+"title": "NAMMA DC-8 METEOROLOGICAL MEASUREMENT SYSTEM (MMS) V1"
+},
+{
+"id": "namdc8nav.v1",
+"title": "NAMMA DC-8 NAVIGATION AND HOUSEKEEPING (ICATS) V1"
+},
+{
+"id": "namdlh.v1",
+"title": "NAMMA DIODE LASER HYGROMETER (DLH) V1"
+},
+{
+"id": "namhamsr.v1",
+"title": "NAMMA HIGH ALTITUDE MMIC SOUNDING RADIOMETER (HAMSR) V1"
+},
+{
+"id": "namlarge.v1",
+"title": "NAMMA LANGLEY AEROSOL RESEARCH GROUP EXPERIMENT (LARGE) V1"
+},
+{
+"id": "namlargen.v1",
+"title": "NAMMA LANGLEY AEROSOL RESEARCH GROUP EXPERIMENT NAVIGATION DATA V1"
+},
+{
+"id": "namlase.v1",
+"title": "NAMMA LIDAR ATMOSPHERIC SENSING EXPERIMENT (LASE) V1"
+},
+{
+"id": "namzeus.v1",
+"title": "NAMMA LIGHTNING ZEUS DATA V1"
+},
+{
+"id": "namdblue.v1",
+"title": "NAMMA MODIS/AQUA AND MODIS/TERRA DEEP BLUE PRODUCTS V1"
+},
+{
+"id": "namnpol.v1",
+"title": "NAMMA NASA POLARIMETRIC DOPPLER WEATHER RADAR (NPOL) V1"
+},
+{
+"id": "namradio.v1",
+"title": "NAMMA PRAIA CAPE VERDE RADIOSONDE V1"
+},
+{
+"id": "namdrop_raw.v1",
+"title": "NAMMA Raw DC-8 Dropsonde V1"
+},
+{
+"id": "namapr2.v1",
+"title": "NAMMA SECOND GENERATION AIRBORNE PRECIPITATION RADAR (APR-2) V1"
+},
+{
+"id": "namsenegal.v1",
+"title": "NAMMA SENEGAL RADIOSONDE AND TOWER FLUX DATA V1"
+},
+{
+"id": "namsenrg.v1",
+"title": "NAMMA SENEGAL RAIN GAUGE NETWORK V1"
+},
+{
+"id": "namsmart.v1",
+"title": "NAMMA SMART-COMMIT MOBILE LABORATORIES V1"
+},
+{
+"id": "namtoga.v1",
+"title": "NAMMA TOGA RADAR DATA V1"
+},
+{
+"id": "nam2ds.v1",
+"title": "NAMMA TWO-DIMENSIONAL STEREO PROBE AND CLOUD PARTICLE IMAGER V1"
+},
+{
+"id": "npolimpacts.v1",
+"title": "NASA S-Band Dual Polarimetric Doppler Radar (NPOL) IMPACTS V1"
+},
+{
+"id": "parprbimpacts.v1",
+"title": "NCAR Particle Probes IMPACTS"
+},
+{
+"id": "ncsusndimpacts.v1",
+"title": "NCSU Soundings IMPACTS"
+},
+{
+"id": "nymesoimpacts.v1",
+"title": "New York State Mesonet IMPACTS"
+},
+{
+"id": "nexeastimpacts.v1",
+"title": "NEXRAD Mosaic East IMPACTS V1"
+},
+{
+"id": "nexmidwstimpacts.v1",
+"title": "NEXRAD Mosaic Midwest IMPACTS V1"
+},
+{
+"id": "noaasndimpacts.v1",
+"title": "NOAA Soundings IMPACTS"
+},
+{
+"id": "nalmaraw.v1",
+"title": "North Alabama Lightning Mapping Array (LMA) Raw Data V1"
+},
+{
+"id": "nalma.v1",
+"title": "North Alabama Lightning Mapping Array (LMA) V1"
+},
+{
+"id": "olsana.v1",
+"title": "OLS ANALOG DERIVED LIGHTNING V1"
+},
+{
+"id": "olsdig10.v1",
+"title": "OLS DIGITAL DERIVED LIGHTNING FROM DMSP F10 V1"
+},
+{
+"id": "olsdig12.v1",
+"title": "OLS DIGITAL DERIVED LIGHTNING FROM DMSP F12 V1"
+},
+{
+"id": "otdlip.v1",
+"title": "OPTICAL TRANSIENT DETECTOR (OTD) LIGHTNING V1"
+},
+{
+"id": "p3metnavimpacts.v1",
+"title": "P-3 Meteorological and Navigation Data IMPACTS"
+},
+{
+"id": "phipsimpacts.v1",
+"title": "Particle Habit Imaging and Polar Scattering Probe (PHIPS) IMPACTS V1"
+},
+{
+"id": "pmhailclim.v1",
+"title": "Passive Microwave Hail Climatology Data Products V1"
+},
+{
+"id": "prsondecpexaw.v1",
+"title": "Puerto Rico Radiosondes CPEX-AW V1"
+},
+{
+"id": "isslisg_v2_fin.v2",
+"title": "Quality Controlled Lightning Imaging Sensor (LIS) on International Space Station (ISS) Backgrounds V2"
+},
+{
+"id": "isslis_v2_fin.v2",
+"title": "Quality Controlled Lightning Imaging Sensor (LIS) on International Space Station (ISS) Science Data V2"
+},
+{
+"id": "sondecpexcv.v1",
+"title": "Radiosondes CPEX-CV"
+},
+{
+"id": "rasipanam.v1",
+"title": "REGIONAL AIR-SEA INTERACTION (RASI) GAP WIND AND COASTAL UPWELLING EVENTS CLIMATOLOGY GULF OF PANAMA, PANAMA V1"
+},
+{
+"id": "rasipapag.v1",
+"title": "REGIONAL AIR-SEA INTERACTION (RASI) GAP WIND AND COASTAL UPWELLING EVENTS CLIMATOLOGY GULF OF PAPAGAYO, COSTA RICA V1"
+},
+{
+"id": "rasitehuan.v1",
+"title": "REGIONAL AIR-SEA INTERACTION (RASI) GAP WIND AND COASTAL UPWELLING EVENTS CLIMATOLOGY GULF OF TEHUANTEPEC, MEXICO V1"
+},
+{
+"id": "relampagolma.v1",
+"title": "Remote sensing of Electrification, Lightning, And Mesoscale/microscale Processes with Adaptive Ground Observations (RELAMPAGO) Lightning Mapping Array (LMA) V1"
+},
+{
+"id": "rss1windnv7r01.v7R01",
+"title": "RSS MONTHLY 1-DEG MERGED WIND CLIMATOLOGY NETCDF V7R01"
+},
+{
+"id": "rss1tpwnv7r01.v7R01",
+"title": "RSS MONTHLY 1-DEG MICROWAVE TOTAL PRECIPITABLE WATER NETCDF V7R01"
+},
+{
+"id": "rssmif10d3d.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS 3-DAY AVERAGE FROM DMSP F10 NETCDF V7"
+},
+{
+"id": "rssmif11d3d.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS 3-DAY AVERAGE FROM DMSP F11 NETCDF V7"
+},
+{
+"id": "rssmif13d3d.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS 3-DAY AVERAGE FROM DMSP F13 NETCDF V7"
+},
+{
+"id": "rssmif14d3d.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS 3-DAY AVERAGE FROM DMSP F14 NETCDF V7"
+},
+{
+"id": "rssmif15d3d.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS 3-DAY AVERAGE FROM DMSP F15 NETCDF V7"
+},
+{
+"id": "rssmif08d3d.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS 3-DAY AVERAGE FROM DMSP F8 NETCDF V7"
+},
+{
+"id": "rssmif10d.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS DAILY FROM DMSP F10 NETCDF V7"
+},
+{
+"id": "rssmif11d.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS DAILY FROM DMSP F11 NETCDF V7"
+},
+{
+"id": "rssmif13d.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS DAILY FROM DMSP F13 NETCDF V7"
+},
+{
+"id": "rssmif14d.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS DAILY FROM DMSP F14 NETCDF V7"
+},
+{
+"id": "rssmif15d.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS DAILY FROM DMSP F15 NETCDF V7"
+},
+{
+"id": "rssmif08d.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS DAILY FROM DMSP F8 NETCDF V7"
+},
+{
+"id": "rssmif10m.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS MONTHLY AVERAGE FROM DMSP F10 NETCDF V7"
+},
+{
+"id": "rssmif11m.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS MONTHLY AVERAGE FROM DMSP F11 NETCDF V7"
+},
+{
+"id": "rssmif13m.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS MONTHLY AVERAGE FROM DMSP F13 NETCDF V7"
+},
+{
+"id": "rssmif14m.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS MONTHLY AVERAGE FROM DMSP F14 NETCDF V7"
+},
+{
+"id": "rssmif15m.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS MONTHLY AVERAGE FROM DMSP F15 NETCDF V7"
+},
+{
+"id": "rssmif08m.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS MONTHLY AVERAGE FROM DMSP F8 NETCDF V7"
+},
+{
+"id": "rssmif10w.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS WEEKLY AVERAGE FROM DMSP F10 NETCDF V7"
+},
+{
+"id": "rssmif11w.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS WEEKLY AVERAGE FROM DMSP F11 NETCDF V7"
+},
+{
+"id": "rssmif13w.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS WEEKLY AVERAGE FROM DMSP F13 NETCDF V7"
+},
+{
+"id": "rssmif14w.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS WEEKLY AVERAGE FROM DMSP F14 NETCDF V7"
+},
+{
+"id": "rssmif15w.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS WEEKLY AVERAGE FROM DMSP F15 NETCDF V7"
+},
+{
+"id": "rssmif08w.v7",
+"title": "RSS SSM/I OCEAN PRODUCT GRIDS WEEKLY AVERAGE FROM DMSP F8 NETCDF V7"
+},
+{
+"id": "rssmif16d3d.v7",
+"title": "RSS SSMIS OCEAN PRODUCT GRIDS 3-DAY AVERAGE FROM DMSP F16 NETCDF V7"
+},
+{
+"id": "rssmif17d3d.v7",
+"title": "RSS SSMIS OCEAN PRODUCT GRIDS 3-DAY AVERAGE FROM DMSP F17 NETCDF V7"
+},
+{
+"id": "rssmif16d.v7",
+"title": "RSS SSMIS OCEAN PRODUCT GRIDS DAILY FROM DMSP F16 NETCDF V7"
+},
+{
+"id": "rssmif17d.v7",
+"title": "RSS SSMIS OCEAN PRODUCT GRIDS DAILY FROM DMSP F17 NETCDF V7"
+},
+{
+"id": "rssmif16m.v7",
+"title": "RSS SSMIS OCEAN PRODUCT GRIDS MONTHLY AVERAGE FROM DMSP F16 NETCDF V7"
+},
+{
+"id": "rssmif17m.v7",
+"title": "RSS SSMIS OCEAN PRODUCT GRIDS MONTHLY AVERAGE FROM DMSP F17 NETCDF V7"
+},
+{
+"id": "rssmif16w.v7",
+"title": "RSS SSMIS OCEAN PRODUCT GRIDS WEEKLY AVERAGE FROM DMSP F16 NETCDF V7"
+},
+{
+"id": "rssmif17w.v7",
+"title": "RSS SSMIS OCEAN PRODUCT GRIDS WEEKLY AVERAGE FROM DMSP F17 NETCDF V7"
+},
+{
+"id": "sbuceilimpacts.v1",
+"title": "SBU Ceilometers IMPACTS"
+},
+{
+"id": "sbulidarimpacts.v1",
+"title": "SBU Doppler LiDAR IMPACTS V1"
+},
+{
+"id": "sbukasprimpacts.v1",
+"title": "SBU Ka-band Scanning Polarimetric Radar (KASPR) IMPACTS V1"
+},
+{
+"id": "sbumetimpacts.v1",
+"title": "SBU Meteorological Station IMPACTS V1"
+},
+{
+"id": "sbumrr2impacts.v1",
+"title": "SBU Micro Rain Radar 2 (MRR2) IMPACTS"
+},
+{
+"id": "sbumwrimpacts.v1",
+"title": "SBU Microwave Radiometer (MWR) IMPACTS"
+},
+{
+"id": "sbusndimpacts.v1",
+"title": "SBU Mobile Soundings IMPACTS"
+},
+{
+"id": "sbuparsimpacts.v1",
+"title": "SBU Parsivel IMPACTS"
+},
+{
+"id": "sbuplimpacts.v1",
+"title": "SBU Pluvio Precipitation Gauge IMPACTS"
+},
+{
+"id": "sbuskylerimpacts.v1",
+"title": "SBU X-band Phased Array Radar (SKYLER) IMPACTS"
+},
+{
+"id": "seaflux.v1",
+"title": "SeaFlux Data Products V1"
+},
+{
+"id": "slgsa.v1",
+"title": "SEDIMENT ANALYSIS NETWORK FOR DECISION SUPPORT (SANDS) LANDSAT GEOLOGICAL SURVEY OF AL (GSA) ANALYSIS V1"
+},
+{
+"id": "slgeo.v1",
+"title": "SEDIMENT ANALYSIS NETWORK FOR DECISION SUPPORT (SANDS) LANDSAT GEOTIFF V1"
+},
+{
+"id": "smgsa.v1",
+"title": "SEDIMENT ANALYSIS NETWORK FOR DECISION SUPPORT (SANDS) MODIS GEOLOGICAL SURVEY OF AL (GSA) ANALYSIS V1"
+},
+{
+"id": "smgeo.v1",
+"title": "SEDIMENT ANALYSIS NETWORK FOR DECISION SUPPORT (SANDS) MODIS GEOTIFF V1"
+},
+{
+"id": "smsub.v1",
+"title": "SEDIMENT ANALYSIS NETWORK FOR DECISION SUPPORT (SANDS) MODIS GULF SUBSETTED V1"
+},
+{
+"id": "scrxsondecpexaw.v1",
+"title": "St. Croix Radiosondes CPEX-AW V1"
+},
+{
+"id": "tc4ampr.v1",
+"title": "TC4 AMPR BRIGHTNESS TEMPERATURE (TB) V1"
+},
+{
+"id": "tcspaero.v1",
+"title": "TCSP AEROSONDE V1"
+},
+{
+"id": "tcspampr.v2",
+"title": "TCSP AMPR BRIGHTNESS TEMPERATURE (TB) V2"
+},
+{
+"id": "tcspcrs.v1",
+"title": "TCSP CLOUD RADAR SYSTEM (CRS) V1"
+},
+{
+"id": "tcspedop.v1",
+"title": "TCSP ER-2 DOPPLER RADAR (EDOP) V1"
+},
+{
+"id": "tcsplip.v1",
+"title": "TCSP ER-2 LIGHTNING INSTRUMENT PACKAGE (LIP) V1"
+},
+{
+"id": "tcspmtp.v1",
+"title": "TCSP ER-2 MICROWAVE TEMPERATURE PROFILER (MTP) V1"
+},
+{
+"id": "tcspmas.v1",
+"title": "TCSP ER-2 MODIS AIRBORNE SIMULATOR (MAS) V1"
+},
+{
+"id": "tcsper2nav.v1",
+"title": "TCSP ER-2 Navigation Data V1"
+},
+{
+"id": "tcspecmwf.v1",
+"title": "TCSP European Centre for Medium-Range Weather Forecasts (ECMWF) V1"
+},
+{
+"id": "tcspgrsw.v1",
+"title": "TCSP GOES 11 RAPID SCAN WINDS V1"
+},
+{
+"id": "tcspgoes.v1",
+"title": "TCSP GOES VISIBLE AND INFRARED IMAGES V1"
+},
+{
+"id": "tcsphamsr.v1",
+"title": "TCSP HIGH ALTITUDE MMIC SOUNDING RADIOMETER (HAMSR) V1"
+},
+{
+"id": "tcspmisrep.v1",
+"title": "TCSP MISSION REPORTS V1"
+},
+{
+"id": "tcsptico.v1",
+"title": "TCSP TICOSONDE-AURA 2005 V1"
+},
+{
+"id": "amprtblba.v1",
+"title": "TRMM LBA (LARGE SCALE BIOSPHERE-ATMOSPHERE) EXPERIMENT (AMPR) V1"
+},
+{
+"id": "tmiwop.v3",
+"title": "TRMM MICROWAVE IMAGER (TMI) WENTZ OCEAN PRODUCTS V3"
+},
+{
+"id": "trmmtcpfl1.v1",
+"title": "TRMM TROPICAL CYCLONE PRECIPITATION FEATURE (TCPF) DATABASE - LEVEL 1 V1"
+},
+{
+"id": "trmlbalip.v1",
+"title": "TRMM-LBA LIGHTNING INSTRUMENT PACKAGE (LIP) V1"
+},
+{
+"id": "tcihirad.v2.1",
+"title": "Tropical Cyclone Intensity (TCI) Hurricane Imaging Radiometer (HIRAD) V2.1"
+},
+{
+"id": "tammsimpacts.v1",
+"title": "Turbulent Air Motion Measurement System (TAMMS) IMPACTS"
+},
+{
+"id": "2dimpacts.v1",
+"title": "Two-Dimensional Video Disdrometer (2DVD) IMPACTS V1"
+},
+{
+"id": "ualbmrr2impacts.v1",
+"title": "UAlbany Micro Rain Radar 2 (MRR-2) IMPACTS"
+},
+{
+"id": "ualbparsimpacts.v1",
+"title": "UAlbany Parsivel IMPACTS"
+},
+{
+"id": "ualbsndimpacts.v1",
+"title": "UAlbany Soundings IMPACTS"
+},
+{
+"id": "cmimpacts.v1",
+"title": "UND Cloud Microphysics IMPACTS V1"
+},
+{
+"id": "wisperimpacts.v1",
+"title": "Water Isotope System for Precipitation and Entrainment Research (WISPER) IMPACTS"
+},
+{
+"id": "wrfimpacts.v1",
+"title": "Weather Research and Forecasting (WRF) Model IMPACTS"
+}
+]

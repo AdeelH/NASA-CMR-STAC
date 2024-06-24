@@ -1,0 +1,3470 @@
+[
+{
+"id": "SEAGLIDER_GUAM_2019.vV1",
+"title": "Adaptive Sampling of Rain and Ocean Salinity from Autonomous Seagliders (Guam 2019-2020)"
+},
+{
+"id": "AQUARIUS_L2_SSS_CAP_V5.v5.0",
+"title": "Aquarius CAP Level 2 Sea Surface Salinity, Wind Speed & Direction Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_RAINCORRECTED_CAP_7DAY_V5.v5.0",
+"title": "Aquarius CAP Level 3 Sea Surface Salinity Rain Corrected Standard Mapped Image 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_RAINCORRECTED_CAP_MONTHLY_V5.v5.0",
+"title": "Aquarius CAP Level 3 Sea Surface Salinity Rain Corrected Standard Mapped Image Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_CAP_7DAY_V5.v5.0",
+"title": "Aquarius CAP Level 3 Sea Surface Salinity Standard Mapped Image 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_CAP_MONTHLY_V5.v5.0",
+"title": "Aquarius CAP Level 3 Sea Surface Salinity Standard Mapped Image Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_CAP_7DAY_V5.v5.0",
+"title": "Aquarius CAP Level 3 Wind Speed Standard Mapped Image 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_CAP_MONTHLY_V5.v5.0",
+"title": "Aquarius CAP Level 3 Wind Speed Standard Mapped Image Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_ANCILLARY_CELESTIALSKY_V1.v1",
+"title": "Aquarius Celestial Sky Microwave Emission Map Ancillary Dataset V1.0"
+},
+{
+"id": "AQUARIUS_L2_SSS_V5.v5.0",
+"title": "Aquarius Official Release Level 2 Sea Surface Salinity & Wind Speed Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMI_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMI_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMI_7DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image 7-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMI_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMIA_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Ascending 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMIA_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Ascending 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMIA_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Ascending Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMIA_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Ascending Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMIA_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Ascending Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMIA_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Ascending Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMIA_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Ascending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMIA_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Ascending Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMIA_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Ascending Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMI_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMID_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Descending 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMID_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Descending 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMID_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Descending Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMID_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Descending Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMID_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Descending Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMID_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Descending Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMID_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Descending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMID_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Descending Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMID_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Descending Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMI_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMI_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMI_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMI_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_ANCILLARY_SST_SMI_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Ancillary Reynolds Sea Surface Temperature Standard Mapped Image Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SM_SMIA_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Smoothed Standard Mapped Image Ascending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SM_SMID_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Smoothed Standard Mapped Image Descending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SM_SMI_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Smoothed Standard Mapped Image Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMI_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMI_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMI_7DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image 7-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMI_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMIA_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Ascending 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMIA_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Ascending 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMIA_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Ascending Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMIA_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Ascending Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMIA_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Ascending Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMIA_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Ascending Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMIA_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Ascending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMIA_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Ascending Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMIA_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Ascending Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMI_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMID_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Descending 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMID_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Descending 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMID_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Descending Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMID_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Descending Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMID_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Descending Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMID_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Descending Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMID_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Descending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMID_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Descending Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMID_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Descending Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMI_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMI_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMI_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMI_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS-RainFlagged_SMI_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Rain-flagged Sea Surface Salinity Standard Mapped Image Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMI_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMI_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMI_7DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image 7-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMI_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMIA_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Ascending 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMIA_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Ascending 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMIA_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Ascending Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMIA_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Ascending Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMIA_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Ascending Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMIA_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Ascending Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMIA_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Ascending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMIA_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Ascending Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMIA_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Ascending Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMI_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMID_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Descending 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMID_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Descending 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMID_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Descending Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMID_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Descending Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMID_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Descending Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMID_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Descending Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMID_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Descending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMID_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Descending Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMID_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Descending Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMI_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMI_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMI_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMI_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_DENSITY_SMI_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Density Standard Mapped Image Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SM_SMIA_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Smoothed Standard Mapped Image Ascending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SM_SMID_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Smoothed Standard Mapped Image Descending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SM_SMI_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Smoothed Standard Mapped Image Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMI_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMI_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMI_7DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image 7-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMI_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMIA_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Ascending 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMIA_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Ascending 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMIA_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Ascending Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMIA_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Ascending Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMIA_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Ascending Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMIA_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Ascending Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMIA_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Ascending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMIA_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Ascending Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMIA_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Ascending Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMI_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMID_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Descending 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMID_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Descending 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMID_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Descending Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMID_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Descending Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMID_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Descending Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMID_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Descending Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMID_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Descending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMID_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Descending Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMID_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Descending Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMI_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMI_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMI_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMI_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SSS_SMI_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Salinity Standard Mapped Image Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMI_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMI_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMI_7DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image 7-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMI_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMIA_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Ascending 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMIA_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Ascending 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMIA_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Ascending Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMIA_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Ascending Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMIA_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Ascending Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMIA_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Ascending Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMIA_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Ascending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMIA_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Ascending Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMIA_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Ascending Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMI_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMID_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Descending 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMID_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Descending 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMID_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Descending Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMID_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Descending Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMID_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Descending Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMID_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Descending Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMID_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Descending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMID_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Descending Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMID_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Descending Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMI_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMI_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMI_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMI_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_SPICINESS_SMI_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Sea Surface Spiciness Standard Mapped Image Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMI_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMI_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMI_7DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image 7-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMI_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMIA_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Ascending 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMIA_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Ascending 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMIA_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Ascending Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMIA_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Ascending Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMIA_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Ascending Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMIA_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Ascending Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMIA_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Ascending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMIA_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Ascending Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMIA_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Ascending Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMI_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMID_28DAY-RUNNINGMEAN_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Descending 28-Day Running Mean Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMID_7DAY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Descending 7-Day Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMID_ANNUAL_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Descending Annual Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMID_DAILY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Descending Daily Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMID_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Descending Mission Cumulative Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMID_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Descending Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMID_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Descending Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMID_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Descending Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMID_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Descending Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMI_CUMULATIVE_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Mission Cumulative V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMI_MONTHLY-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Monthly Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMI_MONTHLY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Monthly Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMI_SEASONAL-CLIMATOLOGY_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Seasonal Climatology Data V5.0"
+},
+{
+"id": "AQUARIUS_L3_WIND_SPEED_SMI_3MONTH_V5.v5.0",
+"title": "Aquarius Official Release Level 3 Wind Speed Standard Mapped Image Seasonal Data V5.0"
+},
+{
+"id": "AQUARIUS_ANCILLARY_RFI_V1.v1",
+"title": "Aquarius Radio Frequency Interference (RFI) Ancillary Dataset V1.0"
+},
+{
+"id": "SPURS1_ARGO.v1.0",
+"title": "Argo float CTD profile data within the scope of the SPURS-1 N. Atlantic field campaign"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_BassStrait_v1.0.v1.0",
+"title": "Bass Strait Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "OISST_HR_NRT-GOS-L4-BLK-v2.0.v2.0",
+"title": "Black Sea High Resolution SST L4 Analysis 0.0625 deg Resolution"
+},
+{
+"id": "OISST_UHR_NRT-GOS-L4-BLK-v2.0.v2.0",
+"title": "Black Sea Ultra High Resolution SST L4 Analysis 0.01 deg Resolution"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_Boknis_v1.0.v1.0",
+"title": "Boknis Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_CapeBasin_v1.0.v1.0",
+"title": "Cape Basin Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "TELLUS_GRAC_L3_CSR_RL06_LND_v04.vRL06v04",
+"title": "CSR TELLUS GRACE Level-3 Monthly Land Water-Equivalent-Thickness Surface Mass Anomaly Release 6.0 version 04"
+},
+{
+"id": "TELLUS_GRAC_L3_CSR_RL06_OCN_v04.vRL06v04",
+"title": "CSR TELLUS GRACE Level-3 Monthly Ocean Bottom Pressure Anomaly Release 6.0 version 04"
+},
+{
+"id": "TELLUS_GRFO_L3_CSR_RL06.1_LND_v04.vRL06.1v04",
+"title": "CSR TELLUS GRACE-FO Level-3 Monthly Land Water-Equivalent-Thickness Surface Mass Anomaly Release 6.1 version 04"
+},
+{
+"id": "TELLUS_GRFO_L3_CSR_RL06.2_LND_v04.vRL06.2v04",
+"title": "CSR TELLUS GRACE-FO Level-3 Monthly Land Water-Equivalent-Thickness Surface Mass Anomaly Release 6.2 version 04"
+},
+{
+"id": "TELLUS_GRFO_L3_CSR_RL06.1_OCN_v04.vRL06.1v04",
+"title": "CSR TELLUS GRACE-FO Level-3 Monthly Ocean Bottom Pressure Anomaly Release 6.1 version 04"
+},
+{
+"id": "TELLUS_GRFO_L3_CSR_RL06.2_OCN_v04.vRL06.2v04",
+"title": "CSR TELLUS GRACE-FO Level-3 Monthly Ocean Bottom Pressure Anomaly Release 6.2 version 04"
+},
+{
+"id": "CYGNSS_L3_MICROPLASTIC_V1.0.v1.0",
+"title": "CYGNSS L3 Ocean Microplastic Concentration V1.0"
+},
+{
+"id": "CYGNSS_L1_CAL_RAW_IF_V1.0.v1.0",
+"title": "CYGNSS Level 1 Calibrated Raw IF Version 1.0"
+},
+{
+"id": "CYGNSS_L1_CDR_V1.0.v1.0",
+"title": "CYGNSS Level 1 Climate Data Record Version 1.0"
+},
+{
+"id": "CYGNSS_L1_CDR_V1.1.v1.1",
+"title": "CYGNSS Level 1 Climate Data Record Version 1.1"
+},
+{
+"id": "CYGNSS_L1_CDR_V1.2.v1.2",
+"title": "CYGNSS Level 1 Climate Data Record Version 1.2"
+},
+{
+"id": "CYGNSS_L1_FULL_DDM.v1.0",
+"title": "CYGNSS Level 1 Full Delay Doppler Map Data Record"
+},
+{
+"id": "CYGNSS_L1_FULL_DDM_V3.0.v3.0",
+"title": "CYGNSS Level 1 Full Delay Doppler Map Data Record Version 3.0"
+},
+{
+"id": "CYGNSS_L1_RAW_IF.v1.0",
+"title": "CYGNSS Level 1 Raw Intermediate Frequency Data Record"
+},
+{
+"id": "CYGNSS_L1_V2.1.v2.1",
+"title": "CYGNSS Level 1 Science Data Record Version 2.1"
+},
+{
+"id": "CYGNSS_L1_V3.0.v3.0",
+"title": "CYGNSS Level 1 Science Data Record Version 3.0"
+},
+{
+"id": "CYGNSS_L1_V3.1.v3.1",
+"title": "CYGNSS Level 1 Science Data Record Version 3.1"
+},
+{
+"id": "CYGNSS_L1_V3.2.v3.2",
+"title": "CYGNSS Level 1 Science Data Record Version 3.2"
+},
+{
+"id": "CYGNSS_L2_CDR_V1.0.v1.0",
+"title": "CYGNSS Level 2 Climate Data Record Version 1.0"
+},
+{
+"id": "CYGNSS_L2_CDR_V1.1.v1.1",
+"title": "CYGNSS Level 2 Climate Data Record Version 1.1"
+},
+{
+"id": "CYGNSS_L2_CDR_V1.2.v1.2",
+"title": "CYGNSS Level 2 Climate Data Record Version 1.2"
+},
+{
+"id": "CYGNSS_L2_SURFACE_FLUX_CDR_V1.0.v1.0",
+"title": "CYGNSS Level 2 Ocean Surface Heat Flux Climate Data Record Version 1.0"
+},
+{
+"id": "CYGNSS_L2_SURFACE_FLUX_CDR_V1.1.v1.1",
+"title": "CYGNSS Level 2 Ocean Surface Heat Flux Climate Data Record Version 1.1"
+},
+{
+"id": "CYGNSS_L2_SURFACE_FLUX_CDR_V1.2.v1.2",
+"title": "CYGNSS Level 2 Ocean Surface Heat Flux Climate Data Record Version 1.2"
+},
+{
+"id": "CYGNSS_L2_SURFACE_FLUX_V1.0.v1.0",
+"title": "CYGNSS Level 2 Ocean Surface Heat Flux Science Data Record Version 1.0"
+},
+{
+"id": "CYGNSS_L2_SURFACE_FLUX_V2.0.v2.0",
+"title": "CYGNSS Level 2 Ocean Surface Heat Flux Science Data Record Version 2.0"
+},
+{
+"id": "CYGNSS_L2_SURFACE_FLUX_V3.2.v3.2",
+"title": "CYGNSS Level 2 Ocean Surface Heat Flux Science Data Record Version 3.2"
+},
+{
+"id": "CYGNSS_L2_V2.1.v2.1",
+"title": "CYGNSS Level 2 Science Data Record Version 2.1"
+},
+{
+"id": "CYGNSS_L2_V3.0.v3.0",
+"title": "CYGNSS Level 2 Science Data Record Version 3.0"
+},
+{
+"id": "CYGNSS_L2_V3.1.v3.1",
+"title": "CYGNSS Level 2 Science Data Record Version 3.1"
+},
+{
+"id": "CYGNSS_L2_V3.2.v3.2",
+"title": "CYGNSS Level 2 Science Data Record Version 3.2"
+},
+{
+"id": "CYGNSS_L3_CDR_V1.0.v1.0",
+"title": "CYGNSS Level 3 Climate Data Record Version 1.0"
+},
+{
+"id": "CYGNSS_L3_CDR_V1.1.v1.1",
+"title": "CYGNSS Level 3 Climate Data Record Version 1.1"
+},
+{
+"id": "CYGNSS_L3_CDR_V1.2.v1.2",
+"title": "CYGNSS Level 3 Climate Data Record Version 1.2"
+},
+{
+"id": "CYGNSS_L3_MRG_V3.2.v3.2",
+"title": "CYGNSS Level 3 MRG Science Data Record Version 3.2"
+},
+{
+"id": "CYGNSS_L3_MICROPLASTIC_V3.2.v3.2",
+"title": "CYGNSS Level 3 Ocean Microplastic Concentration Version 3.2"
+},
+{
+"id": "CYGNSS_L3_V2.1.v2.1",
+"title": "CYGNSS Level 3 Science Data Record Version 2.1"
+},
+{
+"id": "CYGNSS_L3_V3.0.v3.0",
+"title": "CYGNSS Level 3 Science Data Record Version 3.0"
+},
+{
+"id": "CYGNSS_L3_V3.1.v3.1",
+"title": "CYGNSS Level 3 Science Data Record Version 3.1"
+},
+{
+"id": "CYGNSS_L3_V3.2.v3.2",
+"title": "CYGNSS Level 3 Science Data Record Version 3.2"
+},
+{
+"id": "CYGNSS_L3_SOIL_MOISTURE_V3.2.v3.2",
+"title": "CYGNSS Level 3 Soil Moisture Version 3.2"
+},
+{
+"id": "CYGNSS_L3_S1.0.v1.0",
+"title": "CYGNSS Level 3 Storm Centric Grid Science Data Record Version 1.0"
+},
+{
+"id": "NEUROST_SSH-SST_L4_V2024.0.v2024.0",
+"title": "Daily NeurOST L4 Sea Surface Height and Surface Geostrophic Currents"
+},
+{
+"id": "SPURS1_DRIFTER.v1.0",
+"title": "Drifter data for the SPURS-1 N. Atlantic field campaign"
+},
+{
+"id": "ECCO_L4_ANCILLARY_DATA_V4R4.vV4r4",
+"title": "ECCO Ancillary Data (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_ATM_STATE_05DEG_DAILY_V4R4.vV4r4",
+"title": "ECCO Atmosphere Surface Temperature, Humidity, Wind, and Pressure - Daily Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_ATM_STATE_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Atmosphere Surface Temperature, Humidity, Wind, and Pressure - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_ATM_STATE_05DEG_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Atmosphere Surface Temperature, Humidity, Wind, and Pressure - Monthly Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_ATM_STATE_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Atmosphere Surface Temperature, Humidity, Wind, and Pressure - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_BOLUS_STREAMFUNCTION_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Gent-McWilliams Bolus Transport Streamfunction - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_BOLUS_STREAMFUNCTION_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Gent-McWilliams Bolus Transport Streamfunction - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_BOLUS_05DEG_DAILY_V4R4.vV4r4",
+"title": "ECCO Gent-McWilliams Ocean Bolus Velocity - Daily Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_BOLUS_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Gent-McWilliams Ocean Bolus Velocity - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_BOLUS_05DEG_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Gent-McWilliams Ocean Bolus Velocity - Monthly Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_BOLUS_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Gent-McWilliams Ocean Bolus Velocity - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_GEOMETRY_05DEG_V4R4.vV4r4",
+"title": "ECCO Geometry Parameters for the 0.5 degree Lat-Lon Model Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_GEOMETRY_LLC0090GRID_V4R4.vV4r4",
+"title": "ECCO Geometry Parameters for the Lat-Lon-Cap 90 (llc90) Native Model Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_GMAP_TIME_SERIES_SNAPSHOT_V4R4.vV4r4",
+"title": "ECCO Global Mean Atmospheric Pressure - Snapshot (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_GMAP_TIME_SERIES_SNAPSHOT_V4R4B.vV4r4b",
+"title": "ECCO Global Mean Atmospheric Pressure - Snapshot (Version 4 Release 4b)"
+},
+{
+"id": "ECCO_L4_GMSL_TIME_SERIES_DAILY_V4R4.vV4r4",
+"title": "ECCO Global Mean Sea Level - Daily Mean (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_GMSL_TIME_SERIES_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Global Mean Sea Level - Monthly Mean (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_3D_MIX_COEFFS_05DEG_V4R4.vV4r4",
+"title": "ECCO Ocean 3D Gent-Mcwilliams, Redi, and Background Vertical Diffusivity Coefficients for the 0.5 degree Lat-Lon Model Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_3D_MIX_COEFFS_LLC0090GRID_V4R4.vV4r4",
+"title": "ECCO Ocean 3D Gent-Mcwilliams, Redi, and Background Vertical Diffusivity Coefficients for the Lat-Lon-Cap 90 (llc90) Native Model Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_FRESH_FLUX_05DEG_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean and Sea-Ice Surface Freshwater Fluxes - Daily Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_FRESH_FLUX_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean and Sea-Ice Surface Freshwater Fluxes - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_FRESH_FLUX_05DEG_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean and Sea-Ice Surface Freshwater Fluxes - Monthly Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_FRESH_FLUX_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean and Sea-Ice Surface Freshwater Fluxes - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_HEAT_FLUX_05DEG_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean and Sea-Ice Surface Heat Fluxes - Daily Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_HEAT_FLUX_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean and Sea-Ice Surface Heat Fluxes - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_HEAT_FLUX_05DEG_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean and Sea-Ice Surface Heat Fluxes - Monthly Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_HEAT_FLUX_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean and Sea-Ice Surface Heat Fluxes - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_STRESS_05DEG_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean and Sea-Ice Surface Stress - Daily Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_STRESS_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean and Sea-Ice Surface Stress - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_STRESS_05DEG_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean and Sea-Ice Surface Stress - Monthly Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_STRESS_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean and Sea-Ice Surface Stress - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OBP_05DEG_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Bottom Pressure - Daily Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OBP_05DEG_DAILY_V4R4B.vV4r4b",
+"title": "ECCO Ocean Bottom Pressure - Daily Mean 0.5 Degree (Version 4 Release 4b)"
+},
+{
+"id": "ECCO_L4_OBP_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Bottom Pressure - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OBP_LLC0090GRID_DAILY_V4R4B.vV4r4b",
+"title": "ECCO Ocean Bottom Pressure - Daily Mean llc90 Grid (Version 4 Release 4b)"
+},
+{
+"id": "ECCO_L4_OBP_05DEG_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Bottom Pressure - Monthly Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OBP_05DEG_MONTHLY_V4R4B.vV4r4b",
+"title": "ECCO Ocean Bottom Pressure - Monthly Mean 0.5 Degree (Version 4 Release 4b)"
+},
+{
+"id": "ECCO_L4_OBP_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Bottom Pressure - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OBP_LLC0090GRID_MONTHLY_V4R4B.vV4r4b",
+"title": "ECCO Ocean Bottom Pressure - Monthly Mean llc90 Grid (Version 4 Release 4b)"
+},
+{
+"id": "ECCO_L4_OBP_LLC0090GRID_SNAPSHOT_V4R4.vV4r4",
+"title": "ECCO Ocean Bottom Pressure - Snapshot llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_DENS_STRAT_PRESS_05DEG_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Density, Stratification, and Hydrostatic Pressure - Daily Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_DENS_STRAT_PRESS_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Density, Stratification, and Hydrostatic Pressure - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_DENS_STRAT_PRESS_05DEG_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Density, Stratification, and Hydrostatic Pressure - Monthly Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_DENS_STRAT_PRESS_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Density, Stratification, and Hydrostatic Pressure - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_MIXED_LAYER_DEPTH_05DEG_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Mixed Layer Depth - Daily Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_MIXED_LAYER_DEPTH_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Mixed Layer Depth - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_MIXED_LAYER_DEPTH_05DEG_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Mixed Layer Depth - Monthly Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_MIXED_LAYER_DEPTH_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Mixed Layer Depth - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_TEMP_SALINITY_05DEG_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Temperature and Salinity - Daily Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_TEMP_SALINITY_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Temperature and Salinity - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_TEMP_SALINITY_05DEG_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Temperature and Salinity - Monthly Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_TEMP_SALINITY_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Temperature and Salinity - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_TEMP_SALINITY_LLC0090GRID_SNAPSHOT_V4R4.vV4r4",
+"title": "ECCO Ocean Temperature and Salinity - Snapshot llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_3D_MOMENTUM_TEND_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Three-Dimensional Momentum Tendency - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_3D_MOMENTUM_TEND_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Three-Dimensional Momentum Tendency - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_3D_TEMPERATURE_FLUX_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Three-Dimensional Potential Temperature Fluxes - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_3D_TEMPERATURE_FLUX_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Three-Dimensional Potential Temperature Fluxes - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_3D_SALINITY_FLUX_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Three-Dimensional Salinity Fluxes - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_3D_SALINITY_FLUX_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Three-Dimensional Salinity Fluxes - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_3D_VOLUME_FLUX_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Three-Dimensional Volume Fluxes - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_3D_VOLUME_FLUX_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Three-Dimensional Volume Fluxes - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_VEL_05DEG_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Velocity - Daily Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_VEL_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Ocean Velocity - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_VEL_05DEG_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Velocity - Monthly Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_OCEAN_VEL_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Ocean Velocity - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SBO_CORE_TIME_SERIES_SNAPSHOT_V4R4.vV4r4",
+"title": "ECCO SBO Core Products - Snapshot (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SBO_CORE_TIME_SERIES_SNAPSHOT_V4R4B.vV4r4b",
+"title": "ECCO SBO Core Products - Snapshot (Version 4 Release 4b)"
+},
+{
+"id": "ECCO_L4_SSH_05DEG_DAILY_V4R4.vV4r4",
+"title": "ECCO Sea Surface Height - Daily Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SSH_05DEG_DAILY_V4R4B.vV4r4b",
+"title": "ECCO Sea Surface Height - Daily Mean 0.5 Degree (Version 4 Release 4b)"
+},
+{
+"id": "ECCO_L4_SSH_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Sea Surface Height - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SSH_LLC0090GRID_DAILY_V4R4B.vV4r4b",
+"title": "ECCO Sea Surface Height - Daily Mean llc90 Grid (Version 4 Release 4b)"
+},
+{
+"id": "ECCO_L4_SSH_05DEG_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Sea Surface Height - Monthly Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SSH_05DEG_MONTHLY_V4R4B.vV4r4b",
+"title": "ECCO Sea Surface Height - Monthly Mean 0.5 Degree (Version 4 Release 4b)"
+},
+{
+"id": "ECCO_L4_SSH_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Sea Surface Height - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SSH_LLC0090GRID_MONTHLY_V4R4B.vV4r4b",
+"title": "ECCO Sea Surface Height - Monthly Mean llc90 Grid (Version 4 Release 4b)"
+},
+{
+"id": "ECCO_L4_SSH_LLC0090GRID_SNAPSHOT_V4R4.vV4r4",
+"title": "ECCO Sea Surface Height - Snapshot llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_CONC_THICKNESS_05DEG_DAILY_V4R4.vV4r4",
+"title": "ECCO Sea-Ice and Snow Concentration and Thickness - Daily Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_CONC_THICKNESS_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Sea-Ice and Snow Concentration and Thickness - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_CONC_THICKNESS_05DEG_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Sea-Ice and Snow Concentration and Thickness - Monthly Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_CONC_THICKNESS_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Sea-Ice and Snow Concentration and Thickness - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_CONC_THICKNESS_LLC0090GRID_SNAPSHOT_V4R4.vV4r4",
+"title": "ECCO Sea-Ice and Snow Concentration and Thickness - Snapshot llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_HORIZ_VOLUME_FLUX_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Sea-Ice and Snow Horizontal Volume Fluxes - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_HORIZ_VOLUME_FLUX_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Sea-Ice and Snow Horizontal Volume Fluxes - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_SALT_PLUME_FLUX_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Sea-Ice Salt Plume Fluxes - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_SALT_PLUME_FLUX_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Sea-Ice Salt Plume Fluxes - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_VELOCITY_05DEG_DAILY_V4R4.vV4r4",
+"title": "ECCO Sea-Ice Velocity - Daily Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_VELOCITY_LLC0090GRID_DAILY_V4R4.vV4r4",
+"title": "ECCO Sea-Ice Velocity - Daily Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_VELOCITY_05DEG_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Sea-Ice Velocity - Monthly Mean 0.5 Degree (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_VELOCITY_LLC0090GRID_MONTHLY_V4R4.vV4r4",
+"title": "ECCO Sea-Ice Velocity - Monthly Mean llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "ECCO_L4_SEA_ICE_VELOCITY_LLC0090GRID_SNAPSHOT_V4R4.vV4r4",
+"title": "ECCO Sea-Ice Velocity - Snapshot llc90 Grid (Version 4 Release 4)"
+},
+{
+"id": "SPURS1_ECOMAPPER.v1.0",
+"title": "Ecomapper data for the SPURS-1 N. Atlantic field campaign"
+},
+{
+"id": "ERS-1_BYU_L3_OW_SIGMA0_ENHANCED.v1",
+"title": "ERS-1 Gridded Level 3 Enhanced Resolution Sigma-0 from BYU"
+},
+{
+"id": "ERS-2_BYU_L3_OW_SIGMA0_ENHANCED.v1",
+"title": "ERS-2 Gridded Level 3 Enhanced Resolution Sigma-0 from BYU"
+},
+{
+"id": "GEOS-3_ALT_GDR.v1",
+"title": "GEOS-3 ALTIMETER GEOPHYSICAL DATA RECORD 1975-1978"
+},
+{
+"id": "TELLUS_GRAC_L3_GFZ_RL06_LND_v04.vRL06v04",
+"title": "GFZ TELLUS GRACE Level-3 Monthly Land Water-Equivalent-Thickness Surface Mass Anomaly Release 6.0 version 04"
+},
+{
+"id": "TELLUS_GRAC_L3_GFZ_RL06_OCN_v04.vRL06v04",
+"title": "GFZ TELLUS GRACE Level-3 Monthly Ocean Bottom Pressure Anomaly Release 6.0 version 04"
+},
+{
+"id": "TELLUS_GRFO_L3_GFZ_RL06.1_LND_v04.vRL06.1v04",
+"title": "GFZ TELLUS GRACE-FO Level-3 Monthly Land Water-Equivalent-Thickness Surface Mass Anomaly Release 6.1 version 04"
+},
+{
+"id": "TELLUS_GRFO_L3_GFZ_RL06.1_OCN_v04.vRL06.1v04",
+"title": "GFZ TELLUS GRACE-FO Level-3 Monthly Ocean Bottom Pressure Anomaly Release 6.1 version 04"
+},
+{
+"id": "G18-ABI-L2P-ACSPO-v2.90.v2.90",
+"title": "GHRSST L2P NOAA/ACSPO GOES-18/ABI West America Region Sea Surface Temperature v2.90 dataset"
+},
+{
+"id": "H09-AHI-L2P-ACSPO-v2.90.v2.90",
+"title": "GHRSST L2P NOAA/ACSPO Himawari-09 AHI Pacific Ocean Region Sea Surface Temperature v2.90 dataset"
+},
+{
+"id": "AVHRR_SST_METOP_A_GLB-OSISAF-L3C-v1.0.v1",
+"title": "GHRSST L3C global sub-skin Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on Metop satellites (currently Metop-A) (GDS V2) produced by OSI SAF"
+},
+{
+"id": "AVHRR_SST_METOP_B_GLB-OSISAF-L3C-v1.0.v1",
+"title": "GHRSST L3C global sub-skin Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on Metop satellites (currently Metop-B) (GDS V2) produced by OSI SAF"
+},
+{
+"id": "GOES16-SST-OSISAF-L3C-v1.0.v1.0",
+"title": "GHRSST L3C hourly America Region sub-skin Sea Surface Temperature v1.0 from ABI on GOES16 produced by OSISAF"
+},
+{
+"id": "SEVIRI_SST_DR-OSISAF-L3C-v1.0.v1.0",
+"title": "GHRSST L3C hourly Atlantic reprocessed sub-skin sea surface temperature data record v1.0 from SEVIRI on MSG produced by OSISAF"
+},
+{
+"id": "G18-ABI-L3C-ACSPO-v2.90.v2.90",
+"title": "GHRSST L3C NOAA/ACSPO GOES-18/ABI West America Region Sea Surface Temperature v2.90 dataset"
+},
+{
+"id": "H09-AHI-L3C-ACSPO-v2.90.v2.90",
+"title": "GHRSST L3C NOAA/ACSPO Himawari-09 AHI Pacific Ocean Region Sea Surface Temperature v2.90 dataset"
+},
+{
+"id": "VIIRS_NPP-NAVO-L2P-v1.0.v1.0",
+"title": "GHRSST Level 2P 1 m Depth Global Sea Surface Temperature from VIIRS on Suomi NPP (GDS2) V1"
+},
+{
+"id": "VIIRS_NPP-NAVO-L2P-v2.0.v2.0",
+"title": "GHRSST Level 2P 1 m Depth Global Sea Surface Temperature from VIIRS on Suomi NPP (GDS2) V2"
+},
+{
+"id": "VIIRS_NPP-NAVO-L2P-v3.0.v3.0",
+"title": "GHRSST Level 2P 1 m Depth Global Sea Surface Temperature version 3.0 from the Visible Infrared Imaging Radiometer Suite (VIIRS) on the Suomi NPP satellite (GDS2)"
+},
+{
+"id": "MSG03-OSPO-L2P-v1.0.v1.0",
+"title": "GHRSST Level 2P Atlantic Regional Skin Sea Surface Temperature from the Spinning Enhanced Visible and InfraRed Imager (SEVIRI) on the Meteosat Second Generation (MSG-3) satellite  (GDS version 2)"
+},
+{
+"id": "GOES15-OSPO-L2P-v1.0.v1.0",
+"title": "GHRSST Level 2P Central Pacific Regional Skin Sea Surface Temperature from the Geostationary Operational Environmental Satellites (GOES) Imager on the GOES-15 satellite (GDS version 2)"
+},
+{
+"id": "AVHRRMTA_G-NAVO-L2P-v1.0.v1.0",
+"title": "GHRSST Level 2P Global 1m Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on the MetOp-A satellite produced by NAVO"
+},
+{
+"id": "AVHRRMTB_G-NAVO-L2P-v1.0.v1.0",
+"title": "GHRSST Level 2P Global 1m Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on the MetOp-B satellite produced by NAVO"
+},
+{
+"id": "AVHRR18_G-NAVO-L2P-v1.0.v1.0",
+"title": "GHRSST Level 2P Global 1m Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on the NOAA-18 satellite produced by NAVO"
+},
+{
+"id": "AVHRR19_G-NAVO-L2P-v1.0.v1",
+"title": "GHRSST Level 2P Global 1m Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on the NOAA-19 satellite produced by NAVO"
+},
+{
+"id": "AMSR2-REMSS-L2P_RT-v8.2.v8.2",
+"title": "GHRSST Level 2P Global Near-Real-Time Subskin Sea Surface Temperature version 8.2 (v8.2) from the Advanced Microwave Scanning Radiometer 2 (AMSR2) on the GCOM-W satellite by REMSS"
+},
+{
+"id": "VIIRS_NPP-JPL-L2P-v2016.2.v2016.2",
+"title": "GHRSST Level 2P Global Sea Surface Skin Temperature  from the Visible and Infrared Imager/Radiometer Suite (VIIRS) on the Suomi-NPP satellite (GDS2)"
+},
+{
+"id": "MODIS_A-JPL-L2P-v2019.0.v2019.0",
+"title": "GHRSST Level 2P Global Sea Surface Skin Temperature from the Moderate Resolution Imaging Spectroradiometer (MODIS) on the NASA Aqua satellite (GDS2)"
+},
+{
+"id": "MODIS_T-JPL-L2P-v2019.0.v2019.0",
+"title": "GHRSST Level 2P Global Sea Surface Skin Temperature from the Moderate Resolution Imaging Spectroradiometer (MODIS) on the NASA Terra satellite (GDS2)"
+},
+{
+"id": "AVHRRMTA_G-NAVO-L2P-v2.0.v2.0",
+"title": "GHRSST Level 2P Global Sea Surface Temperature v2.0 from the AVHRR on the MetOp-A satellite produced by NAVO"
+},
+{
+"id": "AVHRRMTB_G-NAVO-L2P-v2.0.v2.0",
+"title": "GHRSST Level 2P Global Sea Surface Temperature v2.0 from the AVHRR on the MetOp-B satellite produced by NAVO"
+},
+{
+"id": "AVHRRMTC_G-NAVO-L2P-v2.0.v2.0",
+"title": "GHRSST Level 2P Global Sea Surface Temperature v2.0 from the AVHRR on the MetOp-C satellite produced by NAVO"
+},
+{
+"id": "IASI_SST_METOP_A-OSISAF-L2P-v1.0.v1",
+"title": "GHRSST Level 2P Global skin Sea Surface Temperature from the Infrared Atmospheric Sounding Interferometer (IASI) on the Metop-A satellite (GDS V2) produced by OSI SAF"
+},
+{
+"id": "IASI_SST_METOP_B-OSISAF-L2P-v1.0.v1",
+"title": "GHRSST Level 2P Global skin Sea Surface Temperature from the Infrared Atmospheric Sounding Interferometer (IASI) on the Metop-B satellite (GDS V2) produced by OSI SAF"
+},
+{
+"id": "AMSRE-REMSS-L2P-v7a.v7a",
+"title": "GHRSST Level 2P Global Subskin Sea Surface Temperature from the Advanced Scanning Microwave Radiometer - Earth  Observing System (AMSR-E) on the NASA Aqua Satellite"
+},
+{
+"id": "TMI-REMSS-L2P-v4.v4.0",
+"title": "GHRSST Level 2P Global Subskin Sea Surface Temperature from TRMM Microwave Imager (TMI) onboard Tropical Rainfall Measurement Mission (TRMM) satellite"
+},
+{
+"id": "AMSR2-REMSS-L2P-v8.2.v8.2",
+"title": "GHRSST Level 2P Global Subskin Sea Surface Temperature version 8.2 (v8.2) from the Advanced Microwave Scanning Radiometer 2 (AMSR2) by REMSS"
+},
+{
+"id": "VIIRS_N20-NAVO-L2P-v3.0.v3.0",
+"title": "GHRSST Level 2P NAVO 1 m Depth Global Sea Surface Temperature version 3.0 from the Visible Infrared Imaging Radiometer Suite (VIIRS) on the NOAA-20 satellite"
+},
+{
+"id": "VIIRS_N21-NAVO-L2P-v3.0.v3.0",
+"title": "GHRSST Level 2P NAVO 1 m Depth Global Sea Surface Temperature version 3.0 from the Visible Infrared Imaging Radiometer Suite (VIIRS) on the NOAA-21 satellite"
+},
+{
+"id": "N21-VIIRS-L2P-ACSPO-v2.80.v2.80",
+"title": "GHRSST Level 2P NOAA ACSPO SST  v2.80 from VIIRS on NOAA-21 Satellite"
+},
+{
+"id": "VIIRS_N20-STAR-L2P-v2.80.v2.80",
+"title": "GHRSST Level 2P NOAA STAR SST  v2.80 from VIIRS on NOAA-20 Satellite"
+},
+{
+"id": "VIIRS_NPP-STAR-L2P-v2.80.v2.80",
+"title": "GHRSST Level 2P NOAA STAR SST v2.80 from VIIRS on S-NPP Satellite"
+},
+{
+"id": "AVHRR19_L-NAVO-L2P-v1.0.v1",
+"title": "GHRSST Level 2P Regional 1m Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on the NOAA-19 satellite produced by NAVO"
+},
+{
+"id": "EWSG1-NAVO-L2P-v01.v1.0",
+"title": "GHRSST Level 2P Sea Surface Temperature version 1.0 from the Electro-Optical Infrared Weather System  Geostationary (EWSG1) produced by NAVO"
+},
+{
+"id": "AVHRR_SST_METOP_A-OSISAF-L2P-v1.0.v1",
+"title": "GHRSST Level 2P sub-skin Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on Metop satellites (currently Metop-A) (GDS V2) produced by OSI SAF"
+},
+{
+"id": "AVHRR_SST_METOP_B-OSISAF-L2P-v1.0.v1",
+"title": "GHRSST Level 2P sub-skin Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on Metop satellites (currently Metop-B) (GDS V2) produced by OSI SAF"
+},
+{
+"id": "GOES13-OSPO-L2P-v1.0.v1.0",
+"title": "GHRSST Level 2P Western Atlantic Regional Skin Sea Surface Temperature from the Geostationary Operational Environmental Satellites (GOES) Imager on the GOES-13 satellite (GDS version 2)"
+},
+{
+"id": "MTSAT2-OSPO-L2P-v1.0.v1.0",
+"title": "GHRSST Level 2P Western Pacific Regional Skin Sea Surface Temperature from the Multifunctional Transport Satellite 2 (MTSAT-2)   (GDS version 2)"
+},
+{
+"id": "SEVIRI_SST-OSISAF-L3C-v1.0.v1",
+"title": "GHRSST Level 3C Atlantic sub-skin Sea Surface Temperature from the Spinning Enhanced Visible and Infrared Imager (SEVIRI) on MSG at 0 degree longitude (GDS V2) produced by OSI SAF"
+},
+{
+"id": "SEVIRI_IO_SST-OSISAF-L3C-v1.0.v1.0",
+"title": "GHRSST Level 3C Indian-Ocean (IO) sub-skin Sea Surface Temperature from the Spinning Enhanced Visible and Infrared Imager (SEVIRI) on MSG in GDS2 format produced by OSISAF"
+},
+{
+"id": "AVHRR_SST_METOP_B_NAR-OSISAF-L3C-v1.0.v1",
+"title": "GHRSST Level 3C North Atlantic Regional (NAR) subskin Sea Surface Temperature from Metop/AVHRR (GDS V2) produced by OSI SAF"
+},
+{
+"id": "VIIRS_SST_NPP_NAR-OSISAF-L3C-v1.0.v1",
+"title": "GHRSST Level 3C North Atlantic Regional (NAR) subskin Sea Surface Temperature from SNPP/VIIRS (GDS V2) produced by OSI SAF"
+},
+{
+"id": "AVHRR_SST_METOP_A_NAR-OSISAF-L3C-v1.0.v1",
+"title": "GHRSST Level 3C North Atlantic Regional (NAR) subskin Sea Surface Temperature from SNPP/VIIRS and Metop-A/AVHRR (GDS V2) produced by OSI SAF"
+},
+{
+"id": "AVHRR_SST_NOAA19_NAR-OSISAF-L3C-v1.0.v1",
+"title": "GHRSST Level 3C North Atlantic Regional Subskin Sea Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on NOAA-19 (GDS2 version)"
+},
+{
+"id": "GOES13-OSISAF-L3C-v1.0.v1",
+"title": "GHRSST Level 3C sub-skin Sea Surface Temperature from the Geostationary Operational Environmental Satellites (GOES 13) Imager in East position (GDS V2) produced by OSI SAF"
+},
+{
+"id": "AMSR2-REMSS-L3U_RT-v8.2.v8.2",
+"title": "GHRSST Level 3U Global Global Near-Real Subskin Sea Surface Temperature version 8.2 (v8.2) from the Advanced Microwave Scanning Radiometer 2 (AMSR2) on the GCOM-W satellite by REMSS"
+},
+{
+"id": "AMSR2-REMSS-L3U_RT-v8a.v8a",
+"title": "GHRSST Level 3U Global Near-Real-Time Subskin Sea Surface Temperature version 8a from the Advanced Microwave Scanning Radiometer 2 on the GCOM-W satellite"
+},
+{
+"id": "GMI-REMSS-L3U-v8.2a.v8.2a",
+"title": "GHRSST Level 3U Global Subskin Sea Surface Temperature from GMI onboard GPM satellite"
+},
+{
+"id": "AMSRE-REMSS-L3U-v7a.v7a",
+"title": "GHRSST Level 3U Global Subskin Sea Surface Temperature from the Advanced Scanning Microwave Radiometer - Earth  Observing System (AMSR-E) on the NASA Aqua Satellite"
+},
+{
+"id": "TMI-REMSS-L3U-v7.1a.v7.1a",
+"title": "GHRSST Level 3U Global Subskin Sea Surface Temperature from TMI onboard  TRMM satellite"
+},
+{
+"id": "AMSR2-REMSS-L3U-v8.2.v8.2",
+"title": "GHRSST Level 3U Global Subskin Sea Surface Temperature version 8.2 from the Advanced Microwave Scanning Radiometer 2 on the GCOM-W satellite by REMSS"
+},
+{
+"id": "AMSR2-REMSS-L3U-v8a.v8a",
+"title": "GHRSST Level 3U Global Subskin Sea Surface Temperature version 8a from the Advanced Microwave Scanning Radiometer 2 on the GCOM-W satellite"
+},
+{
+"id": "WindSat-REMSS-L3U-v7.0.1a.v7.0.1a",
+"title": "GHRSST Level 3U Global Subskin Sea Surface Temperature version7.0.1a from the WindSat  Polarimetric Radiometer on the Coriolis satellite"
+},
+{
+"id": "N21-VIIRS-L3U-ACSPO-v2.80.v2.80",
+"title": "GHRSST Level 3U NOAA ACSPO SST v2.80 from VIIRS on NOAA-21 Satellite"
+},
+{
+"id": "VIIRS_N20-STAR-L3U-v2.80.v2.80",
+"title": "GHRSST Level 3U NOAA STAR SST v2.80 from VIIRS on NOAA-20 Satellite"
+},
+{
+"id": "VIIRS_NPP-STAR-L3U-v2.80.v2.80",
+"title": "GHRSST Level 3U NOAA STAR SST v2.80 from VIIRS on S-NPP Satellite"
+},
+{
+"id": "AVHRR_OI-NCEI-L4-GLOB-v2.0.v2.0",
+"title": "GHRSST Level 4 AVHRR_OI Global Blended Sea Surface Temperature Analysis (GDS version 2) from NCEI"
+},
+{
+"id": "AVHRR_OI-NCEI-L4-GLOB-v2.1.v2.1",
+"title": "GHRSST Level 4 AVHRR_OI Global Blended Sea Surface Temperature Analysis (GDS2) from NCEI"
+},
+{
+"id": "CMC0.1deg-CMC-L4-GLOB-v3.0.v3.0",
+"title": "GHRSST Level 4 CMC0.1deg Global Foundation Sea Surface Temperature Analysis (GDS version 2)"
+},
+{
+"id": "CMC0.2deg-CMC-L4-GLOB-v2.0.v2.0",
+"title": "GHRSST Level 4 CMC0.2deg Global Foundation Sea Surface Temperature Analysis (GDS version 2)"
+},
+{
+"id": "DMI_OI-DMI-L4-GLOB-v1.0.v1.0",
+"title": "GHRSST Level 4 DMI_OI Global Foundation Sea Surface Temperature Analysis  (GDS version 2)"
+},
+{
+"id": "GAMSSA_28km-ABOM-L4-GLOB-v01.v1.0",
+"title": "GHRSST Level 4 GAMSSA_28km Global Foundation Sea Surface Temperature Analysis v1.0 dataset (GDS2)"
+},
+{
+"id": "K10_SST-NAVO-L4-GLOB-v01.v1.0",
+"title": "GHRSST Level 4 K10_SST Global 10 km Analyzed Sea Surface Temperature from Naval Oceanographic Office (NAVO) in GDS2.0"
+},
+{
+"id": "MUR25-JPL-L4-GLOB-v04.2.v4.2",
+"title": "GHRSST Level 4 MUR 0.25deg Global Foundation Sea Surface Temperature Analysis (v4.2)"
+},
+{
+"id": "MUR-JPL-L4-GLOB-v4.1.v4.1",
+"title": "GHRSST Level 4 MUR Global Foundation Sea Surface Temperature Analysis (v4.1)"
+},
+{
+"id": "MW_IR_OI-REMSS-L4-GLOB-v5.0.v5.0",
+"title": "GHRSST Level 4 MW_IR_OI Global Foundation Sea Surface Temperature analysis version 5.0 from REMSS"
+},
+{
+"id": "MW_IR_OI-REMSS-L4-GLOB-v5.1.v5.1",
+"title": "GHRSST Level 4 MW_IR_OI Global Foundation Sea Surface Temperature analysis version 5.1 from REMSS"
+},
+{
+"id": "MW_OI-REMSS-L4-GLOB-v5.0.v5.0",
+"title": "GHRSST Level 4 MW_OI Global Foundation Sea Surface Temperature analysis version 5.0 from REMSS"
+},
+{
+"id": "MW_OI-REMSS-L4-GLOB-v5.1.v5.1",
+"title": "GHRSST Level 4 MW_OI Global Foundation Sea Surface Temperature analysis version 5.1 from REMSS"
+},
+{
+"id": "Geo_Polar_Blended-OSPO-L4-GLOB-v1.0.v1.0",
+"title": "GHRSST Level 4 OSPO Global Foundation Sea Surface Temperature Analysis (GDS version 2)"
+},
+{
+"id": "Geo_Polar_Blended_Night-OSPO-L4-GLOB-v1.0.v1.0",
+"title": "GHRSST Level 4 OSPO Global Nighttime Foundation Sea Surface Temperature Analysis (GDS version 2)"
+},
+{
+"id": "OSTIA-UKMO-L4-GLOB-v2.0.v2.0",
+"title": "GHRSST Level 4 OSTIA Global Foundation Sea Surface Temperature Analysis (GDS version 2)"
+},
+{
+"id": "OSTIA-UKMO-L4-GLOB-REP-v2.0.v2.0",
+"title": "GHRSST Level 4 OSTIA Global Historical Reprocessed Foundation Sea Surface Temperature Analysis produced by the UK Meteorological Office"
+},
+{
+"id": "RAMSSA_09km-ABOM-L4-AUS-v01.v1.0",
+"title": "GHRSST Level 4 RAMSSA_9km Australian Regional Foundation Sea Surface Temperature Analysis v1.0 dataset (GDS2)"
+},
+{
+"id": "REMO_OI_SST_5km-UFRJ-L4-SAMERICA-v1.0.v1.0",
+"title": "GHRSST Level 4 REMO_OI_SST_5km Regional Foundation Sea Surface Temperature Analysis  (GDS version 2)"
+},
+{
+"id": "L3S_LEO_AM-STAR-v2.80.v2.80",
+"title": "GHRSST NOAA/STAR ACSPO v2.80 0.02 degree L3S Dataset from mid-Morning LEO Satellites (GDS v2)"
+},
+{
+"id": "L3S_LEO_DY-STAR-v2.81.v2.81",
+"title": "GHRSST NOAA/STAR ACSPO v2.81 0.02 degree L3S Daily Dataset from LEO Satellites"
+},
+{
+"id": "L3S_LEO_PM-STAR-v2.81.v2.81",
+"title": "GHRSST NOAA/STAR ACSPO v2.81 0.02 degree L3S Dataset from Afternoon LEO Satellites"
+},
+{
+"id": "ABI_G16-STAR-L3C-v2.70.v2.70",
+"title": "GHRSST NOAA/STAR GOES-16 ABI  L3C America Region SST v2.70 dataset in GDS2"
+},
+{
+"id": "ABI_G16-STAR-L2P-v2.70.v2.70",
+"title": "GHRSST NOAA/STAR GOES-16 ABI L2P America Region SST v2.70 dataset in GDS2"
+},
+{
+"id": "ABI_G17-STAR-L3C-v2.71.v2.71",
+"title": "GHRSST NOAA/STAR GOES-17 ABI  L3C America Region SST v2.71 dataset in GDS2"
+},
+{
+"id": "ABI_G17-STAR-L2P-v2.71.v2.71",
+"title": "GHRSST NOAA/STAR GOES-17 ABI L2P America Region SST v2.71 dataset in GDS2"
+},
+{
+"id": "AHI_H08-STAR-L2P-v2.70.v2.70",
+"title": "GHRSST NOAA/STAR Himawari-08 AHI L2P Pacific Ocean Region SST v2.70 dataset in GDS2"
+},
+{
+"id": "AHI_H08-STAR-L3C-v2.70.v2.70",
+"title": "GHRSST NOAA/STAR Himawari-08 AHI L3C  Pacific Ocean Region SST v2.70 dataset in GDS2"
+},
+{
+"id": "AVHRRF_MA-STAR-L3U-v2.80.v2.80",
+"title": "GHRSST NOAA/STAR Metop-A AVHRR FRAC ACSPO v2.80 0.02 L3U Dataset (GDS v2)"
+},
+{
+"id": "AVHRRF_MA-STAR-L2P-v2.80.v2.80",
+"title": "GHRSST NOAA/STAR Metop-A AVHRR FRAC ACSPO v2.80 1km L2P Dataset (GDS v2)"
+},
+{
+"id": "AVHRRF_MB-STAR-L3U-v2.80.v2.80",
+"title": "GHRSST NOAA/STAR Metop-B AVHRR FRAC ACSPO v2.80 0.02 L3U Dataset (GDS v2)"
+},
+{
+"id": "AVHRRF_MB-STAR-L2P-v2.80.v2.80",
+"title": "GHRSST NOAA/STAR Metop-B AVHRR FRAC ACSPO v2.80 1km L2P Dataset (GDS v2)"
+},
+{
+"id": "AVHRRF_MC-STAR-L3U-v2.80.v2.80",
+"title": "GHRSST NOAA/STAR Metop-C AVHRR FRAC ACSPO v2.80 0.02 L3U Dataset (GDS v2)"
+},
+{
+"id": "AVHRRF_MC-STAR-L2P-v2.80.v2.80",
+"title": "GHRSST NOAA/STAR Metop-C AVHRR FRAC ACSPO v2.80 1km L2P Dataset (GDS v2)"
+},
+{
+"id": "MERGED_TP_J1_OSTM_OST_GMSL_ASCII_V51.v5.1",
+"title": "Global Mean Sea Level Trend from Integrated Multi-Mission Ocean Altimeters TOPEX/Poseidon, Jason-1, OSTM/Jason-2, and Jason-3 Version 5.1"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_GotlandBasin_v1.0.v1.0",
+"title": "Gotland Basin Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "GRACE_AOD1B_GRAV_GFZ_RL06.v6.0",
+"title": "GRACE ATMOSPHERE AND OCEAN DE-ALIASING GFZ RELEASE 6.0"
+},
+{
+"id": "GRACE_GSM_L2_GRAV_CSR_RL06.v6.0",
+"title": "GRACE FIELD GEOPOTENTIAL COEFFICIENTS CSR RELEASE 6.0"
+},
+{
+"id": "GRACE_GSM_L2_GRAV_GFZ_RL06.v6.0",
+"title": "GRACE FIELD GEOPOTENTIAL COEFFICIENTS GFZ RELEASE 6.0"
+},
+{
+"id": "GRACE_GSM_L2_GRAV_JPL_RL06.v6.0",
+"title": "GRACE FIELD GEOPOTENTIAL COEFFICIENTS JPL RELEASE 6.0"
+},
+{
+"id": "GRACE_L1B_GRAV_JPL_RL02.v2",
+"title": "GRACE LEVEL 1B JPL RELEASE 2.0"
+},
+{
+"id": "GRACE_L1B_GRAV_JPL_RL03.v3",
+"title": "GRACE LEVEL 1B JPL RELEASE 3.0"
+},
+{
+"id": "GRACE_GAC_L2_GRAV_CSR_RL06.v6.0",
+"title": "GRACE NON-TIDAL ATMOSPHERE AND OCEAN GEOPOTENTIAL COEFFICIENTS CSR RELEASE 6.0 GAC"
+},
+{
+"id": "GRACE_GAC_L2_GRAV_GFZ_RL06.v6.0",
+"title": "GRACE NON-TIDAL ATMOSPHERE AND OCEAN GEOPOTENTIAL COEFFICIENTS GFZ RELEASE 6.0 GAC"
+},
+{
+"id": "GRACE_GAC_L2_GRAV_JPL_RL06.v6.0",
+"title": "GRACE NON-TIDAL ATMOSPHERE AND OCEAN GEOPOTENTIAL COEFFICIENTS JPL RELEASE 6.0 GAC"
+},
+{
+"id": "GRACE_GAA_L2_GRAV_GFZ_RL06.v6.0",
+"title": "GRACE NON-TIDAL ATMOSPHERE GEOPOTENTIAL COEFFICIENTS GFZ RELEASE 6.0 GAA"
+},
+{
+"id": "GRACE_GAA_L2_GRAV_JPL_RL06.v6.0",
+"title": "GRACE NON-TIDAL ATMOSPHERE GEOPOTENTIAL COEFFICIENTS JPL RELEASE 6.0 GAA"
+},
+{
+"id": "GRACE_GAB_L2_GRAV_GFZ_RL06.v6.0",
+"title": "GRACE NON-TIDAL OCEAN GEOPOTENTIAL COEFFICIENTS GFZ RELEASE 6.0 GAB"
+},
+{
+"id": "GRACE_GAB_L2_GRAV_JPL_RL06.v6.0",
+"title": "GRACE NON-TIDAL OCEAN GEOPOTENTIAL COEFFICIENTS JPL RELEASE 6.0 GAB"
+},
+{
+"id": "GRACE_GAD_L2_GRAV_CSR_RL06.v6.0",
+"title": "GRACE OCEAN BOTTOM GEOPOTENTIAL COEFFICIENTS CSR RELEASE 6.0 GAD"
+},
+{
+"id": "GRACE_GAD_L2_GRAV_GFZ_RL06.v6.0",
+"title": "GRACE OCEAN BOTTOM GEOPOTENTIAL COEFFICIENTS GFZ RELEASE 6.0 GAD"
+},
+{
+"id": "GRACE_GAD_L2_GRAV_JPL_RL06.v6.0",
+"title": "GRACE OCEAN BOTTOM GEOPOTENTIAL COEFFICIENTS JPL RELEASE 6.0 GAD"
+},
+{
+"id": "GRACEFO_L1A_ASCII_GRAV_JPL_RL04.v4",
+"title": "GRACE-FO Level-1A Release version 4.0 from JPL in ASCII"
+},
+{
+"id": "GRACEFO_L1B_ASCII_GRAV_JPL_RL04.v4",
+"title": "GRACE-FO Level-1B Release version 4.0 from JPL in ASCII"
+},
+{
+"id": "GRACEFO_L2_CSR_MONTHLY_0062.v6.2",
+"title": "GRACE-FO Level-2  Monthly Geopotential Spherical Harmonics CSR Release 06.2 (RL06.2)"
+},
+{
+"id": "GRACEFO_L2_JPL_MONTHLY_0061.v6.1",
+"title": "GRACE-FO Level-2  Monthly Geopotential Spherical Harmonics JPL Release 6.1 (RL06.1)"
+},
+{
+"id": "GRACEFO_L2_GFZ_MONTHLY_0061.v6.1",
+"title": "GRACE-FO Level-2 Monthly Geopotential Spherical Harmonics GFZ Release 6.1 (RL06.1)"
+},
+{
+"id": "HOMAGE_GGFO_L4_GOMA_Monthly_v01.v1.0",
+"title": "GRACE/GRACE-FO Level-4 Monthly Global Ocean Mass Anomaly version 01 from NASA MEaSUREs HOMaGE project"
+},
+{
+"id": "ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST.v1",
+"title": "Gridded Altimeter Fields with Enhanced Coastal Coverage"
+},
+{
+"id": "ALT_TIDE_GAUGE_L4_OST_SLA_US_WEST_COAST_DAILY.v1",
+"title": "Gridded Altimeter Fields with Enhanced Coastal Coverage Daily"
+},
+{
+"id": "BAROCLINIC_HRET14.v14",
+"title": "High Resolution Empirical Tide Prediction Software Version 14"
+},
+{
+"id": "HOMAGE_STERIC_OHC_TIME_SERIES_v01.v1.0",
+"title": "HOMAGE Monthly Time series of global average steric height anomalies and ocean heat content estimates from gridded in-situ ocean observations version 01"
+},
+{
+"id": "MERGED_TP_J1_OSTM_OST_ALL_V51.v5.1",
+"title": "Integrated Multi-Mission Ocean Altimeter Data for Climate Research complete time series Version 5.1"
+},
+{
+"id": "MERGED_TP_J1_OSTM_OST_CYCLES_V51.v5.1",
+"title": "Integrated Multi-Mission Ocean Altimeter Data for Climate Research Version 5.1"
+},
+{
+"id": "AQUARIUS_L4_OISSS_IPRC_7DAY_V5.v5.0",
+"title": "IPRC/SOEST Aquarius V5.0 Optimally Interpolated Sea Surface Salinity 7-Day global Dataset"
+},
+{
+"id": "JASON-1_JMR_ENH.v1",
+"title": "JASON-1 ENHANCED JASON MICROWAVE RADIOMETER"
+},
+{
+"id": "JASON-1_L2_OST_GPR_E.vE",
+"title": "Jason-1 GDR SSHA version E NetCDF"
+},
+{
+"id": "JASON-1_L2_OST_GPR_E_GEODETIC.vE",
+"title": "Jason-1 GDR SSHA version E NetCDF Geodetic"
+},
+{
+"id": "JASON-1_L2_OST_GPN_E.vE",
+"title": "Jason-1 GDR version E NetCDF"
+},
+{
+"id": "JASON-1_L2_OST_GPN_E_GEODETIC.vE",
+"title": "Jason-1 GDR version E NetCDF Geodetic"
+},
+{
+"id": "JASON-1_L2_OST_GPS_E.vE",
+"title": "Jason-1 SGDR version E NetCDF"
+},
+{
+"id": "JASON-1_L2_OST_GPS_E_GEODETIC.vE",
+"title": "Jason-1 SGDR version E NetCDF Geodetic"
+},
+{
+"id": "JASON_3_L2_OST_OGDR_GPS.vF",
+"title": "Jason-3 GPS based orbit and SSHA OGDR"
+},
+{
+"id": "JASON_3_PD_CORRECTION.vF",
+"title": "Jason-3 Wet Path Delay Correction"
+},
+{
+"id": "TELLUS_GRAC-GRFO_MASCON_CRI_GRID_RL06.1_V3.vRL06.1Mv03",
+"title": "JPL GRACE and GRACE-FO Mascon Ocean, Ice, and Hydrology Equivalent Water Height Coastal Resolution Improvement (CRI) Filtered Release 06.1 Version 03"
+},
+{
+"id": "TELLUS_GRAC-GRFO_MASCON_GRID_RL06.1_V3.vRL06.1Mv03",
+"title": "JPL GRACE and GRACE-FO Mascon Ocean, Ice, and Hydrology Equivalent Water Height JPL Release 06.1 Version 03"
+},
+{
+"id": "GRC-GFO_GRIDDED_AOD1B_JPL_1-DEG_RL06.vRL06",
+"title": "JPL GRACE/GRACE-FO Gridded-AOD1B Water-Equivalent-Thickness Surface-Mass Anomaly RL06 dataset for Tellus Level-3 1.0-degree grid"
+},
+{
+"id": "GRC-GFO_GRIDDED_AOD1B_JPL_MASCON_RL06.vRL06",
+"title": "JPL GRACE/GRACE-FO Gridded-AOD1B Water-Equivalent-Thickness Surface-Mass Anomaly RL06 dataset for Tellus Level-3 mascon 0.5-degree grid"
+},
+{
+"id": "SMAP_JPL_L2B_SSS_CAP_V5.v5.0",
+"title": "JPL SMAP Level 2B CAP Sea Surface Salinity V5.0 Validated Dataset"
+},
+{
+"id": "SMAP_JPL_L2B_NRT_SSS_CAP_V5.v5.0",
+"title": "JPL SMAP Level 2B Near Real-time CAP Sea Surface Salinity V5.0 Validated Dataset"
+},
+{
+"id": "SMAP_JPL_L2B_NRT2_SSS_CAP_V5.v5.0",
+"title": "JPL SMAP Level 2B Near Real-time CAP Sea Surface Salinity V5.0 Validated Dataset (2 hour latency)"
+},
+{
+"id": "SMAP_JPL_L3_SSS_CAP_8DAY-RUNNINGMEAN_V5.v5.0",
+"title": "JPL SMAP Level 3 CAP Sea Surface Salinity Standard Mapped Image 8-Day Running Mean V5.0 Validated Dataset"
+},
+{
+"id": "SMAP_JPL_L3_SSS_CAP_MONTHLY_V5.v5.0",
+"title": "JPL SMAP Level 3 CAP Sea Surface Salinity Standard Mapped Image Monthly V5.0 Validated Dataset"
+},
+{
+"id": "TELLUS_GRAC_L3_JPL_RL06_LND_v04.vRL06v04",
+"title": "JPL TELLUS GRACE Level-3 Monthly Land Water-Equivalent-Thickness Surface Mass Anomaly Release 6.0 version 04"
+},
+{
+"id": "TELLUS_GRAC_L3_JPL_RL06_OCN_v04.vRL06v04",
+"title": "JPL TELLUS GRACE Level-3 Monthly Ocean Bottom Pressure Anomaly Release 6.0 version 04"
+},
+{
+"id": "TELLUS_GRFO_L3_JPL_RL06.1_LND_v04.vRL06.1v04",
+"title": "JPL TELLUS GRACE-FO Level-3 Monthly Land Water-Equivalent-Thickness Surface Mass Anomaly Release 6.1 version 04"
+},
+{
+"id": "TELLUS_GRFO_L3_JPL_RL06.1_OCN_v04.vRL06.1v04",
+"title": "JPL TELLUS GRACE-FO Level-3 Monthly Ocean Bottom Pressure Anomaly Release 6.1 version 04"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_LabradorSea_v1.0.v1.0",
+"title": "Labrador Sea Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_MarmaraSea_v1.0.v1.0",
+"title": "Marmara Sea Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "SEA_SURFACE_HEIGHT_ALT_GRIDS_L4_2SATS_5DAY_6THDEG_V_JPL2205.v2205",
+"title": "MEaSUREs Gridded Sea Surface Height Anomalies Version 2205"
+},
+{
+"id": "OISST_HR_NRT-GOS-L4-MED-v2.0.v2.0",
+"title": "Mediterranean Sea High Resolution SST L4 Analysis 1/16deg Resolution"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_WesternMed_v1.0.v1.0",
+"title": "Mediterranean Sea Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "OISST_UHR_NRT-GOS-L4-MED-v2.0.v2.0",
+"title": "Mediterranean Sea Ultra High Resolution SST L4 Analysis 0.01 deg Resolution"
+},
+{
+"id": "ASCATA_ESDR_ANCILLARY_L2_V1.1.v1.1",
+"title": "MetOp-A ASCAT ESDR Level 2 Ancillary Ocean Surface Fields Version 1.1"
+},
+{
+"id": "ASCATA_ESDR_MODELED_L2_AUX_V1.0.v1.0",
+"title": "MetOp-A ASCAT ESDR Level 2 Modeled Ocean Surface Auxiliary Fields Version 1.0"
+},
+{
+"id": "ASCATA_L2_COASTAL_CDR.v1.0",
+"title": "MetOp-A ASCAT Level 2 12.5-km Ocean Surface Wind Vector Climate Data Record Optimized for Coastal Ocean"
+},
+{
+"id": "ASCATA_L2_25KM_CDR.v1.0",
+"title": "MetOp-A ASCAT Level 2 25-km Ocean Surface Wind Vector Climate Data Record"
+},
+{
+"id": "ASCATA-L2-25km.vOperational/Near-Real-Time",
+"title": "MetOp-A ASCAT Level 2 25.0 km Ocean Surface Wind Vectors"
+},
+{
+"id": "ASCATA-L2-Coastal.vOperational/Near-Real-Time",
+"title": "MetOp-A ASCAT Level 2 Ocean Surface Wind Vectors Optimized for Coastal Ocean"
+},
+{
+"id": "ASCATA_ESDR_L2_WIND_STRESS_V1.0.v1.0",
+"title": "MetOp-A ASCAT Scatterometer Inter-Calibrated ESDR Level 2 Ocean Surface Equivalent Neutral Wind Vectors and Wind Stress Vectors Version 1.0"
+},
+{
+"id": "ASCATA_ESDR_L2_WIND_STRESS_V1.1.v1.1",
+"title": "MetOp-A ASCAT Scatterometer Inter-Calibrated ESDR Level 2 Ocean Surface Equivalent Neutral Wind Vectors and Wind Stress Vectors Version 1.1"
+},
+{
+"id": "ASCATB_ESDR_ANCILLARY_L2_V1.1.v1.1",
+"title": "MetOp-B ASCAT ESDR Level 2 Ancillary Ocean Surface Fields Version 1.1"
+},
+{
+"id": "ASCATB_ESDR_MODELED_L2_AUX_V1.0.v1.0",
+"title": "MetOp-B ASCAT ESDR Level 2 Modeled Ocean Surface Auxiliary Fields Version 1.0"
+},
+{
+"id": "ASCATB-L2-25km.vOperational/Near-Real-Time",
+"title": "MetOp-B ASCAT Level 2 25.0km Ocean Surface Wind Vectors in Full Orbit Swath"
+},
+{
+"id": "ASCATB-L2-Coastal.vOperational/Near-Real-Time",
+"title": "MetOp-B ASCAT Level 2 Ocean Surface Wind Vectors Optimized for Coastal Ocean"
+},
+{
+"id": "ASCATB_ESDR_L2_WIND_STRESS_V1.0.v1.0",
+"title": "MetOp-B ASCAT Scatterometer Inter-Calibrated ESDR Level 2 Ocean Surface Equivalent Neutral Wind Vectors and Wind Stress Vectors Version 1.0"
+},
+{
+"id": "ASCATB_ESDR_L2_WIND_STRESS_V1.1.v1.1",
+"title": "MetOp-B ASCAT Scatterometer Inter-Calibrated ESDR Level 2 Ocean Surface Equivalent Neutral Wind Vectors and Wind Stress Vectors Version 1.1"
+},
+{
+"id": "ASCATC-L2-25km.vOperational/Near-Real-Time",
+"title": "MetOp-C ASCAT Level 2 25.0km Ocean Surface Wind Vectors in Full Orbit Swath"
+},
+{
+"id": "ASCATC-L2-Coastal.vOperational/Near-Real-Time",
+"title": "MetOp-C ASCAT Level 2 Ocean Surface Wind Vectors Optimized for Coastal Ocean"
+},
+{
+"id": "MODIS_AQUA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST MID-IR 8 Day 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST MID-IR 8 Day 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST MID-IR Annual 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST MID-IR Annual 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST MID-IR Daily 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST MID-IR Daily 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST MID-IR Monthly 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST MID-IR Monthly 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR  Daily 4km Daytime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR 8 Day 4km Daytime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR 8 Day 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR 8 Day 9km Daytime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR 8 Day 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR Annual 4km Daytime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR Annual 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR Annual 9km Daytime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR Annual 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR Daily 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR Daily 9km Daytime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR Daily 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR Monthly 4km Daytime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR Monthly 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR Monthly 9km Daytime V2019.0"
+},
+{
+"id": "MODIS_AQUA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Aqua Level 3 SST Thermal IR Monthly 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Terra  Level 3 SST Thermal IR Daily 9km Daytime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST MID-IR 8 day 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST MID-IR 8 Day 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST MID-IR Annual 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST MID-IR Annual 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_MID-IR_DAILY_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Mid-IR Daily 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST MID-IR Daily 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST MID-IR Monthly 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_MID-IR_MONTHLY_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST MID-IR Monthly 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR 8 Day 4km Daytime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_8DAY_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR 8 Day 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR 8 Day 9km Daytime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_8DAY_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR 8 Day 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR Annual 4km Daytime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR Annual 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR Annual 9km Daytime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_ANNUAL_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR Annual 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR Daily 4km Daytime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_DAILY_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR Daily 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR Daily 9km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR Monthly 4km Daytime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_4KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR Monthly 4km Nighttime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_DAYTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR Monthly 9km Daytime V2019.0"
+},
+{
+"id": "MODIS_TERRA_L3_SST_THERMAL_MONTHLY_9KM_NIGHTTIME_V2019.0.v2019.0",
+"title": "MODIS Terra Level 3 SST Thermal IR Monthly 9km Nighttime V2019.0"
+},
+{
+"id": "TELLUS_GLDAS-NOAH-3.3_TWS-ANOMALY_MONTHLY.v3.3",
+"title": "Monthly gridded Global Land Data Assimilation System (GLDAS) from Noah-v3.3 land hydrology model for GRACE and GRACE-FO over nominal months"
+},
+{
+"id": "OISSS_L4_multimission_7day_v1.v1.0",
+"title": "Multi-Mission Optimally Interpolated Sea Surface Salinity Global Dataset V1"
+},
+{
+"id": "OISSS_L4_multimission_7day_v2.v2.0",
+"title": "Multi-Mission Optimally Interpolated Sea Surface Salinity Global Dataset V2"
+},
+{
+"id": "OISSS_L4_multimission_monthly_v1.v1.0",
+"title": "Multi-Mission Optimally Interpolated Sea Surface Salinity Global Monthly Dataset V1"
+},
+{
+"id": "OISSS_L4_multimission_monthly_v2.v2.0",
+"title": "Multi-Mission Optimally Interpolated Sea Surface Salinity Global Monthly Dataset V2"
+},
+{
+"id": "SPURS1_FLOAT_NEUTRALLYBUOYANT.v1.0",
+"title": "Neutrally buoyant float data for the SPURS-1 N. Atlantic field campaign"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_NewCaledonia_v1.0.v1.0",
+"title": "New Caledonia Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "WENTZ_NIMBUS-7_SMMR_L2.v1",
+"title": "NIMBUS-7 SMMR GLOBAL AIR-SEA PARAMETERS IN SWATH (Wentz)"
+},
+{
+"id": "CYGNSS_NOAA_L2_SWSP_25KM_V1.1.v1.1",
+"title": "NOAA CYGNSS Level 2 Science Wind Speed 25-km Product Version 1.1"
+},
+{
+"id": "CYGNSS_NOAA_L2_SWSP_25KM_V1.2.v1.2",
+"title": "NOAA CYGNSS Level 2 Science Wind Speed 25-km Product Version 1.2"
+},
+{
+"id": "MSG04-OSPO-L2P-v1.0.v1.0",
+"title": "NOAA GHRSST Level 2P Atlantic Ocean Regional Skin Sea Surface Temperature v1.0 from the Spinning Enhanced Visible and InfraRed Imager (SEVIRI) on the Meteosat Second Generation-4 (MSG-4) satellite"
+},
+{
+"id": "MSG01-OSPO-L2P-v1.0.v1.0",
+"title": "NOAA GHRSST Level 2P Indian Ocean Regional Skin Sea Surface Temperature v1.0 from the Spinning Enhanced Visible and InfraRed Imager (SEVIRI) on the Meteosat Second Generation-1 (MSG-1) satellite"
+},
+{
+"id": "MSG02-OSPO-L2P-v1.0.v1.0",
+"title": "NOAA GHRSST Level 2P Indian Ocean Regional Skin Sea Surface Temperature v1.0 from the Spinning Enhanced Visible and InfraRed Imager (SEVIRI) on the Meteosat Second Generation-2 (MSG-2) satellite"
+},
+{
+"id": "REYNOLDS_NCDC_L4_MONTHLY_V5.v5",
+"title": "NOAA Smith and Reynolds Extended Reconstructed Sea Surface Temperature (ERSST) Level 4 Monthly Version 5 Dataset in netCDF"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_ROAM_MIZ_v1.0.v1.0",
+"title": "Northeast Weddell Sea Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_NWAustralia_v1.0.v1.0",
+"title": "Northwest Australian Shelf Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_NWPacific_v1.0.v1.0",
+"title": "Northwest Pacific Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "NSCAT_BYU_L3_OW_SIGMA0_ENHANCED.v1",
+"title": "NSCAT Gridded Level 3 Enhanced Resolution Sigma-0 from BYU"
+},
+{
+"id": "NSCAT_W25_RMGDR_V2.v2",
+"title": "NSCAT High Resolution R-MGDR, Selected Ocean Wind Vectors (JPL)"
+},
+{
+"id": "NSCAT_25KM_MGDR_V2.v2",
+"title": "NSCAT High-Resolution MGDR, Sigma-0 and Ocean Wind Vectors (Dunbar)"
+},
+{
+"id": "NSCAT_LEVEL_1.7_V2.v2",
+"title": "NSCAT Level 1.7 SDR, Sigma-0 Cells"
+},
+{
+"id": "NSCAT_AER_HOFFMAN_L2_OW_WIND_VECTOR_AMBIGUITY_REMOVAL.v2",
+"title": "NSCAT Level 2 Ocean Wind Vector Ambiguity Removal Overlay (Hoffman, AER)"
+},
+{
+"id": "NSCAT_LEVEL_2_V2.v2",
+"title": "NSCAT Level 2 Ocean Wind Vector Geophysical Data Record"
+},
+{
+"id": "NSCAT_LEVEL_3_BROWSE_IMAGES.v2",
+"title": "NSCAT Level 3 Daily Gridded Ocean Surface Wind Vector Browse Images (JPL)"
+},
+{
+"id": "NSCAT_LEVEL_3_V2.v2",
+"title": "NSCAT Level 3 Daily Gridded Ocean Surface Wind Vectors (JPL)"
+},
+{
+"id": "OSCAR_L4_OC_FINAL_V2.0.v2.0",
+"title": "Ocean Surface Current Analyses Real-time (OSCAR) Surface Currents - Final 0.25 Degree (Version 2.0)"
+},
+{
+"id": "OSCAR_L4_OC_INTERIM_V2.0.v2.0",
+"title": "Ocean Surface Current Analyses Real-time (OSCAR) Surface Currents - Interim 0.25 Degree (Version 2.0)"
+},
+{
+"id": "OSCAR_L4_OC_NRT_V2.0.v2.0",
+"title": "Ocean Surface Current Analyses Real-time (OSCAR) Surface Currents - Near Real Time 0.25 Degree (Version 2.0)"
+},
+{
+"id": "OS2_OSCAT_LEVEL_2B_OWV_COMP_12_V2.v2",
+"title": "Oceansat-2 Scatterometer Level 2B Ocean Wind Vectors in 12.5km Slice Composites Version 2"
+},
+{
+"id": "OMG_L2_AXCTD.v1",
+"title": "OMG Airborne eXpendable Conductivity Temperature Depth (AXCTD) Profiles"
+},
+{
+"id": "OMG_L1B_AIRGRAV.v1",
+"title": "OMG Airborne Gravity (AirGRAV) Data from Airborne Bathymetry Surveys Version 1"
+},
+{
+"id": "OMG_L2_CTD.v1",
+"title": "OMG Conductivity Temperature Depth (CTD) Profiles"
+},
+{
+"id": "OMG_L3_ICE_ELEV_GLISTINA.v1",
+"title": "OMG Glacial Elevations from GLISTIN-A Ver. 1"
+},
+{
+"id": "OMG_L2_AXBT.v1",
+"title": "OMG Level 2 Airborne eXpendable Bathy Thermograph (AXBT) Profiles"
+},
+{
+"id": "OMG_NARWHALS_MOORING_TEMP_CTD_1.0.v1.0",
+"title": "OMG Narwhals oceanographic data from moorings, 2018-2020"
+},
+{
+"id": "OMG_NARWHALS_SHIPBOARD_CTD_1.0.v1.0",
+"title": "OMG Narwhals Shipboard Conductivity, Temperature, and Depth (CTD) profiles, 2018-2020"
+},
+{
+"id": "OMG_L1_FLOAT_ALAMO.v1",
+"title": "OMG Ocean Water Properties Data from Alamo Floats Version 1"
+},
+{
+"id": "OMG_L1_FLOAT_APEX.v1",
+"title": "OMG Ocean Water Properties Data from APEX Floats Version 1"
+},
+{
+"id": "OMG_L2_Bathy_MBES_Gridded.v1",
+"title": "OMG Swath Gridded Multibeam Echo Sounding (MBES) Bathymetry"
+},
+{
+"id": "OMG_L2_Bathy_SBES_Gridded.v1",
+"title": "OMG Swath Gridded Singlebeam Echo Sounding (SBES) Bathymetry"
+},
+{
+"id": "OPERA_DSWX-HLS_CALVAL_PROVISIONAL_V1.v1",
+"title": "OPERA Dynamic Surface Water Extent from Harmonized Landsat Sentinel-2 CalVal Database (Version 1)"
+},
+{
+"id": "OPERA_L3_DSWX-HLS_V1.v1.0",
+"title": "OPERA Dynamic Surface Water Extent from Harmonized Landsat Sentinel-2 product (Version 1)"
+},
+{
+"id": "OSCAR_L4_OC_1deg.v1",
+"title": "OSCAR 1 degree ocean surface currents"
+},
+{
+"id": "OSCAR_L4_OC_third-deg.v1",
+"title": "OSCAR third degree resolution ocean surface currents"
+},
+{
+"id": "OSCAR_L4_OC_third-deg_YEARLY.v1",
+"title": "OSCAR third degree resolution ocean surface currents - yearly files"
+},
+{
+"id": "PRIM_SMAP_L2_V1.v1.0",
+"title": "Parametrized Rain Impact Model for SMAP L2 V1.0"
+},
+{
+"id": "SPURS1_MOORING_PICO.v1.0",
+"title": "PICO Mooring data for the SPURS-1 N. Atlantic field campaign"
+},
+{
+"id": "PRESWOT_HYDRO_L4_LAKE_STORAGE_TIME_SERIES_V2.v2",
+"title": "Pre SWOT Hydrology Global Lake/Reservoir Storage Time Series V2"
+},
+{
+"id": "PRESWOT_HYDRO_L3_LAKE_RESEVOIR_AREA_V2.v2",
+"title": "Pre SWOT Hydrology Global Lake/Reservoir Surface Inland Water Area Extent V2"
+},
+{
+"id": "PRESWOT_HYDRO_L2_GREALM_LAKE_HEIGHT_V2.v2",
+"title": "Pre SWOT Hydrology Global Lake/Reservoir Surface Inland Water Height GREALM V.2"
+},
+{
+"id": "PRESWOT_HYDRO_GRRATS_L2_DAILY_VIRTUAL_STATION_HEIGHTS_V2.v2",
+"title": "Pre SWOT Hydrology GRRATS Daily River Heights and Storage Version 2"
+},
+{
+"id": "PRESWOT_HYDRO_GRRATS_L2_VIRTUAL_STATION_HEIGHTS_V2.v2",
+"title": "Pre SWOT Hydrology GRRATS Virtual Station River Heights Version 2"
+},
+{
+"id": "QSCAT_ESDR_MODELED_L2_AUX_V1.0.v1.0",
+"title": "QuikSCAT ESDR Level 2 Modeled Ocean Surface Auxiliary Fields Version 1.0"
+},
+{
+"id": "QSCAT_L1C_NONSPINNING_SIGMA0_WINDS_V2.v2.0",
+"title": "QuikSCAT Level 1C Averaged Sigma-0 and Winds from Non-spinning Antenna Version 2.0"
+},
+{
+"id": "QSCAT_LEVEL_2B_OWV_COMP_12.v3",
+"title": "QuikSCAT Level 2B Ocean Wind Vectors in 12.5km Slice Composites Version 3"
+},
+{
+"id": "QSCAT_LEVEL_2B_OWV_COMP_12_LCR_3.1.v3.1",
+"title": "QuikSCAT Level 2B Ocean Wind Vectors in 12.5km Slice Composites Version 3.1"
+},
+{
+"id": "QSCAT_LEVEL_2B_OWV_COMP_12_KUSST_LCRES_4.1.v4.1",
+"title": "QuikSCAT Level 2B Ocean Wind Vectors in 12.5km Slice Composites Version 4.1"
+},
+{
+"id": "QUIKSCAT_ESDR_L2_WIND_STRESS_V1.0.v1.0",
+"title": "QuikSCAT Scatterometer Inter-Calibrated ESDR Level 2 Ocean Surface Equivalent Neutral Wind Vectors and Wind Stress Vectors Version 1.0"
+},
+{
+"id": "RSCAT_L1B_V2.0.v2.0",
+"title": "RapidScat Level 1B Time-Ordered Geo-Located Sigma-0 Version 2.0"
+},
+{
+"id": "RSCAT_L2A_12KM_V2.0.v2.0",
+"title": "RapidScat Level 2A Surface Flagged Sigma-0 and Attenuations in 12.5km Swath Grid Version 2.0"
+},
+{
+"id": "RSCAT_L2A_25KM_V2.0.v2.0",
+"title": "RapidScat Level 2A Surface Flagged Sigma-0 and Attenuations in 25km Swath Grid Version 2.0"
+},
+{
+"id": "RSCAT_LEVEL_2B_OWV_CLIM_12_V1.v1.0",
+"title": "RapidScat Level 2B Climate Ocean Wind Vectors in 12.5km Footprints"
+},
+{
+"id": "RSCAT_LEVEL_2B_OWV_CLIM_12_V2.v2.0",
+"title": "RapidScat Level 2B Climate Ocean Wind Vectors in 12.5km Footprints Version 2.0"
+},
+{
+"id": "RSCAT_LEVEL_2B_OWV_COMP_12_V1.1.v1.1",
+"title": "RapidScat Level 2B Ocean Wind Vectors in 12.5km Slice Composites Version 1.1"
+},
+{
+"id": "RSCAT_LEVEL_2B_OWV_COMP_12_V1.2.v1.2",
+"title": "RapidScat Level 2B Ocean Wind Vectors in 12.5km Slice Composites Version 1.2"
+},
+{
+"id": "RSCAT_LEVEL_2B_OWV_COMP_12_V1.3.v1.3",
+"title": "RapidScat Level 2B Ocean Wind Vectors in 12.5km Slice Composites Version 1.3"
+},
+{
+"id": "JPL_RECON_GMSL.v1.0",
+"title": "Reconstructed Global Mean Sea Level 1900-2018"
+},
+{
+"id": "RECON_SEA_LEVEL_OST_L4_V1.v1",
+"title": "Reconstructed Sea Level Version 1"
+},
+{
+"id": "RSCAT_COLOCATED_RSS_RADIOMETER_LEVEL_2B_V1.v1.0",
+"title": "Remote Sensing Systems Radiometer Rain Collocations with JPL RapidScat L2B Swath Grid"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_RockallTrough_v1.0.v1.0",
+"title": "Rockall Trough Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "RONGOWAI_L1_SDR_V1.0.v1.0",
+"title": "Rongowai-CYGNSS Airborne Level 1 Science Data Record Version 1.0"
+},
+{
+"id": "CCMP_WINDS_10M6HR_L4_V3.1.v3.1",
+"title": "RSS CCMP 6-Hourly 10 Meter Surface Winds Level 4 Version 3.1"
+},
+{
+"id": "CCMP_WINDS_10MMONTHLY_L4_V3.1.v3.1",
+"title": "RSS CCMP Monthly 10 Meter Surface Winds Level 4 Version 3.1"
+},
+{
+"id": "SMAP_RSS_L2_SSS_NRT_V5.v5.0",
+"title": "RSS SMAP Level 2C Sea Surface Salinity NRT V5.0 Validated Dataset"
+},
+{
+"id": "SMAP_RSS_L2_SSS_NRT_V6.v6.0",
+"title": "RSS SMAP Level 2C Sea Surface Salinity NRT V6.0 Validated Dataset"
+},
+{
+"id": "SMAP_RSS_L2_SSS_V4.v4.0",
+"title": "RSS SMAP Level 2C Sea Surface Salinity V4.0 Validated Dataset"
+},
+{
+"id": "SMAP_RSS_L2_SSS_V5.v5.0",
+"title": "RSS SMAP Level 2C Sea Surface Salinity V5.0 Validated Dataset"
+},
+{
+"id": "SMAP_RSS_L2_SSS_V5.3.v5.3",
+"title": "RSS SMAP Level 2C Sea Surface Salinity V5.3 Evaluation Dataset"
+},
+{
+"id": "SMAP_RSS_L2_SSS_V6.v6.0",
+"title": "RSS SMAP Level 2C Sea Surface Salinity V6.0 Validated Dataset"
+},
+{
+"id": "SMAP_RSS_L3_SSS_SMI_8DAY-RUNNINGMEAN_V4.v4.0",
+"title": "RSS SMAP Level 3 Sea Surface Salinity Standard Mapped Image 8-Day Running Mean V4.0 Validated Dataset"
+},
+{
+"id": "SMAP_RSS_L3_SSS_SMI_8DAY-RUNNINGMEAN_V5.v5.0",
+"title": "RSS SMAP Level 3 Sea Surface Salinity Standard Mapped Image 8-Day Running Mean V5.0 Validated Dataset"
+},
+{
+"id": "SMAP_RSS_L3_SSS_SMI_8DAY-RUNNINGMEAN_V5.3.v5.3",
+"title": "RSS SMAP Level 3 Sea Surface Salinity Standard Mapped Image 8-Day Running Mean V5.3 Evaluation Dataset"
+},
+{
+"id": "SMAP_RSS_L3_SSS_SMI_8DAY-RUNNINGMEAN_V6.v6.0",
+"title": "RSS SMAP Level 3 Sea Surface Salinity Standard Mapped Image 8-Day Running Mean V6.0 Validated Dataset"
+},
+{
+"id": "SMAP_RSS_L3_SSS_SMI_MONTHLY_V4.v4.0",
+"title": "RSS SMAP Level 3 Sea Surface Salinity Standard Mapped Image Monthly V4.0 Validated Dataset"
+},
+{
+"id": "SMAP_RSS_L3_SSS_SMI_MONTHLY_V5.v5.0",
+"title": "RSS SMAP Level 3 Sea Surface Salinity Standard Mapped Image Monthly V5.0 Validated Dataset"
+},
+{
+"id": "SMAP_RSS_L3_SSS_SMI_MONTHLY_V5.3.v5.3",
+"title": "RSS SMAP Level 3 Sea Surface Salinity Standard Mapped Image Monthly V5.3 Evaluation Dataset"
+},
+{
+"id": "SMAP_RSS_L3_SSS_SMI_MONTHLY_V6.v6.0",
+"title": "RSS SMAP Level 3 Sea Surface Salinity Standard Mapped Image Monthly V6.0 Validated Dataset"
+},
+{
+"id": "RSS_WindSat_L1C_TB_V08.0.v8.0",
+"title": "RSS WindSat L1C Calibrated TB Version 8"
+},
+{
+"id": "SMODE_L1_DOPPLERSCATT_V1.v1",
+"title": "S-MODE DopplerScatt Level 1 Surface Doppler and Radar Backscatter Version 1"
+},
+{
+"id": "SMODE_L2_DOPPLERSCATT_WINDS_CURRENT_V1.v1",
+"title": "S-MODE DopplerScatt Level 2 Ocean Winds and Currents Version 1"
+},
+{
+"id": "SMODE_L2_DOPPLERSCATT_WINDS_CURRENT_V2.v2",
+"title": "S-MODE DopplerScatt Level 2 Ocean Winds and Currents Version 2"
+},
+{
+"id": "SMODE_L2_DRIFTER_POSITIONS_V1.v1",
+"title": "S-MODE L2 Position Data from Surface Drifters Version 1"
+},
+{
+"id": "SMODE_L2_SHIPBOARD_ADCP_V1.v1",
+"title": "S-MODE L2 Shipboard Acoustic Doppler Current Profiler Measurements Version 1"
+},
+{
+"id": "SMODE_L2_SHIPBOARD_BOTTLES_V1.v1",
+"title": "S-MODE L2 Shipboard Bottle Data Version 1"
+},
+{
+"id": "SMODE_L2_SHIPBOARD_CTD_V1.v1",
+"title": "S-MODE L2 Shipboard Conductivity, Temperature, and Depth Measurements Version 1"
+},
+{
+"id": "SMODE_L2_SHIPBOARD_RADIOSONDES_METEOROLOGY_V1.v1",
+"title": "S-MODE L2 Shipboard Meteorological Data from Rawinsondes Version 1"
+},
+{
+"id": "SMODE_L2_SHIPBOARD_SUNA_V1.v1",
+"title": "S-MODE L2 Shipboard SUNA nitrate data Version 1"
+},
+{
+"id": "SMODE_L2_SHIPBOARD_TSG_V1.v1",
+"title": "S-MODE L2 Shipboard Thermosalinograph, Meteorology, and Bio-optics Measurements Version 1"
+},
+{
+"id": "SMODE_L2_SAILDRONES_V1.v1",
+"title": "S-MODE L2 Temperature and Salinity from Saildrones Version 1"
+},
+{
+"id": "SMODE_L2_LAGRANGIAN_FLOATS_V1.v1",
+"title": "S-MODE Lagrangian Float Observations Version 1"
+},
+{
+"id": "SMODE_L1_MASS_DOPPVIS_V1.v1",
+"title": "S-MODE Level 1 MASS DoppVis Imagery Version 1"
+},
+{
+"id": "SMODE_L3_SEAGLIDERS_TEMP_SALINITY_V1.v1",
+"title": "S-MODE Level 3 Seaglider Observations Version 1"
+},
+{
+"id": "SMODE_L3_SHIPBOARD_UCTD_ECOCTD_V1.v1",
+"title": "S-MODE Level 3 Shipboard uCTD and EcoCTD Measurements Version 1"
+},
+{
+"id": "SMODE_L1_MASS_DOPVISIBLE_V1.v1",
+"title": "S-MODE MASS Level 1 DoppVis Imagery Version 1"
+},
+{
+"id": "SMODE_L1_MASS_HYPERSPECTRAL_V1.v1",
+"title": "S-MODE MASS Level 1 Hyperspectral Imagery Version 1"
+},
+{
+"id": "SMODE_L1_MASS_LIDAR_V1.v1",
+"title": "S-MODE MASS Level 1 Lidar Point Cloud Version 1"
+},
+{
+"id": "SMODE_L1_MASS_LWIR_V1.v1",
+"title": "S-MODE MASS Level 1 LWIR Version 1"
+},
+{
+"id": "SMODE_L1_MASS_VISIBLE_V1.v1",
+"title": "S-MODE MASS Level 1 Visible Imagery Version 1"
+},
+{
+"id": "SMODE_L2_MOSES_LWIR_SST_V1.v1",
+"title": "S-MODE MOSES Level 2 Atmospherically-Corrected Sea Surface Temperature Version 1"
+},
+{
+"id": "SMODE_L4_NCOM_V1.v1",
+"title": "S-MODE NCOM Model Output Version 1"
+},
+{
+"id": "SMODE_L1_ASIT_KABODS_V1.v1",
+"title": "S-MODE Pre-Pilot Level 1 Data from the Ka-band Ocean Doppler Scatterometer (KaBODS) at the Air-Sea Interaction Tower Version 1"
+},
+{
+"id": "SMODE_L1_ASIT_SLOPEFIELDS_V1.v1",
+"title": "S-MODE Pre-Pilot Ocean Wave Slope from Visible-Band Polarimetry at the Air-Sea Interaction Tower Version 1"
+},
+{
+"id": "SMODE_L1_PRISM_V1.v1",
+"title": "S-MODE PRISM Level 1 Radiance and Ancillary Products Version 1"
+},
+{
+"id": "SMODE_L2_PRISM_CHLA_V1.v1",
+"title": "S-MODE PRISM Level 2 Water Surface Chlorophyll-a Version 1"
+},
+{
+"id": "SMODE_L2a_PRISM_REFL_V1.v1",
+"title": "S-MODE PRISM Level 2a Reflectance Version 1"
+},
+{
+"id": "SMODE_L1_SAILDRONES_V1.v1",
+"title": "S-MODE Saildrone Level 1 Observations"
+},
+{
+"id": "SMODE_L2_SEAGLIDERS_V1.v1",
+"title": "S-MODE Seaglider Observations Version 1"
+},
+{
+"id": "SMODE_L2_SHIPBOARD_BIO_V1.v1",
+"title": "S-MODE Shipboard Bio-optical Measurements Version 1"
+},
+{
+"id": "SMODE_L2_SHIPBOARD_RADIOMETER_METEOROLOGY_V1.v1",
+"title": "S-MODE Shipboard Radiometer Measurements Version 1"
+},
+{
+"id": "SMODE_L2_SHIPBOARD_UCTD_ECOCTD_V1.v1",
+"title": "S-MODE Shipboard uCTD and EcoCTD Measurements Version 1"
+},
+{
+"id": "SMODE_L2_APEX_FLOAT_V1.v1",
+"title": "S-MODE Temperature and Salinity from NAVO Floats Version 1"
+},
+{
+"id": "SMODE_L2_SLOCUM_GLIDERS_V1.v1",
+"title": "S-MODE Temperature and Salinity from Slocum Gliders Version 1"
+},
+{
+"id": "SMODE_L2_WAVEGLIDERS_TEMP_SALINITY_V1.v1",
+"title": "S-MODE Waveglider Observations"
+},
+{
+"id": "SAILDRONE_ARCTIC_2021.v1",
+"title": "Saildrone 2021 Arctic field campaign for the Multi-Sensor Improved SST (MISST) project"
+},
+{
+"id": "SAILDRONE_ARCTIC_2022.v1",
+"title": "Saildrone 2022 Arctic field campaign for the Multi-Sensor Improved SST (MISST) project"
+},
+{
+"id": "SAILDRONE_ARCTIC.v1.0",
+"title": "Saildrone Arctic field campaign surface and ADCP measurements for NOPP-MISST project"
+},
+{
+"id": "SAILDRONE_BAJA_SURFACE.v1.0",
+"title": "Saildrone Baja field campaign surface and ADCP measurements"
+},
+{
+"id": "SAILDRONE_ATOMIC.v1.0",
+"title": "Saildrone field campaign surface and ADCP measurements for the Atlantic Tradewind Ocean-Atmosphere Mesoscale Interaction Campaign (ATOMIC) project"
+},
+{
+"id": "ALTIKA_SARAL_L2_OST_XOGDR.vf",
+"title": "SARAL Near-Real-Time Value-added Operational Geophysical Data Record Sea Surface Height Anomaly"
+},
+{
+"id": "SASSIE_L2_ALTO_ALAMO_FLOATS_V1.v1",
+"title": "SASSIE Arctic Field Campaign ALTO/ALAMO Profiling Float Data Fall 2022 Version 1"
+},
+{
+"id": "SASSIE_L2_DRIFTER_UPTEMPO_V1.v1",
+"title": "SASSIE Arctic Field Campaign Drifter Hydrography Data Fall 2022 Version 1"
+},
+{
+"id": "SASSIE_L2_JET_SSP_V1.v1",
+"title": "SASSIE Arctic Field Campaign Jet Surface Salinity Profiler Data Fall 2022 Version 1"
+},
+{
+"id": "SASSIE_L1_SWIFT_V1.v1",
+"title": "SASSIE Arctic Field Campaign L1 SWIFT Data Fall 2022"
+},
+{
+"id": "SASSIE_L1_WAVEGLIDER_V1.v1",
+"title": "SASSIE Arctic Field Campaign L1 Wave Glider Data Fall 2022"
+},
+{
+"id": "SASSIE_L2_SHIPBOARD_ADCP_V1.v1",
+"title": "SASSIE Arctic Field Campaign Shipboard Acoustic Doppler Current Profiler Data Fall 2022"
+},
+{
+"id": "SASSIE_L2_SHIPBOARD_CASTAWAY_CTD_V1.v1",
+"title": "SASSIE Arctic Field Campaign Shipboard Castaway CTD Data Fall 2022 Version 1"
+},
+{
+"id": "SASSIE_L2_SHIPBOARD_DELTA_18O_V1.v1",
+"title": "SASSIE Arctic Field Campaign Shipboard Delta-18O Data Fall 2022"
+},
+{
+"id": "SASSIE_L2_SHIPBOARD_METEOROLOGY_V1.v1",
+"title": "SASSIE Arctic Field Campaign Shipboard Meteorology Data Fall 2022"
+},
+{
+"id": "SASSIE_L3_SHIPBOARD_SBAND_V1.v1",
+"title": "SASSIE Arctic Field Campaign Shipboard S-Band Radar Level 3 Data Fall 2022"
+},
+{
+"id": "SASSIE_L4_SHIPBOARD_SBAND_V1.v1",
+"title": "SASSIE Arctic Field Campaign Shipboard S-Band Radar Level 4 Data Fall 2022"
+},
+{
+"id": "SASSIE_L2_SHIPBOARD_SALINITY_SNAKE_V1.v1",
+"title": "SASSIE Arctic Field Campaign Shipboard Salinity Snake Data Fall 2022"
+},
+{
+"id": "SASSIE_L2_SHIPBOARD_TSG_V1.v1",
+"title": "SASSIE Arctic Field Campaign Shipboard Thermosalinograph Data Fall 2022 Version 1"
+},
+{
+"id": "SASSIE_L2_SHIPBOARD_UCTD_V1.v1",
+"title": "SASSIE Arctic Field Campaign Shipboard uCTD Data Fall 2022 Version 1"
+},
+{
+"id": "SASSIE_L2_SWIFT_V1.v1",
+"title": "SASSIE Arctic Field Campaign SWIFT Data Fall 2022 Version 1"
+},
+{
+"id": "SASSIE_L2_UNDER_ICE_FLOAT_V1.v1",
+"title": "SASSIE Arctic Field Campaign Under Ice Float Fall 2022 Version 1"
+},
+{
+"id": "SASSIE_L2_WAVEGLIDERS_V1.v1",
+"title": "SASSIE Arctic Field Campaign Wave Glider Data Fall 2022 Version 1"
+},
+{
+"id": "SCATSAT1_ESDR_ANCILLARY_L2_V1.1.v1.1",
+"title": "SCATSAT-1 ESDR Level 2 Ancillary Ocean Surface Fields Version 1.1"
+},
+{
+"id": "SCATSAT1_ESDR_MODELED_L2_AUX_V1.0.v1.0",
+"title": "SCATSAT-1 ESDR Level 2 Modeled Ocean Surface Auxiliary Fields Version 1.0"
+},
+{
+"id": "SCATSAT1_ESDR_L2_WIND_STRESS_V1.0.v1.0",
+"title": "SCATSAT-1 Scatterometer Inter-Calibrated ESDR Level 2 Ocean Surface Equivalent Neutral Wind Vectors and Wind Stress Vectors Version 1.0"
+},
+{
+"id": "SCATSAT1_ESDR_L2_WIND_STRESS_V1.1.v1.1",
+"title": "SCATSAT-1 Scatterometer Inter-Calibrated ESDR Level 2 Ocean Surface Equivalent Neutral Wind Vectors and Wind Stress Vectors Version 1.1"
+},
+{
+"id": "SPURS1_SEAGLIDER.v1.0",
+"title": "Seaglider CTD data for the SPURS-1 N. Atlantic field campaign"
+},
+{
+"id": "WENTZ_SASS_SIGMA0_L2.v1",
+"title": "SEASAT SCATTEROMETER BINNED 50KM SIGMA-0 DATA (Wentz)"
+},
+{
+"id": "ATLAS_DEALIASED_SASS_L2.v1",
+"title": "SEASAT SCATTEROMETER DEALIASED OCEAN WIND VECTORS (Atlas)"
+},
+{
+"id": "UCLA_DEALIASED_SASS_L3.v1",
+"title": "SEASAT SCATTEROMETER DEALIASED OCEAN WIND VECTORS (JPL-UCLA-AES)"
+},
+{
+"id": "WAF_DEALIASED_SASS_L2.v1",
+"title": "SEASAT SCATTEROMETER DEALIASED OCEAN WIND VECTORS (Wentz et al.)"
+},
+{
+"id": "CHELTON_SEASAT_SASS_L3.v1",
+"title": "SEASAT SCATTEROMETER DERIVED GLOBAL GRIDDED MONTHLY OCEAN WIND STRESS (Chelton)"
+},
+{
+"id": "SPURS1_SEASOAR.v1.0",
+"title": "Seasoar CTD data for the SPURS-1 N. Atlantic field campaign"
+},
+{
+"id": "QSCAT_LEVEL_1B_V2.v2",
+"title": "SeaWinds on QuikSCAT Level 1B Time-Ordered Earth-Located Sigma0 Version 2"
+},
+{
+"id": "JASON_CS_S6A_L1A_ALT_HR_NTC_F08.vF08",
+"title": "Sentinel-6A MF Jason-CS L1A P4 Altimeter High Resolution (HR) NTC Intermediate Outputs with Instrument Calibrations F08"
+},
+{
+"id": "JASON_CS_S6A_L1A_ALT_HR_STC_F.vF",
+"title": "Sentinel-6A MF Jason-CS L1A P4 Altimeter High Resolution (HR) STC Intermediate Outputs with Instrument Calibrations"
+},
+{
+"id": "JASON_CS_S6A_L1B_GNSS_POD_DAILY.vF",
+"title": "Sentinel-6A MF Jason-CS L1B GNSS-POD Tracking Data Daily"
+},
+{
+"id": "JASON_CS_S6A_L1B_GNSS_POD_HOURLY.vF",
+"title": "Sentinel-6A MF Jason-CS L1B GNSS-POD Tracking Data Hourly"
+},
+{
+"id": "JASON_CS_S6A_L1B_GNSS_RO_POD_HOURLY.vF",
+"title": "Sentinel-6A MF Jason-CS L1B GNSS-RO-POD Tracking Data Hourly"
+},
+{
+"id": "JASON_CS_S6A_L1B_ALT_HR_NTC_F08.vF08",
+"title": "Sentinel-6A MF Jason-CS L1B P4 Altimeter High Resolution (HR) NTC Geolocated Waveforms F08"
+},
+{
+"id": "JASON_CS_S6A_L1B_ALT_HR_STC_F.vF",
+"title": "Sentinel-6A MF Jason-CS L1B P4 Altimeter High Resolution (HR) STC Geolocated Waveforms"
+},
+{
+"id": "JASON_CS_S6A_L1B_ALT_LR_NTC_F08.vF08",
+"title": "Sentinel-6A MF Jason-CS L1B P4 Altimeter Low Resolution (LR) NTC Geolocated Waveforms F08"
+},
+{
+"id": "JASON_CS_S6A_L1B_ALT_LR_STC_F.vF",
+"title": "Sentinel-6A MF Jason-CS L1B P4 Altimeter Low Resolution (LR) STC Geolocated Waveforms"
+},
+{
+"id": "JASON_CS_S6A_L2_AMR_RAD_NRT.vF",
+"title": "Sentinel-6A MF Jason-CS L2 Advanced Microwave Radiometer (AMR-C) NRT Geophysical Parameters"
+},
+{
+"id": "JASON_CS_S6A_L2_AMR_RAD_NTC_F08_UNVALIDATED.vF08",
+"title": "Sentinel-6A MF Jason-CS L2 Advanced Microwave Radiometer (AMR-C) NTC Geophysical Parameters (Unvalidated) F08"
+},
+{
+"id": "JASON_CS_S6A_L2_AMR_RAD_NTC_F08.vF08",
+"title": "Sentinel-6A MF Jason-CS L2 Advanced Microwave Radiometer (AMR-C) NTC Geophysical Parameters F08"
+},
+{
+"id": "JASON_CS_S6A_L2_AMR_RAD_STC.vF",
+"title": "Sentinel-6A MF Jason-CS L2 Advanced Microwave Radiometer (AMR-C) STC Geophysical Parameters"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_HR_STD_OST_NRT_F.vF",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter High Resolution (HR) NRT Ocean Surface Topography"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_HR_RED_OST_NRT_F.vF",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter High Resolution (HR) NRT Reduced Ocean Surface Topography"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_HR_STD_OST_NTC_F08_UNVALIDATED.vF08",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter High Resolution (HR) NTC Ocean Surface Topography (Unvalidated) F08"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_HR_STD_OST_NTC_F08.vF08",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter High Resolution (HR) NTC Ocean Surface Topography F08"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_HR_RED_OST_NTC_F08_UNVALIDATED.vF08",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter High Resolution (HR) NTC Reduced Ocean Surface Topography (Unvalidated) F08"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_HR_RED_OST_NTC_F08.vF08",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter High Resolution (HR) NTC Reduced Ocean Surface Topography F08"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_HR_STD_OST_STC_F.vF",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter High Resolution (HR) STC Ocean Surface Topography"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_HR_RED_OST_STC_F.vF",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter High Resolution (HR) STC Reduced Ocean Surface Topography"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_LR_STD_OST_NRT_F.vF",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter Low Resolution (LR) NRT Ocean Surface Topography"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_LR_RED_OST_NRT_F.vF",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter Low Resolution (LR) NRT Reduced Ocean Surface Topography"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_LR_STD_OST_NTC_F08_UNVALIDATED.vF08",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter Low Resolution (LR) NTC Ocean Surface Topography (Unvalidated) F08"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_LR_STD_OST_NTC_F08.vF08",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter Low Resolution (LR) NTC Ocean Surface Topography F08"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_LR_RED_OST_NTC_F08_UNVALIDATED.vF08",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter Low Resolution (LR) NTC Reduced Ocean Surface Topography (Unvalidated) F08"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_LR_RED_OST_NTC_F08.vF08",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter Low Resolution (LR) NTC Reduced Ocean Surface Topography F08"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_LR_STD_OST_STC_F.vF",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter Low Resolution (LR) STC Ocean Surface Topography"
+},
+{
+"id": "JASON_CS_S6A_L2_ALT_LR_RED_OST_STC_F.vF",
+"title": "Sentinel-6A MF Jason-CS L2 P4 Altimeter Low Resolution (LR) STC Reduced Ocean Surface Topography"
+},
+{
+"id": "JASON_CS_S6A_L2P_ALT_HR_OST_NTC_F08.vF08",
+"title": "Sentinel-6A MF Jason-CS L2P P4 Altimeter High Resolution (HR) NTC Ocean Surface Topography F08"
+},
+{
+"id": "JASON_CS_S6A_L2P_ALT_LR_OST_NTC_F08.vF08",
+"title": "Sentinel-6A MF Jason-CS L2P P4 Altimeter Low Resolution (LR) NTC Ocean Surface Topography F08"
+},
+{
+"id": "JASON_CS_S6A_L3_ALT_HR_OST_NTC_F08.vF08",
+"title": "Sentinel-6A MF Jason-CS L3 P4 Altimeter High Resolution (HR) NTC Ocean Surface Topography (Unfiltered) Version F08"
+},
+{
+"id": "JASON_CS_S6A_L3_ALT_LR_OST_NTC_F08.vF08",
+"title": "Sentinel-6A MF Jason-CS L3 P4 Altimeter High Resolution (LR) NTC Ocean Surface Topography (Unfiltered) Version F08"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_ACC_SMST_v1.0.v1.0",
+"title": "Southern Ocean Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "SPURS1_ADCP.v1.0",
+"title": "SPURS-1  shipboard Acoustic Doppler Current Profiler data for N. Atlantic  Endeavor and Knorr cruises"
+},
+{
+"id": "SPURS1_METEO.v1.0",
+"title": "SPURS-1 research vessel  Meteorological series data for N. Atlantic Endeavor cruises"
+},
+{
+"id": "SPURS1_CTD.v1.0",
+"title": "SPURS-1 research vessel CTD profile data for N. Atlantic cruises"
+},
+{
+"id": "SPURS1_TSG.v1.0",
+"title": "SPURS-1 research vessel Thermosalinograph series data for N. Atlantic cruises"
+},
+{
+"id": "SPURS1_UCTD.v1.0",
+"title": "SPURS-1 research vessel Underway-CTD trajectory profile data for N. Atlantic Endeavor and Knorr cruises"
+},
+{
+"id": "SPURS2_ARGO.v1.0",
+"title": "SPURS-2 Argo float CTD profile data from the E. Tropical Pacific field campaign"
+},
+{
+"id": "SPURS2_MOORING_CENTRAL.v1.0",
+"title": "SPURS-2 Central mooring CTD, surface flux and meterorological data for the E. Tropical Pacific field campaign"
+},
+{
+"id": "SPURS2_CFT.v1.0",
+"title": "SPURS-2 Controlled Flux Technique (CFT) data for the E. Tropical Pacific field campaign R/V Revelle cruises"
+},
+{
+"id": "SPURS2_DRIFTER.v1.0",
+"title": "SPURS-2 Drifter data for the E. Tropical Pacific field campaign"
+},
+{
+"id": "SPURS2_FLOAT_NEUTRALLYBUOYANT.v1.0",
+"title": "SPURS-2 Neutrally buoyant float data for the E. Tropical Pacific field campaign"
+},
+{
+"id": "SPURS2_PALS.v1.0",
+"title": "SPURS-2 Passive Accoustic Listener (PAL) data from  ARGO float deployments during the E. Tropical Pacific field campaign"
+},
+{
+"id": "SPURS2_MOORING_PICO.v1.0",
+"title": "SPURS-2 PICO mooring data for the E. Tropical Pacific field campaign"
+},
+{
+"id": "SPURS2_RAWINSONDE.v1.0",
+"title": "SPURS-2 Rawinsonde meteorological data for the E. Tropical Pacific field campaign R/V Revelle cruises"
+},
+{
+"id": "SPURS2_RAINRADAR.v1.0",
+"title": "SPURS-2 research vessel along track SEA-POL rain radar imaging data for E. Tropical Pacific R/V Revelle-2 cruise"
+},
+{
+"id": "SPURS2_WAMOS.v1.0",
+"title": "SPURS-2 research vessel along track WAMOS wave radar data for the second R/V Revelle cruise in the E. Tropical Pacific"
+},
+{
+"id": "SPURS2_CTD.v1.0",
+"title": "SPURS-2 research vessel CTD profile data for E. Tropical Pacific R/V Revelle cruises"
+},
+{
+"id": "SPURS2_XBT.v1.0",
+"title": "SPURS-2 research vessel Expendable Bathythermograph (XBT) profile data for E. Tropical Pacific R/V Revelle cruises"
+},
+{
+"id": "SPURS2_METEO.v1.0",
+"title": "SPURS-2 Research vessel Meteorological series data for the E. Tropical Pacific field campaign R/V Revelle cruises"
+},
+{
+"id": "SPURS2_UCTD.v1.0",
+"title": "SPURS-2 research vessel Underway CTD (uCTD) data for the E. Tropical Pacific R/V Revelle cruises"
+},
+{
+"id": "SPURS2_USPS.v1.0",
+"title": "SPURS-2 research vessel Underway Salinity Profiling System (USPS) data for the E. Tropical Pacific R/V Revelle cruises"
+},
+{
+"id": "SPURS2_LADYAMBER.v1.0",
+"title": "SPURS-2 S/V Lady Amber underway Thermosalinograph and Sea Snake data for the E. Tropical Pacific field campaign"
+},
+{
+"id": "SPURS2_SAILDRONE.v1.0",
+"title": "SPURS-2 Saildrone data for the E. Tropical Pacific field campaign"
+},
+{
+"id": "SPURS2_SEAGLIDER.v1.0",
+"title": "SPURS-2 Seaglider data for the E. Tropical Pacific field campaign"
+},
+{
+"id": "SPURS2_ADCP.v1.0",
+"title": "SPURS-2 shipboard Acoustic Doppler Current Profiler data for E. Tropical Pacific R/V Revelle cruises"
+},
+{
+"id": "SPURS2_DISDR.v1.0",
+"title": "SPURS-2 shipboard disdrometer data for the E. Tropical Pacific field campaign"
+},
+{
+"id": "SPURS2_XBAND.v1.0",
+"title": "SPURS-2 shipboard X-band radar backscatter data for the E. Tropical Pacific field campaign"
+},
+{
+"id": "SPURS2_SALINITYSNAKE.v1.0",
+"title": "SPURS-2 Surface Salinity Snake data for the E. Tropical Pacific field campaign R/V Revelle cruises"
+},
+{
+"id": "SPURS2_SSP.v1.0",
+"title": "SPURS-2 Towed surface salinity profile (SSP) data for the E. Tropical Pacific R/V Revelle cruises"
+},
+{
+"id": "SPURS2_UNDERWAY_pCO2_DIC_pH.v1.0",
+"title": "SPURS-2 underway surface pCO2, DIC and pH data for the E. Tropical Pacific field campaign R/V Revelle cruises"
+},
+{
+"id": "SPURS2_WAVEGLIDER.v1.0",
+"title": "SPURS-2 Waveglider data for the  E. Tropical Pacific field campaign"
+},
+{
+"id": "SWOT_PRELAUNCH_L2_GPS_V1.v1.0",
+"title": "SWOT 2019-2020 Prelaunch Oceanography Field Campaign JPL Global Positioning Systems (GPS)"
+},
+{
+"id": "SWOT_PRELAUNCH_L2_BPR_V1.v1.0",
+"title": "SWOT 2019-2020 Prelaunch Oceanography Field Campaign NOAA Bottom Pressure Recorders (BPR)"
+},
+{
+"id": "SWOT_PRELAUNCH_L2_PRAWLER_V1.v1.0",
+"title": "SWOT 2019-2020 Prelaunch Oceanography Field Campaign NOAA Prawlers"
+},
+{
+"id": "SWOT_PRELAUNCH_L2_GLIDER_V1.v1.0",
+"title": "SWOT 2019-2020 Prelaunch Oceanography Field Campaign Rutgers Slocum Gliders"
+},
+{
+"id": "SWOT_PRELAUNCH_L2_SIOCTD_V1.v1.0",
+"title": "SWOT 2019-2020 Prelaunch Oceanography Field Campaign SIO Moored Fixed-Depth CTDs"
+},
+{
+"id": "SWOT_PRELAUNCH_L2_WW_V1.v1.0",
+"title": "SWOT 2019-2020 Prelaunch Oceanography Field Campaign SIO Mooring WireWalker (WW)"
+},
+{
+"id": "SWOT_PRELAUNCH_L2_PIES_V1.v1.0",
+"title": "SWOT 2019-2020 Prelaunch Oceanography Field Campaign SIO Pressure-sensing Inverted Echo Sounder (PIES)"
+},
+{
+"id": "SWOT_PRELAUNCH_L2_WHOICTD_V1.v1.0",
+"title": "SWOT 2019-2020 Prelaunch Oceanography Field Campaign WHOI/NOAA Moored Fixed-Depth CTDs"
+},
+{
+"id": "SWOT_L1_DORIS_RINEX_1.0.v1.0",
+"title": "SWOT Level 1 Onboard Tracking Data from Doppler Orbitography and Radiopositioning Integrated by Satellite (DORIS)"
+},
+{
+"id": "SWOT_L1_GPSP_RINEX_1.0.v1.0",
+"title": "SWOT Level 1 Onboard Tracking Data from Global Positioning System Payload (GPSP)"
+},
+{
+"id": "SWOT_L1B_HR_SLC_1.1.v1.1",
+"title": "SWOT Level 1B High-Rate Single-look Complex Data Product, Version 1.1"
+},
+{
+"id": "SWOT_L1B_HR_SLC_2.0.v2.0",
+"title": "SWOT Level 1B High-Rate Single-look Complex Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L1B_LR_INTF_1.0.v1.0",
+"title": "SWOT Level 1B Low-Rate Interferogram Data Product, Version 1.0"
+},
+{
+"id": "SWOT_L1B_LR_INTF_1.1.v1.1",
+"title": "SWOT Level 1B Low-Rate Interferogram Data Product, Version 1.1"
+},
+{
+"id": "SWOT_L1B_LR_INTF_2.0.v2.0",
+"title": "SWOT Level 1B Low-Rate Interferogram Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_LR_SSH_BASIC_2.0.v2.0",
+"title": "SWOT Level 2 KaRIn Low Rate Sea Surface Height Data Product - Basic, Version 2.0"
+},
+{
+"id": "SWOT_L2_LR_SSH_EXPERT_2.0.v2.0",
+"title": "SWOT Level 2 KaRIn Low Rate Sea Surface Height Data Product - Expert, Version 2.0"
+},
+{
+"id": "SWOT_L2_LR_SSH_UNSMOOTHED_2.0.v2.0",
+"title": "SWOT Level 2 KaRIn Low Rate Sea Surface Height Data Product - Unsmoothed, Version 2.0"
+},
+{
+"id": "SWOT_L2_LR_SSH_WINDWAVE_2.0.v2.0",
+"title": "SWOT Level 2 KaRIn Low Rate Sea Surface Height Data Product - WindWave, Version 2.0"
+},
+{
+"id": "SWOT_L2_LR_SSH_1.0.v1.0",
+"title": "SWOT Level 2 KaRIn Low Rate Sea Surface Height Data Product, Version 1.0"
+},
+{
+"id": "SWOT_L2_LR_SSH_1.1.v1.1",
+"title": "SWOT Level 2 KaRIn Low Rate Sea Surface Height Data Product, Version 1.1"
+},
+{
+"id": "SWOT_L2_LR_SSH_2.0.v2.0",
+"title": "SWOT Level 2 KaRIn Low Rate Sea Surface Height Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_HR_LakeAvg_2.0.v2.0",
+"title": "SWOT Level 2 Lake Cycle-Averaged Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_HR_LakeSP_1.1.v1.1",
+"title": "SWOT Level 2 Lake Single-Pass Vector Data Product, Version 1.1"
+},
+{
+"id": "SWOT_L2_HR_LakeSP_2.0.v2.0",
+"title": "SWOT Level 2 Lake Single-Pass Vector Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_HR_LakeSP_obs_2.0.v2.0",
+"title": "SWOT Level 2 Lake Single-Pass Vector Obs Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_HR_LakeSP_prior_2.0.v2.0",
+"title": "SWOT Level 2 Lake Single-Pass Vector Prior Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_HR_LakeSP_unassigned_2.0.v2.0",
+"title": "SWOT Level 2 Lake Single-Pass Vector Unassigned Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_NALT_GDR_2.0.v2.0",
+"title": "SWOT Level 2 Nadir Altimeter Geophysical Data Record with Waveforms"
+},
+{
+"id": "SWOT_L2_NALT_GDR_GDR_2.0.v2.0",
+"title": "SWOT Level 2 Nadir Altimeter Geophysical Data Record with Waveforms - GDR"
+},
+{
+"id": "SWOT_L2_NALT_GDR_SGDR_2.0.v2.0",
+"title": "SWOT Level 2 Nadir Altimeter Geophysical Data Record with Waveforms - SGDR"
+},
+{
+"id": "SWOT_L2_NALT_GDR_SSHA_2.0.v2.0",
+"title": "SWOT Level 2 Nadir Altimeter Geophysical Data Record with Waveforms - SSHA"
+},
+{
+"id": "SWOT_L2_NALT_IGDR_2.0.v2.0",
+"title": "SWOT Level 2 Nadir Altimeter Interim Geophysical Data Record with Waveforms"
+},
+{
+"id": "SWOT_L2_NALT_IGDR_GDR_2.0.v2.0",
+"title": "SWOT Level 2 Nadir Altimeter Interim Geophysical Data Record with Waveforms - GDR"
+},
+{
+"id": "SWOT_L2_NALT_IGDR_GDR_1.0.v1.0",
+"title": "SWOT Level 2 Nadir Altimeter Interim Geophysical Data Record with Waveforms - GDR, Version 1.0"
+},
+{
+"id": "SWOT_L2_NALT_IGDR_SGDR_2.0.v2.0",
+"title": "SWOT Level 2 Nadir Altimeter Interim Geophysical Data Record with Waveforms - SGDR"
+},
+{
+"id": "SWOT_L2_NALT_IGDR_SGDR_1.0.v1.0",
+"title": "SWOT Level 2 Nadir Altimeter Interim Geophysical Data Record with Waveforms - SGDR, Version 1.0"
+},
+{
+"id": "SWOT_L2_NALT_IGDR_SSHA_2.0.v2.0",
+"title": "SWOT Level 2 Nadir Altimeter Interim Geophysical Data Record with Waveforms - SSHA"
+},
+{
+"id": "SWOT_L2_NALT_IGDR_SSHA_1.0.v1.0",
+"title": "SWOT Level 2 Nadir Altimeter Interim Geophysical Data Record with Waveforms - SSHA, Version 1.0"
+},
+{
+"id": "SWOT_L2_NALT_IGDR_1.0.v1.0",
+"title": "SWOT Level 2 Nadir Altimeter Interim Geophysical Data Record with Waveforms, Version 1.0"
+},
+{
+"id": "SWOT_L2_NALT_OGDR_2.0.v2.0",
+"title": "SWOT Level 2 Nadir Altimeter Operational Geophysical Data Record with Waveforms"
+},
+{
+"id": "SWOT_L2_NALT_OGDR_GDR_2.0.v2.0",
+"title": "SWOT Level 2 Nadir Altimeter Operational Geophysical Data Record with Waveforms - GDR"
+},
+{
+"id": "SWOT_L2_NALT_OGDR_GDR_1.0.v1.0",
+"title": "SWOT Level 2 Nadir Altimeter Operational Geophysical Data Record with Waveforms - GDR, Version 1.0"
+},
+{
+"id": "SWOT_L2_NALT_OGDR_SSHA_2.0.v2.0",
+"title": "SWOT Level 2 Nadir Altimeter Operational Geophysical Data Record with Waveforms - SSHA"
+},
+{
+"id": "SWOT_L2_NALT_OGDR_SSHA_1.0.v1.0",
+"title": "SWOT Level 2 Nadir Altimeter Operational Geophysical Data Record with Waveforms - SSHA, Version 1.0"
+},
+{
+"id": "SWOT_L2_NALT_OGDR_1.0.v1.0",
+"title": "SWOT Level 2 Nadir Altimeter Operational Geophysical Data Record with Waveforms, Version 1.0"
+},
+{
+"id": "SWOT_L2_RAD_GDR_2.0.v2.0",
+"title": "SWOT Level 2 Radiometer Brightness Temperatures and Troposphere Data Product"
+},
+{
+"id": "SWOT_L2_RAD_IGDR_2.0.v2.0",
+"title": "SWOT Level 2 Radiometer Brightness Temperatures and Troposphere Interim Data Product"
+},
+{
+"id": "SWOT_L2_RAD_IGDR_1.0.v1.0",
+"title": "SWOT Level 2 Radiometer Brightness Temperatures and Troposphere Interim Data Product, Version 1.0"
+},
+{
+"id": "SWOT_L2_RAD_OGDR_2.0.v2.0",
+"title": "SWOT Level 2 Radiometer Brightness Temperatures and Troposphere Operational Data Product"
+},
+{
+"id": "SWOT_L2_RAD_OGDR_1.0.v1.0",
+"title": "SWOT Level 2 Radiometer Brightness Temperatures and Troposphere Operational Data Product, Version 1.0"
+},
+{
+"id": "SWOT_L2_HR_RiverAvg_2.0.v2.0",
+"title": "SWOT Level 2 River Cycle-Averaged Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_HR_RiverSP_1.1.v1.1",
+"title": "SWOT Level 2 River Single-Pass Vector Data Product, Version 1.1"
+},
+{
+"id": "SWOT_L2_HR_RiverSP_2.0.v2.0",
+"title": "SWOT Level 2 River Single-Pass Vector Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_HR_RiverSP_node_2.0.v2.0",
+"title": "SWOT Level 2 River Single-Pass Vector Node Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_HR_RiverSP_reach_2.0.v2.0",
+"title": "SWOT Level 2 River Single-Pass Vector Reach Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_HR_PIXCVec_1.1.v1.1",
+"title": "SWOT Level 2 Water Mask Pixel Cloud Auxiliary Data Product, Version 1.1"
+},
+{
+"id": "SWOT_L2_HR_PIXCVec_2.0.v2.0",
+"title": "SWOT Level 2 Water Mask Pixel Cloud Auxiliary Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_HR_PIXC_1.1.v1.1",
+"title": "SWOT Level 2 Water Mask Pixel Cloud Data Product, Version 1.1"
+},
+{
+"id": "SWOT_L2_HR_PIXC_2.0.v2.0",
+"title": "SWOT Level 2 Water Mask Pixel Cloud Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_HR_Raster_100m_2.0.v2.0",
+"title": "SWOT Level 2 Water Mask Raster Image 100m Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_HR_Raster_250m_2.0.v2.0",
+"title": "SWOT Level 2 Water Mask Raster Image 250m Data Product, Version 2.0"
+},
+{
+"id": "SWOT_L2_HR_Raster_1.1.v1.1",
+"title": "SWOT Level 2 Water Mask Raster Image Data Product, Version 1.1"
+},
+{
+"id": "SWOT_L2_HR_Raster_2.0.v2.0",
+"title": "SWOT Level 2 Water Mask Raster Image Data Product, Version 2.0"
+},
+{
+"id": "SWOT_MOE_1.0.v1.0",
+"title": "SWOT Medium-accuracy Orbit Ephemeris (MOE)"
+},
+{
+"id": "SWOT_POE_2.0.v2.0",
+"title": "SWOT Precise Orbit Ephemeris (POE)"
+},
+{
+"id": "SWOT_SAT_COM_1.0.v1.0",
+"title": "SWOT Satellite Center of Mass Position Data"
+},
+{
+"id": "SWOT_ATTD_RECONST_2.0.v2.0",
+"title": "SWOT Satellite Reconstructed Attitude Data"
+},
+{
+"id": "SWOT_SIMULATED_NA_CONTINENT_L2_HR_PIXC_V1.v1.0",
+"title": "SWOT Simulated Level 2  North America Continent KaRIn High Rate Water Mask Pixel Cloud Product Version 1.0"
+},
+{
+"id": "SWOT_SIMULATED_NA_CONTINENT_L2_HR_LAKESP_V1.v1.0",
+"title": "SWOT Simulated Level 2 North America Continent High Rate Lake Vectors Product Version 1.0"
+},
+{
+"id": "SWOT_SIMULATED_NA_CONTINENT_L2_HR_RASTER_V1.v1.0",
+"title": "SWOT Simulated Level 2 North America Continent High Rate Raster Product Version 1.0"
+},
+{
+"id": "SWOT_SIMULATED_NA_CONTINENT_L2_HR_RIVERSP_V1.v1.0",
+"title": "SWOT Simulated Level 2 North America Continent High Rate River Vectors Product Version 1.0"
+},
+{
+"id": "SWOT_SIMULATED_NA_CONTINENT_L2_HR_PIXCVEC_V1.v1.0",
+"title": "SWOT Simulated Level 2 North America Continent KaRIn High Rate Pixel Cloud Vector Attribute Product Version 1.0"
+},
+{
+"id": "SWOT_SIMULATED_L2_KARIN_SSH_GLORYS_CALVAL_V1.v1",
+"title": "SWOT Simulated Level-2 KaRIn SSH from GLORYS for Cal/Val Version 1"
+},
+{
+"id": "SWOT_SIMULATED_L2_KARIN_SSH_GLORYS_SCIENCE_V1.v1",
+"title": "SWOT Simulated Level-2 KaRIn SSH from GLORYS for Science Version 1"
+},
+{
+"id": "SWOT_SIMULATED_L2_KARIN_SSH_ECCO_LLC4320_CALVAL_V1.v1",
+"title": "SWOT Simulated Level-2 KaRIn SSH from MITgcm ECCO LLC4320 for Cal/Val Version 1"
+},
+{
+"id": "SWOT_SIMULATED_L2_KARIN_SSH_ECCO_LLC4320_SCIENCE_V1.v1",
+"title": "SWOT Simulated Level-2 KaRIn SSH from MITgcm ECCO LLC4320 for Science Version 1"
+},
+{
+"id": "SWOT_SIMULATED_L2_NADIR_SSH_GLORYS_CALVAL_V1.v1",
+"title": "SWOT Simulated Level-2 Nadir SSH from GLORYS for Cal/Val Version 1"
+},
+{
+"id": "SWOT_SIMULATED_L2_NADIR_SSH_GLORYS_SCIENCE_V1.v1",
+"title": "SWOT Simulated Level-2 Nadir SSH from GLORYS for Science Version 1"
+},
+{
+"id": "SWOT_SIMULATED_L2_NADIR_SSH_ECCO_LLC4320_CALVAL_V1.v1",
+"title": "SWOT Simulated Level-2 Nadir SSH from MITgcm ECCO LLC4320 for Cal/Val Version 1"
+},
+{
+"id": "SWOT_SIMULATED_L2_NADIR_SSH_ECCO_LLC4320_SCIENCE_V1.v1",
+"title": "SWOT Simulated Level-2 Nadir SSH from MITgcm ECCO LLC4320 for Science Version 1"
+},
+{
+"id": "SWOT_L4_DAWG_SOS_DISCHARGE.v1",
+"title": "SWOT Sword of Science River Discharge Products Version 1"
+},
+{
+"id": "TELLUS_GIA_L3_0.5-DEG_V1.0.v1.0",
+"title": "TELLUS GRACE Level-3 0.5-degree Glacial Isostatic Adjustment v1.0 datasets produced by JPL"
+},
+{
+"id": "TELLUS_GIA_L3_1-DEG_V1.0.v1.0",
+"title": "TELLUS GRACE Level-3 1.0-degree Glacial Isostatic Adjustment v1.0 datasets produced by JPL"
+},
+{
+"id": "ANTARCTICA_MASS_TELLUS_MASCON_CRI_TIME_SERIES_RL06.1_V3.vRL06.1Mv03",
+"title": "Tellus Level-4 Antarctica Mass Anomaly Time Series from JPL GRACE/GRACE-FO Mascon CRI Filtered Release 06.1 version 03"
+},
+{
+"id": "GREENLAND_MASS_TELLUS_MASCON_CRI_TIME_SERIES_RL06.1_V3.vRL06.1Mv03",
+"title": "Tellus Level-4 Greenland Mass Anomaly Time Series from JPL GRACE/GRACE-FO Mascon CRI Filtered Release 06.1 version 03"
+},
+{
+"id": "OCEAN_MASS_TELLUS_MASCON_CRI_TIME_SERIES_RL06.1_V3.vRL06.1Mv03",
+"title": "Tellus Level-4 Ocean Mass Anomaly Time Series from JPL GRACE/GRACE-FO Mascon CRI Filtered Release 06.1 version 03"
+},
+{
+"id": "SPURS1_TENUSEGLIDER.v1.0",
+"title": "Tenuse Glider CTD data for the SPURS-1 N. Atlantic field campaign"
+},
+{
+"id": "LOCSS_L1_V1.v1.0",
+"title": "The Lake Observations by Citizen Scientists & Satellites (LOCSS) Level 1 Version 1.0"
+},
+{
+"id": "TOPEX_ALTSDR.vA",
+"title": "TOPEX ALTIMETER SENSOR DATA RECORD"
+},
+{
+"id": "TOPEX_POSEIDON_GDR_F.vF",
+"title": "TOPEX/POSEIDON Geophysical Data Record Version F"
+},
+{
+"id": "CYGNSS_L3_UC_BERKELEY_WATERMASK_V3.1.v3.1",
+"title": "UC Berkeley CYGNSS Level 3 Monthly RWAWC Watermask Version 3.1"
+},
+{
+"id": "CYGNSS_L3_SOIL_MOISTURE_V1.0.v1.0",
+"title": "UCAR-CU CYGNSS Level 3 Soil Moisture Version 1.0"
+},
+{
+"id": "SPURS1_WAVEGLIDER.v1.0",
+"title": "Waveglider data for the SPURS-1 N. Atlantic field campaign"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_WestAtlantic_v1.0.v1.0",
+"title": "West Atlantic Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+},
+{
+"id": "SPURS1_MOORING_WHOI.v1.0",
+"title": "WHOI mooring CTD, surface flux and meterorological data for the SPURS-1 N. Atlantic field campaign"
+},
+{
+"id": "MITgcm_LLC4320_Pre-SWOT_JPL_L4_Yongala_v1.0.v1.0",
+"title": "Yongala Pre-SWOT Level-4 Hourly MITgcm LLC4320 Native Grid 2km Oceanographic Dataset Version 1.0"
+}
+]

@@ -1,0 +1,2074 @@
+[
+{
+"id": "GGD222.v1",
+"title": "Active layer and permafrost properties, including snow depth, soil temperature, and soil moisture, Barrow, Alaska, Version 1"
+},
+{
+"id": "GGD353.v6",
+"title": "Active Layer Monitoring, Arctic and Subarctic Canada, Version 6"
+},
+{
+"id": "GGD239.v1",
+"title": "Active layer physical processes at Broeggerhalvoya, western Spitsbergen, Version 1"
+},
+{
+"id": "GGD249.v1",
+"title": "Active layer thickness and ground temperatures, Svea, Svalbard, Version 1"
+},
+{
+"id": "GGD23.v1",
+"title": "Active-Layer and Permafrost Temperatures, Sisimiut (Holsteinsborg), Greenland, Version 1"
+},
+{
+"id": "GGD632.v1",
+"title": "Active-Layer and Permafrost Temperatures, Soendre Stroemfjord, Greenland, Version 1"
+},
+{
+"id": "GGD622.v1",
+"title": "Active-Layer Depth of a Finnish Palsa Bog, Version 1"
+},
+{
+"id": "G02191.v1",
+"title": "AIDJEX Beaufort Sea Upward Looking Sonar April 1976, Version 1"
+},
+{
+"id": "GGD611.v1",
+"title": "Air Temperatures at High Altitude, Kanchanjunga Himal, Eastern Nepal, Version 1"
+},
+{
+"id": "NSIDC-0212.v1",
+"title": "Airborne Cloud Radar (ACR) Reflectivity, Wakasa Bay, Japan, Version 1"
+},
+{
+"id": "G01378.v1",
+"title": "Airborne Surface Profiling of Alaskan Glaciers, 1994 - 2001, Version 1"
+},
+{
+"id": "NSIDC-0634.v1",
+"title": "Alaska Tidewater Glacier Terminus Positions, Version 1"
+},
+{
+"id": "NSIDC-0194.v1",
+"title": "AMMR Air and Brightness Temperature Data, Wakasa Bay, Version 1"
+},
+{
+"id": "NSIDC-0301.v1",
+"title": "AMSR-E/Aqua Daily EASE-Grid Brightness Temperatures, Version 1"
+},
+{
+"id": "NSIDC-0302.v1",
+"title": "AMSR-E/Aqua Daily Global Quarter-Degree Gridded Brightness Temperatures, Version 1"
+},
+{
+"id": "NSIDC-0543.v1",
+"title": "AMSR-E/Aqua Monthly Global Microwave Land Surface Emissivity, Version 1"
+},
+{
+"id": "NSIDC-0431.v1",
+"title": "AMSRIce03 Landsat-7 ETM+ Imagery, Version 1"
+},
+{
+"id": "NSIDC-0432.v1",
+"title": "AMSRIce03 MODIS Imagery, Version 1"
+},
+{
+"id": "NSIDC-0430.v1",
+"title": "AMSRIce03 Photomosaics, Version 1"
+},
+{
+"id": "NSIDC-0426.v1",
+"title": "AMSRIce03 Sea Ice Thickness Data, Version 1"
+},
+{
+"id": "NSIDC-0424.v1",
+"title": "AMSRIce03 Snow Depth Data, Version 1"
+},
+{
+"id": "NSIDC-0428.v1",
+"title": "AMSRIce03 Snow Ice Temperature Data, Version 1"
+},
+{
+"id": "NSIDC-0429.v1",
+"title": "AMSRIce03 Snow Pit Data, Version 1"
+},
+{
+"id": "NSIDC-0427.v1",
+"title": "AMSRIce03 Surface Roughness Data, Version 1"
+},
+{
+"id": "NSIDC-0459.v1",
+"title": "AMSRIce06 Aerial Photographs, Version 1"
+},
+{
+"id": "NSIDC-0461.v1",
+"title": "AMSRIce06 Airborne Topographic Mapper (ATM) Lidar Data, Version 1"
+},
+{
+"id": "GGD623.v1",
+"title": "Annual Thaw Depths and Water Depths in Tanana Flats, Alaska, Version 1"
+},
+{
+"id": "GGD642.v1",
+"title": "Annual Thaw Depths in Illisarvik, Northwest Territories, Version 1"
+},
+{
+"id": "NSIDC-0422.v1",
+"title": "Antarctic 1 km Digital Elevation Model (DEM) from Combined ERS-1 Radar and ICESat Laser Satellite Altimetry, Version 1"
+},
+{
+"id": "NSIDC-0076.v1",
+"title": "Antarctic 5-km Digital Elevation Model from ERS-1 Altimetry, Version 1"
+},
+{
+"id": "NSIDC-0195.v1",
+"title": "APR-2 Dual-frequency Airborne Radar Observations, Wakasa Bay, Version 1"
+},
+{
+"id": "NSIDC-0780.v1",
+"title": "Arctic and Antarctic Regional Masks for Sea Ice and Related Data Products, Version 1"
+},
+{
+"id": "G00799.v1",
+"title": "Arctic and Southern Ocean Sea Ice Concentrations, Version 1"
+},
+{
+"id": "GGD651.v1",
+"title": "Arctic EASE-Grid Freeze and Thaw Depths, 1901 - 2002, Version 1"
+},
+{
+"id": "G02183.v1",
+"title": "Arctic Ice Dynamics Joint Experiment (AIDJEX) Second Pilot Study, March - May 1972: A Documentary Film, Version 1"
+},
+{
+"id": "G10042.v1",
+"title": "Arctic Ice Dynamics Joint Experiment (AIDJEX) Second Pilot Study, March - May 1972: Still Images, Version 1"
+},
+{
+"id": "G02195.v1",
+"title": "Arctic Landfast Sea Ice 1953-1998, Version 1"
+},
+{
+"id": "G02196.v1",
+"title": "Arctic Marine Transportation Program 1979-1986, Version 1"
+},
+{
+"id": "G01358.v1",
+"title": "Arctic Ocean Drift Tracks from Ships, Buoys, and Manned Research Stations, 1872-1973, Version 1"
+},
+{
+"id": "G02203.v1",
+"title": "Arctic Sea Ice Charts from Danish Meteorological Institute, 1893 - 1956, Version 1"
+},
+{
+"id": "G10007.v1",
+"title": "Arctic Sea Ice Concentration and Extent from Danish Meteorological Institute Sea Ice Charts, 1901-1956, Version 1"
+},
+{
+"id": "NSIDC-0393.v1",
+"title": "Arctic Sea Ice Freeboard and Thickness, Version 1"
+},
+{
+"id": "G02159.v1",
+"title": "Arctic Sea Ice Melt Pond Statistics and Maps, 1999-2001, Version 1"
+},
+{
+"id": "NSIDC-0747.v1",
+"title": "Arctic Sea Ice Seasonal Change and Melt/Freeze Climate Indicators from Satellite Data, Version 1"
+},
+{
+"id": "G10030.v1",
+"title": "Arctic Sea State 2015 Field Campaign, Version 1"
+},
+{
+"id": "GGD641.v2",
+"title": "Arctic Soil Freeze/Thaw Status from SMMR and SSM/I, Version 2"
+},
+{
+"id": "NSIDC-0033.v1",
+"title": "Arctic Water Vapor Characteristics from Rawinsondes, Version 1"
+},
+{
+"id": "ELOKA033.v1",
+"title": "Atlas of Community-Based Monitoring in a Changing Arctic (Arctic CBM), Version 1"
+},
+{
+"id": "ATL03_ANC_MASKS.v1",
+"title": "ATLAS/ICESat-2 ATL03 Ancillary Masks, Version 1"
+},
+{
+"id": "NSIDC-0788.v1",
+"title": "Automated Greenland Glacier Termini Position Time Series, Version 1"
+},
+{
+"id": "NSIDC-0026.v1",
+"title": "AVHRR Leads-ARI Polar Gridded Brightness Temperatures, Version 1"
+},
+{
+"id": "G02139.v1",
+"title": "AWI Moored ULS Data, Greenland Sea and Fram Strait, 1991-2002, Version 1"
+},
+{
+"id": "G01359.v1",
+"title": "AWI Moored ULS Data, Weddell Sea (1990-1998), Version 1"
+},
+{
+"id": "ELOKA001.v1",
+"title": "Baffin Bay Region Narwhal Research, Version 1"
+},
+{
+"id": "NSIDC-0209.v1",
+"title": "Baltic Sea Experiment (BALTEX) Ground-Based Radar Polar Volume Data, Version 1"
+},
+{
+"id": "G02178.v1",
+"title": "Barnes Ice Cap South Dome Trilateration Net Survey Data 1970-1984, Version 1"
+},
+{
+"id": "GGD402.v1",
+"title": "Borehole and environmental protection descriptive and numerical data, Yamal Peninsula, Russia, Version 1"
+},
+{
+"id": "GGD223.v1",
+"title": "Borehole locations and permafrost depths, Alaska, USA, Version 1"
+},
+{
+"id": "GGD499.v1",
+"title": "Borehole permafrost data, Kumtor and Taragai Valleys, Tienshan, Kazakhstan, Version 1"
+},
+{
+"id": "GGD332.v1",
+"title": "Borehole temperatures from mountain permafrost monitoring, Mongolia, Version 1"
+},
+{
+"id": "GGD200.v1",
+"title": "Borehole temperatures in deep wells of Western Siberia, Russia, 1960-1995, Version 1"
+},
+{
+"id": "GGD700.v1",
+"title": "Boreholes and temperature logs from the Tibetan Plateau and Northeast China, Version 1"
+},
+{
+"id": "GGD503.v1",
+"title": "Canadian Geothermal Data Collection: Deep permafrost temperatures and thickness of permafrost, Version 1"
+},
+{
+"id": "G02171.v1",
+"title": "Canadian Ice Service Arctic Regional Sea Ice Charts in SIGRID-3 Format, Version 1"
+},
+{
+"id": "NSIDC-0447.v1",
+"title": "Canadian Meteorological Centre (CMC) Daily Snow Depth Analysis Data, Version 1"
+},
+{
+"id": "NSIDC-0668.v2",
+"title": "CanSISE Observation-Based Ensemble of Northern Hemisphere Terrestrial Snow Water Equivalent, Version 2"
+},
+{
+"id": "GGD316.v1",
+"title": "Catalog of boreholes from Russia and Mongolia, Version 1"
+},
+{
+"id": "G02174.v1",
+"title": "Central Asia Temperature and Precipitation Data, 1879-2003, Version 1"
+},
+{
+"id": "G01171.v1",
+"title": "Central Asian Snow Cover from Hydrometeorological Surveys, Version 1"
+},
+{
+"id": "ELOKA037.v1",
+"title": "Cillaput: Our Weather, Yukon-Kuskowim Delta Weather Station Network, Version 1"
+},
+{
+"id": "GGD318.v2",
+"title": "Circum-Arctic Map of Permafrost and Ground-Ice Conditions, Version 2"
+},
+{
+"id": "G10008.v1",
+"title": "ClimoBase: Rouse Canadian Surface Observations of Weather, Climate, and Hydrological Variables, 1984-1998, Version 1"
+},
+{
+"id": "NSIDC-0158.v1",
+"title": "CLPX Airborne Gamma Snow and Soil Moisture Surveys, Version 1"
+},
+{
+"id": "NSIDC-0154.v1",
+"title": "CLPX Airborne: Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) Data, Version 1"
+},
+{
+"id": "NSIDC-0291.v1",
+"title": "CLPX NCAR Data Analysis and Numerical Modeling, Version 1"
+},
+{
+"id": "NSIDC-0180.v1",
+"title": "CLPX NOAA FSL Rapid Update Cycle 20 km (RUC-20) Dataset, Version 1"
+},
+{
+"id": "NSIDC-0153.v1",
+"title": "CLPX-Airborne: Airborne Synthetic Aperture Radar (AIRSAR) Imagery, Version 1"
+},
+{
+"id": "NSIDC-0157.v1",
+"title": "CLPX-Airborne: Infrared Orthophotography and Lidar Topographic Mapping, Version 1"
+},
+{
+"id": "NSIDC-0155.v1",
+"title": "CLPX-Airborne: Multiband Polarimetric Scanning Radiometer (PSR) Imagery, Version 1"
+},
+{
+"id": "NSIDC-0159.v1",
+"title": "CLPX-Airborne: Polarimetric Ku-Band Scatterometer (POLSCAT) Data, Version 1"
+},
+{
+"id": "NSIDC-0165.v1",
+"title": "CLPX-Ground: Ground Based Passive Microwave Radiometer (GBMR-7) Data, Version 1"
+},
+{
+"id": "NSIDC-0164.v1",
+"title": "CLPX-Ground: Ground-Based Frequency Modulated Continuous Wave (FMCW) Radar, Version 1"
+},
+{
+"id": "NSIDC-0161.v1",
+"title": "CLPX-Ground: Ground-Based Infrared Images of the LSOS Site, Version 1"
+},
+{
+"id": "NSIDC-0166.v1",
+"title": "CLPX-Ground: Ground-based L and Ku band polarimetric scatterometry, Version 1"
+},
+{
+"id": "NSIDC-0173.v1",
+"title": "CLPX-Ground: ISA Corner Site Meteorological Data, Version 1"
+},
+{
+"id": "NSIDC-0172.v1",
+"title": "CLPX-Ground: ISA Main Meteorological Data, Version 1"
+},
+{
+"id": "NSIDC-0175.v2",
+"title": "CLPX-Ground: ISA Snow Depth Transects and Related Measurements, Version 2"
+},
+{
+"id": "NSIDC-0176.v2",
+"title": "CLPX-Ground: ISA Snow Pit Measurements, Version 2"
+},
+{
+"id": "NSIDC-0178.v1",
+"title": "CLPX-Ground: ISA Soil Moisture Measurements, Version 1"
+},
+{
+"id": "NSIDC-0168.v1",
+"title": "CLPX-Ground: Micrometeorological Data at the Local Scale Observation Site (LSOS), Version 1"
+},
+{
+"id": "NSIDC-0169.v1",
+"title": "CLPX-Ground: Snow Measurements at the Local Scale Observation Site (LSOS), Version 1"
+},
+{
+"id": "NSIDC-0170.v1",
+"title": "CLPX-Ground: Sub-Canopy Energetics at the Local Scale Observation Site (LSOS), Version 1"
+},
+{
+"id": "NSIDC-0167.v1",
+"title": "CLPX-Ground: University of Michigan Ground-Based Microwave Radiometer, Version 1"
+},
+{
+"id": "NSIDC-0181.v1",
+"title": "CLPX-Model: Land Data Assimilation System (LDAS) Data, Version 1"
+},
+{
+"id": "NSIDC-0179.v1",
+"title": "CLPX-Model: Local Analysis and Prediction System: 4-D Atmospheric Analyses, Version 1"
+},
+{
+"id": "NSIDC-0211.v1",
+"title": "CLPX-Model: Rapid Update Cycle 40km (RUC-40) Model Output Reduced Data, Version 1"
+},
+{
+"id": "NSIDC-0145.v1",
+"title": "CLPX-Satellite: AMSR-E Brightness Temperature Grids, Version 1"
+},
+{
+"id": "NSIDC-0152.v1",
+"title": "CLPX-Satellite: AVHRR/HRPT Brightness Temperatures and Reflectances, Version 1"
+},
+{
+"id": "NSIDC-0148.v1",
+"title": "CLPX-Satellite: EO-1 Hyperion Surface Reflectance, Snow-Covered Area, and Grain Size, Version 1"
+},
+{
+"id": "NSIDC-0149.v1",
+"title": "CLPX-Satellite: Landsat Thematic Mapper Imagery, Version 1"
+},
+{
+"id": "NSIDC-0151.v1",
+"title": "CLPX-Satellite: MODIS Radiances, Reflectances, Snow Cover and Related Grids, Version 1"
+},
+{
+"id": "NSIDC-0150.v1",
+"title": "CLPX-Satellite: Multi-angle Imaging Spectroradiometer (MISR) Products, Version 1"
+},
+{
+"id": "NSIDC-0144.v1",
+"title": "CLPX-Satellite: SSM/I Brightness Temperature Grids, Version 1"
+},
+{
+"id": "NSIDC-0450.v1",
+"title": "Co-Registered AMSR-E, QuikSCAT, and WMO Data, Version 1"
+},
+{
+"id": "NSIDC-0057.v1",
+"title": "Comprehensive Ocean - Atmosphere Data Set (COADS) LMRF Arctic Subset, 1950 - 1995, Version 1"
+},
+{
+"id": "G10027.v1",
+"title": "Contribution to High Asia Runoff from Ice and Snow (CHARIS) Melt Model Output, 2001 - 2014, Version 1"
+},
+{
+"id": "NSIDC-0020.v1",
+"title": "Coordinated Eastern Arctic Experiment (CEAREX) Data, Version 1"
+},
+{
+"id": "NSIDC-0707.v1",
+"title": "CryoSat-2 Sea Ice Freeboard, Thickness, and Snow Depth Quick Look, Version 1"
+},
+{
+"id": "GGD311.v1",
+"title": "Cryosolic pedons from Northern Canada, Version 1"
+},
+{
+"id": "GGD272.v1",
+"title": "Cryosolic pedons from Russia and Alaska, Version 1"
+},
+{
+"id": "NSIDC-0719.v1",
+"title": "Daily 4 km Gridded SWE and Snow Depth from Assimilated In-Situ and Modeled Data over the Conterminous US, Version 1"
+},
+{
+"id": "NSIDC-0060.v1",
+"title": "Daily Arctic Ocean Rawinsonde Data from Soviet Drifting Ice Stations, Version 1"
+},
+{
+"id": "NSIDC-0451.v3",
+"title": "Daily Global Land Parameters Derived from AMSR-E and AMSR2, Version 3"
+},
+{
+"id": "G10029.v1",
+"title": "Daily Great Lakes Ice Concentration, 1973 Onward, Version 1"
+},
+{
+"id": "G10021.v1",
+"title": "Daily Gridded North American Snow, Temperature, and Precipitation, 1959-2009, Version 1"
+},
+{
+"id": "NSIDC-0726.v1",
+"title": "Daily Lake Ice Phenology Time Series Derived from AMSR-E and AMSR2, Version 1"
+},
+{
+"id": "G02164.v1",
+"title": "Daily Precipitation Sums at Coastal and Island Russian Arctic Stations, 1940-1990, Version 1"
+},
+{
+"id": "NSIDC-0722.v1",
+"title": "Daily Snow Depth and SWE from GPS Signal-to-Noise Ratios, Version 1"
+},
+{
+"id": "GGD906.v1",
+"title": "Daily Soil Temperature and Meteorological Data for Sites at Toolik Lake Alaska, Version 1"
+},
+{
+"id": "NSIDC-0052.v1",
+"title": "Digital SAR Mosaic and Elevation Map of the Greenland Ice Sheet, Version 1"
+},
+{
+"id": "NSIDC-0118.v1",
+"title": "DISP Yearly Satellite Photographic Mosaics of Greenland 1962-1963, Version 1"
+},
+{
+"id": "NSIDC-0210.v1",
+"title": "Double Rain Gauge Network, Iowa, Version 1"
+},
+{
+"id": "G02199.v1",
+"title": "Dust Count Observations March 1933 - August 1933 in College-Fairbanks, AK, Version 1"
+},
+{
+"id": "NSIDC-0772.v1",
+"title": "EASE Grids Ancillary Grid Information, Version 1"
+},
+{
+"id": "NSIDC-0610.v1",
+"title": "EASE-Grid 2.0 Land Cover Classifications Derived from Boston University MODIS/Terra Land Cover Data, Version 1"
+},
+{
+"id": "NSIDC-0609.v1",
+"title": "EASE-Grid 2.0 Land-Ocean-Coastline-Ice Masks Derived from Boston University MODIS/Terra Land Cover Data, Version 1"
+},
+{
+"id": "NSIDC-0608.v1",
+"title": "EASE-Grid Land Cover Classifications Derived from Boston University MODIS/Terra Land Cover Data, Version 1"
+},
+{
+"id": "NSIDC-0607.v1",
+"title": "EASE-Grid Land-Ocean-Coastline-Ice Masks Derived from Boston University MODIS/Terra Land Cover Data, Version 1"
+},
+{
+"id": "NSIDC-0611.v4",
+"title": "EASE-Grid Sea Ice Age, Version 4"
+},
+{
+"id": "NSIDC-0223.v1",
+"title": "Elevation Change of the Southern Greenland Ice Sheet from 1978-88, Version 1"
+},
+{
+"id": "G01938.v1",
+"title": "Environmental Working Group Arctic Meteorology and Climate Atlas, Version 1"
+},
+{
+"id": "G01962.v1",
+"title": "Environmental Working Group Joint U.S.-Russian Arctic Sea Ice Atlas, Version 1"
+},
+{
+"id": "G01961.v1",
+"title": "Environmental Working Group Joint U.S.-Russian Atlas of the Arctic Ocean, Version 1"
+},
+{
+"id": "G01174.v1",
+"title": "Estonian Mean Snow Depth and Duration (1891-1994), Version 1"
+},
+{
+"id": "ELOKA039.v1",
+"title": "Evenki Atlas, Version 1"
+},
+{
+"id": "NSIDC-0783.v1",
+"title": "Extreme Ice Survey Glacier Image Archive, 2007-2022, Version 1"
+},
+{
+"id": "G01170.v1",
+"title": "Former Soviet Union Hydrological Snow Surveys, 1966-1996, Version 1"
+},
+{
+"id": "GGD648.v1",
+"title": "Geocryology and Geocryological Zonation of Mongolia, Version 1"
+},
+{
+"id": "NSIDC-0075.v1",
+"title": "GEOSAT Radar Altimeter DEM Atlas of Antarctica North of 72.1 degrees South, Version 1"
+},
+{
+"id": "G10040.v1",
+"title": "Glacier Covered Area for the State of Alaska, 1985-2020, Version 1"
+},
+{
+"id": "G01375.v1",
+"title": "Glacier Inventory of West Greenland, 1948 - 1985, Version 1"
+},
+{
+"id": "G10002.v1",
+"title": "Glacier Mass Balance and Regime Measurements and Analysis, 1945-2003, Version 1"
+},
+{
+"id": "G00472.v1",
+"title": "Glacier Photograph Collection, Version 1"
+},
+{
+"id": "NSIDC-0305.v1",
+"title": "GLAS/ICESat 1 km Laser Altimetry Digital Elevation Model of Greenland, Version 1"
+},
+{
+"id": "NSIDC-0304.v1",
+"title": "GLAS/ICESat 500 m Laser Altimetry Digital Elevation Model of Antarctica, Version 1"
+},
+{
+"id": "G00801.v1",
+"title": "GLERL Great Lakes Air Temperature/Degree Day Climatology, 1897-1983, Version 1"
+},
+{
+"id": "G00804.v1",
+"title": "GLERL Great Lakes Ice Concentration Data Base, 1960-1979, Version 1"
+},
+{
+"id": "G00803.v1",
+"title": "GLERL Great Lakes Ice Thickness Data Base, 1966-1979, Version 1"
+},
+{
+"id": "G00802.v1",
+"title": "GLERL Radiation Transfer Through Freshwater Ice, Version 1"
+},
+{
+"id": "NSIDC-0272.v1",
+"title": "GLIMS Glacier Database, Version 1"
+},
+{
+"id": "NSIDC-0063.v1",
+"title": "Global Annual Freezing and Thawing Indices, Version 1"
+},
+{
+"id": "NSIDC-0321.v1",
+"title": "Global EASE-Grid 8-day Blended SSM/I and MODIS Snow Cover, Version 1"
+},
+{
+"id": "G01377.v1",
+"title": "Global Lake and River Ice Phenology Database, Version 1"
+},
+{
+"id": "NSIDC-0710.v1",
+"title": "Global Land Ice Velocity Extraction from Landsat 8 (GoLIVE), Version 1"
+},
+{
+"id": "NSIDC-0271.v1",
+"title": "Global Monthly EASE-Grid Snow Water Equivalent Climatology, Version 1"
+},
+{
+"id": "NSIDC-0768.v1",
+"title": "Global Seasonal-Snow Classification, Version 1"
+},
+{
+"id": "G02175.v1",
+"title": "Good Days on the Trail, 1938-1942: Film Footage of the Rocky Mountains, Colorado, Version 1"
+},
+{
+"id": "G00945.v1",
+"title": "Great Lakes Daily Ice Observations at NOAA Water Level Gauge Sites, 1956 - 1997, Version 1"
+},
+{
+"id": "G00486.v1",
+"title": "Great Lakes Ice Charts, Version 1"
+},
+{
+"id": "G00805.v1",
+"title": "Great Lakes Surface Ice Reports from U.S. Coast Guard, 1961 - 2004, Version 1"
+},
+{
+"id": "NSIDC-0092.v1",
+"title": "Greenland 5 km DEM, Ice Thickness, and Bedrock Elevation Grids, Version 1"
+},
+{
+"id": "NSIDC-0644.v1",
+"title": "Greenland Annual Accumulation along the EGIG Line, 1959\u20132004, from Airborne Radar and Neutron Probe Densities, Version 1"
+},
+{
+"id": "NSIDC-0437.v1",
+"title": "Greenland Climate Network (GC-Net) Radiation for Arctic System Reanalysis, Version 1"
+},
+{
+"id": "NSIDC-0218.v1",
+"title": "Greenland Ice Sheet Melt Characteristics Derived from Passive Microwave Data, Version 1"
+},
+{
+"id": "G10004.v1",
+"title": "Greenland Snow Pit and Core Stratigraphy (Analog and Digital Formats), Version 1"
+},
+{
+"id": "G10010.v2",
+"title": "Gridded Monthly Sea Ice Extent and Concentration, 1850 Onward, Version 2"
+},
+{
+"id": "NSIDC-0690.v1",
+"title": "Gridded Observational Sea Ice Thickness Products, Version 1"
+},
+{
+"id": "GGD646.v1",
+"title": "Ground Temperatures from Deep Boreholes in the Ob River Valley, Russia (VK-1615 and ZS-124/124a), Version 1"
+},
+{
+"id": "GGD6.v1",
+"title": "Ground temperatures in ice-cemented ground at Linnaeus Terrace, Dry Valleys, Antarctica, Version 1"
+},
+{
+"id": "GGD416.v1",
+"title": "Ground temperatures, Liefdefjord, northwest Svalbard, Version 1"
+},
+{
+"id": "NSIDC-0397.v1",
+"title": "HDF4 Data Used to Assess Long-Term Access to Remote Sensing Data with Layout Maps, Version 1"
+},
+{
+"id": "ARCSS304.v1",
+"title": "High-Resolution QuickBird Imagery and Related GIS Layers for Barrow, Alaska, USA, Version 1"
+},
+{
+"id": "ARCSS302.v1",
+"title": "High-Resolution Radar Imagery, Digital Elevation Models, and Related GIS Layers for Barrow, Alaska, USA, Version 1"
+},
+{
+"id": "ARCSS306.v1",
+"title": "High-Resolution Rectified Aerial Photography for Collaborative Research of Environmental Change at Barrow, Alaska, USA, Version 1"
+},
+{
+"id": "NSIDC-0190.v1",
+"title": "Historical Arctic and Antarctic Surface Observational Data, Version 1"
+},
+{
+"id": "NSIDC-0008.v1",
+"title": "Historical Arctic Rawinsonde Archive, 1947 - 1996, Version 1"
+},
+{
+"id": "G01092.v2",
+"title": "Historical Soviet Daily Snow Depth (HSDSD), 1881 - 1995, Version 2"
+},
+{
+"id": "NSIDC-0372.v1",
+"title": "Hydrologic Outlets of the Greenland Ice Sheet, Version 1"
+},
+{
+"id": "NSIDC-0371.v1",
+"title": "Hydrologic Sub-basins of Greenland, Version 1"
+},
+{
+"id": "G02177.v1",
+"title": "Ice Draft and Ice Velocity Data in the Beaufort Sea, 1990-2003, Version 1"
+},
+{
+"id": "IRACC1B.v1",
+"title": "IceBridge Accumulation Radar L1B Geolocated Radar Echo Strength Profiles, Version 1"
+},
+{
+"id": "IGBGM0.v1",
+"title": "IceBridge BGM-3 Gravimeter L0 Raw Accelerations, Version 1"
+},
+{
+"id": "IODMS0.v1",
+"title": "IceBridge DMS L0 Raw Imagery, Version 1"
+},
+{
+"id": "IMFGM0.v1",
+"title": "IceBridge Flux Gate Magnetometer L0 Raw Magnetic Field, Version 1"
+},
+{
+"id": "IMGEO0.v1",
+"title": "IceBridge Geometrics 823A Cesium Magnetometer L0 Raw Magnetic Field, Version 1"
+},
+{
+"id": "IMGEO1B.v1",
+"title": "IceBridge Geometrics 823A Cesium Magnetometer L1B Time-Tagged Magnetic Field, Version 1"
+},
+{
+"id": "IMGEO2.v1",
+"title": "IceBridge Geometrics 823A Cesium Magnetometer L2 Geolocated Magnetic Anomalies, Version 1"
+},
+{
+"id": "IPUTG0.v1",
+"title": "IceBridge GPS L0 Raw Satellite Navigation Data, Version 1"
+},
+{
+"id": "IPUTN1B.v1",
+"title": "IceBridge GPS L1B Time-Tagged Real-Time Position and Attitude Solution, Version 1"
+},
+{
+"id": "IPUTG1B.v1",
+"title": "IceBridge GPS/IMU L1B Primary Position and Attitude Solution, Version 1"
+},
+{
+"id": "IR1HI0.v1",
+"title": "IceBridge HiCARS 1 L0 Raw Return Energy Amplitudes, Version 1"
+},
+{
+"id": "IR2HI0.v1",
+"title": "IceBridge HiCARS 2 L0 Raw Return Energy Amplitudes, Version 1"
+},
+{
+"id": "IPUTI0.v1",
+"title": "IceBridge IMU L0 Raw Inertial Measurement Unit Data, Version 1"
+},
+{
+"id": "IRKUB1B.v1",
+"title": "IceBridge Ku-Band Radar L1B Geolocated Radar Echo Strength Profiles, Version 1"
+},
+{
+"id": "ITKTC0.v1",
+"title": "IceBridge L0 Raw Kinematics GPS Time Codes, Version 1"
+},
+{
+"id": "IPPLV1B.v1",
+"title": "IceBridge LVIS POS/AV L1B Corrected Position and Attitude Data, Version 1"
+},
+{
+"id": "IRMCR1B.v1",
+"title": "IceBridge MCoRDS L1B Geolocated Radar Echo Strength Profiles, Version 1"
+},
+{
+"id": "IFLTRPT.v1",
+"title": "IceBridge Mission Flight Reports, Version 1"
+},
+{
+"id": "IAMET1B.v1",
+"title": "IceBridge NSERC L1B Geolocated Meteorologic and Surface Temperature Data, Version 1"
+},
+{
+"id": "IAPRS0.v1",
+"title": "IceBridge Paroscientific L0 Pressure Altimeter Raw Air Pressure, Version 1"
+},
+{
+"id": "IPAPP1B.v1",
+"title": "IceBridge POS/AV L1B Corrected Position and Attitude Data, Version 1"
+},
+{
+"id": "ILUTP0.v1",
+"title": "IceBridge Riegl Laser Altimeter L0 Raw Ranges, Version 1"
+},
+{
+"id": "IGBTH3.v1",
+"title": "IceBridge Sander AIRGrav L3 Bathymetry, Version 1"
+},
+{
+"id": "IMCS30.v1",
+"title": "IceBridge Scintrex CS-3 Cesium Magnetometer L0 Raw Magnetic Field, Version 1"
+},
+{
+"id": "IMCS31B.v1",
+"title": "IceBridge Scintrex CS-3 Cesium Magnetometer L1B Geolocated Magnetic Anomalies, Version 1"
+},
+{
+"id": "NSIDC-0708.v1",
+"title": "IceBridge Sea Ice Freeboard, Snow Depth, and Thickness Quick Look, Version 1"
+},
+{
+"id": "ILSIG0.v1",
+"title": "IceBridge Sigma Space Lidar L0 Raw Time-of-Flight Data, Version 1"
+},
+{
+"id": "ILSSP0.v1",
+"title": "IceBridge Sigma Space Prototype L0 Raw Time-of-Flight Data, Version 1"
+},
+{
+"id": "IPUAF1B.v1",
+"title": "IceBridge UAF GPS/IMU L1B Corrected Position and Attitude Data, Version 1"
+},
+{
+"id": "NSIDC-0102.v2",
+"title": "Images of Antarctic Ice Shelves, Version 2"
+},
+{
+"id": "G02156.v1",
+"title": "IMS Daily Northern Hemisphere Snow and Ice Analysis at 1 km, 4 km, and 24 km Resolutions, Version 1"
+},
+{
+"id": "ELOKA044.v1",
+"title": "Indigenous Foods Knowledges Network (IFKN), Version 1"
+},
+{
+"id": "G02184.v1",
+"title": "International Geophysical Year, 1957-1958: Drifting Station Alpha Documentary Film, Version 1"
+},
+{
+"id": "G00807.v1",
+"title": "International Ice Patrol (IIP) Iceberg Sightings Database, Version 1"
+},
+{
+"id": "G10028.v1",
+"title": "International Ice Patrol Annual Count of Icebergs South of 48 Degrees North, 1900 to Present, Version 1"
+},
+{
+"id": "G00874.v1",
+"title": "International Ice Patrol Iceberg Drift Tracks, Version 1"
+},
+{
+"id": "G02201.v1",
+"title": "International Polar Year Historical Data and Literature, Version 1"
+},
+{
+"id": "NSIDC-0767.v1",
+"title": "Inventory of Arctic Rain on Snow Events: Meteorological and Surface Conditions, Version 1"
+},
+{
+"id": "GGD610.v1",
+"title": "Inventory of Rock Glaciers along the Ghunsa Valley, Kanchanjunga Himal, Eastern Nepal, Version 1"
+},
+{
+"id": "G02190.v1",
+"title": "IPA-IPY Thermal State of Permafrost (TSP) Snapshot Borehole Inventory, Version 1"
+},
+{
+"id": "NSIDC-0084.v1",
+"title": "IPAB Antarctic Drifting Buoy Data, Version 1"
+},
+{
+"id": "NSIDC-0758.v1",
+"title": "Lagrangian Snow Distributions for Sea-Ice Applications, Version 1"
+},
+{
+"id": "NSIDC-0665.v1",
+"title": "Lake Untersee, Antarctica Climate Data, Version 1"
+},
+{
+"id": "GGD600.v1",
+"title": "Land Resources of Russia -- Maps of Permafrost and Ground Ice, Version 1"
+},
+{
+"id": "GGD601.v1",
+"title": "Land Resources of Russia -- Maps of Soil Characteristics, Version 1"
+},
+{
+"id": "NSIDC-0733.v1",
+"title": "Landsat 8 Ice Speed of Antarctica (LISA), Version 1"
+},
+{
+"id": "GGD613.v1",
+"title": "Landscape Map of the Russian Arctic Coastal Zone, Version 1"
+},
+{
+"id": "G10037.v1",
+"title": "Largest Glaciers and Glacier Complexes in the World, Version 1"
+},
+{
+"id": "ELOKA031.v2",
+"title": "Local Observations from the Seasonal Ice Zone Observing Network (SIZONet) and Alaska Arctic Observatory and Knowledge Hub (AAOKH), Version 2"
+},
+{
+"id": "GGD618.v1",
+"title": "Map of Natural (Landscape) and Permafrost Zones and the Net of Soil Temperature Meteorological Stations in Russia and Middle Asian Mountains, Version 1"
+},
+{
+"id": "GGD603.v1",
+"title": "Maps of Geocryological Regions and Classifications in China, Version 1"
+},
+{
+"id": "G02169.v1",
+"title": "March through August Ice Edge Positions in the Nordic Seas, 1750-2002, Version 1"
+},
+{
+"id": "G10031.v1",
+"title": "Marginal Ice Zone 2014 Field Campaign, Version 1"
+},
+{
+"id": "G10005.v1",
+"title": "MASAM2: Daily 4 km Arctic Sea Ice Concentration, Version 1"
+},
+{
+"id": "G10005.v2",
+"title": "MASAM2: Daily 4 km Arctic Sea Ice Concentration, Version 2"
+},
+{
+"id": "NSIDC-0633.v1",
+"title": "MEaSUREs Greenland Ice Sheet Mosaics from SAR Data, Version 1"
+},
+{
+"id": "NSIDC-0730.v1",
+"title": "MEaSUREs MODIS Mosaic of Antarctica 2013-2014 (MOA2014) Image Map, Version 1"
+},
+{
+"id": "NSIDC-0728.v1",
+"title": "MEaSUREs Northern Hemisphere Polar EASE-Grid 2.0 Daily 6 km Land Freeze/Thaw Status from AMSR-E and AMSR2, Version 1"
+},
+{
+"id": "NSIDC-0728.v2",
+"title": "MEaSUREs Polar EASE-Grid 2.0 Daily 6 km Land Freeze/Thaw Status from AMSR-E and AMSR2, Version 2"
+},
+{
+"id": "NSIDC-0208.v1",
+"title": "Meltpond2000 Polarimetric Scanning Radiometer Sea Ice Brightness Temperatures, Version 1"
+},
+{
+"id": "G02141.v1",
+"title": "Meteorological Data from the Russian Arctic, 1961-2000, Version 1"
+},
+{
+"id": "GGD220.v1",
+"title": "Meteorology and soil temperatures, Hot Weather Creek, Ellesmere Island, NWT, Canada, Version 1"
+},
+{
+"id": "NSIDC-0193.v1",
+"title": "Millimeter-wave Imaging Radiometer Brightness Temperatures, Wakasa Bay, Japan, Version 1"
+},
+{
+"id": "GGD606.v1",
+"title": "Modeled Active-Layer Depth in Russia, Version 1"
+},
+{
+"id": "GGD619.v1",
+"title": "Modeled Daily Thaw Depth and Frozen Ground Depth, Version 1"
+},
+{
+"id": "NSIDC-0280.v2",
+"title": "MODIS Mosaic of Antarctica 2003-2004 (MOA2004) Image Map, Version 2"
+},
+{
+"id": "NSIDC-0593.v2",
+"title": "MODIS Mosaic of Antarctica 2008-2009 (MOA2009) Image Map, Version 2"
+},
+{
+"id": "G02170.v1",
+"title": "Monthly Mean Precipitation Sums at Russian Arctic Stations, 1966-1990, Version 1"
+},
+{
+"id": "GGD626.v1",
+"title": "Monthly Summaries of Soil Temperature and Soil Moisture at Oil Contamination Sites in Antarctica, Version 1"
+},
+{
+"id": "GGD624.v1",
+"title": "Monthly Summaries of Soil Temperature and Soil Moisture at Sites in Alaska, Version 1"
+},
+{
+"id": "GGD625.v1",
+"title": "Monthly Summaries of Soil Temperature and Soil Moisture in China, Version 1"
+},
+{
+"id": "GGD627.v1",
+"title": "Monthly Summaries of Soil Temperature and Soil Moisture in Mongolia, Version 1"
+},
+{
+"id": "G02140.v1",
+"title": "Morphometric Characteristics of Ice and Snow in the Arctic Basin: Aircraft Landing Observations from the Former Soviet Union, 1928-1989, Version 1"
+},
+{
+"id": "G02186.v1",
+"title": "Multisensor Analyzed Sea Ice Extent  - Northern Hemisphere (MASIE-NH), Version 1"
+},
+{
+"id": "NSIDC-0265.v2",
+"title": "NASA SCP Arctic and Antarctic Ice Extent from QuikSCAT, 1999-2009, Version 2"
+},
+{
+"id": "NSIDC-0054.v1",
+"title": "NCEP/NCAR Arctic Marine Rawinsonde Archive, Version 1"
+},
+{
+"id": "MODSCGDRF_NRT.v1",
+"title": "Near Real-Time MODIS/Terra L3 Global Daily 500m SIN Grid Snow Cover, Grain Size, and Dust Radiative Forcing, Version 1"
+},
+{
+"id": "G10016.v2",
+"title": "Near-Real-Time NOAA/NSIDC Climate Data Record of Passive Microwave Sea Ice Concentration, Version 2"
+},
+{
+"id": "NSIDC-0064.v2",
+"title": "Nenana Ice Classic: Tanana River Ice Annual Breakup Dates, Version 2"
+},
+{
+"id": "NSIDC-0009.v1",
+"title": "Nimbus-5 ESMR Polar Gridded Sea Ice Concentrations, Version 1"
+},
+{
+"id": "NSIDC-0037.v1",
+"title": "Nimbus-7 SMMR Antenna Temperatures, Version 1"
+},
+{
+"id": "NSIDC-0036.v1",
+"title": "Nimbus-7 SMMR Pathfinder Brightness Temperatures, Version 1"
+},
+{
+"id": "NSIDC-0007.v1",
+"title": "Nimbus-7 SMMR Polar Gridded Radiances and Sea Ice Concentrations, Version 1"
+},
+{
+"id": "G10022.v1",
+"title": "NOAA Polar-Orbiting Operational Environmental Satellites (POES) Global Visible and Infrared Band Data from ESSA (1966 - 1972) and NOAA (1972 - 1978) Satellites, Version 1"
+},
+{
+"id": "G00917.v1",
+"title": "NOAA/NMC/CAC Arctic and Antarctic Monthly Sea Ice Extent, 1973-1990, Version 1"
+},
+{
+"id": "G02202.v4",
+"title": "NOAA/NSIDC Climate Data Record of Passive Microwave Sea Ice Concentration, Version 4"
+},
+{
+"id": "GGD602.v1",
+"title": "Northern Circumpolar Soils Map, Version 1"
+},
+{
+"id": "NSIDC-0423.v1",
+"title": "Northern Hemisphere Cyclone Locations and Characteristics from NCEP/NCAR Reanalysis Data, Version 1"
+},
+{
+"id": "NSIDC-0046.v4",
+"title": "Northern Hemisphere EASE-Grid 2.0 Weekly Snow Cover and Sea Ice Extent, Version 4"
+},
+{
+"id": "GGD649.v1",
+"title": "Northern Hemisphere EASE-Grid Annual Freezing and Thawing  Indices, 1901 - 2002, Version 1"
+},
+{
+"id": "GGD650.v1",
+"title": "Northern Hemisphere Seasonal and Intermittent Frozen Ground Areas 1901-2001, Version 1"
+},
+{
+"id": "G02120.v1",
+"title": "Norwegian North Polar Expedition 1893-1896: Oceanographic Data, Version 1"
+},
+{
+"id": "ELOKA040.v1",
+"title": "Nunaput: Our Land, Community Atlas for Chevak, Alaska, Version 1"
+},
+{
+"id": "G10011.v2",
+"title": "On-Ice Arctic Sea Ice Thickness Measurements by Auger, Core, and Electromagnetic Induction, from the Late 1800s Onward, Version 2"
+},
+{
+"id": "GGD248.v1",
+"title": "Paleo-periglacial phenomena in Northwestern Europe, Version 1"
+},
+{
+"id": "GGD630.v1",
+"title": "Permafrost Map for Northwestern Canada (Mackenzie Region), Version 1"
+},
+{
+"id": "GGD320.v1",
+"title": "Permafrost Map of Alaska, USA, Version 1"
+},
+{
+"id": "GGD30.v1",
+"title": "Permafrost monitoring and prediction in Southern Carpathians, Romania, Version 1"
+},
+{
+"id": "GGD614.v1",
+"title": "Permafrost of the Usa River Basin, Version 1"
+},
+{
+"id": "G10015.v1",
+"title": "Permafrost Temperature Data from a Deep Borehole Array on the Arctic Slope of Alaska, 1973 - 2014, Version 1"
+},
+{
+"id": "GGD418.v1",
+"title": "Permafrost, palsas and frost-crack polygons, Salluit, Quebec, Canada, Version 1"
+},
+{
+"id": "GGD486.v1",
+"title": "Permafrost-related micrometeorology and soil temperatures, Qingzang Plateau, China, Version 1"
+},
+{
+"id": "ELOKA038.v1",
+"title": "PISUNA-net Local Observations Database, Version 1"
+},
+{
+"id": "ELOKA050.v1",
+"title": "Plants at The End of the World: Beringian Ethnobotany, Version 1"
+},
+{
+"id": "NSIDC-0116.v4",
+"title": "Polar Pathfinder Daily 25 km EASE-Grid Sea Ice Motion Vectors, Version 4"
+},
+{
+"id": "NSIDC-0771.v1",
+"title": "Polar Stereographic Ancillary Grid Information, Version 1"
+},
+{
+"id": "NSIDC-0622.v1",
+"title": "Polar Stereographic Valid Ice Masks Derived from National Ice Center Monthly Sea Ice Climatologies, Version 1"
+},
+{
+"id": "BRMCR1B.v1",
+"title": "Pre-IceBridge MCoRDS L1B Geolocated Radar Echo Strength Profiles, Version 1"
+},
+{
+"id": "G02188.v1",
+"title": "Project Birdseye Aerial Photograph Collection, 1970 - 1984, Version 1"
+},
+{
+"id": "NSIDC-0267.v1",
+"title": "PSR/A Multiband Polarimetric Imaging, Wakasa Bay, Japan, Version 1"
+},
+{
+"id": "NSIDC-0749.v1",
+"title": "Quicklook Arctic Weekly EASE-Grid Sea Ice Age, Version 1"
+},
+{
+"id": "NSIDC-0748.v1",
+"title": "Quicklook Arctic Weekly EASE-Grid Sea Ice Motion Vectors, Version 1"
+},
+{
+"id": "NSIDC-0082.v2",
+"title": "Radarsat Antarctic Mapping Project Digital Elevation Model, Version 2"
+},
+{
+"id": "NSIDC-0103.v2",
+"title": "RAMP AMM-1 SAR Image Mosaic of Antarctica, Version 2"
+},
+{
+"id": "G00788.v1",
+"title": "Rand Corporation Mean Monthly Global Snow Depth, Version 1"
+},
+{
+"id": "NSIDC-0770.v1",
+"title": "Randolph Glacier Inventory - A Dataset of Global Glacier Outlines, Version 1"
+},
+{
+"id": "NSIDC-0770.v2",
+"title": "Randolph Glacier Inventory - A Dataset of Global Glacier Outlines, Version 2"
+},
+{
+"id": "NSIDC-0770.v3",
+"title": "Randolph Glacier Inventory - A Dataset of Global Glacier Outlines, Version 3"
+},
+{
+"id": "NSIDC-0770.v4",
+"title": "Randolph Glacier Inventory - A Dataset of Global Glacier Outlines, Version 4"
+},
+{
+"id": "NSIDC-0770.v5",
+"title": "Randolph Glacier Inventory - A Dataset of Global Glacier Outlines, Version 5"
+},
+{
+"id": "NSIDC-0770.v6",
+"title": "Randolph Glacier Inventory - A Dataset of Global Glacier Outlines, Version 6"
+},
+{
+"id": "NSIDC-0770.v7",
+"title": "Randolph Glacier Inventory - A Dataset of Global Glacier Outlines, Version 7"
+},
+{
+"id": "G02130.v1",
+"title": "Reconstructed North American Snow Extent, 1900-1993, Version 1"
+},
+{
+"id": "G02131.v1",
+"title": "Reconstructed North American, Eurasian, and Northern Hemisphere Snow Cover Extent, 1915-1997, Version 1"
+},
+{
+"id": "G02173.v1",
+"title": "Recurring Spring Leads and Landfast Ice in the Beaufort and Chukchi Seas, 1993-2004, Version 1"
+},
+{
+"id": "ARCSS305.v1",
+"title": "Reduced-Resolution QuickBird Imagery and Related GIS Layers for Barrow, Alaska, USA, Version 1"
+},
+{
+"id": "ARCSS303.v1",
+"title": "Reduced-Resolution Radar Imagery, Digital Elevation Models, and Related GIS Layers for Barrow, Alaska, USA, Version 1"
+},
+{
+"id": "GGD289.v1",
+"title": "Rock glacier inventory, Hautes Alpes Calcaires, Switzerland, Version 1"
+},
+{
+"id": "GGD291.v1",
+"title": "Rock glacier inventory, Printse Valley, Valais, Switzerland, Version 1"
+},
+{
+"id": "GGD274.v1",
+"title": "Rock glacier Macun 1, Lower Engadin, Switzerland, Version 1"
+},
+{
+"id": "GGD309.v1",
+"title": "Rock glacier velocities, Selwyn Mountains, Yukon and NWT, Canada, Version 1"
+},
+{
+"id": "GGD284.v1",
+"title": "Rock glaciers from Norway and Svalbard, Version 1"
+},
+{
+"id": "GGD293.v1",
+"title": "Rock glaciers Gruben, Muragl and Murtel, Switzerland: Area-wide flow fields, Version 1"
+},
+{
+"id": "GGD285.v1",
+"title": "Rock glaciers in the Pyrenees, Spain and France, Version 1"
+},
+{
+"id": "GGD279.v1",
+"title": "Rock glaciers on South Shetland Islands, Antarctic Peninsula, Version 1"
+},
+{
+"id": "GGD310.v1",
+"title": "Rock glaciers, Austria, Version 1"
+},
+{
+"id": "GGD286.v1",
+"title": "Rock glaciers, Bernese Alps, western Switzerland, Version 1"
+},
+{
+"id": "GGD280.v1",
+"title": "Rock glaciers, Central Andes, Argentina, Version 1"
+},
+{
+"id": "GGD283.v1",
+"title": "Rock glaciers, Disko Island, Greenland, Version 1"
+},
+{
+"id": "GGD290.v1",
+"title": "Rock glaciers, Entremont, Valais, Switzerland, Version 1"
+},
+{
+"id": "GGD287.v1",
+"title": "Rock glaciers, Fletschhorn Area, Valais, Switzerland, Version 1"
+},
+{
+"id": "GGD22.v1",
+"title": "Rock glaciers, Lombardy, Italy, Version 1"
+},
+{
+"id": "GGD292.v1",
+"title": "Rock glaciers, Prealps, Vaud, Switzerland, Version 1"
+},
+{
+"id": "GGD288.v1",
+"title": "Rock glaciers, Upper Engadin, Switzerland, Version 1"
+},
+{
+"id": "GGD282.v1",
+"title": "Rock glaciers, Western Andes, Chile, Version 1"
+},
+{
+"id": "GGD501.v1",
+"title": "Rock glaciers, Zailiysiky Range, Kungei Ranges, Tienshan, Kazakhstan, Version 1"
+},
+{
+"id": "GGD276.v1",
+"title": "Rock Temperatures, Sermilik, SE Greenland, Version 1"
+},
+{
+"id": "GGD652.v1",
+"title": "Rock-Ice Feature Inventory for the Sierra Nevada, California, USA, Version 1"
+},
+{
+"id": "G01187.v1",
+"title": "Russian River Ice Thickness and Duration, 1917 - 1992, Version 1"
+},
+{
+"id": "G10035.v1",
+"title": "Rutgers Northern Hemisphere 24 km Weekly Snow Cover Extent, September 1980 Onward, Version 1"
+},
+{
+"id": "NSIDC-0589.v1",
+"title": "Satellite Observations of Arctic Change, Version 1"
+},
+{
+"id": "GGD605.v1",
+"title": "Schefferville Permafrost Temperature Database, Version 1"
+},
+{
+"id": "G02187.v1",
+"title": "SCICEX: Submarine Arctic Science Program, Version 1"
+},
+{
+"id": "G02176.v1",
+"title": "Sea Ice Charts of the Russian Arctic in Gridded Format, 1933-2006, Version 1"
+},
+{
+"id": "G02182.v1",
+"title": "Sea Ice Edge Location and Extent in the Russian Arctic, 1933-2006, Version 1"
+},
+{
+"id": "ELOKA002.v1",
+"title": "Sea Ice in the Belcher Islands, Nunavut, Canada, Version 1"
+},
+{
+"id": "G02135.v3",
+"title": "Sea Ice Index, Version 3"
+},
+{
+"id": "G10014.v1",
+"title": "Sea Ice Mass Balance in the Antarctic (SIMBA), Version 1"
+},
+{
+"id": "G01169.v1",
+"title": "Sea Ice Melt Pond Data from the Canadian Arctic, Version 1"
+},
+{
+"id": "NSIDC-0192.v3",
+"title": "Sea Ice Trends and Climatologies from SMMR and SSM/I-SSMIS, Version 3"
+},
+{
+"id": "G02194.v1",
+"title": "Sea-ice Thickness and Draft Statistics from Submarine ULS, Moored ULS, and a Coupled Model, Version 1"
+},
+{
+"id": "NSIDC-0053.v1",
+"title": "Seasat and GEOSAT Altimetry for the Antarctic and Greenland Ice Sheets, Version 1"
+},
+{
+"id": "GGD9.v1",
+"title": "Seasonal and annual dynamics of frozen ground, central highland of Iceland, Version 1"
+},
+{
+"id": "G10039.v1",
+"title": "Seasonal Antarctic Sea Ice Extent Reconstructions, 1905-2020, Version 1"
+},
+{
+"id": "GGD482.v1",
+"title": "Seasonal frost and soil temperature data, Western Cape Mountains, South Africa, Version 1"
+},
+{
+"id": "GGD498.v1",
+"title": "Seasonal frost depths, midwestern USA, Version 1"
+},
+{
+"id": "GGD278.v1",
+"title": "Seasonal frost penetration, Sleepers River Research Watershed, Vermont, USA, Version 1"
+},
+{
+"id": "GGD631.v1",
+"title": "Shallow Borehole Temperatures, Ilulissat, Greenland, Version 1"
+},
+{
+"id": "G02180.v1",
+"title": "SHEBA Reconnaissance Imagery, Version 1"
+},
+{
+"id": "ELOKA042.v1",
+"title": "Silalirijiit Project: Community created weather station network, Version 1"
+},
+{
+"id": "ELOKA019.v1",
+"title": "Silalirijiit Project: Kangiqtugaapik (Clyde River), Nunavut, Canada, Weather Station Network, Version 1"
+},
+{
+"id": "NSIDC-0790.v1",
+"title": "Simulated 12-Month Ice Parcel Tracks from Gridded Sea Ice Motion, Version 1"
+},
+{
+"id": "NSIDC-0206.v1",
+"title": "SMEX02 Airborne Synthetic Aperture Radar (AIRSAR) Data, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0205.v1",
+"title": "SMEX02 Aircraft Polarimetric Scanning Radiometer (PSR) Data, Version 1"
+},
+{
+"id": "NSIDC-0196.v1",
+"title": "SMEX02 AMSR-E Level 3 Daily Gridded Brightness Temperatures, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0197.v1",
+"title": "SMEX02 ASTER Level 1B Data, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0231.v1",
+"title": "SMEX02 Balloon-borne Radiosonde Data, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0198.v1",
+"title": "SMEX02 European Remote Sensing Satellite (ERS-2) AMI Data, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0182.v1",
+"title": "SMEX02 Iowa Regional Ground Soil Moisture Data, Version 1"
+},
+{
+"id": "NSIDC-0184.v1",
+"title": "SMEX02 Iowa Satellite Vegetation and Water Index (NDVI and NDWI) Data, Version 1"
+},
+{
+"id": "NSIDC-0204.v1",
+"title": "SMEX02 Land Surface Information: Geolocation, Surface Roughness, and Photographs, Version 1"
+},
+{
+"id": "NSIDC-0276.v1",
+"title": "SMEX02 Land Surface Information: Land Use Classification, Version 1"
+},
+{
+"id": "NSIDC-0278.v1",
+"title": "SMEX02 Land Surface Information: Soils Database, Version 1"
+},
+{
+"id": "NSIDC-0241.v1",
+"title": "SMEX02 Landsat 5 and 7 Thematic Mapper Land Surface Brightness Temperatures, Version 1"
+},
+{
+"id": "NSIDC-0199.v1",
+"title": "SMEX02 Landsat Thematic Mapper Imagery, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0183.v1",
+"title": "SMEX02 Passive and Active L and S band System (PALS) Data, Version 1"
+},
+{
+"id": "NSIDC-0233.v1",
+"title": "SMEX02 QuikSCAT/SeaWinds Backscatter Data, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0236.v1",
+"title": "SMEX02 Rain Gauge Network, Walnut Creek, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0188.v1",
+"title": "SMEX02 Regional Vegetation Sampling Data, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0203.v1",
+"title": "SMEX02 Sliced Core Soil Moisture Data, Walnut Creek Watershed, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0438.v1",
+"title": "SMEX02 SMACEX Tower Meteorological/Flux Data: Iowa, Version 1"
+},
+{
+"id": "NSIDC-0142.v1",
+"title": "SMEX02 Soil Climate Analysis Network (SCAN) Station 2031, Ames, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0185.v1",
+"title": "SMEX02 Soil Moisture and Temperature Profiles, Walnut Creek, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0232.v1",
+"title": "SMEX02 Soil Moisture Atmosphere Coupling Experiment (SMACEX), Iowa, Version 1"
+},
+{
+"id": "NSIDC-0200.v1",
+"title": "SMEX02 SSM/I Brightness Temperature Data, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0186.v1",
+"title": "SMEX02 Tower-Based Radiometric Surface Temperature, Walnut Creek, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0189.v1",
+"title": "SMEX02 Vegetation Water Content, Iowa Regional and Walnut Creek Watershed, Version 1"
+},
+{
+"id": "NSIDC-0143.v1",
+"title": "SMEX02 Watershed Soil Moisture Data, Walnut Creek, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0187.v1",
+"title": "SMEX02 Watershed Vegetation Sampling Data, Walnut Creek, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0277.v1",
+"title": "SMEX02 Watershed Vitel Network Soil Moisture Data, Walnut Creek, Iowa, Version 1"
+},
+{
+"id": "NSIDC-0370.v1",
+"title": "SMEX03 Airborne Synthetic Aperture Radar (AIRSAR) Data: Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0328.v1",
+"title": "SMEX03 Aircraft Polarimetric Scanning Radiometer (PSR) Data, Alabama, Version 1"
+},
+{
+"id": "NSIDC-0560.v1",
+"title": "SMEX03 Aircraft Polarimetric Scanning Radiometer (PSR) Data, Georgia, Version 1"
+},
+{
+"id": "NSIDC-0561.v1",
+"title": "SMEX03 Aircraft Polarimetric Scanning Radiometer (PSR) Data, Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0379.v1",
+"title": "SMEX03 ALMNet and SCAN Soil Moisture Data: Alabama, Version 1"
+},
+{
+"id": "NSIDC-0373.v1",
+"title": "SMEX03 AMSR-E Daily Gridded Soil Moisture and Brightness Temperatures, Alabama, Version 1"
+},
+{
+"id": "NSIDC-0555.v1",
+"title": "SMEX03 AMSR-E Daily Gridded Soil Moisture and Brightness Temperatures, Brazil, Version 1"
+},
+{
+"id": "NSIDC-0553.v1",
+"title": "SMEX03 AMSR-E Daily Gridded Soil Moisture and Brightness Temperatures, Georgia, Version 1"
+},
+{
+"id": "NSIDC-0554.v1",
+"title": "SMEX03 AMSR-E Daily Gridded Soil Moisture and Brightness Temperatures, Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0339.v1",
+"title": "SMEX03 Ancillary Soil Characteristics Data, Alabama, Version 1"
+},
+{
+"id": "NSIDC-0572.v1",
+"title": "SMEX03 Ancillary Soil Characteristics Data, Georgia, Version 1"
+},
+{
+"id": "NSIDC-0573.v1",
+"title": "SMEX03 Ancillary Soil Characteristics Data, Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0325.v1",
+"title": "SMEX03 ASTER Level-1B Data: Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0357.v1",
+"title": "SMEX03 ENVISAT ASAR Data, Alabama, Version 1"
+},
+{
+"id": "NSIDC-0576.v1",
+"title": "SMEX03 ENVISAT ASAR Data, Georgia, Version 1"
+},
+{
+"id": "NSIDC-0577.v1",
+"title": "SMEX03 ENVISAT ASAR Data, Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0367.v1",
+"title": "SMEX03 Geolocation Information: Georgia, Version 1"
+},
+{
+"id": "NSIDC-0366.v1",
+"title": "SMEX03 Geolocation Information: Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0364.v1",
+"title": "SMEX03 Land Use Classification Data: Georgia, Version 1"
+},
+{
+"id": "NSIDC-0365.v1",
+"title": "SMEX03 Land Use Classification Data: Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0331.v1",
+"title": "SMEX03 Landsat Thematic Mapper Imagery: Alabama, Version 1"
+},
+{
+"id": "NSIDC-0327.v1",
+"title": "SMEX03 Landsat Thematic Mapper Imagery: Georgia, Version 1"
+},
+{
+"id": "NSIDC-0322.v1",
+"title": "SMEX03 Landsat Thematic Mapper Imagery: Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0330.v1",
+"title": "SMEX03 Landsat Thematic Mapper NDVI and NDWI: Georgia, Version 1"
+},
+{
+"id": "NSIDC-0332.v1",
+"title": "SMEX03 Landsat Thematic Mapper NDVI and NDWI: Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0329.v1",
+"title": "SMEX03 Little River Micronet Soil Moisture Data: Georgia, Version 1"
+},
+{
+"id": "NSIDC-0320.v1",
+"title": "SMEX03 Little Washita Micronet Soil Moisture Data: Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0333.v1",
+"title": "SMEX03 QuikSCAT/SeaWinds Backscatter Data, Alabama, Version 1"
+},
+{
+"id": "NSIDC-0580.v1",
+"title": "SMEX03 QuikSCAT/SeaWinds Backscatter Data, Brazil, Version 1"
+},
+{
+"id": "NSIDC-0579.v1",
+"title": "SMEX03 QuikSCAT/SeaWinds Backscatter Data, Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0374.v1",
+"title": "SMEX03 Rain Gauge Data: Georgia, Version 1"
+},
+{
+"id": "NSIDC-0287.v1",
+"title": "SMEX03 Regional Ground Soil Moisture Data: Alabama, Version 1"
+},
+{
+"id": "NSIDC-0288.v1",
+"title": "SMEX03 Regional Ground Soil Moisture Data: Georgia, Version 1"
+},
+{
+"id": "NSIDC-0289.v1",
+"title": "SMEX03 Regional Ground Soil Moisture Data: Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0344.v1",
+"title": "SMEX03 Site Photographs, Alabama, Version 1"
+},
+{
+"id": "NSIDC-0574.v1",
+"title": "SMEX03 Site Photographs, Georgia, Version 1"
+},
+{
+"id": "NSIDC-0575.v1",
+"title": "SMEX03 Site Photographs, Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0293.v1",
+"title": "SMEX03 Soil Climate Analysis Network (SCAN): Alabama, Version 1"
+},
+{
+"id": "NSIDC-0294.v1",
+"title": "SMEX03 Soil Climate Analysis Network (SCAN): Georgia, Version 1"
+},
+{
+"id": "NSIDC-0295.v1",
+"title": "SMEX03 Soil Climate Analysis Network (SCAN): Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0378.v1",
+"title": "SMEX03 Soil Moisture, Meteorological, and Vegetation Data: Brazil, Version 1"
+},
+{
+"id": "NSIDC-0368.v1",
+"title": "SMEX03 Soil Texture Data: Alabama, Version 1"
+},
+{
+"id": "NSIDC-0338.v1",
+"title": "SMEX03 SSM/I Brightness Temperature Data, Alabama, Version 1"
+},
+{
+"id": "NSIDC-0564.v1",
+"title": "SMEX03 SSM/I Brightness Temperature Data, Brazil, Version 1"
+},
+{
+"id": "NSIDC-0562.v1",
+"title": "SMEX03 SSM/I Brightness Temperature Data, Georgia, Version 1"
+},
+{
+"id": "NSIDC-0563.v1",
+"title": "SMEX03 SSM/I Brightness Temperature Data, Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0319.v1",
+"title": "SMEX03 Surface and Soil Temperature Measurements: Alabama, Version 1"
+},
+{
+"id": "NSIDC-0345.v1",
+"title": "SMEX03 Surface Roughness Data, Alabama, Version 1"
+},
+{
+"id": "NSIDC-0569.v1",
+"title": "SMEX03 Surface Roughness Data, Georgia, Version 1"
+},
+{
+"id": "NSIDC-0570.v1",
+"title": "SMEX03 Surface Roughness Data, Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0306.v1",
+"title": "SMEX03 ThetaProbe Soil Moisture Data: Alabama, Version 1"
+},
+{
+"id": "NSIDC-0433.v1",
+"title": "SMEX03 Two-Dimensional Synthetic Aperture Radiometer (2D-STAR) Brightness Temperatures, Alabama, Version 1"
+},
+{
+"id": "NSIDC-0551.v1",
+"title": "SMEX03 Two-Dimensional Synthetic Aperture Radiometer (2D-STAR) Brightness Temperatures, Georgia, Version 1"
+},
+{
+"id": "NSIDC-0552.v1",
+"title": "SMEX03 Two-Dimensional Synthetic Aperture Radiometer (2D-STAR) Brightness Temperatures, Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0348.v1",
+"title": "SMEX03 Vegetation Data: Alabama, Version 1"
+},
+{
+"id": "NSIDC-0298.v1",
+"title": "SMEX03 Vegetation Data: Georgia, Version 1"
+},
+{
+"id": "NSIDC-0297.v1",
+"title": "SMEX03 Vegetation Data: Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0369.v1",
+"title": "SMEX03 Vegetation Water Content: Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0296.v1",
+"title": "SMEX03 Watershed Ground Soil Moisture Data: Oklahoma, Version 1"
+},
+{
+"id": "NSIDC-0405.v1",
+"title": "SMEX04 Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) Data: Arizona, Version 1"
+},
+{
+"id": "NSIDC-0406.v1",
+"title": "SMEX04 Aircraft Polarimetric Scanning Radiometer (PSR) Data, Arizona, Version 1"
+},
+{
+"id": "NSIDC-0557.v1",
+"title": "SMEX04 Aircraft Polarimetric Scanning Radiometer (PSR) Data, Sonora, Version 1"
+},
+{
+"id": "NSIDC-0381.v1",
+"title": "SMEX04 Bulk Density and Rock Fraction Data: Arizona, Version 1"
+},
+{
+"id": "NSIDC-0382.v1",
+"title": "SMEX04 Bulk Density and Rock Fraction Data: Sonora, Version 1"
+},
+{
+"id": "NSIDC-0417.v1",
+"title": "SMEX04 ENVISAT ASAR Data: Arizona, Version 1"
+},
+{
+"id": "NSIDC-0409.v1",
+"title": "SMEX04 Land Use Classification Data, Arizona, Version 1"
+},
+{
+"id": "NSIDC-0578.v1",
+"title": "SMEX04 Land Use Classification Data, Sonora, Version 1"
+},
+{
+"id": "NSIDC-0341.v1",
+"title": "SMEX04 Landsat Thematic Mapper Imagery, Arizona, Version 1"
+},
+{
+"id": "NSIDC-0565.v1",
+"title": "SMEX04 Landsat Thematic Mapper Imagery, Sonora, Version 1"
+},
+{
+"id": "NSIDC-0387.v1",
+"title": "SMEX04 Landsat TM/ETM+ NDVI and NDWI, Arizona, Version 1"
+},
+{
+"id": "NSIDC-0571.v1",
+"title": "SMEX04 Landsat TM/ETM+ NDVI and NDWI, Sonora, Version 1"
+},
+{
+"id": "NSIDC-0390.v1",
+"title": "SMEX04 Leaf Area Index Data: Arizona, Version 1"
+},
+{
+"id": "NSIDC-0401.v1",
+"title": "SMEX04 Meteorological Network Data: Arizona, Version 1"
+},
+{
+"id": "NSIDC-0389.v1",
+"title": "SMEX04 Multispectral Radiometer Data: Arizona, Version 1"
+},
+{
+"id": "NSIDC-0404.v1",
+"title": "SMEX04 Precipitation Network Data: Arizona, Version 1"
+},
+{
+"id": "NSIDC-0340.v1",
+"title": "SMEX04 QuikSCAT/SeaWinds Backscatter Data: Sonora, Version 1"
+},
+{
+"id": "NSIDC-0384.v1",
+"title": "SMEX04 Regional Soil Moisture Data: Arizona, Version 1"
+},
+{
+"id": "NSIDC-0395.v1",
+"title": "SMEX04 Regional Soil Moisture Data: Sonora, Version 1"
+},
+{
+"id": "NSIDC-0386.v1",
+"title": "SMEX04 San Miguel Watershed Soil Moisture Data: Sonora, Version 1"
+},
+{
+"id": "NSIDC-0408.v1",
+"title": "SMEX04 Site Photographs, Arizona, Version 1"
+},
+{
+"id": "NSIDC-0567.v1",
+"title": "SMEX04 Site Photographs, Sonora, Version 1"
+},
+{
+"id": "NSIDC-0415.v1",
+"title": "SMEX04 Soil Characteristics Data: Arizona, Version 1"
+},
+{
+"id": "NSIDC-0439.v1",
+"title": "SMEX04 Soil Characteristics Data: Sonora, Version 1"
+},
+{
+"id": "NSIDC-0385.v1",
+"title": "SMEX04 Soil Climate Analysis Network (SCAN) Data: Arizona, Version 1"
+},
+{
+"id": "NSIDC-0411.v1",
+"title": "SMEX04 Soil Moisture Network Data: Sonora, Version 1"
+},
+{
+"id": "NSIDC-0416.v1",
+"title": "SMEX04 Surface Roughness Data, Arizona, Version 1"
+},
+{
+"id": "NSIDC-0558.v1",
+"title": "SMEX04 Surface Roughness Data, Sonora, Version 1"
+},
+{
+"id": "NSIDC-0400.v1",
+"title": "SMEX04 Surface Temperature Data: Arizona, Version 1"
+},
+{
+"id": "NSIDC-0388.v1",
+"title": "SMEX04 Terra MODIS Data, Arizona, Version 1"
+},
+{
+"id": "NSIDC-0566.v1",
+"title": "SMEX04 Terra MODIS Data, Sonora, Version 1"
+},
+{
+"id": "NSIDC-0434.v1",
+"title": "SMEX04 Two-Dimensional Synthetic Aperture Radiometer (2D-STAR) Brightness Temperatures, Arizona, Version 1"
+},
+{
+"id": "NSIDC-0568.v1",
+"title": "SMEX04 Two-Dimensional Synthetic Aperture Radiometer (2D-STAR) Brightness Temperatures, Sonora, Version 1"
+},
+{
+"id": "NSIDC-0419.v1",
+"title": "SMEX04 Vegetation Data, Arizona, Version 1"
+},
+{
+"id": "NSIDC-0559.v1",
+"title": "SMEX04 Vegetation Data, Sonora, Version 1"
+},
+{
+"id": "NSIDC-0391.v1",
+"title": "SMEX04 Vegetation Water Content Data, Arizona, Version 1"
+},
+{
+"id": "NSIDC-0556.v1",
+"title": "SMEX04 Vegetation Water Content Data, Sonora, Version 1"
+},
+{
+"id": "NSIDC-0383.v1",
+"title": "SMEX04 Walnut Gulch Experimental Watershed Soil Moisture Data: Arizona, Version 1"
+},
+{
+"id": "NSIDC-0446.v1",
+"title": "SMEX05 Land Use Classification Data: Iowa, Version 1"
+},
+{
+"id": "NSIDC-0455.v1",
+"title": "SMEX05 Meteorological Network Data: Iowa, Version 1"
+},
+{
+"id": "NSIDC-0453.v1",
+"title": "SMEX05 Multispectral Radiometer Data: Iowa, Version 1"
+},
+{
+"id": "NSIDC-0448.v1",
+"title": "SMEX05 QuikSCAT/SeaWinds Backscatter Data: Iowa, Version 1"
+},
+{
+"id": "NSIDC-0449.v1",
+"title": "SMEX05 Site Photographs: Iowa, Version 1"
+},
+{
+"id": "NSIDC-0454.v1",
+"title": "SMEX05 Soil Moisture Network Data: Iowa, Version 1"
+},
+{
+"id": "NSIDC-0443.v1",
+"title": "SMEX05 Surface Roughness Data: Iowa, Version 1"
+},
+{
+"id": "NSIDC-0444.v1",
+"title": "SMEX05 Vegetation Water Content Data: Iowa, Version 1"
+},
+{
+"id": "NSIDC-0442.v1",
+"title": "SMEX05 Watershed Soil Moisture Data: Iowa, Version 1"
+},
+{
+"id": "G02158.v1",
+"title": "Snow Data Assimilation System (SNODAS) Data Products at NSIDC, Version 1"
+},
+{
+"id": "NSIDC-0105.v5",
+"title": "Snow Melt Onset Over Arctic Sea Ice from SMMR and SSM/I-SSMIS Brightness Temperatures, Version 5"
+},
+{
+"id": "ELOKA014.v1",
+"title": "Snowchange Oral History - Work Among the Kolyma River Indigenous Societies in Siberia, Russia, Version 1"
+},
+{
+"id": "G00922.v1",
+"title": "Snowfall and Snow Depth for Canada 1943-1982, Version 1"
+},
+{
+"id": "G02189.v1",
+"title": "Soil Temperature Station Data from Permafrost Regions of Russia (Selection of Five Stations), 1915 - 2000, Version 1"
+},
+{
+"id": "GGD489.v1",
+"title": "Soil temperatures at South Royalton, Vermont, USA, Version 1"
+},
+{
+"id": "GGD273.v1",
+"title": "Soil temperatures from Disko Island (Qeqertarsuaq/Godhavn), Greenland, Version 1"
+},
+{
+"id": "G02129.v1",
+"title": "Southern Hemisphere Ice Limits, 1973-1978, Version 1"
+},
+{
+"id": "G01360.v1",
+"title": "Submarine Upward Looking Sonar Ice Draft Profile Data and Statistics, Version 1"
+},
+{
+"id": "NSIDC-0664.v1",
+"title": "SUMER Antarctic Ice-shelf Buttressing, Version 1"
+},
+{
+"id": "ELOKA028.v1",
+"title": "Summary Report of Community-Based Environmental and Species Observations from the Bering Sea Sub-Network, 2008-2009, Version 1"
+},
+{
+"id": "G01111.v1",
+"title": "The Dehn Collection of Arctic Sea Ice Charts, 1953-1986, Version 1"
+},
+{
+"id": "ELOKA035.v1",
+"title": "The Northern Bering Sea: Our Way of Life, Version 1"
+},
+{
+"id": "ELOKA031.v1",
+"title": "The Seasonal Ice Zone Observing Network (SIZONet) Local Observations Interface, Version 1"
+},
+{
+"id": "G02168.v1",
+"title": "Timing and Statistics of Autumn and Spring Annual Snow Cover for the Northern Hemisphere, 1972 to 2000, Version 1"
+},
+{
+"id": "NSIDC-0027.v1",
+"title": "TOVS Pathfinder Path-P Daily and Monthly Polar Gridded Atmospheric Parameters, Version 1"
+},
+{
+"id": "NSIDC-0765.v1",
+"title": "Two-dimensional Velocities of Ice M\u00e9lange from Jakobshavn Isbr\u00e6, Greenland, Version 1"
+},
+{
+"id": "G10013.v1",
+"title": "U.S. National Ice Center Arctic and Antarctic Sea Ice Charts in SIGRID-3 Format, Version 1"
+},
+{
+"id": "G10033.v1",
+"title": "U.S. National Ice Center Arctic and Antarctic Sea Ice Concentration and Climatologies in Gridded Format, Version 1"
+},
+{
+"id": "G02172.v1",
+"title": "U.S. National Ice Center Arctic Sea Ice Charts and Climatologies in Gridded Format, 1972 - 2007, Version 1"
+},
+{
+"id": "G10017.v1",
+"title": "U.S. National Ice Center Daily Marginal Ice Zone Products, Version 1"
+},
+{
+"id": "G10006.v1",
+"title": "Unified Sea Ice Thickness Climate Data Record, 1947 Onward, Version 1"
+},
+{
+"id": "GGD221.v1",
+"title": "University of Wisconsin Antarctic Soils Database, Version 1"
+},
+{
+"id": "GGD31.v1",
+"title": "Upper soil temperatures in the Kolyma Highland, Version 1"
+},
+{
+"id": "ELOKA046.v1",
+"title": "Voices from the Frontlines of Changing Bering Sea, Version 1"
+},
+{
+"id": "NSIDC-0462.v1",
+"title": "Wakasa Bay Weather Forecast Maps, Version 1"
+},
+{
+"id": "ELOKA047.v1",
+"title": "Waking the Bear: Understanding Circumpolar Bear Ceremonialism, Version 1"
+},
+{
+"id": "NSIDC-0736.v1",
+"title": "Weather Research and Forecasting (WRF) North American Mountain Snow Data, Version 1"
+},
+{
+"id": "G01186.v1",
+"title": "Western Italian Alps Monthly Snowfall and Snow Cover Duration, Version 1"
+},
+{
+"id": "G01130.v1",
+"title": "World Glacier Inventory, Version 1"
+},
+{
+"id": "ELOKA043.v1",
+"title": "Yup'ik Environmental Knowledge Project (Community Page), Version 1"
+},
+{
+"id": "ELOKA032.v1",
+"title": "Yup'ik Environmental Knowledge Project, Version 1"
+}
+]

@@ -1,0 +1,686 @@
+[
+{
+"id": "XAERDT_L2_ABI_G16.v1",
+"title": "ABI/GOES-16 Dark Target Aerosol 10-Min L2 Full Disk 10 km"
+},
+{
+"id": "XAERDT_L2_ABI_G17.v1",
+"title": "ABI/GOES-17 Dark Target Aerosol 10-Min L2 Full Disk 10 km"
+},
+{
+"id": "XAERDT_L2_AHI_H08.v1",
+"title": "AHI/Himawari-08 Dark Target Aerosol 10-Min L2 Full Disk 10 km"
+},
+{
+"id": "XAERDT_L2_AHI_H09.v1",
+"title": "AHI/Himawari-09 Dark Target Aerosol 10-Min L2 Full Disk 10 km"
+},
+{
+"id": "eMASL1B.v1",
+"title": "Enhanced MODIS Airborne Simulator (eMAS) Calibrated, Geolocated Radiances L1B 50m Data"
+},
+{
+"id": "eMASL2CLD.v1",
+"title": "Enhanced MODIS Airborne Simulator (eMAS) L2 Cloud Data"
+},
+{
+"id": "EN1_MDSI_MER_FRS_1P.v4",
+"title": "Full Resolution Full Swath Geolocated and Calibrated TOA Radiance"
+},
+{
+"id": "EN1_MDSI_MER_FRS_2P.v4",
+"title": "Full Resolution Full Swath Geophysical Product for Ocean, Land and Atmosphere"
+},
+{
+"id": "M1_AVH13C1.v6",
+"title": "METOP-B AVHRR Atmospherically Corrected Normalized Difference Vegetation Index Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "M1_AVH09C1.v6",
+"title": "METOP-B AVHRR Atmospherically Corrected Surface Reflectance Daily L3 Global 0.05 Deg CMG"
+},
+{
+"id": "M1_AVH02C1.v6",
+"title": "METOP-B AVHRR Top-of-Atmosphere Reflectance Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "MCD06COSP_D3_MODIS.v6.2",
+"title": "MODIS (Aqua/Terra) Cloud Properties Level 3 daily, 1x1 degree grid"
+},
+{
+"id": "MCD06COSP_M3_MODIS.v6.2",
+"title": "MODIS (Aqua/Terra) Cloud Properties Level 3 monthly, 1x1 degree grid"
+},
+{
+"id": "MASL1B.v1",
+"title": "MODIS Airborne Simulator (MAS) Calibrated, Geolocated Radiances L1B 50m Data"
+},
+{
+"id": "MASL2CLD.v1",
+"title": "MODIS Airborne Simulator (MAS) L2 Cloud Data"
+},
+{
+"id": "COARE_cm_er2.mas.v1",
+"title": "MODIS Airborne Simulator (MAS) Measurements Taken Onboard the NASA ER-2 During the TOGA COARE Intensive Observing Period."
+},
+{
+"id": "MYDCSR_B.v6.1",
+"title": "MODIS/Aqua 8-Day Clear Sky Radiance Bias Daily L3 Global 1Deg Zonal Bands"
+},
+{
+"id": "MYD04_L2_cloud.v6.1",
+"title": "MODIS/Aqua Aerosol 5-Min L2 Swath 10 km"
+},
+{
+"id": "MYD04_L2.v6.1",
+"title": "MODIS/Aqua Aerosol 5-Min L2 Swath 10km"
+},
+{
+"id": "MYD04_3K_cloud.v6.1",
+"title": "MODIS/Aqua Aerosol 5-Min L2 Swath 3 km"
+},
+{
+"id": "MYD04_3K.v6.1",
+"title": "MODIS/Aqua Aerosol 5-Min L2 Swath 3km"
+},
+{
+"id": "MYD08_E3.v6.1",
+"title": "MODIS/Aqua Aerosol Cloud Water Vapor Ozone 8-Day L3 Global 1Deg CMG"
+},
+{
+"id": "MYD08_D3.v6.1",
+"title": "MODIS/Aqua Aerosol Cloud Water Vapor Ozone Daily L3 Global 1Deg CMG"
+},
+{
+"id": "MYD08_M3.v6.1",
+"title": "MODIS/Aqua Aerosol Cloud Water Vapor Ozone Monthly L3 Global 1Deg CMG"
+},
+{
+"id": "MYDATML2.v6.1",
+"title": "MODIS/Aqua Aerosol, Cloud and Water Vapor Subset 5-Min L2 Swath 5km and 10km"
+},
+{
+"id": "MYDARNSS.v6.1",
+"title": "MODIS/Aqua Atmosphere Aeronet Subsetting Product"
+},
+{
+"id": "MYDBMSS.v6.1",
+"title": "MODIS/Aqua Atmosphere BELMANIP Subsetting Product"
+},
+{
+"id": "MYDFNSS.v6.1",
+"title": "MODIS/Aqua Atmosphere FluxNet Subsetting Product"
+},
+{
+"id": "MYD09.v6.1",
+"title": "MODIS/Aqua Atmospherically Corrected Surface Reflectance 5-Min L2 Swath 250m, 500m, and 1km"
+},
+{
+"id": "MYD021KM.v6.1",
+"title": "MODIS/Aqua Calibrated Radiances 5-Min L1B Swath 1km"
+},
+{
+"id": "MYD02QKM_cloud.v6.1",
+"title": "MODIS/Aqua Calibrated Radiances 5-Min L1B Swath 250 m"
+},
+{
+"id": "MYD02QKM.v6.1",
+"title": "MODIS/Aqua Calibrated Radiances 5-Min L1B Swath 250m"
+},
+{
+"id": "MYD02HKM.v6.1",
+"title": "MODIS/Aqua Calibrated Radiances 5-Min L1B Swath 500m"
+},
+{
+"id": "MYDCSR_G.v6.1",
+"title": "MODIS/Aqua Clear Radiance Statistics Indexed to Global Grid 5-Min L2 Swath 10km"
+},
+{
+"id": "MYDCSR_8.v6.1",
+"title": "MODIS/Aqua Clear Sky Radiance 8-Day Composite Daily L3 Global 25km Equal Area"
+},
+{
+"id": "MYDCSR_D.v6.1",
+"title": "MODIS/Aqua Clear Sky Radiance Statistics Daily L3 Global 25km Equal Area"
+},
+{
+"id": "CLDMSK_L2_MODIS_Aqua.v1",
+"title": "MODIS/Aqua Cloud Mask 5-Min Swath 1000 m"
+},
+{
+"id": "MYD35_L2.v6.1",
+"title": "MODIS/Aqua Cloud Mask and Spectral Test Results 5-Min L2 Swath 250m and 1km"
+},
+{
+"id": "CLDPROP_L2_MODIS_Aqua.v1.1",
+"title": "MODIS/Aqua Cloud Properties 5-min L2 Swath 1km"
+},
+{
+"id": "CLDPROP_D3_MODIS_Aqua.v1.1",
+"title": "MODIS/Aqua Cloud Properties Level 3 daily, 1x1 degree grid"
+},
+{
+"id": "CLDPROP_M3_MODIS_Aqua.v1.1",
+"title": "MODIS/Aqua Cloud Properties Level 3 monthly, 1x1 degree grid"
+},
+{
+"id": "MYD06_L2.v6.1",
+"title": "MODIS/Aqua Clouds 5-Min L2 Swath 1km and 5km"
+},
+{
+"id": "XAERDT_L2_MODIS_Aqua.v1",
+"title": "MODIS/Aqua Dark Target Aerosol 5-Min L2 Swath 10 km"
+},
+{
+"id": "MYD03_cloud.v6.1",
+"title": "MODIS/Aqua Geolocation Fields 5-Min L1A Swath 1 km"
+},
+{
+"id": "MYD03.v6.1",
+"title": "MODIS/Aqua Geolocation Fields 5-Min L1A Swath 1km"
+},
+{
+"id": "MYD07_L2_cloud.v6.1",
+"title": "MODIS/Aqua Temperature and Water Vapor Profiles 5-Min L2 Swath 5 km"
+},
+{
+"id": "MYD07_L2.v6.1",
+"title": "MODIS/Aqua Temperature and Water Vapor Profiles 5-Min L2 Swath 5km"
+},
+{
+"id": "MYD05_L2.v6.1",
+"title": "MODIS/Aqua Total Precipitable Water Vapor 5-Min L2 Swath 1km and 5km"
+},
+{
+"id": "MODCSR_B.v6.1",
+"title": "MODIS/Terra 8-Day Clear Sky Radiance Bias Daily L3 Global 1Deg Zonal Bands"
+},
+{
+"id": "MOD04_L2.v6.1",
+"title": "MODIS/Terra Aerosol 5-Min L2 Swath 10km"
+},
+{
+"id": "MOD04_3K.v6.1",
+"title": "MODIS/Terra Aerosol 5-Min L2 Swath 3km"
+},
+{
+"id": "MOD08_E3.v6.1",
+"title": "MODIS/Terra Aerosol Cloud Water Vapor Ozone 8-Day L3 Global 1Deg CMG"
+},
+{
+"id": "MOD08_D3_cloud.v6.1",
+"title": "MODIS/Terra Aerosol Cloud Water Vapor Ozone Daily L3 Global 1 Deg. CMG"
+},
+{
+"id": "MOD08_D3.v6.1",
+"title": "MODIS/Terra Aerosol Cloud Water Vapor Ozone Daily L3 Global 1Deg CMG"
+},
+{
+"id": "MOD08_M3.v6.1",
+"title": "MODIS/Terra Aerosol Cloud Water Vapor Ozone Monthly L3 Global 1Deg CMG"
+},
+{
+"id": "MODATML2.v6.1",
+"title": "MODIS/Terra Aerosol, Cloud and Water Vapor Subset 5-Min L2 Swath 5km and 10km"
+},
+{
+"id": "MODARNSS.v6.1",
+"title": "MODIS/Terra Atmosphere Aeronet Subsetting Product"
+},
+{
+"id": "MODBMSS.v6.1",
+"title": "MODIS/Terra Atmosphere BELMANIP Subsetting Product"
+},
+{
+"id": "MODFNSS.v6.1",
+"title": "MODIS/Terra Atmosphere FluxNet Subsetting Product"
+},
+{
+"id": "MOD09.v6.1",
+"title": "MODIS/Terra Atmospherically Corrected Surface Reflectance 5-Min L2 Swath 250m, 500m, 1km"
+},
+{
+"id": "MOD021KM.v6.1",
+"title": "MODIS/Terra Calibrated Radiances 5-Min L1B Swath 1km"
+},
+{
+"id": "MOD021KM_cloud.v6.1",
+"title": "MODIS/Terra Calibrated Radiances 5-Min L1B Swath 1km"
+},
+{
+"id": "MOD02QKM.v6.1",
+"title": "MODIS/Terra Calibrated Radiances 5-Min L1B Swath 250m"
+},
+{
+"id": "MOD02HKM_cloud.v6.1",
+"title": "MODIS/Terra Calibrated Radiances 5-Min L1B Swath 500 m"
+},
+{
+"id": "MOD02HKM.v6.1",
+"title": "MODIS/Terra Calibrated Radiances 5-Min L1B Swath 500m"
+},
+{
+"id": "MODCSR_G.v6.1",
+"title": "MODIS/Terra Clear Radiance Statistics Indexed to Global Grid 5-Min L2 Swath 10km"
+},
+{
+"id": "MODCSR_8.v6.1",
+"title": "MODIS/Terra Clear Sky Radiance 8-Day Composite Daily L3 Global 25km Equal Area"
+},
+{
+"id": "MODCSR_D.v6.1",
+"title": "MODIS/Terra Clear Sky Radiance Statistics Daily L3 Global 25km Equal Area"
+},
+{
+"id": "MOD35_L2_cloud.v6.1",
+"title": "MODIS/Terra Cloud Mask and Spectral Test Results 5-Min L2 Swath 250 m and 1 km"
+},
+{
+"id": "MOD35_L2.v6.1",
+"title": "MODIS/Terra Cloud Mask and Spectral Test Results 5-Min L2 Swath 250m and 1km"
+},
+{
+"id": "MOD06_L2_cloud.v6.1",
+"title": "MODIS/Terra Clouds 5-Min L2 Swath 1 km and 5 km"
+},
+{
+"id": "MOD06_L2.v6.1",
+"title": "MODIS/Terra Clouds 5-Min L2 Swath 1km and 5km"
+},
+{
+"id": "XAERDT_L2_MODIS_Terra.v1",
+"title": "MODIS/Terra Dark Target Aerosol 5-Min L2 Swath 10 km"
+},
+{
+"id": "MOD09Q1P_EVI.v6",
+"title": "MODIS/Terra EVI Phenology annual L4 250m SIN Grid"
+},
+{
+"id": "MOD09A1P_EVI.v6",
+"title": "MODIS/Terra EVI Phenology annual L4 500m SIN Grid"
+},
+{
+"id": "MOD09Q1G_EVI.v6",
+"title": "MODIS/Terra Gap-Filled, Smoothed EVI 8-Day L4 250m SIN Grid"
+},
+{
+"id": "MOD09A1G_EVI.v6",
+"title": "MODIS/Terra Gap-Filled, Smoothed EVI 8-Day L4 500m SIN Grid"
+},
+{
+"id": "MOD15A2GFS.v6",
+"title": "MODIS/Terra Gap-Filled, Smoothed LAI-FPAR 8-Day L4 Global 1km SIN Grid"
+},
+{
+"id": "MOD09Q1G_NDVI.v6",
+"title": "MODIS/Terra Gap-Filled, Smoothed NDVI 8-Day L4 250m SIN Grid"
+},
+{
+"id": "MOD09A1G_NDVI.v6",
+"title": "MODIS/Terra Gap-Filled, Smoothed NDVI 8-Day L4 500m SIN Grid"
+},
+{
+"id": "MOD03_cloud.v6.1",
+"title": "MODIS/Terra Geolocation Fields 5-Min L1A Swath 1 km"
+},
+{
+"id": "MOD03.v6.1",
+"title": "MODIS/Terra Geolocation Fields 5-Min L1A Swath 1km"
+},
+{
+"id": "MOD15A2PHN.v6",
+"title": "MODIS/Terra LAI-FPAR Phenology annual L4 Global 1km SIN Grid"
+},
+{
+"id": "MOD09Q1P_NDVI.v6",
+"title": "MODIS/Terra NDVI Phenology annual L4 250m SIN Grid"
+},
+{
+"id": "MOD09A1P_NDVI.v6",
+"title": "MODIS/Terra NDVI Phenology annual L4 500m SIN Grid"
+},
+{
+"id": "MOD07_L2.v6.1",
+"title": "MODIS/Terra Temperature and Water Vapor Profiles 5-Min L2 Swath 5km"
+},
+{
+"id": "MOD05_L2_cloud.v6.1",
+"title": "MODIS/Terra Total Precipitable Water Vapor 5-Min L2 Swath 1 km and 5 km"
+},
+{
+"id": "MOD05_L2.v6.1",
+"title": "MODIS/Terra Total Precipitable Water Vapor 5-Min L2 Swath 1km and 5km"
+},
+{
+"id": "N07_AVH13C1.v6",
+"title": "NOAA-07 AVHRR Atmospherically Corrected Normalized Difference Vegetation Index Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N07_AVH09C1.v6",
+"title": "NOAA-07 AVHRR Atmospherically Corrected Surface Reflectance Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N07_AVH02C1.v6",
+"title": "NOAA-07 AVHRR Top-of-Atmosphere Reflectance Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N09_AVH13C1.v6",
+"title": "NOAA-09 AVHRR Atmospherically Corrected Normalized Difference Vegetation Index Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N09_AVH09C1.v6",
+"title": "NOAA-09 AVHRR Atmospherically Corrected Surface Reflectance Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N09_AVH02C1.v6",
+"title": "NOAA-09 AVHRR Top-of-Atmosphere Reflectance Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N11_AVH13C1.v6",
+"title": "NOAA-11 AVHRR Atmospherically Corrected Normalized Difference Vegetation Index Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N11_AVH09C1.v6",
+"title": "NOAA-11 AVHRR Atmospherically Corrected Surface Reflectance Daily L3 Global 0.05Deg CMG"
+},
+{
+"id": "N11_AVH02C1.v6",
+"title": "NOAA-11 AVHRR Top-of-Atmosphere Reflectance Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N14_AVH13C1.v6",
+"title": "NOAA-14 AVHRR Atmospherically Corrected Normalized Difference Vegetation Index Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N14_AVH09C1.v6",
+"title": "NOAA-14 AVHRR Atmospherically Corrected Surface Reflectance Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N14_AVH02C1.v6",
+"title": "NOAA-14 AVHRR Top-of-Atmosphere Reflectance Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N16_AVH13C1.v6",
+"title": "NOAA-16 AVHRR Atmospherically Corrected Normalized Difference Vegetation Index Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N16_AVH09C1.v6",
+"title": "NOAA-16 AVHRR Atmospherically Corrected Surface Reflectance Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N16_AVH02C1.v6",
+"title": "NOAA-16 AVHRR Top-of-Atmosphere Reflectance Daily L3 Global 0.05Deg CMG"
+},
+{
+"id": "N18_AVH13C1.v6",
+"title": "NOAA-18 AVHRR Atmospherically Corrected Normalized Difference Vegetation Index Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N18_AVH09C1.v6",
+"title": "NOAA-18 AVHRR Atmospherically Corrected Surface Reflectance Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N18_AVH02C1.v6",
+"title": "NOAA-18 AVHRR Top-of-Atmosphere Reflectance Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N19_AVH09C1.v6",
+"title": "NOAA-19 AVHRR Atmospherically Corrected Surface Reflectance Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N19_AVH02C1.v6",
+"title": "NOAA-19 AVHRR Top-of-Atmosphere Reflectance Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "N19_AVH13C1.v6",
+"title": "NOAA19 AVHRR Atmospherically Corrected Normalized Difference Vegetation Index Daily L3 Global 0.05 Deg. CMG"
+},
+{
+"id": "FSNRAD_L2_VIIRS_CRIS_NOAA20.v2",
+"title": "NOAA20 VIIRS+CrIS Fusion 6-Min L2 Swath 750 m"
+},
+{
+"id": "S3A_SY_2_SYN.v1",
+"title": "OLCI+SLSTR/Sentinel-3A L2 Surface Reflectance and Aerosol parameters over Land"
+},
+{
+"id": "S3B_SY_2_SYN.v1",
+"title": "OLCI+SLSTR/Sentinel-3B L2 Surface Reflectance and Aerosol parameters over Land"
+},
+{
+"id": "S3A_OL_1_EFR.v1",
+"title": "OLCI/Sentinel-3A L1 Full Resolution Top of Atmosphere Reflectance"
+},
+{
+"id": "S3A_OL_1_ERR.v1",
+"title": "OLCI/Sentinel-3A L1 Reduced Resolution Top of Atmosphere Reflectance"
+},
+{
+"id": "S3B_OL_1_EFR.v1",
+"title": "OLCI/Sentinel-3B L1 Full Resolution Top of Atmosphere Reflectance"
+},
+{
+"id": "S3B_OL_1_ERR.v1",
+"title": "OLCI/Sentinel-3B L1 Reduced Resolution Top of Atmosphere Reflectance"
+},
+{
+"id": "EN1_MDSI_MER_RR__1P.v4",
+"title": "Reduced Resolution Geolocated and Calibrated TOA Radiance"
+},
+{
+"id": "EN1_MDSI_MER_RR__2P.v4",
+"title": "Reduced Resolution Geophysical Product for Ocean, Land and Atmosphere"
+},
+{
+"id": "S3A_SL_1_RBT.v1",
+"title": "SLSTR/Sentinel-3A L1 Full Resolution Top of Atmosphere Radiances and Brightness Temperature"
+},
+{
+"id": "S3B_SL_1_RBT.v1",
+"title": "SLSTR/Sentinel-3B L1 Full Resolution Top of Atmosphere Radiances and Brightness Temperature"
+},
+{
+"id": "FSNRAD_L2_VIIRS_CRIS_SNPP.v2",
+"title": "SNPP VIIRS+CrIS Fusion 6-Min L2 Swath 750 m"
+},
+{
+"id": "VJ109.v2",
+"title": "VIIRS/JPSS1 Atmospherically Corrected Surface Reflectance 6-Min L2 Swath 375m, 750m"
+},
+{
+"id": "VJ102DNB.v2.1",
+"title": "VIIRS/JPSS1 Day/Night Band 6-Min L1B Swath 750 m"
+},
+{
+"id": "VJ103DNB.v2.1",
+"title": "VIIRS/JPSS1 Day/Night Band Resolution Terrain Corrected Geolocation L1 6-Min Swath 750 m"
+},
+{
+"id": "VJ102IMG.v2.1",
+"title": "VIIRS/JPSS1 Imagery Resolution 6-Min L1B Swath 375 m"
+},
+{
+"id": "VJ103IMG.v2.1",
+"title": "VIIRS/JPSS1 Imagery Resolution Terrain Corrected Geolocation  L1 6-Min Swath 375 m"
+},
+{
+"id": "VJ102MOD.v2.1",
+"title": "VIIRS/JPSS1 Moderate Resolution 6-Min L1B Swath 750 m"
+},
+{
+"id": "VJ103MOD.v2.1",
+"title": "VIIRS/JPSS1 Moderate Resolution Terrain Corrected Geolocation L1 6-Min Swath 750m"
+},
+{
+"id": "VJ202DNB.v2",
+"title": "VIIRS/JPSS2 Day/Night Band 6-Min L1B Swath 750 m"
+},
+{
+"id": "VJ202IMG.v2",
+"title": "VIIRS/JPSS2 Imagery Resolution 6-Min L1B Swath 375 m"
+},
+{
+"id": "VJ203IMG.v2",
+"title": "VIIRS/JPSS2 Imagery Resolution Terrain Corrected Geolocation 6-Min L1 Swath 375 m"
+},
+{
+"id": "VJ202MOD.v2",
+"title": "VIIRS/JPSS2 Moderate Resolution 6 Min L1B Swath 750 m"
+},
+{
+"id": "VJ203MOD.v2",
+"title": "VIIRS/JPSS2 Moderate Resolution Terrain Corrected Geolocation 6-Min L1 Swath 750 m"
+},
+{
+"id": "VJ203DNB.v2",
+"title": "VIIRS/JPSS2Day/Night Band Resolution Terrain Corrected Geolocation 6-Min L1 Swath 750 m"
+},
+{
+"id": "CLDMSK_L2_VIIRS_NOAA20.v1",
+"title": "VIIRS/NOAA20 Cloud Mask and Spectral Test Results 6-Min L2 Swath 750m"
+},
+{
+"id": "CLDPROP_L2_VIIRS_NOAA20.v1.1",
+"title": "VIIRS/NOAA20 Cloud Properties 6-min L2 Swath 750m"
+},
+{
+"id": "CLDPROP_M3_VIIRS_NOAA20.v1.1",
+"title": "VIIRS/NOAA20 Cloud Properties Level 3 monthly, 1x1 degree grid"
+},
+{
+"id": "AERDT_L2_VIIRS_NOAA20.v2",
+"title": "VIIRS/NOAA20 Dark Target Aerosol 6-Min L2 Swath 6 km"
+},
+{
+"id": "XAERDT_L2_VIIRS_NOAA20.v1",
+"title": "VIIRS/NOAA20 Dark Target Aerosol L2 6-Min Swath 6 km"
+},
+{
+"id": "AERDB_L2_VIIRS_NOAA20.v2",
+"title": "VIIRS/NOAA20 Deep Blue Aerosol L2 6-Min Swath 6 km"
+},
+{
+"id": "AERDB_D3_VIIRS_NOAA20.v2",
+"title": "VIIRS/NOAA20 Deep Blue Level 3 daily aerosol data, 1 degree x 1 degree grid"
+},
+{
+"id": "AERDB_M3_VIIRS_NOAA20.v2",
+"title": "VIIRS/NOAA20 Deep Blue Level 3 monthly aerosol data, 1x1 degree grid"
+},
+{
+"id": "VNP09.v2",
+"title": "VIIRS/NPP Atmospherically Corrected Surface Reflectance 6-Min L2 Swath 375m, 750m - V2"
+},
+{
+"id": "VNP46A1.v1",
+"title": "VIIRS/NPP Daily Gridded Day Night Band 500m Linear Lat Lon Grid Night"
+},
+{
+"id": "VNP02DNB.v2",
+"title": "VIIRS/NPP Day/Night Band 6-Min L1B Swath 750 m"
+},
+{
+"id": "VNP03DNB.v2",
+"title": "VIIRS/NPP Day/Night Band Terrain Corrected Geolocation L1 6-Min Swath 750 m"
+},
+{
+"id": "VNP46A2.v1",
+"title": "VIIRS/NPP Gap-Filled Lunar BRDF-Adjusted Nighttime Lights Daily L3 Global 500m Linear Lat Lon Grid"
+},
+{
+"id": "VNP02IMG.v2",
+"title": "VIIRS/NPP Imagery Resolution 6-Min L1B Swath 375 m"
+},
+{
+"id": "VNP03IMG.v2",
+"title": "VIIRS/NPP Imagery Resolution Terrain Corrected Geolocation 6-Min L1 Swath 375 m"
+},
+{
+"id": "VNP46A3.v1",
+"title": "VIIRS/NPP Lunar BRDF-Adjusted Nighttime Lights Monthly L3 Global 15 arc-second Linear Lat Lon Grid"
+},
+{
+"id": "VNP46A4.v1",
+"title": "VIIRS/NPP Lunar BRDF-Adjusted Nighttime Lights Yearly L3 Global 15 arc-second Linear Lat Lon Grid"
+},
+{
+"id": "VNP03MOD.v2",
+"title": "VIIRS/NPP Moderate Resolution Terrain-Corrected Geolocation L1 6-Min Swath 750 m"
+},
+{
+"id": "CLDCR_L2_VIIRS_SNPP.v1",
+"title": "VIIRS/SNPP Cirrus Reflectance 6-min L2 Swath 750m"
+},
+{
+"id": "CLDPROP_L2_VIIRS_SNPP.v1.1",
+"title": "VIIRS/SNPP Cloud Properties 6-min L2 Swath 750m"
+},
+{
+"id": "CLDPROP_D3_VIIRS_SNPP.v1.1",
+"title": "VIIRS/SNPP Cloud Properties Level 3 daily, 1x1 degree grid"
+},
+{
+"id": "CLDPROP_M3_VIIRS_SNPP.v1.1",
+"title": "VIIRS/SNPP Cloud Properties Level 3 monthly, 1x1 degree grid"
+},
+{
+"id": "CLDPROP_D3_VIIRS_NOAA20.v1.1",
+"title": "VIIRS/SNPP Cloud Properties Level-3 daily 1x1 degree grid"
+},
+{
+"id": "AERDT_L2_VIIRS_SNPP.v1.1",
+"title": "VIIRS/SNPP Dark Target Aerosol L2 6-Min Swath 6 km"
+},
+{
+"id": "AERDT_L2_VIIRS_SNPP.v2",
+"title": "VIIRS/SNPP Dark Target Aerosol L2 6-Min Swath 6 km V2"
+},
+{
+"id": "XAERDT_L2_VIIRS_SNPP.v1",
+"title": "VIIRS/SNPP Dark Target Aerosol L2 6-Min Swath 6km"
+},
+{
+"id": "AERDB_L2_VIIRS_SNPP.v2",
+"title": "VIIRS/SNPP Deep Blue Aerosol L2 6 Min Swath 6km"
+},
+{
+"id": "AERDB_L2_VIIRS_SNPP.v1.1",
+"title": "VIIRS/SNPP Deep Blue Aerosol L2 6-Min Swath 6km"
+},
+{
+"id": "AERDB_D3_VIIRS_SNPP.v2",
+"title": "VIIRS/SNPP Deep Blue Level 3 daily aerosol data, 1 degree x 1 degree grid"
+},
+{
+"id": "AERDB_D3_VIIRS_SNPP.v1.1",
+"title": "VIIRS/SNPP Deep Blue Level 3 daily aerosol data, 1 degree x1 degree grid"
+},
+{
+"id": "AERDB_M3_VIIRS_SNPP.v2",
+"title": "VIIRS/SNPP Deep Blue Level 3 monthly aerosol data 1x1 degree grid"
+},
+{
+"id": "AERDB_M3_VIIRS_SNPP.v1.1",
+"title": "VIIRS/SNPP Deep Blue Level 3 monthly aerosol data, 1 degree x1 degree grid"
+},
+{
+"id": "WATVP_L2_VIIRS_SNPP.v1",
+"title": "VIIRS/SNPP Level-2 Water Vapor Products 6-min Swath 750m"
+},
+{
+"id": "WATVP_D3_VIIRS_SNPP.v1",
+"title": "VIIRS/SNPP Water Vapor Level-3 daily 0.5 x 0.5 degree grid"
+},
+{
+"id": "WATVP_M3_VIIRS_SNPP.v1",
+"title": "VIIRS/SNPP Water Vapor Level-3 monthly 0.5 x 0.5 degree grid"
+},
+{
+"id": "CLDMSK_L2_VIIRS_SNPP.v1",
+"title": "VIIRS/Suomi-NPP Cloud Mask 6-Min Swath 750 m"
+},
+{
+"id": "VNP02MOD.v2",
+"title": "VNP02MOD | VIIRS/NPP Moderate Resolution 6-Min L1B Swath 750 m"
+}
+]

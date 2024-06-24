@@ -1,0 +1,1134 @@
+[
+{
+"id": "SeaWiFS_MLAC_L1_MLAC.v1",
+"title": "OrbView-2 SeaWiFS Level-1 Merged Local Area Coverage (MLAC) Data, version 1"
+},
+{
+"id": "SeaWiFS_GAC_L1_GAC.v1",
+"title": "OrbView-2 SeaWiFS Level-1A Global Area Coverage (GAC) Data, version 1"
+},
+{
+"id": "SeaWiFS_L2_IOP.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-2 Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L2_LAND.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-2 Normalized Difference Vegetation Index Land Reflectance Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L2_OC.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-2 Ocean Color (OC) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_CHL.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3B Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_KD.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3B Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_ZLEE.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3B Euphotic Depth (ZLEE) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_GSM.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3B Garver-Siegel-Maritorena Model (GSM) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_IOP.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3B Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_LAND.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3B Normalized Difference Vegetation Index Land Reflectance Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_PIC.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3B Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_POC.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3B Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_PAR.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3B Photosynthetically Active Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_QAA.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3B Quasi-Analytical Algorithm (QAA) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3b_RRS.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3B Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_CHL.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3M Chlorophyll (CHL) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_KD.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3M Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_ZLEE.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3M Euphotic Depth (ZLEE) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_GSM.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3M Garver-Siegel-Maritorena Model (GSM) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_IOP.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3M Inherent Optical Properties (IOP) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_LAND.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3M Normalized Difference Vegetation Index Land Reflectance Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_PIC.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3M Particulate Inorganic Carbon (PIC) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_POC.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3M Particulate Organic Carbon (POC) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_PAR.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3M Photosynthetically Active Radiation (PAR) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_QAA.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3M Quasi-Analytical Algorithm (QAA) Data, version R2022.0"
+},
+{
+"id": "SeaWiFS_L3m_RRS.vR2022.0",
+"title": "OrbView-2 SeaWiFS Level-3M Remote-Sensing Reflectance (RRS) Data, version R2022.0"
+},
+{
+"id": "PACE_EPH_DEF.v1",
+"title": "PACE Definitive Ephemeris Data Data, V1"
+},
+{
+"id": "PACE_HARP2_L0_D1.v1",
+"title": "PACE HARP2 Level-0 Detector 1 (D1) Data, V1"
+},
+{
+"id": "PACE_HARP2_L0_D2.v1",
+"title": "PACE HARP2 Level-0 Detector 2 (D2) Data, V1"
+},
+{
+"id": "PACE_HARP2_L0_D3.v1",
+"title": "PACE HARP2 Level-0 Detector 3 (D3) Data, V1"
+},
+{
+"id": "PACE_HARP2_L0.v1",
+"title": "PACE HARP2 Level-0 Instrument Telemetry/Multi-Detector Data, V1"
+},
+{
+"id": "PACE_HARP2_L0_REAL.v1",
+"title": "PACE HARP2 Level-0 Real-time Direct Transfer Mode Data, V1"
+},
+{
+"id": "PACE_HARP2_L0_SCI.v1",
+"title": "PACE HARP2 Level-0 Science Data, V1"
+},
+{
+"id": "PACE_HARP2_L1A_AST0.v2",
+"title": "PACE HARP2 Level-1A Acquisition Scheme Type 0 - Full-Resolution Data, V2"
+},
+{
+"id": "PACE_HARP2_L1A_AST0.v1",
+"title": "PACE HARP2 Level-1A Acquisition Scheme Type 0 - Full-Resolution Data, version 1"
+},
+{
+"id": "PACE_HARP2_L1A_AST1.v2",
+"title": "PACE HARP2 Level-1A Acquisition Scheme Type 1 - Half-Resolution Data, V2"
+},
+{
+"id": "PACE_HARP2_L1A_AST1.v1",
+"title": "PACE HARP2 Level-1A Acquisition Scheme Type 1 - Half-Resolution Data, version 1"
+},
+{
+"id": "PACE_HARP2_L1A_AST2.v1",
+"title": "PACE HARP2 Level-1A Acquisition Scheme Type 2 - Science Mode (no MTDI) Data, version 1"
+},
+{
+"id": "PACE_HARP2_L1A_AST2.v2",
+"title": "PACE HARP2 Level-1A Acquisition Scheme Type 2 -\u00a0 Science Mode (no MTDI) Data, V2"
+},
+{
+"id": "PACE_HARP2_L1A_AST3.v2",
+"title": "PACE HARP2 Level-1A Acquisition Scheme Type 3 Data, V2"
+},
+{
+"id": "PACE_HARP2_L1A_AST3.v1",
+"title": "PACE HARP2 Level-1A Acquisition Scheme Type 3 Data, version 1"
+},
+{
+"id": "PACE_HARP2_L1A_AST4.v2",
+"title": "PACE HARP2 Level-1A Acquisition Scheme Type 4 - Science Mode Data, V2"
+},
+{
+"id": "PACE_HARP2_L1A_AST4.v1",
+"title": "PACE HARP2 Level-1A Acquisition Scheme Type 4 - Science Mode Data, version 1"
+},
+{
+"id": "PACE_HARP2_L1A_SCI.v2",
+"title": "PACE HARP2 Level-1A Science Data, V2"
+},
+{
+"id": "PACE_HARP2_L1A_SCI.v1",
+"title": "PACE HARP2 Level-1A Science Data, version 1"
+},
+{
+"id": "PACE_HARP2_L1B_AST4.vV1.0",
+"title": "PACE HARP2 Level-1B Acquisition Scheme Type 4 - Science Mode Data, V1.0"
+},
+{
+"id": "PACE_HARP2_L1B_AST4.v2",
+"title": "PACE HARP2 Level-1B Acquisition Scheme Type 4 - Science Mode Data, V2"
+},
+{
+"id": "PACE_HARP2_L1B_SCI.vV1.0",
+"title": "PACE HARP2 Level-1B Science Data, V1.0"
+},
+{
+"id": "PACE_HARP2_L1B_SCI.v2",
+"title": "PACE HARP2 Level-1B Science Data, V2"
+},
+{
+"id": "PACE_HARP2_L1C_AST4.vV1.0",
+"title": "PACE HARP2 Level-1C Acquisition Scheme Type 4 - Science Mode Data, V1.0"
+},
+{
+"id": "PACE_HARP2_L1C_AST4.v2",
+"title": "PACE HARP2 Level-1C Acquisition Scheme Type 4 - Science Mode Data, V2"
+},
+{
+"id": "PACE_HARP2_L1C_SCI.vV1.0",
+"title": "PACE HARP2 Level-1C Science Data, V1.0"
+},
+{
+"id": "PACE_HARP2_L1C_SCI.v2",
+"title": "PACE HARP2 Level-1C Science Data, V2"
+},
+{
+"id": "PACE_HARP2_L2_FMP_NRT.vV1.0",
+"title": "PACE HARP2 Level-2 Aerosol & Ocean Optical Properties, FastMAPOL - NRT Data, V1.0"
+},
+{
+"id": "PACE_HARP2_L2_FMP.vV1.0",
+"title": "PACE HARP2 Level-2 Aerosol & Ocean Optical Properties, FastMAPOL Data, V1.0"
+},
+{
+"id": "PACE_HARP2_L2_FMP_OCEAN_NRT.vV1.0",
+"title": "PACE HARP2 Level-2 Aerosol & Ocean Optical Properties, FastMAPOL Ocean - NRT Data, V1.0"
+},
+{
+"id": "PACE_HARP2_L2_FMP_OCEAN.vV1.0",
+"title": "PACE HARP2 Level-2 Aerosol & Ocean Optical Properties, FastMAPOL Ocean Data, V1.0"
+},
+{
+"id": "PACE_OCI_L0_SOLD.v1",
+"title": "PACE OCI Level-0 Daily Solar Calibration Data, V1"
+},
+{
+"id": "PACE_OCI_L0_DARK.v1",
+"title": "PACE OCI Level-0 Dark Data, V1"
+},
+{
+"id": "PACE_OCI_L0_DIAG.v1",
+"title": "PACE OCI Level-0 Diagnostic/Calibaration Data, V1"
+},
+{
+"id": "PACE_OCI_L0_LIN.v1",
+"title": "PACE OCI Level-0 Linearity Calibration Data, V1"
+},
+{
+"id": "PACE_OCI_L0_LUN.v1",
+"title": "PACE OCI Level-0 Lunar Calibration Data, V1"
+},
+{
+"id": "PACE_OCI_L0_SOLM.v1",
+"title": "PACE OCI Level-0 Monthly Solar Calibration Data, V1"
+},
+{
+"id": "PACE_OCI_L0_RAW.v1",
+"title": "PACE OCI Level-0 Raw Data, V1"
+},
+{
+"id": "PACE_OCI_L0_SCI.v1",
+"title": "PACE OCI Level-0 Science Data, V1"
+},
+{
+"id": "PACE_OCI_L0_SNAPX.v1",
+"title": "PACE OCI Level-0 Snapshot External Trigger Data, V1"
+},
+{
+"id": "PACE_OCI_L0_SNAPI.v1",
+"title": "PACE OCI Level-0 Snapshot Internal Trigger Data, V1"
+},
+{
+"id": "PACE_OCI_L0_SPEC.v1",
+"title": "PACE OCI Level-0 Spectral Data, V1"
+},
+{
+"id": "PACE_OCI_L0_STAT.v1",
+"title": "PACE OCI Level-0 Static Data, V1"
+},
+{
+"id": "PACE_OCI_L1A_SCI.v2",
+"title": "PACE OCI Level-1A Science Data, V2"
+},
+{
+"id": "PACE_OCI_L1A_SCI.v1",
+"title": "PACE OCI Level-1A Science Data, version 1"
+},
+{
+"id": "PACE_OCI_L1B_SCI.vV1.0",
+"title": "PACE OCI Level-1B Science Data, V1.0"
+},
+{
+"id": "PACE_OCI_L1B_SCI.v2",
+"title": "PACE OCI Level-1B Science Data, V2"
+},
+{
+"id": "PACE_OCI_L1C_SCI.vV1.0",
+"title": "PACE OCI Level-1C Science Data, V1.0"
+},
+{
+"id": "PACE_OCI_L1C_SCI.v2",
+"title": "PACE OCI Level-1C Science Data, V2"
+},
+{
+"id": "PACE_OCI_L2_AER_DT_NRT.v2.0",
+"title": "PACE OCI Level-2 Aerosol Optical Properties, Dark Target - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_AER_DT.v2.0",
+"title": "PACE OCI Level-2 Aerosol Optical Properties, Dark Target Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_AER_DB_NRT.v2.0",
+"title": "PACE OCI Level-2 Aerosol Optical Properties, Deep Blue - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_AER_DB.v2.0",
+"title": "PACE OCI Level-2 Aerosol Optical Properties, Deep Blue Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_AOP_NRT.v2.0",
+"title": "PACE OCI Level-2 Apparent Optical Properties - Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_AOP.v2.0",
+"title": "PACE OCI Level-2 Apparent Optical Properties Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_BGC.v2.0",
+"title": "PACE OCI Level-2 Biogeochemical Properties Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_BGC_NRT.v2.0",
+"title": "PACE OCI Level-2 Biogeochemical Properties, Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_CLDMSK_NRT.v2.0",
+"title": "PACE OCI Level-2 Cloud Mask - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_CLD_NRT.v2.0",
+"title": "PACE OCI Level-2 Cloud Optical Properties - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_CLD.v2.0",
+"title": "PACE OCI Level-2 Cloud Optical Properties Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_IOP_NRT.v2.0",
+"title": "PACE OCI Level-2 Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_IOP.v2.0",
+"title": "PACE OCI Level-2 Inherent Optical Properties (IOP) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_LAND_NRT.v2.0",
+"title": "PACE OCI Level-2 Normalized Difference Vegetation Index Land Reflectance - Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_LAND.v2.0",
+"title": "PACE OCI Level-2 Normalized Difference Vegetation Index Land Reflectance Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_PAR.v2.0",
+"title": "PACE OCI Level-2 Photosynthetically Active Radiation (PAR) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_PAR_NRT.v2.0",
+"title": "PACE OCI Level-2 Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_AER_DT_NRT.vV1.0",
+"title": "PACE OCI Level-2 Regional Aerosol Optical Properties, Dark Target - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_AER_DT.vV1.0",
+"title": "PACE OCI Level-2 Regional Aerosol Optical Properties, Dark Target Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_AER_DB_NRT.vV1.0",
+"title": "PACE OCI Level-2 Regional Aerosol Optical Properties, Deep Blue - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_AER_DB.vV1.0",
+"title": "PACE OCI Level-2 Regional Aerosol Optical Properties, Deep Blue Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_AOP_NRT.vV1.0",
+"title": "PACE OCI Level-2 Regional Apparent Optical Properties - Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_AOP.vV1.0",
+"title": "PACE OCI Level-2 Regional Apparent Optical Properties Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_BGC.vV1.0",
+"title": "PACE OCI Level-2 Regional Biogeochemical Properties Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_BGC_NRT.vV1.0",
+"title": "PACE OCI Level-2 Regional Biogeochemical Properties, Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_CLD_NRT.vV1.0",
+"title": "PACE OCI Level-2 Regional Cloud Optical Properties - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_CLD.vV1.0",
+"title": "PACE OCI Level-2 Regional Cloud Optical Properties Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_IOP_NRT.vV1.0",
+"title": "PACE OCI Level-2 Regional Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_IOP.vV1.0",
+"title": "PACE OCI Level-2 Regional Inherent Optical Properties (IOP) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_LAND_NRT.vV1.0",
+"title": "PACE OCI Level-2 Regional Normalized Difference Vegetation Index Land Reflectance - Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_LAND.vV1.0",
+"title": "PACE OCI Level-2 Regional Normalized Difference Vegetation Index Land Reflectance Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_PAR.vV1.0",
+"title": "PACE OCI Level-2 Regional Photosynthetically Active Radiation (PAR) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_PAR_NRT.vV1.0",
+"title": "PACE OCI Level-2 Regional Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_SFREFL_NRT.vV1.0",
+"title": "PACE OCI Level-2 Regional Surface Reflectance - Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_SFREFL.vV1.0",
+"title": "PACE OCI Level-2 Regional Surface Reflectance Data, V1.0"
+},
+{
+"id": "PACE_OCI_L2_SFREFL_NRT.v2.0",
+"title": "PACE OCI Level-2 Surface Reflectance - Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L2_SFREFL.v2.0",
+"title": "PACE OCI Level-2 Surface Reflectance Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DT_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Properties, Dark Target - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Properties, Dark Target Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DTL_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Properties, Dark Target Land - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DTL.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Properties, Dark Target Land Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DTO_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Properties, Dark Target Ocean - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DTO.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Properties, Dark Target Ocean Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DB_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Properties, Deep Blue - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DB.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Properties, Deep Blue Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DBL_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Properties, Deep Blue Land - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DBL.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Properties, Deep Blue Land Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DBO_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Properties, Deep Blue Ocean - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DBO.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Properties, Deep Blue Ocean Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AOT_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Thickness (AOT), Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AOT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Aerosol Optical Thickness Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AVW_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Apparent Visible Wavelength (AVW) - Near Real Time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AVW.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Apparent Visible Wavelength (AVW) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_CARBON.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Carbon Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_CARBON_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Carbon, Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_CHL_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Chlorophyll (CHL) - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_CHL.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Chlorophyll (CHL) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_CLD_TOP_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Cloud Optical Properties, Cloud Top - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_CLD_TOP.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Cloud Optical Properties, Cloud Top Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_KD_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_KD.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_FLH_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Fluorescence Line Height (FLH) - Near Real Time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_FLH.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Fluorescence Line Height (FLH) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_IOP_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_IOP.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Inherent Optical Properties (IOP) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_LAND_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Normalized Difference Vegetation Index Land Reflectance - Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_LAND.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Normalized Difference Vegetation Index Land Reflectance Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_PIC_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_PIC.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Particulate Inorganic Carbon (PIC) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_POC_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_POC.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Particulate Organic Carbon (POC) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_PAR.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Photosynthetically Active Radiation (PAR) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_PAR_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_RRS_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Remote-Sensing Reflectance (RRS) - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_RRS.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Remote-Sensing Reflectance (RRS) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_SFREFL_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Surface Reflectance - Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_SFREFL.vV1.0",
+"title": "PACE OCI Level-3 Global Binned Surface Reflectance Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DT_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Properties, Dark Target - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Properties, Dark Target Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DTL_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Properties, Dark Target Land - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DTL.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Properties, Dark Target Land Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DTO_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Properties, Dark Target Ocean - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DTO.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Properties, Dark Target Ocean Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DB_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Properties, Deep Blue - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DB.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Properties, Deep Blue Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DBL_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Properties, Deep Blue Land - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DBL.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Properties, Deep Blue Land Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DBO_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Properties, Deep Blue Ocean - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DBO.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Properties, Deep Blue Ocean Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AOT_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Thickness (AOT), Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AOT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Aerosol Optical Thickness Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AVW_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Apparent Visible Wavelength (AVW) - Near Real Time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_AVW.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Apparent Visible Wavelength (AVW) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_CARBON.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Carbon Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_CARBON_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Carbon, Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_CHL_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Chlorophyll (CHL) - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_CHL.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Chlorophyll (CHL) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_CLD_TOP_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Cloud Optical Properties, Cloud Top - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_CLD_TOP.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Cloud Optical Properties, Cloud Top Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_KD_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_KD.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_FLH_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Fluorescence Line Height (FLH) - Near Real Time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_FLH.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Fluorescence Line Height (FLH) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_IOP_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_IOP.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Inherent Optical Properties (IOP) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_LAND_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Normalized Difference Vegetation Index Land Reflectance - Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_LAND.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Normalized Difference Vegetation Index Land Reflectance Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_PIC_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_PIC.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Particulate Inorganic Carbon (PIC) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_POC_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_POC.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Particulate Organic Carbon (POC) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_PAR.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Photosynthetically Active Radiation (PAR) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_PAR_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_RRS_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Remote-Sensing Reflectance (RRS) - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_RRS.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Remote-Sensing Reflectance (RRS) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_SFREFL_NRT.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Surface Reflectance - Near Real-time (NRT) Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_SFREFL.vV1.0",
+"title": "PACE OCI Level-3 Global Mapped Surface Reflectance Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DT_NRT.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Properties, Dark Target - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DT.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Properties, Dark Target Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DTL_NRT.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Properties, Dark Target Land - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DTL.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Properties, Dark Target Land Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DTO_NRT.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Properties, Dark Target Ocean - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DTO.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Properties, Dark Target Ocean Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DB_NRT.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Properties, Deep Blue - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DB.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Properties, Deep Blue Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DBL_NRT.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Properties, Deep Blue Land - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DBL.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Properties, Deep Blue Land Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DBO_NRT.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Properties, Deep Blue Ocean - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AER_DBO.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Properties, Deep Blue Ocean Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AOT_NRT.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Thickness (AOT), Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AOT.v2.0",
+"title": "PACE OCI Level-3B Aerosol Optical Thickness Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AVW_NRT.v2.0",
+"title": "PACE OCI Level-3B Apparent Visible Wavelength (AVW) - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_AVW.v2.0",
+"title": "PACE OCI Level-3B Apparent Visible Wavelength (AVW) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_CARBON.v2.0",
+"title": "PACE OCI Level-3B Carbon Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_CARBON_NRT.v2.0",
+"title": "PACE OCI Level-3B Carbon, Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_CHL_NRT.v2.0",
+"title": "PACE OCI Level-3B Chlorophyll (CHL) - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_CHL.v2.0",
+"title": "PACE OCI Level-3B Chlorophyll (CHL) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_CLD_TOP_NRT.v2.0",
+"title": "PACE OCI Level-3B Cloud Optical Properties, Cloud Top - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_CLD_TOP.v2.0",
+"title": "PACE OCI Level-3B Cloud Optical Properties, Cloud Top Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_KD_NRT.v2.0",
+"title": "PACE OCI Level-3B Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_KD.v2.0",
+"title": "PACE OCI Level-3B Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_FLH_NRT.v2.0",
+"title": "PACE OCI Level-3B Fluorescence Line Height (FLH) - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_FLH.v2.0",
+"title": "PACE OCI Level-3B Fluorescence Line Height (FLH) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_IOP_NRT.v2.0",
+"title": "PACE OCI Level-3B Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_IOP.v2.0",
+"title": "PACE OCI Level-3B Inherent Optical Properties (IOP) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_LAND_NRT.v2.0",
+"title": "PACE OCI Level-3B Normalized Difference Vegetation Index Land Reflectance - Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_LAND.v2.0",
+"title": "PACE OCI Level-3B Normalized Difference Vegetation Index Land Reflectance Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_PIC_NRT.v2.0",
+"title": "PACE OCI Level-3B Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_PIC.v2.0",
+"title": "PACE OCI Level-3B Particulate Inorganic Carbon (PIC) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_POC_NRT.v2.0",
+"title": "PACE OCI Level-3B Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_POC.v2.0",
+"title": "PACE OCI Level-3B Particulate Organic Carbon (POC) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_PAR.v2.0",
+"title": "PACE OCI Level-3B Photosynthetically Active Radiation (PAR) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_PAR_NRT.v2.0",
+"title": "PACE OCI Level-3B Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_RRS_NRT.v2.0",
+"title": "PACE OCI Level-3B Remote-Sensing Reflectance (RRS) - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_RRS.v2.0",
+"title": "PACE OCI Level-3B Remote-Sensing Reflectance (RRS) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_SFREFL_NRT.v2.0",
+"title": "PACE OCI Level-3B Surface Reflectance - Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3B_SFREFL.v2.0",
+"title": "PACE OCI Level-3B Surface Reflectance Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DT_NRT.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Properties, Dark Target - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DT.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Properties, Dark Target Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DTL_NRT.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Properties, Dark Target Land - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DTL.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Properties, Dark Target Land Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DTO_NRT.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Properties, Dark Target Ocean - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DTO.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Properties, Dark Target Ocean Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DB_NRT.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Properties, Deep Blue - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DB.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Properties, Deep Blue Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DBL_NRT.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Properties, Deep Blue Land - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DBL.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Properties, Deep Blue Land Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DBO_NRT.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Properties, Deep Blue Ocean - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AER_DBO.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Properties, Deep Blue Ocean Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AOT_NRT.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Thickness (AOT), Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AOT.v2.0",
+"title": "PACE OCI Level-3M Aerosol Optical Thickness Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AVW_NRT.v2.0",
+"title": "PACE OCI Level-3M Apparent Visible Wavelength (AVW) - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_AVW.v2.0",
+"title": "PACE OCI Level-3M Apparent Visible Wavelength (AVW) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_CARBON.v2.0",
+"title": "PACE OCI Level-3M Carbon Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_CARBON_NRT.v2.0",
+"title": "PACE OCI Level-3M Carbon, Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_CHL_NRT.v2.0",
+"title": "PACE OCI Level-3M Chlorophyll (CHL) - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_CHL.v2.0",
+"title": "PACE OCI Level-3M Chlorophyll (CHL) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_CLD_16_ICE_NRT.vV1.0",
+"title": "PACE OCI Level-3M Cloud Optical Properties, 16um Ice - NRT Data, V1.0"
+},
+{
+"id": "PACE_OCI_L3M_CLD_TOP_NRT.v2.0",
+"title": "PACE OCI Level-3M Cloud Optical Properties, Cloud Top - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_CLD_TOP.v2.0",
+"title": "PACE OCI Level-3M Cloud Optical Properties, Cloud Top Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_KD_NRT.v2.0",
+"title": "PACE OCI Level-3M Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_KD.v2.0",
+"title": "PACE OCI Level-3M Diffuse Attenuation Coefficient for Downwelling Irradiance (KD) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_FLH_NRT.v2.0",
+"title": "PACE OCI Level-3M Fluorescence Line Height (FLH) - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_FLH.v2.0",
+"title": "PACE OCI Level-3M Fluorescence Line Height (FLH) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_IOP_NRT.v2.0",
+"title": "PACE OCI Level-3M Inherent Optical Properties (IOP) - Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_IOP.v2.0",
+"title": "PACE OCI Level-3M Inherent Optical Properties (IOP) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_LAND_NRT.v2.0",
+"title": "PACE OCI Level-3M Normalized Difference Vegetation Index Land Reflectance - Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_LAND.v2.0",
+"title": "PACE OCI Level-3M Normalized Difference Vegetation Index Land Reflectance Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_PIC_NRT.v2.0",
+"title": "PACE OCI Level-3M Particulate Inorganic Carbon (PIC) - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_PIC.v2.0",
+"title": "PACE OCI Level-3M Particulate Inorganic Carbon (PIC) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_POC_NRT.v2.0",
+"title": "PACE OCI Level-3M Particulate Organic Carbon (POC) - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_POC.v2.0",
+"title": "PACE OCI Level-3M Particulate Organic Carbon (POC) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_PAR.v2.0",
+"title": "PACE OCI Level-3M Photosynthetically Active Radiation (PAR) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_PAR_NRT.v2.0",
+"title": "PACE OCI Level-3M Photosynthetically Available Radiation (PAR) - Near Real Time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_RRS_NRT.v2.0",
+"title": "PACE OCI Level-3M Remote-Sensing Reflectance (RRS) - NRT Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_RRS.v2.0",
+"title": "PACE OCI Level-3M Remote-Sensing Reflectance (RRS) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_SFREFL_NRT.v2.0",
+"title": "PACE OCI Level-3M Surface Reflectance - Near Real-time (NRT) Data, V2.0"
+},
+{
+"id": "PACE_OCI_L3M_SFREFL.v2.0",
+"title": "PACE OCI Level-3M Surface Reflectance Data, V2.0"
+},
+{
+"id": "PACE_HSK.v1",
+"title": "PACE Spacecraft Housekeeping Data, V1"
+},
+{
+"id": "PACE_HKT.v1",
+"title": "PACE Spacecraft Housekeeping, NetCDF format Data, V1"
+},
+{
+"id": "PACE_SPEXONE_L0.v1",
+"title": "PACE SPEXone Level-0 Level-1 Data, V1"
+},
+{
+"id": "PACE_SPEXONE_L1A_SCI.v2",
+"title": "PACE SPEXone Level-1A Science Data, V2"
+},
+{
+"id": "PACE_SPEXONE_L1A_SCI.v1",
+"title": "PACE SPEXone Level-1A Science Data, version 1"
+},
+{
+"id": "PACE_SPEXONE_L1B_SCI.vV1.0",
+"title": "PACE SPEXone Level-1B Science Data, V1.0"
+},
+{
+"id": "PACE_SPEXONE_L1B_SCI.v2",
+"title": "PACE SPEXone Level-1B Science Data, V2"
+},
+{
+"id": "PACE_SPEXONE_L1C_SCI.vV1.0",
+"title": "PACE SPEXone Level-1C Science Data, V1.0"
+},
+{
+"id": "PACE_SPEXONE_L1C_SCI.v2",
+"title": "PACE SPEXone Level-1C Science Data, V2"
+}
+]

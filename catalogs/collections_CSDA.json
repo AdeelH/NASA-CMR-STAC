@@ -1,0 +1,62 @@
+[
+{
+"id": "GE01_MSI_L1B.v1",
+"title": "GeoEye-1 Level 1B Multispectral 4-Band Satellite Imagery"
+},
+{
+"id": "GE01_Pan_L1B.v1",
+"title": "GeoEye-1 Level 1B Panchromatic Satellite Imagery"
+},
+{
+"id": "IKONOS_MSI_L1B.v1",
+"title": "IKONOS Level 1B Multispectral 4-Band Satellite Imagery"
+},
+{
+"id": "IKONOS_Pan_L1B.v1",
+"title": "IKONOS Level 1B Panchromatic Satellite Imagery"
+},
+{
+"id": "PSScene3Band.v1",
+"title": "PlanetScope Satellite Imagery 3 Band Scene"
+},
+{
+"id": "QB02_MSI_L1B.v1",
+"title": "QuickBird Level 1B Multispectral 4-Band Satellite Imagery"
+},
+{
+"id": "QB02_Pan_L1B.v1",
+"title": "QuickBird Level 1B Panchromatic Satellite Imagery"
+},
+{
+"id": "WV01_Pan_L1B.v1",
+"title": "WorldView-1 Level 1B Panchromatic Satellite Imagery"
+},
+{
+"id": "WV02_MSI_L1B.v1",
+"title": "WorldView-2 Level 1B Multispectral 8-Band Satellite Imagery"
+},
+{
+"id": "WV02_Pan_L1B.v1",
+"title": "WorldView-2 Level 1B Panchromatic Satellite Imagery"
+},
+{
+"id": "WV03_MSI_L1B.v1",
+"title": "WorldView-3 Level 1B Multispectral 8-Band Satellite Imagery"
+},
+{
+"id": "WV03_Pan_L1B.v1",
+"title": "WorldView-3 Level 1B Panchromatic Satellite Imagery"
+},
+{
+"id": "WV03_SWIR_L1B.v1",
+"title": "WorldView-3 Level 1B Shortwave Infrared 8-Band Satellite Imagery"
+},
+{
+"id": "WV04_MSI_L1B.v1",
+"title": "WorldView-4 Level 1B Multispectral 4-Band Satellite Imagery"
+},
+{
+"id": "WV04_Pan_L1B.v1",
+"title": "WorldView-4 Level 1B Panchromatic Satellite Imagery"
+}
+]

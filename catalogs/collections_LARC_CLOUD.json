@@ -1,0 +1,150 @@
+[
+{
+"id": "TEMPO_CLDO4_L2.vV01",
+"title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V01 (UNVALIDATED)"
+},
+{
+"id": "TEMPO_CLDO4_L2.vV03",
+"title": "TEMPO cloud pressure and fraction (O2-O2 dimer) V03 (BETA)"
+},
+{
+"id": "TEMPO_DRK_L1.vV01",
+"title": "TEMPO dark exposure V01 (UNVALIDATED)"
+},
+{
+"id": "TEMPO_DRK_L1.vV02",
+"title": "TEMPO dark exposure V02 (BETA)"
+},
+{
+"id": "TEMPO_DRK_L1.vV03",
+"title": "TEMPO dark exposure V03 (BETA)"
+},
+{
+"id": "TEMPO_HCHO_L2.vV01",
+"title": "TEMPO formaldehyde total column V01 (UNVALIDATED)"
+},
+{
+"id": "TEMPO_HCHO_L2.vV03",
+"title": "TEMPO formaldehyde total column V03 (BETA)"
+},
+{
+"id": "TEMPO_RADT_L1.vV03",
+"title": "TEMPO geolocated Earth radiances twilight V03 (BETA)"
+},
+{
+"id": "TEMPO_RAD_L1.vV01",
+"title": "TEMPO geolocated Earth radiances V01 (UNVALIDATED)"
+},
+{
+"id": "TEMPO_RAD_L1.vV02",
+"title": "TEMPO geolocated Earth radiances V02 (BETA)"
+},
+{
+"id": "TEMPO_RAD_L1.vV03",
+"title": "TEMPO geolocated Earth radiances V03 (BETA)"
+},
+{
+"id": "TEMPO_CLDO4_L3.vV01",
+"title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) V01 (UNVALIDATED)"
+},
+{
+"id": "TEMPO_CLDO4_L3.vV03",
+"title": "TEMPO gridded cloud fraction and pressure (O2-O2 dimer) V03 (BETA)"
+},
+{
+"id": "TEMPO_HCHO_L3.vV01",
+"title": "TEMPO gridded formaldehyde total column V01 (UNVALIDATED)"
+},
+{
+"id": "TEMPO_HCHO_L3.vV03",
+"title": "TEMPO gridded formaldehyde total column V03 (BETA)"
+},
+{
+"id": "TEMPO_NO2_L3.vV03",
+"title": "TEMPO gridded NO2 tropospheric and stratospheric columns V03 (BETA)"
+},
+{
+"id": "TEMPO_NO2_L3.vV01",
+"title": "TEMPO gridded NO2 tropospheric, stratospheric, and total columns V01 (UNVALIDATED)"
+},
+{
+"id": "TEMPO_O3TOT_L3.vV01",
+"title": "TEMPO gridded ozone total column V01 (UNVALIDATED)"
+},
+{
+"id": "TEMPO_O3TOT_L3.vV03",
+"title": "TEMPO gridded ozone total column V03 (BETA)"
+},
+{
+"id": "TEMPO_NO2_L2.vV03",
+"title": "TEMPO NO2 tropospheric and stratospheric columns V03 (BETA)"
+},
+{
+"id": "TEMPO_NO2_L2.vV01",
+"title": "TEMPO NO2 tropospheric, stratospheric, and total columns V01 (UNVALIDATED)"
+},
+{
+"id": "TEMPO_O3TOT_L2.vV01",
+"title": "TEMPO ozone total column V01 (UNVALIDATED)"
+},
+{
+"id": "TEMPO_O3TOT_L2.vV03",
+"title": "TEMPO ozone total column V03 (BETA)"
+},
+{
+"id": "TEMPO_IRRR_L1.vV01",
+"title": "TEMPO solar irradiance (reference diffuser) V01 (UNVALIDATED)"
+},
+{
+"id": "TEMPO_IRRR_L1.vV02",
+"title": "TEMPO solar irradiance (reference diffuser) V02 (BETA)"
+},
+{
+"id": "TEMPO_IRRR_L1.vV03",
+"title": "TEMPO solar irradiance (reference diffuser) V03 (BETA)"
+},
+{
+"id": "TEMPO_IRR_L1.vV01",
+"title": "TEMPO solar irradiance V01 (UNVALIDATED)"
+},
+{
+"id": "TEMPO_IRR_L1.vV02",
+"title": "TEMPO solar irradiance V02 (BETA)"
+},
+{
+"id": "TEMPO_IRR_L1.vV03",
+"title": "TEMPO solar irradiance V03 (BETA)"
+},
+{
+"id": "TRACE-A_Sondes_Data.v1",
+"title": "TRACE-A Balloonsondes and Ozonesondes Data"
+},
+{
+"id": "TRACE-A_Brazil_Data.v1",
+"title": "TRACE-A Brazil Data"
+},
+{
+"id": "TRACE-A_TraceGas_AircraftInSitu_DC8_Data.v1",
+"title": "TRACE-A DC-8 In-Situ Trace Gas Data"
+},
+{
+"id": "TRACE-A_AircraftRemoteSensing_DC8_DIAL_Data.v1",
+"title": "TRACE-A DC-8 Remotely Sensed Differential Absorption Lidar (DIAL) Data"
+},
+{
+"id": "TRACE-A_MetNav_AircraftInSitu_DC8_Data.v1",
+"title": "TRACE-A In Situ DC-8 Meteorology and Navigation Data"
+},
+{
+"id": "TRACE-A_Trajectory_Data.v1",
+"title": "TRACE-A Kinematic Trajectory Data"
+},
+{
+"id": "TRACE-A_Merge_Data.v1",
+"title": "TRACE-A Merge Data"
+},
+{
+"id": "TRACE-A_Satellite_Data.v1",
+"title": "TRACE-A Supplementary Satellite Data"
+}
+]

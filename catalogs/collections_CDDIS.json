@@ -1,0 +1,854 @@
+[
+{
+"id": "CDDIS_GNSS_products_IGS20.v1",
+"title": "CDDIS GNSS ITRF2020 IGS products (IGS20)"
+},
+{
+"id": "CDDIS_MEASURES_products_daily_tropo_delay.v1",
+"title": "CDDIS SESES MEaSUREs GNSS products daily tropospheric delay"
+},
+{
+"id": "CDDIS_MEASURES_products_daily_time_series.v1",
+"title": "CDDIS SESES MEaSUREs products daily GNSS geodetic displacement time series"
+},
+{
+"id": "CDDIS_MEASURES_products_earthquake_displacement.v1",
+"title": "CDDIS SESES MEaSUREs products highrate earthquake displacement"
+},
+{
+"id": "CDDIS_MEASURES_products_transients.v1",
+"title": "CDDIS SESES MEaSUREs products plate boundary aseismic transient deformation"
+},
+{
+"id": "CDDIS MEASURES products strain rate grids.v1",
+"title": "CDDIS SESES MEaSUREs products strain rate grids"
+},
+{
+"id": "CDDIS_MEASURES_products_water_storage.v1",
+"title": "CDDIS SESES MEaSUREs products total water storage time series"
+},
+{
+"id": "CDDIS MEaSURES products velocities.v1",
+"title": "CDDIS SESES MEaSUREs products velocities"
+},
+{
+"id": "CDDIS_MEASURES_products_coseismic_offsets.v1",
+"title": "CDDIS SESES MEaSUREs products weekly coseismic offset time series"
+},
+{
+"id": "CDDIS_MEASURES_products_discplacement_grids.v1",
+"title": "CDDIS SESES MEaSUREs products weekly displacement grids time series"
+},
+{
+"id": "CDDIS_SLR_products_ITRF2020_REPRO2020.v1",
+"title": "CDDIS SLR products ITRF2020 Station Positions and Earth Orientation Parameters Time Series REPRO2020"
+},
+{
+"id": "CDDIS_VLBI_data_aux.v1",
+"title": "CDDIS VLBI Auxilliary Files"
+},
+{
+"id": "CDDIS_VLBI_data_db.v1",
+"title": "CDDIS VLBI data DB"
+},
+{
+"id": "CDDIS_VLBI_product_EOPI.v1",
+"title": "CDDIS VLBI Intensive Earth Orientation Parameter (EOPI) products"
+},
+{
+"id": "CDDIS_VLBI_data_vgosDB.v1",
+"title": "CDDIS VLBI level 2 vgosDB format data"
+},
+{
+"id": "CDDIS_VLBI_data_ngs.v1",
+"title": "CDDIS VLBI NGS data"
+},
+{
+"id": "CDDIS_VLBI_product_trf.v1",
+"title": "CDDIS VLBI products Terrestrial Reference Frame"
+},
+{
+"id": "CDDIS_VLBI_data_SWIN.v1A",
+"title": "CDDIS VLBI SWIN data"
+},
+{
+"id": "CDDIS_DORIS_data_cycle.v1",
+"title": "CDDIS_DORIS_data_cycle"
+},
+{
+"id": "CDDIS_DORIS_data_rinex.v1",
+"title": "CDDIS_DORIS_data_rinex"
+},
+{
+"id": "CDDIS_DORIS_products_geocenter.v1",
+"title": "CDDIS_DORIS_products_geocenter"
+},
+{
+"id": "CDDIS_DORIS_products_ionosphere.v1",
+"title": "CDDIS_DORIS_products_ionosphere"
+},
+{
+"id": "CDDIS_DORIS_products_orbit.v1",
+"title": "CDDIS_DORIS_products_orbit"
+},
+{
+"id": "CDDIS_DORIS_products_positions.v1",
+"title": "CDDIS_DORIS_products_positions"
+},
+{
+"id": "CDDIS_DORIS_products_quaternions.v1",
+"title": "CDDIS_DORIS_products_quaternions"
+},
+{
+"id": "CDDIS_DORIS_products_stcd.v1",
+"title": "CDDIS_DORIS_products_stcd"
+},
+{
+"id": "CDDIS_GNSS_highrate_data.v1",
+"title": "CDDIS_GNSS_highrate_data"
+},
+{
+"id": "CDDIS_GNSS_products_clocks_final.v1",
+"title": "CDDIS_GNSS_products_clocks_final"
+},
+{
+"id": "CDDIS_GNSS_products_clocks_rapid.v1",
+"title": "CDDIS_GNSS_products_clocks_rapid"
+},
+{
+"id": "CDDIS_GNSS_products_clocks_realtime.v1",
+"title": "CDDIS_GNSS_products_clocks_realtime"
+},
+{
+"id": "CDDIS_GNSS_products_erp.v1",
+"title": "CDDIS_GNSS_products_erp"
+},
+{
+"id": "CDDIS_GNSS_products_ionosphere_final.v1",
+"title": "CDDIS_GNSS_products_ionosphere_final"
+},
+{
+"id": "CDDIS_GNSS_products_ionosphere_predicted.v1",
+"title": "CDDIS_GNSS_products_ionosphere_predicted"
+},
+{
+"id": "CDDIS_GNSS_products_ionosphere_rapid.v1",
+"title": "CDDIS_GNSS_products_ionosphere_rapid"
+},
+{
+"id": "CDDIS_GNSS_products_orbit_rapid.v1",
+"title": "CDDIS_GNSS_products_orbit_rapid"
+},
+{
+"id": "CDDIS_GNSS_products_orbit_realtime.v1",
+"title": "CDDIS_GNSS_products_orbit_realtime"
+},
+{
+"id": "CDDIS_GNSS_products_orbit_ultrarapid.v1",
+"title": "CDDIS_GNSS_products_orbit_ultrarapid"
+},
+{
+"id": "CDDIS_GNSS_products_positions.v1",
+"title": "CDDIS_GNSS_products_positions"
+},
+{
+"id": "CDDIS_GNSS_products_troposphere.v1",
+"title": "CDDIS_GNSS_products_troposphere"
+},
+{
+"id": "CDDIS_GNSS_satellite_data.v1",
+"title": "CDDIS_GNSS_satellite_data"
+},
+{
+"id": "CDDIS_LLR_data.v1",
+"title": "CDDIS_LLR_data"
+},
+{
+"id": "CDDIS_MISC_information.v1",
+"title": "CDDIS_MISC_information"
+},
+{
+"id": "CDDIS_SLR_data.v1",
+"title": "CDDIS_SLR_data"
+},
+{
+"id": "CDDIS_SLR_predictions.v1",
+"title": "CDDIS_SLR_predictions"
+},
+{
+"id": "CDDIS_SLR_products_poseop.v1",
+"title": "CDDIS_SLR_products_poseop"
+},
+{
+"id": "CDDIS_VLBI_data.v1",
+"title": "CDDIS_VLBI_data"
+},
+{
+"id": "CDDIS_VLBI_products_crf.v1",
+"title": "CDDIS_VLBI_products_crf"
+},
+{
+"id": "CDDIS_VLBI_products_eop.v1",
+"title": "CDDIS_VLBI_products_eop"
+},
+{
+"id": "CDDIS_VLBI_products_positions.v1",
+"title": "CDDIS_VLBI_products_positions"
+},
+{
+"id": "CDDIS_VLBI_products_troposphere.v1",
+"title": "CDDIS_VLBI_products_troposphere"
+},
+{
+"id": "CDDIS_SLR_SLRF2020_DHF.v1",
+"title": "Data Handling File for the International Laser Ranging Service (ILRS) extension of the International Terrestrial Reference Frame 2020 (ITRF2020) TRF Model with additional SLR sites"
+},
+{
+"id": "DORIS_DATA_RINEX.v1",
+"title": "DORIS_DATA_RINEX"
+},
+{
+"id": "CDDIS_IERSrspcEOP_product.v1",
+"title": "EOP products from the IERS Rapid Service/Prediction Center at USNO (updated sub-daily) made available from NASA CDDIS"
+},
+{
+"id": "CDDIS_General_Information.v1",
+"title": "General Archive Information from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSACclockFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Analysis Center Final Clock Product (daily files, generated weekly) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSACERPFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Analysis Center Final Earth Rotation Parameters Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSACorbitFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Analysis Center Final Orbit Product (daily files, generated weekly) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSACsummaryFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Analysis Center Final Orbit/Reference Frame Product Summary from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSACRFfinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Analysis Center Final Station Positions/Velocities Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSACTroposphereZPD_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Analysis Center Troposphere Zenith Path Delay (ZPD) product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSclockComparisonFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Combined Final Clock Solution Comparison Summary Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSclockComparisonRapid_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Combined Rapid Clock Solution Comparison Summary Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSRTStreamClock_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Decoded Real-Time Clock Solution from IGS Real-Time Product Streams from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSRTStreamOrbit_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Decoded Real-Time Orbit Solution from IGS Real-Time Product Streams from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSACRFSSCfinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Analysis Center Station Positions/Velocities (no covariance matrix) Product from NASA CDDIS - Cloned"
+},
+{
+"id": "CDDIS_GNSS_IGSclock30Final_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Clock Product (30 second resolution, daily files, generated weekly) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSclock5Final_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Clock Product (5 minute resolution, daily files, generated weekly) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSRFSSCfinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Combined Station Positions/Velocities (no covariance matrix) Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSRFfinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Combined Station Positions/Velocities Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSRFResidualsFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Combined Station Positions/Velocities Residual Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSRFITRResidualsFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Combined Station Positions/Velocities Residuals (between AC solutions and current RF) Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSRFSummaryFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Combined Station Positions/Velocities Summary Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSRFcumlativeFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Cumulative Combined Station Positions/Velocities Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSERPRFcumulativeFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Cumulative Earth Rotation Parameters Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSRFcumulativeSSCfinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Cumulative Station Positions/Velocities (no covariance matrix) Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSRFcumlativeResidualsFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Cumulative Station Positions/Velocities Residual Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSERPFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Earth Rotation Parameters Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSorbitFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Orbit Product (daily files, generated weekly) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_products_orbit_final.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Orbit Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSsummaryFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Orbit/Reference Frame Product Summary from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSERPRFcombinedFinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Final Weekly Combined Earth Rotation Parameters Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSRTClock_product.v1",
+"title": "Global Navigation Satellite System (GNSS) IGS Clock Combination Product from Real-Time AC Submissions from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSMGEX_product.v1",
+"title": "Global Navigation Satellite System (GNSS) IGS Multi-GNSS Products from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSRTSummary_product.v1",
+"title": "Global Navigation Satellite System (GNSS) IGS Real-Time Combination Solution Summary of Real-Time AC Submissions from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSHRIonosphereVTEC_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Ionosphere High-Rate Vertical Total Electron Content (VTEC) Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSACIonosphereVTEC_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Ionosphere Vertical Total Electron Content (VTEC) Analysis Center Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSACIonosphereVTECRapid_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Ionosphere Vertical Total Electron Content (VTEC) Analysis Center Rapid Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSDailyIonosphereVTECcomparison_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Ionosphere Vertical Total Electron Content (VTEC) Comparison Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSIonosphereVTECfinal_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Ionosphere Vertical Total Electron Content (VTEC) Final Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSIonosphereVTECflux_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Ionosphere Vertical Total Electron Content (VTEC) Fluctuation Measurement Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSIonosphereVTECPredicted_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Ionosphere Vertical Total Electron Content (VTEC) Predicted Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSIonosphereVTECRapid_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Ionosphere Vertical Total Electron Content (VTEC) Rapid Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSIonosphereVTECvalidation_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Ionosphere Vertical Total Electron Content (VTEC) Validation Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSclockRapid_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Rapid Clock Product (30 second resolution, daily files, generated daily) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSERPRapid_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Rapid Earth Rotation Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSorbitRapid_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Rapid Orbit Product (daily files, generated daily) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSsummaryRapid_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Rapid Orbit/Clock/ERP Product Summary from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSRTRapidComparisonSummary_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Real-Time and Rapid Orbit and Clock Comparison Summary from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSTroposphereZPDv1_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Troposphere Zenith Path Delay (ZPD) product (Version 1) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSTroposphereZPD_product.v2",
+"title": "Global Navigation Satellite System (GNSS) Troposphere Zenith Path Delay (ZPD) product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSERPUltraRapid_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Ultra-Rapid Earth Rotation Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSorbitUltraRapid_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Ultra-Rapid Orbit Product (sub-daily files, generated 4 times/day) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSCMPsummaryUltraRapid_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Ultra-Rapid Orbit/Clock/ERP Product Comparison Summary from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSsummaryUltraRapid_product.v1",
+"title": "Global Navigation Satellite System (GNSS) Ultra-Rapid Orbit/Clock/ERP Product Summary from NASA CDDIS"
+},
+{
+"id": "CDDIS_DORIS_IDScumulativePositions_product.v1",
+"title": "Ground-Based Doppler Orbitography and Radiopositioning Integrated by Satellite (DORIS) Cumulative Station Position Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_DORIS_IDSEOP_product.v1",
+"title": "Ground-Based Doppler Orbitography and Radiopositioning Integrated by Satellite (DORIS) Earth Orientation Parameters Time Series Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_DORIS_IDSgeocenter_product.v1",
+"title": "Ground-Based Doppler Orbitography and Radiopositioning Integrated by Satellite (DORIS) Geocenter Time Series Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_DORIS_IDSionosphere_product.v1",
+"title": "Ground-Based Doppler Orbitography and Radiopositioning Integrated by Satellite (DORIS) Ionospheric Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_DORIS_IDSdpod_product.v1",
+"title": "Ground-Based Doppler Orbitography and Radiopositioning Integrated by Satellite (DORIS) Station Position Product for Precise Orbit Determination from NASA CDDIS"
+},
+{
+"id": "CDDIS_DORIS_data_daily.v1",
+"title": "Ground-Based Doppler Orbitography by Radiopositioning Integrated on Satellite (DORIS) Data (daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_DORIS_data_multiday.v1",
+"title": "Ground-Based Doppler Orbitography by Radiopositioning Integrated on Satellite (DORIS) Data (multi-day files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_DORIS_IDSorbit_products.v1",
+"title": "Ground-Based Doppler Orbitography by Radiopositioning Integrated on Satellite (DORIS) Satellite Orbit Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_DORIS_IDStimeseriesPositions_product.v1",
+"title": "Ground-Based Doppler Orbitography by Radiopositioning Integrated on Satellite (DORIS) Station Position Time Series Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_DORIS_IDSweeklyPositions_product.v1",
+"title": "Ground-Based Doppler Orbitography by Radiopositioning Integrated on Satellite (DORIS) Weekly Station Position Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data_beidounav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Beidou Broadcast Ephemeris Data (daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_hourly_data_beidounav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Beidou Broadcast Ephemeris Data (hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_highrate_data_beidounav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Beidou Broadcast Ephemeris Data (sub-hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_hourly_data_combinednav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Combined Broadcast Ephemeris Data (hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_highrate_data_compactobs.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Compact Observation Data (1-second sampling, sub-hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data_compactobs.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Compact Observation Data (30-second sampling, daily, 24 hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_hourly_data_compactobs.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Compact Observation Data (30-second sampling, hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data_galileonav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Galileo Broadcast Ephemeris Data (daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_hourly_data_galileonav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Galileo Broadcast Ephemeris Data (hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_highrate_data_galileonav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Galileo Broadcast Ephemeris Data (sub-hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_Galileo_POD_30sec_Attitude_Quaternions.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Galileo real-time POD Attitude Quaternions (30-second sampling, 60-second files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_Galileo_POD_1sec_clk_corr.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Galileo real-time POD Clock Corrections  (1-second sampling, 60-second files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_Galileo_POD_60sec_clk_corr.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Galileo real-time POD Clock Corrections  (60-second sampling, 60-second files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_Galileo_POD_60sec_orbits.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Galileo real-time POD Orbits  (60-second sampling, 60-second files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data_glonassnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GLONASS Broadcast Ephemeris Data (daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_hourly_data_glonassnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GLONASS Broadcast Ephemeris Data (hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_highrate_data_glonassnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GLONASS Broadcast Ephemeris Data (sub-hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GLONASS_POD_30sec_Attitude_Quaternions.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GLONASS real-time POD Attitude Quaternions (30-second sampling, 60-second files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GLONASS_POD_1sec_clk_corr.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GLONASS real-time POD Clock Corrections  (1-second sampling, 60-second files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GLONASS_POD_60sec_clk_corr.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GLONASS real-time POD Clock Corrections  (60-second sampling, 60-second files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GLONASS_POD_60sec_orbits.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GLONASS real-time POD Orbits  (60-second sampling, 60-second files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data_gpsnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GPS Broadcast Ephemeris Data (daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_hourly_data_gpsnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GPS Broadcast Ephemeris Data (hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_highrate_data_gpsnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GPS Broadcast Ephemeris Data (sub-hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GPS_POD_30sec_Attitude_Quaternions.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GPS real-time POD Attitude Quaternions (30-second sampling, 60-second files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GPS_POD_1sec_clk_corr.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GPS real-time POD Clock Corrections  (1-second sampling, 60-second files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GPS_POD_60sec_clk_corr.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GPS real-time POD Clock Corrections  (60-second sampling, 60-second files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GPS_POD_60sec_orbits.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) GPS real-time POD Orbits  (60-second sampling, 60-second files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_Galileo_Daily_POD_30sec_Attitude_Quarternions.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian Galileo daily accumulated real-time POD Attitude Quaternions (30-second sampling, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_Galileo_Daily_POD_1sec_clk_corr.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian Galileo daily accumulated real-time POD Clock Corrections (1-second sampling, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_Galileo_Daily_POD_60-sec_clk_corr.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian Galileo daily accumulated real-time POD Clock Corrections (60-second sampling, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_Galileo_Daily_POD_60sec_Orbits.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian Galileo daily accumulated real-time POD orbits (60-second sampling, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_Galileo_Daily_Antenna_Phase_Centers.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian Galileo daily antenna phase centers (24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_Galileo_Daily_Antenna_Phase_Map_Meta.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian Galileo daily antenna phase maps (meta data, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_Galileo_Daily_EOP.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian Galileo Earth Orientation Parameters (1-day sampling, 7-day files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GLONASS_Daily_POD_30sec_Attitude_Quarternions.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GLONASS daily accumulated real-time POD Attitude Quaternions (30-second sampling, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GLONASS_Daily_POD_1sec_clk_corr.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GLONASS daily accumulated real-time POD Clock Corrections (1-second sampling, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GLONASS_Daily_POD_60sec_clk_corr.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GLONASS daily accumulated real-time POD Clock Corrections (60-second sampling, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GLONASS_Daily_POD_60sec_Orbits.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GLONASS daily accumulated real-time POD orbits (60-second sampling, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GLONASS_Daily_Antenna_Phase_Centers.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GLONASS daily antenna phase centers (24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GLONASS_Daily_Antenna_Phase_Map_Meta.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GLONASS daily antenna phase maps (meta data, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GLONASS_Daily_EOP.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GLONASS Earth Orientation Parameters (1-day sampling, 7-day files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GPS_Daily_POD_30sec_Attitude_Quarternions.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GPS daily accumulated real-time POD Attitude Quaternions (30-second sampling, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GPS_Daily_POD_1sec_clk_corr.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GPS daily accumulated real-time POD Clock Corrections (1-second sampling, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GPS_Daily_POD_60sec_clk_corr.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GPS daily accumulated real-time POD Clock Corrections (60-second sampling, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GPS_Daily_POD_60sec_Orbits.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GPS daily accumulated real-time POD orbits (60-second sampling, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GPS_Daily_Antenna_Phase_Centers.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GPS daily antenna phase centers (24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GPS_Daily_Antenna_Phase_Map_Meta.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GPS daily antenna phase maps (meta data, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_GPS_Daily_EOP.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian GPS Earth Orientation Parameters (1-day sampling, 7-day files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_GD_Daily_Ionosphere_TEC.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Guardian near-real-time Ionospheric Total Electron Count (5-second sampling, 24-hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data_irnssnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) IRNSS Broadcast Ephemeris Data (daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_hourly_data_irnssnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) IRNSS Broadcast Ephemeris Data (hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_highrate_data_irnssnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) IRNSS Broadcast Ephemeris Data (sub-hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_hourly_data_mixednav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Mixed Broadcast Ephemeris Data (hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_highrate_data_obs.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Observation Data (1-second sampling, sub-hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data_obs.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Observation Data (30-second sampling, daily, 24 hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_hourly_data_obs.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) Observation Data (30-second sampling, hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data_qzssnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) QZSS Broadcast Ephemeris Data (daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_hourly_data_qzssnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) QZSS Broadcast Ephemeris Data (hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_highrate_data_qzssnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) QZSS Broadcast Ephemeris Data (sub-hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data_sbasnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) SBAS Broadcast Ephemeris Data (daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_hourly_data_sbasnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) SBAS Broadcast Ephemeris Data (hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_highrate_data_sbasnav.v1",
+"title": "Ground-Based Global Navigation Satellite System (GNSS) SBAS Broadcast Ephemeris Data (sub-hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data_combinednav.v1",
+"title": "Ground-Based Global Navigation Satellite System Combined Broadcast Ephemeris Data (daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_realtime_data.v1",
+"title": "Ground-Based Global Navigation Satellite System Data (1-second sampling, real-time streams) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_hourly_data.v1",
+"title": "Ground-Based Global Navigation Satellite System Data (30-second sampling, 1 hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data.v1",
+"title": "Ground-Based Global Navigation Satellite System Data (30-second sampling, 24 hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_IGSDCB_product.v1",
+"title": "Ground-Based Global Navigation Satellite System Differential Code Bias Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_GLONASS_daily_data_combinednav.v1",
+"title": "Ground-Based Global Navigation Satellite System GLONASS (GLObal NAvigation Satellite System) Combined Broadcast Ephemeris Data (daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GLONASS_daily_data_compactobs.v1",
+"title": "Ground-Based Global Navigation Satellite System GLONASS (GLObal NAvigation Satellite System) Compact Observation Data (30-second sampling, daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GLONASS_daily_data_obs.v1",
+"title": "Ground-Based Global Navigation Satellite System GLONASS (GLObal NAvigation Satellite System) Observation Data (30-second sampling, daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GLONASS_daily_data_sum.v1",
+"title": "Ground-Based Global Navigation Satellite System GLONASS (GLObal NAvigation Satellite System) Summary Data (30-second sampling, daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data_mixednav.v1",
+"title": "Ground-Based Global Navigation Satellite System Mixed Broadcast Ephemeris Data (daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_highrate_data_mixednav.v1",
+"title": "Ground-Based Global Navigation Satellite System Mixed Broadcast Ephemeris Data (sub-hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data_sum.v1",
+"title": "Ground-Based Global Navigation Satellite System Observation Summary Data (30-second sampling, daily files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_daily_data_met.v1",
+"title": "Ground-Based Meteorological Data (daily, 24 hour files) from Co-Located Global Navigation Satellite System (GNSS) Receivers from NASA CDDIS"
+},
+{
+"id": "CDDIS_GLONASS_daily_data_met.v1",
+"title": "Ground-Based Meteorological Data (daily, 24 hour files) from Co-Located Ground-Based Global Navigation Satellite System GLONASS (GLObal NAvigation Satellite System) Receivers from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_hourly_data_met.v1",
+"title": "Ground-Based Meteorological Data (hourly files) from Co-Located Global Navigation Satellite System (GNSS) Receivers from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_highrate_data_met.v1",
+"title": "Ground-Based Meteorological Data (sub-hourly files) from Co-Located Global Navigation Satellite System (GNSS) Receivers from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_data_daily_fr.v1",
+"title": "Ground-Based Satellite Laser Ranging (SLR) Observation Data (full-rate, daily, 24 hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_data_monthly_fr.v1",
+"title": "Ground-Based Satellite Laser Ranging (SLR) Observation Data (full-rate, monthly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_data_daily_npt.v1",
+"title": "Ground-Based Satellite Laser Ranging (SLR) Observation Data (normal points, daily, 24 hour files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_data_hourly_npt.v1",
+"title": "Ground-Based Satellite Laser Ranging (SLR) Observation Data (normal points, hourly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_data_monthly_npt.v1",
+"title": "Ground-Based Satellite Laser Ranging (SLR) Observation Data (normal points, monthly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_data_monthlysum_npt.v1",
+"title": "Ground-Based Satellite Laser Ranging (SLR) Observation Data Summary (normal points, monthly files) from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_LROLR_LOLA_full_rate.v1",
+"title": "Lunar Orbiter Laser Altimeter (LOLA) one-way Laser Ranging Full Rate Data (all ranges collected, ground stations, aggregate of normal points daily) from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_ILRSorbitAC_product.v1",
+"title": "Satellite Laser Ranging (SLR) AC Orbit Product (daily files, generated weekly) from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_ILRSpositionERPAC_product.v1",
+"title": "Satellite Laser Ranging (SLR) AC Station Position and ERP Product (daily files, generated daily) from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_ILRSorbitFinal_product.v1",
+"title": "Satellite Laser Ranging (SLR) Final Orbit Product (daily files, generated weekly) from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_ILRSpositionERPFinal_product.v1",
+"title": "Satellite Laser Ranging (SLR) Final Station Position and ERP Product (daily files, generated daily) from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_ILRSpredictedOrbit_product.v1",
+"title": "Satellite Laser Ranging (SLR) Predicted Orbit Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_Mail_ILRS_info.v1",
+"title": "Satellite Laser Ranging Mail exploder distributing information about ILRS activities to the ILRS community, each message automatically numbered sequentially and archived for reference."
+},
+{
+"id": "CDDIS_SLR_Report_ILRS_reports.v1",
+"title": "Satellite Laser Ranging Report exploder distributing mission related reports, each message automatically numbered sequentially and archived for reference."
+},
+{
+"id": "CDDIS_SLR_products_orbit.v1",
+"title": "Satellite Laser Ranging Satellite Orbit Product from NASA CDDIS"
+},
+{
+"id": "CDDIS_DORIS_information.v1",
+"title": "Supporting Information for Doppler Orbitography and Radiopositioning Integrated by Satellite (DORIS) Data and Products from NASA CDDIS"
+},
+{
+"id": "CDDIS_GNSS_information.v1",
+"title": "Supporting Information for Global Navigation Satellite System (GNSS) Data and Products from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_information.v1",
+"title": "Supporting Information for Satellite Laser Ranging (SLR) Data and Products from NASA CDDIS"
+},
+{
+"id": "CDDIS_VLBI_information.v1",
+"title": "Supporting Information for Very Long Baseline Interferometry (VLBI) Data and Products from NASA CDDIS"
+},
+{
+"id": "CDDIS_SLR_SLRF2020.v1",
+"title": "The International Laser Ranging Service (ILRS) extension of the International Terrestrial Reference Frame 2020 (ITRF2020) TRF Model with additional SLR sites at NASA CDDIS"
+}
+]

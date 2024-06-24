@@ -1,0 +1,594 @@
+[
+{
+"id": "AM1EPHNE.v6.1NRT",
+"title": "Files containing only extrapolated orbital metadata, to be read via SDP Toolkit, Binary Format"
+},
+{
+"id": "PM1EPHND_NRT.v6.1NRT",
+"title": "MODIS/Aqua 24-hour Spacecraft ephemeris/orbit data files to be read via SDP Toolkit Binary Format - NRT"
+},
+{
+"id": "MYDGB0.v6.1NRT",
+"title": "MODIS/Aqua 5-minute GBAD data in L0 format - NRT"
+},
+{
+"id": "MYD04_L2.v6.1NRT",
+"title": "MODIS/Aqua Aerosol 5-Min L2 Swath 10km - NRT"
+},
+{
+"id": "MYD04_3K.v6.1NRT",
+"title": "MODIS/Aqua Aerosol 5-Min L2 Swath 3km - NRT"
+},
+{
+"id": "MYD09CMA.v6.1NRT",
+"title": "MODIS/Aqua Aerosol Optical Thickness Daily L3 Global 0.05-Deg CMA NRT"
+},
+{
+"id": "MYD09.v6.1NRT",
+"title": "MODIS/Aqua Atmospherically Corrected Surface Reflectance 5-Min L2 Swath 250m, 500m, 1km NRT"
+},
+{
+"id": "MYD021KM.v6.1NRT",
+"title": "MODIS/Aqua Calibrated Radiances 5-Min L1B Swath 1km - NRT"
+},
+{
+"id": "MYD02QKM.v6.1NRT",
+"title": "MODIS/Aqua Calibrated Radiances 5-Min L1B Swath 250m - NRT"
+},
+{
+"id": "MYD02HKM.v6.1NRT",
+"title": "MODIS/Aqua Calibrated Radiances 5-Min L1B Swath 500m - NRT"
+},
+{
+"id": "MYD35_L2.v6.1NRT",
+"title": "MODIS/Aqua Cloud Mask and Spectral Test Results 5-Min L2 Swath 250m and 1km - NRT"
+},
+{
+"id": "MYD06_L2.v6.1NRT",
+"title": "MODIS/Aqua Clouds 5-Min L2 Swath 1km and 5km - NRT"
+},
+{
+"id": "MYD03.v6.1NRT",
+"title": "MODIS/Aqua Geolocation Fields 5-Min L1A Swath 1km - NRT"
+},
+{
+"id": "MYD00F.v6.1NRT",
+"title": "MODIS/Aqua L0 PDS Data, 5-Min Swath - NRT"
+},
+{
+"id": "MYDAODHD.v6.1NRT",
+"title": "MODIS/Aqua L3 Value-added Aerosol Optical Depth - NRT"
+},
+{
+"id": "MYD21.v6.1NRT",
+"title": "MODIS/Aqua Land Surface Temperature/3-Band Emissivity 5-Min L2 1km NRT"
+},
+{
+"id": "MYD11_L2.v6.1NRT",
+"title": "MODIS/Aqua Land Surface Temperature/Emissivity 5-Min L2 Swath 1km NRT"
+},
+{
+"id": "MYD02SSH.v6.1NRT",
+"title": "MODIS/Aqua Level 1B Subsampled Calibrated Radiance 5Km - NRT"
+},
+{
+"id": "MYD01.v6.1NRT",
+"title": "MODIS/Aqua Raw Radiances in Counts 5-Min L1A Swath - NRT"
+},
+{
+"id": "MYD29.v6.1NRT",
+"title": "MODIS/Aqua Sea Ice Extent 5-Min L2 Swath 1km NRT"
+},
+{
+"id": "MYD10_L2.v6.1NRT",
+"title": "MODIS/Aqua Snow Cover 5-Min L2 Swath 500m NRT"
+},
+{
+"id": "MYD09GA.v6.1NRT",
+"title": "MODIS/Aqua Surface Reflectance Daily L2G Global 1km and 500m SIN Grid NRT"
+},
+{
+"id": "MYD09GQ.v6.1NRT",
+"title": "MODIS/Aqua Surface Reflectance Daily L2G Global 250 m SIN Grid NRT"
+},
+{
+"id": "MYD09GQK.v6.1NRT",
+"title": "MODIS/Aqua Surface Reflectance Daily L2G Global 250m SIN Grid NRT"
+},
+{
+"id": "MYD09GHK.v6.1NRT",
+"title": "MODIS/Aqua Surface Reflectance Daily L2G Global 500m SIN Grid NRT"
+},
+{
+"id": "MYD09CMG.v6.1NRT",
+"title": "MODIS/Aqua Surface Reflectance Daily L3 Global 0.05Deg CMG NRT"
+},
+{
+"id": "MYD09GST.v6.1NRT",
+"title": "MODIS/Aqua Surface Reflectance Quality Daily L2G Global 1km SIN Grid NRT"
+},
+{
+"id": "MYD07_L2.v6.1NRT",
+"title": "MODIS/Aqua Temperature and Water Vapor Profiles 5-Min L2 Swath 5km - NRT"
+},
+{
+"id": "MYD14.v6.1NRT",
+"title": "MODIS/Aqua Thermal Anomalies/Fire 5-Min L2 Swath 1km NRT"
+},
+{
+"id": "MYD05_L2.v6.1NRT",
+"title": "MODIS/Aqua Total Precipitable Water Vapor 5-Min L2 Swath 1km and 5km - NRT"
+},
+{
+"id": "MCDWD_L3_NRT.v6.1",
+"title": "MODIS/Aqua+Terra Global Flood Product L3 NRT 250m"
+},
+{
+"id": "MCDWD_L3_F1C_NRT.v6.1",
+"title": "MODIS/Aqua+Terra Global Flood Product L3 NRT 250m 1-day CS GeoTIFF"
+},
+{
+"id": "MCDWD_L3_F1_NRT.v6.1",
+"title": "MODIS/Aqua+Terra Global Flood Product L3 NRT 250m 1-day GeoTIFF"
+},
+{
+"id": "MCDWD_L3_F2_NRT.v6.1",
+"title": "MODIS/Aqua+Terra Global Flood Product L3 NRT 250m 2-day GeoTIFF"
+},
+{
+"id": "MCDWD_L3_F3_NRT.v6.1",
+"title": "MODIS/Aqua+Terra Global Flood Product L3 NRT 250m 3-day GeoTIFF"
+},
+{
+"id": "MOD04_L2.v6.1NRT",
+"title": "MODIS/Terra Aerosol 5-Min L2 Swath 10km - NRT"
+},
+{
+"id": "MOD04_3K.v6.1NRT",
+"title": "MODIS/Terra Aerosol 5-Min L2 Swath 3km - NRT"
+},
+{
+"id": "MOD09CMA.v6.1NRT",
+"title": "MODIS/Terra Aerosol Optical Thickness Daily L3 Global 0.05Deg CMA NRT"
+},
+{
+"id": "MOD09.v6.1NRT",
+"title": "MODIS/Terra Atmospherically Corrected Surface Reflectance 5-Min L2 Swath 250m, 500m, 1km NRT"
+},
+{
+"id": "MOD021KM.v6.1NRT",
+"title": "MODIS/Terra Calibrated Radiances 5-Min L1B Swath 1km - NRT"
+},
+{
+"id": "MOD02QKM.v6.1NRT",
+"title": "MODIS/Terra Calibrated Radiances 5-Min L1B Swath 250m - NRT"
+},
+{
+"id": "MOD02HKM.v6.1NRT",
+"title": "MODIS/Terra Calibrated Radiances 5-Min L1B Swath 500m - NRT"
+},
+{
+"id": "MOD35_L2.v6.1NRT",
+"title": "MODIS/Terra Cloud Mask and Spectral Test Results 5-Min L2 Swath 250m and 1km - NRT"
+},
+{
+"id": "MOD06_L2.v6.1NRT",
+"title": "MODIS/Terra Clouds 5-Min L2 Swath 1km and 5km - NRT"
+},
+{
+"id": "MOD03.v6.1NRT",
+"title": "MODIS/Terra Geolocation Fields 5-Min L1A Swath 1km - NRT"
+},
+{
+"id": "MOD00F.v6.1NRT",
+"title": "MODIS/Terra L0 PDS Data 5-Min Swath - NRT"
+},
+{
+"id": "MODAODHD.v6.1NRT",
+"title": "MODIS/Terra L3 Value-added Aerosol Optical Depth - NRT"
+},
+{
+"id": "MOD21.v6.1NRT",
+"title": "MODIS/Terra Land Surface Temperature/3-Band Emissivity 5-Min L2 1km NRT"
+},
+{
+"id": "MOD11_L2.v6.1NRT",
+"title": "MODIS/Terra Land Surface Temperature/Emissivity 5-Min L2 Swath 1km NRT"
+},
+{
+"id": "MOD02SSH.v6.1NRT",
+"title": "MODIS/Terra Level 1B Subsampled Calibrated Radiance 5Km - NRT"
+},
+{
+"id": "MOD01.v6.1NRT",
+"title": "MODIS/Terra Raw Radiances in Counts 5-Min L1A Swath - NRT"
+},
+{
+"id": "MOD29.v6.1NRT",
+"title": "MODIS/Terra Sea Ice Extent 5-Min L2 Swath 1km NRT"
+},
+{
+"id": "MOD10_L2.v6.1NRT",
+"title": "MODIS/Terra Snow Cover 5-Min L2 Swath 500m NRT"
+},
+{
+"id": "MOD09GA.v6.1NRT",
+"title": "MODIS/Terra Surface Reflectance Daily L2G Global 1km and 500m SIN Grid NRT"
+},
+{
+"id": "MOD09GQ.v6.1NRT",
+"title": "MODIS/Terra Surface Reflectance Daily L2G Global 250 m SIN Grid NRT"
+},
+{
+"id": "MOD09CMG.v6.1NRT",
+"title": "MODIS/Terra Surface Reflectance Daily L3 Global 0.05Deg CMG NRT"
+},
+{
+"id": "MOD09Q1N.v6.1NRT",
+"title": "MODIS/Terra Surface Reflectance Rolling-8-Day L3 Global 250m SIN Grid NRT"
+},
+{
+"id": "MOD09A1N.v6.1NRT",
+"title": "MODIS/Terra Surface Reflectance Rolling-8-Day L3 Global 500m SIN Grid NRT"
+},
+{
+"id": "MOD07_L2.v6.1NRT",
+"title": "MODIS/Terra Temperature and Water Vapor Profiles 5-Min L2 Swath 5km - NRT"
+},
+{
+"id": "MOD14.v6.1NRT",
+"title": "MODIS/Terra Thermal Anomalies/Fire 5-Min L2 Swath 1km NRT"
+},
+{
+"id": "MOD05_L2.v6.1NRT",
+"title": "MODIS/Terra Total Precipitable Water Vapor 5-Min L2 Swath 1km and 5km - NRT"
+},
+{
+"id": "MOD13Q4N.v6.1NRT",
+"title": "MODIS/Terra Vegetation Indices Daily Rolling-8-Day L3 Global 250m SIN Grid NRT"
+},
+{
+"id": "MOD13A4N.v6.1NRT",
+"title": "MODIS/Terra Vegetation Indices Daily Rolling-8-Day L3 Global 500m SIN Grid NRT"
+},
+{
+"id": "MCD43A3N.v6.1NRT",
+"title": "MODIS/Terra+Aqua Albedo Daily L3 Global 500 m SIN Grid"
+},
+{
+"id": "MCD19A3DN.v6.1NRT",
+"title": "MODIS/Terra+Aqua BRDF Model Parameters Daily NRT L3 Global 1km SIN Grid"
+},
+{
+"id": "MCD43A1N.v6.1NRT",
+"title": "MODIS/Terra+Aqua BRDF/Albedo Model Parameters Daily L3 Global 500 m SIN Grid"
+},
+{
+"id": "MCD43A2N.v6.1NRT",
+"title": "MODIS/Terra+Aqua BRDF/Albedo Quality Daily L3 Global 500 m SIN Grid"
+},
+{
+"id": "MCDAODHD.v6.1NRT",
+"title": "MODIS/Terra+Aqua L3 Value-added Aerosol Optical Depth - NRT"
+},
+{
+"id": "MCD19A2N.v6.1NRT",
+"title": "MODIS/Terra+Aqua Land Aerosol Optical Depth Daily L2G Global 1km SIN Grid NRT"
+},
+{
+"id": "MCD19A1N.v6.1NRT",
+"title": "MODIS/Terra+Aqua Land Surface BRF Daily L2G Global 500m and 1km SIN Grid NRT"
+},
+{
+"id": "MCD43A4N.v6.1NRT",
+"title": "MODIS/Terra+Aqua Nadir BRDF-Adjusted Reflectance Daily L3 Global 500 m SIN Grid"
+},
+{
+"id": "VNP09_NRT.v2",
+"title": "NPP/VIIRS Atmospherically Corrected Surface Reflectance 6-Min L2 Swath 375m, 750m"
+},
+{
+"id": "VNP02GDC_NRT.v2",
+"title": "NPP/VIIRS Moderate-Resolution Dual Gain Bands Calibrated Radiance 6 Min L1B Swath 750m NRT"
+},
+{
+"id": "VNP09GA_NRT.v2",
+"title": "NPP/VIIRS Surface Reflectance Daily L2G Global 1km and 500m SIN Grid"
+},
+{
+"id": "PM1ATTNR_NRT.v6.1NRT",
+"title": "PM1 5-min Spacecraft attitude data from GBAD - NRT"
+},
+{
+"id": "VNP14IMGTDL_NRT.v2",
+"title": "VIIRS (S-NPP) I Band 375 m Active Fire Product NRT (Vector data)"
+},
+{
+"id": "VJ114IMGT_NRT.v2",
+"title": "VIIRS NOAA-20 (JPSS-1) 375m, I-Band Active Fire Product NRT (Vector Data)"
+},
+{
+"id": "VJ114IMG_NRT.v2",
+"title": "VIIRS/JPSS1 Active Fires 6-Min L2 Swath 375m NRT"
+},
+{
+"id": "VJ143MA3N.v2",
+"title": "VIIRS/JPSS1 Albedo Daily L3 Global 1km SIN Grid NRT"
+},
+{
+"id": "VJ143IA3N.v2",
+"title": "VIIRS/JPSS1 Albedo Daily L3 Global 500m SIN Grid NRT"
+},
+{
+"id": "VJ109_NRT.v2",
+"title": "VIIRS/JPSS1 Atmospherically Corrected Surface Reflectance 6-Min L2 Swath IP 375m, 750m NRT"
+},
+{
+"id": "VJ143MA1N.v2",
+"title": "VIIRS/JPSS1 BRDF/Albedo Model Parameters Daily L3 Global 1km SIN Grid NRT"
+},
+{
+"id": "VJ143IA1N.v2",
+"title": "VIIRS/JPSS1 BRDF/Albedo Model Parameters Daily L3 Global 500 m SIN Grid NRT"
+},
+{
+"id": "VJ143MA2N.v2",
+"title": "VIIRS/JPSS1 BRDF/Albedo Quality Daily L3 Global 1km SIN Grid NRT"
+},
+{
+"id": "VJ143IA2N.v2",
+"title": "VIIRS/JPSS1 BRDF/Albedo Quality Daily L3 Global 500 m SIN Grid NRT"
+},
+{
+"id": "VJ146A1_NRT.v2",
+"title": "VIIRS/JPSS1 Daily Gridded Day Night Band 500m Linear Lat Lon Grid Night NRT"
+},
+{
+"id": "VJ102DNB_NRT.v2.1",
+"title": "VIIRS/JPSS1 Day/Night Band 6 Min L1B Swath 750m NRT"
+},
+{
+"id": "VJ102DNB_NRT.v2",
+"title": "VIIRS/JPSS1 Day/Night Band 6-Min L1B Swath 750m NRT"
+},
+{
+"id": "VJ103DNB_NRT.v2.1",
+"title": "VIIRS/JPSS1 Day/Night Band Resolution Terrain Corrected Geolocation 6 Min L1 Swath 750m NRT"
+},
+{
+"id": "VJ103DNB_NRT.v2",
+"title": "VIIRS/JPSS1 Day/Night Band Resolution Terrain Corrected Geolocation 6-Min L1 Swath 750m NRT"
+},
+{
+"id": "VJ146A1G_NRT.v2",
+"title": "VIIRS/JPSS1 Granular Gridded Day Night Band 500m Linear Lat Lon Grid Night NRT"
+},
+{
+"id": "VJ130_NRT.v2",
+"title": "VIIRS/JPSS1 Ice Surface Temperature 6-Min L2 Swath 750m NRT"
+},
+{
+"id": "VJ102IMG_NRT.v2.1",
+"title": "VIIRS/JPSS1 Imagery Resolution 6 Min L1B Swath 375m NRT"
+},
+{
+"id": "VJ102IMG_NRT.v2",
+"title": "VIIRS/JPSS1 Imagery Resolution 6-Min L1B Swath 375m NRT"
+},
+{
+"id": "VJ103IMG_NRT.v2.1",
+"title": "VIIRS/JPSS1 Imagery Resolution Terrain Corrected Geolocation 6 Min L1 Swath 375m NRT"
+},
+{
+"id": "VJ103IMG_NRT.v2",
+"title": "VIIRS/JPSS1 Imagery Resolution Terrain Corrected Geolocation 6-Min L1 Swath 375m NRT"
+},
+{
+"id": "VJ121IMG_NRT.v2",
+"title": "VIIRS/JPSS1 Land Surface Temperature and Emissivity 6-Min L2 Swath 375m NRT"
+},
+{
+"id": "VJ121_NRT.v2",
+"title": "VIIRS/JPSS1 Land Surface Temperature and Emissivity 6-Min L2 Swath 750m"
+},
+{
+"id": "VJ102MOD_NRT.v2.1",
+"title": "VIIRS/JPSS1 Moderate Resolution 6 Min L1B Swath 750m NRT"
+},
+{
+"id": "VJ102MOD_NRT.v2",
+"title": "VIIRS/JPSS1 Moderate Resolution 6-Min L1B Swath 750m NRT"
+},
+{
+"id": "VJ103MOD_NRT.v2.1",
+"title": "VIIRS/JPSS1 Moderate Resolution Terrain Corrected Geolocation 6 Min L1 Swath 750m NRT"
+},
+{
+"id": "VJ103MOD_NRT.v2",
+"title": "VIIRS/JPSS1 Moderate Resolution Terrain Corrected Geolocation 6-Min L1 Swath 750m NRT"
+},
+{
+"id": "VJ102GDC_NRT.v2.1",
+"title": "VIIRS/JPSS1 Moderate-Resolution Dual Gain Bands Calibrated Radiance 6-Min L1B Swath 750 m NRT"
+},
+{
+"id": "VJ102GDC_NRT.v2",
+"title": "VIIRS/JPSS1 Moderate-Resolution Dual Gain Bands Calibrated Radiance 6-Min L1B Swath 750m -NRT"
+},
+{
+"id": "VJ143MA4N.v2",
+"title": "VIIRS/JPSS1 Nadir BRDF-Adjusted Reflectance Daily L3 Global 1 km SIN Grid NRT"
+},
+{
+"id": "VJ143IA4N.v2",
+"title": "VIIRS/JPSS1 Nadir BRDF-Adjusted Reflectance Daily L3 Global 500 m SIN Grid NRT"
+},
+{
+"id": "VJ101_NRT.v2.1",
+"title": "VIIRS/JPSS1 Raw Radiances in Counts 6 Min L1A Swath NRT"
+},
+{
+"id": "VJ101_NRT.v2",
+"title": "VIIRS/JPSS1 Raw Radiances in Counts 6-Min L1A Swath -NRT"
+},
+{
+"id": "VJ129_NRT.v2",
+"title": "VIIRS/JPSS1 Sea Ice Extent 6-Min L2 Swath 375m NRT"
+},
+{
+"id": "VJ110_NRT.v2",
+"title": "VIIRS/JPSS1 Snow Cover 6-Min L2 Swath 375m NRT"
+},
+{
+"id": "VJ109GA_NRT.v2",
+"title": "VIIRS/JPSS1 Surface Reflectance Daily L2G Global 1km and 500m SIN Grid NRT"
+},
+{
+"id": "VJ109CMG_NRT.v2",
+"title": "VIIRS/JPSS1 Surface Reflectance Daily L3 Global 0.05 Deg CMG NRT"
+},
+{
+"id": "VJ114_NRT.v2",
+"title": "VIIRS/JPSS1 Thermal Anomalies/Fire 6-Min L2 Swath 750m NRT - V2"
+},
+{
+"id": "VJ214IMG_NRT.v2",
+"title": "VIIRS/JPSS2 Active Fires 6-Min L2 Swath 375m NRT"
+},
+{
+"id": "VJ202DNB_NRT.v2",
+"title": "VIIRS/JPSS2 Day/Night Band 6-Min L1B Swath 750m NRT"
+},
+{
+"id": "VJ203DNB_NRT.v2",
+"title": "VIIRS/JPSS2 Day/Night Band Resolution Terrain Corrected Geolocation 6-Min L1 Swath 750m NRT"
+},
+{
+"id": "VJ202IMG_NRT.v2",
+"title": "VIIRS/JPSS2 Imagery Resolution 6-Min L1B Swath 375m NRT"
+},
+{
+"id": "VJ203IMG_NRT.v2",
+"title": "VIIRS/JPSS2 Imagery Resolution Terrain Corrected Geolocation 6-Min L1 Swath 375m NRT"
+},
+{
+"id": "VJ202MOD_NRT.v2",
+"title": "VIIRS/JPSS2 Moderate Resolution 6-Min L1B Swath 750m NRT"
+},
+{
+"id": "VJ203MOD_NRT.v2",
+"title": "VIIRS/JPSS2 Moderate Resolution Terrain Corrected Geolocation 6-Min L1 Swath 750m NRT"
+},
+{
+"id": "VJ202GDC_NRT.v2",
+"title": "VIIRS/JPSS2 Moderate-Resolution Dual Gain Bands Calibrated Radiance 6-Min L1B Swath 750m NRT"
+},
+{
+"id": "VJ201_NRT.v2",
+"title": "VIIRS/JPSS2 Raw Radiances in Counts 6-Min L1A Swath NRT"
+},
+{
+"id": "VJ214_NRT.v2",
+"title": "VIIRS/JPSS2 Thermal Anomalies/Fire 6-Min L2 Swath 750m NRT - V2"
+},
+{
+"id": "VNP14IMG_NRT.v2",
+"title": "VIIRS/NPP Active Fires 6-Min L2 Swath 375m - NRT"
+},
+{
+"id": "VNP43MA3N.v2",
+"title": "VIIRS/NPP Albedo Daily L3 Global 1km SIN Grid NRT"
+},
+{
+"id": "VNP43IA3N.v2",
+"title": "VIIRS/NPP Albedo Daily L3 Global 500m SIN Grid NRT"
+},
+{
+"id": "VNP43MA1N.v2",
+"title": "VIIRS/NPP BRDF/Albedo Model Parameters Daily L3 Global 1km SIN Grid NRT"
+},
+{
+"id": "VNP43IA1N.v2",
+"title": "VIIRS/NPP BRDF/Albedo Model Parameters Daily L3 Global 500m SIN Grid NRT"
+},
+{
+"id": "VNP43MA2N.v2",
+"title": "VIIRS/NPP BRDF/Albedo Quality Daily L3 Global 1km SIN Grid NRT"
+},
+{
+"id": "VNP43IA2N.v2",
+"title": "VIIRS/NPP BRDF/Albedo Quality Daily L3 Global 500m SIN Grid NRT"
+},
+{
+"id": "VNP46A1_NRT.v2",
+"title": "VIIRS/NPP Daily Gridded Day Night Band 500m Linear Lat. Lon. Grid Night NRT"
+},
+{
+"id": "VNP02DNB_NRT.v2",
+"title": "VIIRS/NPP Day/Night Band 6-Min L1B Swath 750m NRT"
+},
+{
+"id": "VNP03DNB_NRT.v2",
+"title": "VIIRS/NPP Day/Night Band Moderate Resolution Terrain-Corrected Geolocation 6-Min L1 Swath 750m NRT"
+},
+{
+"id": "VNP46A1G_NRT.v2",
+"title": "VIIRS/NPP Granular Gridded Day Night Band 500m Linear Lat. Lon. Grid Night NRT"
+},
+{
+"id": "VNP30_NRT.v2",
+"title": "VIIRS/NPP Ice Surface Temperature 6-Min L2 Swath 750 m NRT"
+},
+{
+"id": "VNP02IMG_NRT.v2",
+"title": "VIIRS/NPP Imagery Resolution 6-Min L1B Swath 375m NRT"
+},
+{
+"id": "VNP03IMG_NRT.v2",
+"title": "VIIRS/NPP Imagery Resolution Terrain-Corrected Geolocation 6-Min L1 Swath 375m NRT"
+},
+{
+"id": "VNP21IMG_NRT.v2",
+"title": "VIIRS/NPP Land Surface Temperature and Emissivity 6-Min L2 Swath 375m NRT"
+},
+{
+"id": "VNP21_NRT.v2",
+"title": "VIIRS/NPP Land Surface Temperature and Emissivity 6-Min L2 Swath 750 m"
+},
+{
+"id": "VNP02MOD_NRT.v2",
+"title": "VIIRS/NPP Moderate Resolution Bands L1B 6-Min Swath 750 m NRT"
+},
+{
+"id": "VNP03MOD_NRT.v2",
+"title": "VIIRS/NPP Moderate Resolution Terrain-Corrected Geolocation 6-Min L1 Swath 750m NRT"
+},
+{
+"id": "VNP43MA4N.v2",
+"title": "VIIRS/NPP Nadir BRDF-Adjusted Reflectance Daily L3 Global 1km SIN Grid NRT"
+},
+{
+"id": "VNP43IA4N.v2",
+"title": "VIIRS/NPP Nadir BRDF-Adjusted Reflectance Daily L3 Global 500m SIN Grid NRT"
+},
+{
+"id": "VNP01_NRT.v2",
+"title": "VIIRS/NPP Raw Radiances in Counts 6-Min L1A Swath NRT"
+},
+{
+"id": "VNP29_NRT.v2",
+"title": "VIIRS/NPP Sea Ice Extent 6-Min L2 Swath 375m NRT"
+},
+{
+"id": "VNP10_NRT.v2",
+"title": "VIIRS/NPP Snow Cover 6-Min L2 Swath 375m NRT"
+},
+{
+"id": "VNP09CMG_NRT.v2",
+"title": "VIIRS/NPP Surface Reflectance Daily L3 Global 0.05 Deg CMG NRT"
+},
+{
+"id": "VNP14_NRT.v2",
+"title": "VIIRS/NPP Thermal Anomalies/Fire 6-Min L2 Swath 750m NRT - V2"
+}
+]

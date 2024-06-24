@@ -1,0 +1,718 @@
+[
+{
+"id": "ADAM.Surface.Reflectance.Database",
+"title": "ADAM Surface Reflectance Database v4.0"
+},
+{
+"id": "Level_2A_aerosol_cloud_optical_products",
+"title": "Aeolus L2A Aerosol/Cloud optical product"
+},
+{
+"id": "L2C_Wind_products",
+"title": "Aeolus Level 2C assisted wind fields resulting from NWP Numerical Weather Prediction assimilation processing"
+},
+{
+"id": "L1B_Wind_Products",
+"title": "Aeolus preliminary HLOS (horizontal line-of-sight) wind observations for Rayleigh and Mie receivers"
+},
+{
+"id": "L2B_Wind_Products",
+"title": "Aeolus Scientific L2B Rayleigh/Mie wind product"
+},
+{
+"id": "ALOS",
+"title": "Alos African Coverage ESA archive"
+},
+{
+"id": "ALOS.AVNIR-2.L1C",
+"title": "ALOS AVNIR-2 L1C"
+},
+{
+"id": "ALOSIPY",
+"title": "ALOS PALSAR International Polar Year Antarctica"
+},
+{
+"id": "ALOS.PALSAR.FBS.FBD.PLR.products",
+"title": "ALOS PALSAR products"
+},
+{
+"id": "ALOS_PRISM_L1B",
+"title": "Alos PRISM L1B"
+},
+{
+"id": "alos-prism-l1c",
+"title": "ALOS PRISM L1C"
+},
+{
+"id": "NASA_OMI",
+"title": "Aura OMI complete NASA dataset"
+},
+{
+"id": "NOAA_AVHRR_L1B_LAC",
+"title": "AVHRR Level-1B Local Area Coverage Imagery"
+},
+{
+"id": "CartoSat-1.archive.and.Euro-Maps.3D.Digital.Surface.Model",
+"title": "CartoSat-1 archive and Euro-Maps 3D Digital Surface Model"
+},
+{
+"id": "Cartosat-1.Euro-Maps.3D",
+"title": "Cartosat-1 Euro-Maps 3D"
+},
+{
+"id": "CosmoSkyMed",
+"title": "COSMO-SkyMed ESA archive"
+},
+{
+"id": "COSMO-SkyMed.full.archive.and.tasking",
+"title": "COSMO-SkyMed full archive and tasking"
+},
+{
+"id": "CryoSat.products",
+"title": "CryoSat products"
+},
+{
+"id": "ENVISAT.UPA-L2P-L3U",
+"title": "Envisat AATSR ARC L2P/L3U  [UPA-L2P_GHRSST/UPA-L3U_GHRSST]"
+},
+{
+"id": "ENVISAT.ATS_AVG_3PAARC",
+"title": "Envisat AATSR ARC Level 3 products [ATS_AVG_3PAARC]"
+},
+{
+"id": "ENVISAT.ATS.AR__2P",
+"title": "Envisat AATSR Averaged Surface Temperature (AST) Product [ATS_AR__2P]"
+},
+{
+"id": "ENVISAT.ATS.TOA_1P",
+"title": "Envisat AATSR Gridded Brightness Temperature/Reflectance [ATS_TOA_1P]"
+},
+{
+"id": "ENVISAT.ATS.NR__2P",
+"title": "Envisat AATSR Gridded Surface Temperature [ATS_NR__2P]"
+},
+{
+"id": "EnvisatAATSRL1BBrightnessTemperatureRadianceAT1RBT",
+"title": "Envisat AATSR L1B Brightness Temperature/Radiance [ENV_AT_1_RBT]"
+},
+{
+"id": "ENVISAT.ATS.LST_2P",
+"title": "Envisat AATSR Level 2 LST products from UOL [ATS_LST_2P]"
+},
+{
+"id": "ENVISAT.ATS.LST_3P",
+"title": "Envisat AATSR Level 3 LST products from UOL [ATS_LST_3P]"
+},
+{
+"id": "ENVISAT.ATS.MET_2P",
+"title": "Envisat AATSR Meteo product [ATS_MET_2P]"
+},
+{
+"id": "ASA_AP__0P_Scenes",
+"title": "Envisat ASAR AP Co- and Cross-polar L0 [ASA_APC/APH/APV_0P]"
+},
+{
+"id": "ENVISAT.ASA.APM_1P",
+"title": "Envisat ASAR AP Medium Resolution L1  [ASA_APM_1P]"
+},
+{
+"id": "ENVISAT.ASA.APP_1P",
+"title": "Envisat ASAR AP Precision L1 [ASA_APP_1P]"
+},
+{
+"id": "ENVISAT.ASA.APS_1P",
+"title": "Envisat ASAR AP Single-Look Complex L1 [ASA_APS_1P]"
+},
+{
+"id": "ENVISAT.ASA.GM1_1P",
+"title": "Envisat ASAR Global Monitoring L1  [ASA_GM1_1P]"
+},
+{
+"id": "ENVISAT.ASA.IM__0P",
+"title": "Envisat ASAR IM L0  [ASA_IM__0P]"
+},
+{
+"id": "ENVISAT.ASA.IMM_1P",
+"title": "Envisat ASAR IM Medium Resolution L1 [ASA_IMM_1P]"
+},
+{
+"id": "ENVISAT.ASA.IMP_1P",
+"title": "Envisat ASAR IM Precision  L1 [ASA_IMP_1P]"
+},
+{
+"id": "ENVISAT.ASA.IMS_1P",
+"title": "Envisat ASAR IM Single Look Complex L1 [ASA_IMS_1P]"
+},
+{
+"id": "ENVISAT.ASA.WVS_1P",
+"title": "Envisat ASAR Wave Imagette Cross Spectra L1 [ASA_WVS_P]"
+},
+{
+"id": "ENVISAT.ASA.WVI_1P",
+"title": "Envisat ASAR Wave SLC and Cross-Spectra Imagettes L1 [ASA_WVI_1P]"
+},
+{
+"id": "ENVISAT.ASA.WVW_2P",
+"title": "Envisat ASAR WM Ocean Wave Spectra L2  [ASA_WVW_2P]"
+},
+{
+"id": "ENVISAT.ASA.WS__0P",
+"title": "Envisat ASAR WS L0  [ASA_WS__0P]"
+},
+{
+"id": "ENVISAT.ASA.WSM_1P",
+"title": "Envisat ASAR WS Medium Resolution L1 [ASA_WSM_1P]"
+},
+{
+"id": "ENVISAT.ASA.WSS_1P",
+"title": "Envisat ASAR WS Single Look Complex L1  [ASA_WSS_1P]"
+},
+{
+"id": "ENVISAT.DOR.DOP_1P",
+"title": "Envisat DORIS Doppler [DOR_DOP_1P]"
+},
+{
+"id": "ENVISAT.DOR.VOR_AX",
+"title": "Envisat DORIS Precise Orbit State Vectors [DOR.VOR_AX]"
+},
+{
+"id": "ENVISAT.GOM.TRA_1P",
+"title": "Envisat GOMOS Geolocated Calibrated Transmission Spectra and Photometer Fluxes [GOM_TRA_1P]"
+},
+{
+"id": "ENVISAT.GOM.LIM_1P",
+"title": "Envisat GOMOS Level 1b - Limb spectra [GOM_LIM_1P]"
+},
+{
+"id": "NetCDF.GOMOS_UFP_Gridded",
+"title": "Envisat GOMOS Level 2 - Atmospheric constituents profiles - Gridded User Friendly Product [GOMOS_UFP_gridded]"
+},
+{
+"id": "NetCDF.GOMOS_UFP",
+"title": "Envisat GOMOS Level 2 - Atmospheric constituents profiles - User Friendly Product [GOMOS_UFP]"
+},
+{
+"id": "ENVISAT.GOM.NL__2P",
+"title": "Envisat GOMOS Level 2 - Atmospheric constituents profiles [GOM_NL__2P]"
+},
+{
+"id": "ENVISAT.GOM_EXT_2P",
+"title": "Envisat GOMOS Level 2 - Residual extinction [GOM_EXT_2P]"
+},
+{
+"id": "MER_FRS_1P",
+"title": "Envisat MERIS Full Resolution - Level 1 [MER_FRS_1P/ME_1_FRG]"
+},
+{
+"id": "MER_FRS_2P",
+"title": "Envisat MERIS Full Resolution - Level 2 [MER_FRS_2P/ME_2_FRG]"
+},
+{
+"id": "MER.RR__1P",
+"title": "Envisat MERIS Reduced Resolution - Level 1 [MER_RR__1P/ME_1_RRG]"
+},
+{
+"id": "MER.RR__2P",
+"title": "Envisat MERIS Reduced Resolution Geophysical Product - Level 2 [MER_RR__2P]"
+},
+{
+"id": "ENVISAT.MIP.NL__1P",
+"title": "Envisat MIPAS L1 - Geo-located and calibrated atmospheric spectra [MIP_NL__1P]"
+},
+{
+"id": "ENVISAT.MIP.NL__2P",
+"title": "Envisat MIPAS L2 - Temperature, pressure and atmospheric constituents profiles [MIPAS_2PS/2PE]"
+},
+{
+"id": "ENVISAT.RA2.GDR_2P",
+"title": "Envisat RA-2 Geophysical Data Record - GDR [RA2_GDR__2P]"
+},
+{
+"id": "ENVISAT.RA2.MWS_2P",
+"title": "Envisat RA-2 Sensor and Geophysical Data Record - SGDR\u00a0[RA2_MWS__2P]"
+},
+{
+"id": "SCI_NL__1P",
+"title": "Envisat SCIAMACHY Geo-located atmospheric spectra [SCI_NL__1P]"
+},
+{
+"id": "SCI_OL__2P",
+"title": "Envisat SCIAMACHY Total column densities and stratospheric profiles [SCI_OL__2P]"
+},
+{
+"id": "ERS.ORB.POD",
+"title": "ERS PRARE Precise Orbit Products [ERS.ORB.POD/ERS.ORB.PRC]"
+},
+{
+"id": "ERS.UPA-L2P-L3U",
+"title": "ERS-1/2 ATSR ARC L2P/L3U [UPA-L2P_GHRSST/L3U_GHRSST]"
+},
+{
+"id": "ERS.ATS_AVG_3PAARC",
+"title": "ERS-1/2 ATSR ARC Level 3 products  [AT1/AT2_AVG_3PAARC]"
+},
+{
+"id": "ERS.AT_AR__2P",
+"title": "ERS-1/2 ATSR Averaged Surface Temperature [AT1/AT2_AR__2P]"
+},
+{
+"id": "ERS.AT_TOA_1P",
+"title": "ERS-1/2 ATSR Gridded Brightness Temperature/Reflectance  [AT1/AT2_TOA_1P]"
+},
+{
+"id": "ERS.AT_NR__2P",
+"title": "ERS-1/2 ATSR Gridded Surface Temperature [AT1/AT2_NR__2P]"
+},
+{
+"id": "ERS.AT_MET_2P",
+"title": "ERS-1/2 ATSR Meteo Product [AT1/AT2_MET_2P]"
+},
+{
+"id": "ERS_ALT_2_",
+"title": "ERS-1/2 Radar Altimeter REAPER Geophysical Data Record - GDR [ERS_ALT_2]"
+},
+{
+"id": "ERS_ALT_2M",
+"title": "ERS-1/2 Radar Altimeter REAPER METEO Product - [ERS_ALT_2M]"
+},
+{
+"id": "ERS_ALT_2S",
+"title": "ERS-1/2 Radar Altimeter REAPER Sensor Geophysical Data Record - SGDR  [ERS_ALT_2S]"
+},
+{
+"id": "SAR_IM_0P",
+"title": "ERS-1/2 SAR IM L0 [SAR_IM__0P]"
+},
+{
+"id": "SAR_IMM_1P",
+"title": "ERS-1/2 SAR IM Medium Resolution L1 [SAR_IMM_1P]"
+},
+{
+"id": "SAR_IMP_1P",
+"title": "ERS-1/2 SAR IM Precision L1  [SAR_IMP_1P]"
+},
+{
+"id": "SAR_IMS_1P",
+"title": "ERS-1/2 SAR IM Single Look Complex L1 [SAR_IMS_1P]"
+},
+{
+"id": "ERS.UWI",
+"title": "ERS-1/2 SCATTEROMETER Nominal Resolution back-scattering measurements, Ocean Wind field [UWI]"
+},
+{
+"id": "ERS.ASPS20",
+"title": "ERS-1/2 SCATTEROMETER Ocean Wind field and Sea Ice probability [ASPS20.H/ASPS20.N]"
+},
+{
+"id": "ERS.GOM.L1",
+"title": "ERS-2 GOME Spectral Product L1"
+},
+{
+"id": "ERS.GOM.L2",
+"title": "ERS-2 GOME Total Column Amount of Trace Gases Product"
+},
+{
+"id": "ERS.SSM",
+"title": "ERS-2 SCATTEROMETER Surface Soil Moisture Time Series and Orbit product in High and Nominal Resolution [SSM.H/N.TS - SSM.H/N]"
+},
+{
+"id": "GeoEye-1.ESA.archive",
+"title": "GeoEye-1 ESA archive"
+},
+{
+"id": "GeoEye-1.full.archive.and.tasking",
+"title": "GeoEye-1 full archive and tasking"
+},
+{
+"id": "Deimos-1.and.2.ESA.archive",
+"title": "GEOSAT-1 and 2 ESA archive"
+},
+{
+"id": "Geosat-1.Full.archive.and.tasking",
+"title": "GEOSAT-1 full archive and tasking"
+},
+{
+"id": "Geosat-2.Full.archive.and.tasking",
+"title": "GEOSAT-2 full archive and tasking"
+},
+{
+"id": "GEOSAT-2.Portugal.Coverage",
+"title": "GEOSAT-2 Portugal Coverage 2021"
+},
+{
+"id": "GHGSat.archive.and.tasking",
+"title": "GHGSat archive and tasking"
+},
+{
+"id": "GOCE_Global_Gravity_Field_Models_and_Grids",
+"title": "GOCE Global Gravity Field Models and Grids"
+},
+{
+"id": "GOCE_Level_1",
+"title": "GOCE Level 1"
+},
+{
+"id": "GOCE_Level_2",
+"title": "GOCE Level 2"
+},
+{
+"id": "GOCE_TEC_and_ROTI",
+"title": "GOCE TEC and ROTI"
+},
+{
+"id": "GOCE_Telemetry",
+"title": "GOCE Telemetry"
+},
+{
+"id": "GOCE_Thermosphere_Data",
+"title": "GOCE Thermosphere Data"
+},
+{
+"id": "GOME_Evl_ClimateProd_TCWV",
+"title": "GOME Total Column Water Vapour Climate product"
+},
+{
+"id": "GOSAT.TANSO-FTS.CAI.full.archive.and.new.products",
+"title": "GOSAT TANSO FTS and CAI full archive and new products"
+},
+{
+"id": "GOSAT2.TANSO-FTS2.CAI2.full.archive.and.new.products",
+"title": "GOSAT-2 TANSO FTS-2 and CAI-2 full archive and new products"
+},
+{
+"id": "GRACE-A.and.GRACE-B.Level1B.Level1Bcombined.Level2",
+"title": "GRACE-A and GRACE-B Level 1B,  Level 1B combined and Level 2 Data Products"
+},
+{
+"id": "ICEYE.ESA.Archive",
+"title": "ICEYE ESA archive"
+},
+{
+"id": "ICEYE",
+"title": "ICEYE full archive and tasking"
+},
+{
+"id": "IKONOS.ESA.archive",
+"title": "IKONOS ESA archive"
+},
+{
+"id": "Image2006",
+"title": "Image 2006 European coverage"
+},
+{
+"id": "Image2007",
+"title": "Image 2007 European coverage"
+},
+{
+"id": "IRS-1.archive",
+"title": "IRS-1C/1D European coverage"
+},
+{
+"id": "IRS-1C_1D.Full.archive",
+"title": "IRS-1C/1D Full archive"
+},
+{
+"id": "JERS-1.OPS.SYC",
+"title": "JERS-1 OPS (Optical Sensor) Very Near Infrared Radiometer (VNIR) System Corrected Products level 1"
+},
+{
+"id": "JERS-1.SAR.PRI",
+"title": "JERS-1 SAR Level 1 Precision Image"
+},
+{
+"id": "JERS-1.SAR.SLC",
+"title": "JERS-1 SAR Level 1 Single Look Complex Image"
+},
+{
+"id": "KOMPSAT-2.ESA.archive",
+"title": "KOMPSAT-2 ESA archive"
+},
+{
+"id": "LandsatTMCloudFree",
+"title": "Landsat 5 TM European and Mediterranean Countries Cloud Free Collection"
+},
+{
+"id": "LandsatETMCloudFree",
+"title": "Landsat 7 ETM+ European and Mediterranean Countries Cloud Free Collection"
+},
+{
+"id": "Landsat8.Collection2.European.Coverage",
+"title": "Landsat 8 Collection 2 European Coverage"
+},
+{
+"id": "LANDSAT.OLI-TIRS.L1T_L1GT",
+"title": "Landsat 8 OLI-TIRS European Coverage"
+},
+{
+"id": "LANDSAT.ETM.GTC",
+"title": "Landsat ETM+ ESA archive"
+},
+{
+"id": "Landsat_MSS_ESA_Archive",
+"title": "Landsat MSS ESA Archive"
+},
+{
+"id": "LANDSAT.TM.GTC",
+"title": "Landsat TM ESA archive"
+},
+{
+"id": "OceanSat-2.NRT.data",
+"title": "OceanSat-2 NRT data"
+},
+{
+"id": "Odin.OSIRIS",
+"title": "Odin OSIRIS data products"
+},
+{
+"id": "ODIN.SMR",
+"title": "ODIN SMR data products"
+},
+{
+"id": "PAZ.ESA.archive",
+"title": "PAZ ESA archive"
+},
+{
+"id": "PAZ.Full.Archive.and.New.Tasking",
+"title": "PAZ Full Archive and New Tasking"
+},
+{
+"id": "PlanetScopeESAarchive",
+"title": "PlanetScope ESA archive"
+},
+{
+"id": "PlanetScope.Full.Archive",
+"title": "PlanetScope Full Archive"
+},
+{
+"id": "Pleiades.ESA.archive",
+"title": "Pleiades ESA archive"
+},
+{
+"id": "Pleiades.HiRI.archive.and.new",
+"title": "Pleiades full archive and tasking"
+},
+{
+"id": "Pleiades.Neo.full.archive.and.tasking",
+"title": "Pl\u00e9iades Neo full archive and tasking"
+},
+{
+"id": "PROBA.CHRIS.1A",
+"title": "Proba CHRIS Level 1A"
+},
+{
+"id": "PROBA.HRC.1A",
+"title": "Proba HRC"
+},
+{
+"id": "LEVEL_1C__3",
+"title": "Proba-V 1Km, 333m, and 100m products"
+},
+{
+"id": "QuickBird.full.archive",
+"title": "QuickBird full archive"
+},
+{
+"id": "QuickBird-2.ESA.archive",
+"title": "QuickBird-2 ESA archive"
+},
+{
+"id": "RADARSAT.SAR.F",
+"title": "RADARSAT-1 & 2 full archive and tasking"
+},
+{
+"id": "Radarsat-2",
+"title": "RADARSAT-2 ESA Archive"
+},
+{
+"id": "RapidEye.ESA.archive",
+"title": "RapidEye ESA archive"
+},
+{
+"id": "RapidEye.Full.archive",
+"title": "RapidEye Full Archive"
+},
+{
+"id": "RapidEye.South.America",
+"title": "RapidEye South America"
+},
+{
+"id": "RapidEye.time.series.for.Sentinel-2",
+"title": "RapidEye time series for Sentinel-2"
+},
+{
+"id": "ResourceSat-1-IRS-P6.archive",
+"title": "ResourceSat-1/IRS-P6 full archive"
+},
+{
+"id": "ResourceSat-2.archive.and.tasking",
+"title": "ResourceSat-2 full archive and tasking"
+},
+{
+"id": "SAOCOM.data.products",
+"title": "SAOCOM data products"
+},
+{
+"id": "SciSat-1.Ace.FTS.and.Maestro",
+"title": "SciSat-1: ACE-FTS and MAESTRO"
+},
+{
+"id": "SeaSat.ESA.archive",
+"title": "SeaSat ESA archive"
+},
+{
+"id": "SkySatESAarchive",
+"title": "Skysat ESA archive"
+},
+{
+"id": "SkySat.Full.Archive.and.New.Tasking",
+"title": "SkySat Full Archive and New Tasking"
+},
+{
+"id": "AUX_Dynamic_Open",
+"title": "SMOS Auxiliary Data"
+},
+{
+"id": "SMOS_Open_V7",
+"title": "SMOS L1 and L2 Science data"
+},
+{
+"id": "L3SW_Open",
+"title": "SMOS L3 Daily Wind Speed"
+},
+{
+"id": "L3_SIT_Open",
+"title": "SMOS Level 3C Sea Ice Thickness"
+},
+{
+"id": "NRT_Open",
+"title": "SMOS NRT Data Products"
+},
+{
+"id": "L2SW_Open",
+"title": "SMOS NRT L2 Swath Wind Speed"
+},
+{
+"id": "L3_FT_Open",
+"title": "SMOS Soil Freeze and Thaw State"
+},
+{
+"id": "L4WR_Open",
+"title": "SMOS Tropical Cyclone Wind Radii Fixes"
+},
+{
+"id": "L4_SIT_Open",
+"title": "SMOS-CryoSat L4 Sea Ice Thickness"
+},
+{
+"id": "Spire.live.and.historical.data",
+"title": "Spire live and historical data"
+},
+{
+"id": "SPOT4-5_Take5.ESAarchive",
+"title": "SPOT 4-5 Take5  ESA archive"
+},
+{
+"id": "SPOT67fullarchiveandtasking1",
+"title": "SPOT 6 & 7 full archive and tasking"
+},
+{
+"id": "SPOT-6.and.7.ESA.archive",
+"title": "SPOT-6 and 7 ESA archive"
+},
+{
+"id": "SPOT1-5",
+"title": "SPOT1-5 ESA archive"
+},
+{
+"id": "Swarm.Core",
+"title": "Swarm Core"
+},
+{
+"id": "Swarm.Geodesy_Gravity",
+"title": "Swarm Geodesy/Gravity"
+},
+{
+"id": "Swarm.Ionosphere_Magnetosphere",
+"title": "Swarm Ionosphere/Magnetosphere"
+},
+{
+"id": "Swarm.L1B",
+"title": "Swarm Level 1B"
+},
+{
+"id": "Swarm.L2.daily",
+"title": "Swarm Level 2 daily"
+},
+{
+"id": "Swarm.L2.longterm",
+"title": "Swarm Level 2 longterm"
+},
+{
+"id": "Swarm.Lithosphere",
+"title": "Swarm Lithosphere"
+},
+{
+"id": "Swarm.Mantle",
+"title": "Swarm Mantle"
+},
+{
+"id": "Swarm.Oceans",
+"title": "Swarm Oceans"
+},
+{
+"id": "Swarm.Space.Weather",
+"title": "Swarm Space Weather"
+},
+{
+"id": "Swarm.Thermosphere",
+"title": "Swarm Thermosphere"
+},
+{
+"id": "Tansat",
+"title": "TANSAT AGCS and CAPI products"
+},
+{
+"id": "TerraSAR-X",
+"title": "TerraSAR-X ESA archive"
+},
+{
+"id": "TerraSAR-X_TanDEM-X.full.archive.and.tasking",
+"title": "TerraSAR-X/TanDEM-X full archive and tasking"
+},
+{
+"id": "TropForest",
+"title": "TropForest- ALOS, GEOSAT-1 & KOMPSAT-2 optical coverages over tropical forests"
+},
+{
+"id": "Vision-1.full.archive.and.tasking",
+"title": "Vision-1 full archive and tasking"
+},
+{
+"id": "VT_GOCE_Data",
+"title": "VT GOCE Data"
+},
+{
+"id": "WorldView.ESA.archive",
+"title": "WorldView ESA archive"
+},
+{
+"id": "WorldView-1.full.archive.and.tasking",
+"title": "WorldView-1 full archive and tasking"
+},
+{
+"id": "WorldView-2.European.Cities",
+"title": "WorldView-2 European Cities"
+},
+{
+"id": "WorldView-2.full.archive.and.tasking",
+"title": "WorldView-2 full archive and tasking"
+},
+{
+"id": "WorldView-3.full.archive.and.tasking",
+"title": "WorldView-3 full archive and tasking"
+},
+{
+"id": "WorldView-4.full.archive",
+"title": "WorldView-4 full archive"
+}
+]

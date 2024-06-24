@@ -1,0 +1,146 @@
+[
+{
+"id": "EO:EUM:CM:MSG:MSGASRE0100.v2015-06-01",
+"title": "All-Sky Radiances - MSG - 0 degree (CF-015 Release 1)"
+},
+{
+"id": "EO:EUM:DAT:METOP:OSI-104.v2011-09-28",
+"title": "ASCAT Coastal Winds at 12.5 km Swath Grid - Metop"
+},
+{
+"id": "EO:EUM:DAT:METOP:ASCSZF1B.v2010-09-21",
+"title": "ASCAT GDS Level 1 Sigma0 at Full Sensor Resolution - Metop"
+},
+{
+"id": "EO:EUM:DAT:METOP:ASCSZR1B.v2010-09-21",
+"title": "ASCAT GDS Level 1 Sigma0 resampled at 12.5 km Swath Grid - Metop"
+},
+{
+"id": "EO:EUM:DAT:METOP:ASCSZO1B.v2010-09-21",
+"title": "ASCAT GDS Level 1 Sigma0 resampled at 25 km Swath Grid - Metop"
+},
+{
+"id": "EO:EUM:CM:METOP:ASCSZFR02.v2014-10-07",
+"title": "ASCAT L1 SZF Climate Data Record Release 2 - Metop"
+},
+{
+"id": "EO:EUM:CM:METOP:ASCSZOR02.v2014-10-07",
+"title": "ASCAT L1 SZO Climate Data Record Release 2 - Metop"
+},
+{
+"id": "EO:EUM:CM:METOP:ASCSZRR02.v2014-10-07",
+"title": "ASCAT L1 SZR Climate Data Record Release 2 - Metop"
+},
+{
+"id": "EO:EUM:DAT:METOP:SOMO12.v2010-06-21",
+"title": "ASCAT Soil Moisture at 12.5 km Swath Grid - Metop"
+},
+{
+"id": "EO:EUM:DAT:METOP:SOMO25.v2010-06-21",
+"title": "ASCAT Soil Moisture at 25 km Swath Grid - Metop"
+},
+{
+"id": "EO:EUM:DAT:METOP:ASCAT12.v2010-09-06",
+"title": "ASCAT Winds at 12.5 km Swath Grid - Metop"
+},
+{
+"id": "EO:EUM:DAT:METOP:ASCAT25.v2010-09-06",
+"title": "ASCAT Winds at 25 km Swath Grid - Metop"
+},
+{
+"id": "EO:EUM:DAT:MULT:AHL-DLI.v2011-11-29",
+"title": "Atlantic High Latitude Downward Longwave Irradiance - Multimission"
+},
+{
+"id": "EO:EUM:DAT:MULT:AHL-SST.v2011-11-29",
+"title": "Atlantic High Latitude Sea Surface Temperature - Multimission"
+},
+{
+"id": "EO:EUM:DAT:MULT:AHL-SSI.v2011-11-29",
+"title": "Atlantic High Latitude Surface Shortwave Irradiance - Multimission"
+},
+{
+"id": "EO:EUM:CM:MSG:MSGAMVE0100.v2015-06-01",
+"title": "Atmospheric Motion Vectors - MSG - 0 degree (CF-015 Release 1)"
+},
+{
+"id": "EO:EUM:CM:MSG:MSGCSKR0100.v2015-06-01",
+"title": "Clear Sky Radiances - MSG - 0 degree (CF-015 Release 1)"
+},
+{
+"id": "EO:EUM:DAT:GOES:OSIDDLI.v2011-10-07",
+"title": "Daily Downward Longwave Irradiance - GOES"
+},
+{
+"id": "EO:EUM:DAT:METEOSAT:OSIDDLI.v2011-10-07",
+"title": "Daily Downward Longwave Irradiance - MSG"
+},
+{
+"id": "EO:EUM:DAT:GOES:OSIDSSI.v2011-10-07",
+"title": "Daily Shortwave Solar Irradiance - GOES"
+},
+{
+"id": "EO:EUM:DAT:METEOSAT:OSIDSSI.v2011-10-07",
+"title": "Daily Shortwave Solar Irradiance - MSG"
+},
+{
+"id": "EO:EUM:DAT:METOP:GLB-SST.v2010-08-05",
+"title": "Global L3C AVHRR Sea Surface Temperature (GRIB) - Metop"
+},
+{
+"id": "EO:EUM:DAT:MULT:GBL-LR-SIDR.v2017-05-30",
+"title": "Global Low Resolution Sea Ice Drift - Multimission"
+},
+{
+"id": "EO:EUM:DAT:DMSP:GBLSIC.v2010-08-04",
+"title": "Global Sea Ice Concentration - DMSP"
+},
+{
+"id": "EO:EUM:DAT:MULT:GBLSIED.v2017-05-30",
+"title": "Global Sea Ice Edge (GRIB) - Multimission"
+},
+{
+"id": "EO:EUM:DAT:MULT:GBLSITY.v2017-05-30",
+"title": "Global Sea Ice Type (GRIB) - Multimission"
+},
+{
+"id": "EO:EUM:DAT:GOES:OSIHDLI.v2011-10-07",
+"title": "Hourly Downward Longwave Irradiance - GOES"
+},
+{
+"id": "EO:EUM:DAT:METEOSAT:OSIHDLI.v2011-10-07",
+"title": "Hourly Downward Longwave Irradiance - MSG"
+},
+{
+"id": "EO:EUM:DAT:GOES:OSIHSSI.v2011-10-07",
+"title": "Hourly Shortwave Solar Irradiance - GOES"
+},
+{
+"id": "EO:EUM:DAT:METEOSAT:OSIHSSI.v2011-10-07",
+"title": "Hourly Shortwave Solar Irradiance - MSG"
+},
+{
+"id": "EO:EUM:DAT:METOP:IASI-SST.v2014-12-11",
+"title": "IASI L2P Sea Surface Temperature (GHRSST) - Metop"
+},
+{
+"id": "EO:EUM:DAT:GOES:OSIHSST.v2011-10-07",
+"title": "L3C hourly Sea Surface Temperature (GRIB) - GOES-East"
+},
+{
+"id": "EO:EUM:DAT:METEOSAT:OSIHSST.v2011-10-07",
+"title": "L3C hourly Sea Surface Temperature (GRIB) - MSG"
+},
+{
+"id": "EO:EUM:DAT:MULT:OSSTNAR.v2013-11-20",
+"title": "L3C North Atlantic Regional (NAR) Sea Surface Temperature (GRIB) - Multimission"
+},
+{
+"id": "EO:EUM:DAT:SENTINEL-3:SL_2_WST___NRT.v2017-07-05",
+"title": "SLSTR Sea Surface Temperatures (SST) in NRT - Sentinel-3"
+},
+{
+"id": "EO:EUM:DAT:SENTINEL-3:SL_2_WST___NTC.v2017-07-05",
+"title": "SLSTR Sea Surface Temperatures (SST) in NTC - Sentinel-3"
+}
+]

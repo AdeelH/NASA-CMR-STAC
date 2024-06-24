@@ -1,0 +1,522 @@
+[
+{
+"id": "DLG100K",
+"title": "1:100,000-scale Digital Line Graphs (DLG) from the U.S. Geological Survey"
+},
+{
+"id": "asas",
+"title": "Advanced Solid-state Array Spectroradiometer (ASAS)"
+},
+{
+"id": "APSF",
+"title": "Aerial Photo Single Frames"
+},
+{
+"id": "EARTH_LAND_USGS_AMES_AIR_PHOTOS",
+"title": "Aerial Photographs (from AMES Pilot Land Data System); USGS EDC, Sioux Falls"
+},
+{
+"id": "AERIALDIGI",
+"title": "Aircraft Scanners"
+},
+{
+"id": "AK_AVHRR",
+"title": "Alaska AVHRR Twice-Monthly Composites"
+},
+{
+"id": "aster_global_dem",
+"title": "ASTER Global DEM"
+},
+{
+"id": "AVHRR_GLOBAL_10-DAY_COMPOSITES",
+"title": "AVHRR 1-km Global Land 10-Day Composites"
+},
+{
+"id": "AVHRR_ORBITAL_SEGMENTS",
+"title": "AVHRR 1-km Orbital Segments"
+},
+{
+"id": "CEOS_CalVal_Test_Sites-Algeria3",
+"title": "CEOS Cal Val Test Site - Algeria 3 - Pseudo-Invariant Calibration Site (PICS)"
+},
+{
+"id": "CEOS_CalVal_Test_Sites-Algeria5",
+"title": "CEOS Cal Val Test Site - Algeria 5 - Pseudo-Invariant Calibration Site (PICS)"
+},
+{
+"id": "CEOS_CalVal_Test_Site-Dome_C-Antarctica",
+"title": "CEOS Cal Val Test Site - Dome C, Antarctica - Instrumented Site"
+},
+{
+"id": "CEOS_CalVal_Test_Site-Dunhuang-China",
+"title": "CEOS Cal Val Test Site - Dunhuang, China - Instrumented Site"
+},
+{
+"id": "CEOS_CalVal_Test_Site-Frenchman_Flat-USA",
+"title": "CEOS Cal Val Test Site - Frenchman Flat, USA - Instrumented Site"
+},
+{
+"id": "CEOS_CalVal_Test_Site-Ivanpah_Playa-USA",
+"title": "CEOS Cal Val Test Site - Ivanpah Playa, USA - Instrumented Site"
+},
+{
+"id": "CEOS_CalVal_Test_Site-La_Crau-France",
+"title": "CEOS Cal Val Test Site - La Crau, France - Instrumented Site"
+},
+{
+"id": "CEOS_CalVal_Test_Site-Libya1",
+"title": "CEOS Cal Val Test Site - Libya 1 - Pseudo-Invariant Calibration Site (PICS)"
+},
+{
+"id": "CEOS_CalVal_Test_Site-Libya4",
+"title": "CEOS Cal Val Test Site - Libya 4 - Pseudo-Invariant Calibration Site (PICS)"
+},
+{
+"id": "CEOS_CalVal_Test_Site-Mauritania1",
+"title": "CEOS Cal Val Test Site - Mauritania 1 - Pseudo-Invariant Calibration Site (PICS)"
+},
+{
+"id": "CEOS_CalVal_Test_Sites-Mauritania2",
+"title": "CEOS Cal Val Test Site - Mauritania 2 - Pseudo-Invariant Calibration Site (PICS)"
+},
+{
+"id": "CEOS_CalVal_Test_Site-Negev-Southern_Israel",
+"title": "CEOS Cal Val Test Site - Negev, Southern Israel - Instrumented Site"
+},
+{
+"id": "CEOS_CalVal_Test_Site-Railroad_Valley_Playa-USA",
+"title": "CEOS Cal Val Test Site - Railroad Valley Playa, USA - Instrumented Site"
+},
+{
+"id": "CEOS_CalVal_Test_Site-Tuz_Golu-Turkey",
+"title": "CEOS Cal Val Test Site - Tuz Golu, Turkey - Instrumented Site"
+},
+{
+"id": "CORONA_SATELLITE_PHOTOS",
+"title": "CORONA Satellite Photographs from the U.S. Geological Survey"
+},
+{
+"id": "DISP",
+"title": "CORONA Satellite Photography"
+},
+{
+"id": "Declassified_Satellite_Imagery_2_2002",
+"title": "Declassified Satellite Imagery 2 (2002)"
+},
+{
+"id": "eMODIS1",
+"title": "eMODIS"
+},
+{
+"id": "USGS_EDC_EO1_ALI",
+"title": "EO-1 (Earth Observing-1) Advanced Land Imager (ALI) Instrument Level 1R, Level 1Gs, Level 1Gst Data"
+},
+{
+"id": "USGS_EDC_EO1_Hyperion",
+"title": "EO-1 Hyperion"
+},
+{
+"id": "ETM1999-2003",
+"title": "ETM+ (1999-2003)"
+},
+{
+"id": "ETM_PAN",
+"title": "ETM+ PAN (1999-2003)"
+},
+{
+"id": "USGS_GFOI_Fiji",
+"title": "Global Forest Observations Initiative (GFOI) - Fiji"
+},
+{
+"id": "USGS_GLCC.v1.2",
+"title": "Global Land Cover Characterization Program"
+},
+{
+"id": "gls",
+"title": "Global Land Survey"
+},
+{
+"id": "GLS_1975",
+"title": "Global Land Survey 1975"
+},
+{
+"id": "GLS_1990",
+"title": "Global Land Survey 1990"
+},
+{
+"id": "GLS_2005",
+"title": "Global Land Survey 2005"
+},
+{
+"id": "GLS_2005_islands",
+"title": "Global Land Survey 2005 Islands (EO1)"
+},
+{
+"id": "GLS_2010",
+"title": "Global Land Survey 2010"
+},
+{
+"id": "gmted2010",
+"title": "Global Multi-resolution Terrain Elevation Data 2010 (GMTED2010)"
+},
+{
+"id": "gtopo30_hydro_1k",
+"title": "GTOPO30 Hydro 1K"
+},
+{
+"id": "HDDS_Baseline_Adhoc",
+"title": "HDDS_Baseline_Adhoc"
+},
+{
+"id": "hcmm",
+"title": "Heat Capacity Mapping Mission (HCMM)"
+},
+{
+"id": "hcmm_digital_source",
+"title": "Heat Capacity Mapping Mission Digital Source"
+},
+{
+"id": "ikonos",
+"title": "IKONOS-2"
+},
+{
+"id": "USGS_EDC_IFSAR",
+"title": "Interferometric Synthetic Aperture Radar (IFSAR) Alaska"
+},
+{
+"id": "land_surf_ref_l7_etm",
+"title": "Land Surface Reflectance - 17-ETM+"
+},
+{
+"id": "land_surf_ref_gls2000",
+"title": "Land Surface Reflectance - GLS2000"
+},
+{
+"id": "land_surf_ref_gls2010",
+"title": "Land Surface Reflectance - GLS2010"
+},
+{
+"id": "land_surf_ref_l4-5",
+"title": "Land Surface Reflectance - L4-5"
+},
+{
+"id": "land_surf_ref_gls2005",
+"title": "Land Surface Reflectance -GLS2005"
+},
+{
+"id": "L7_ETM_SLC_OFF",
+"title": "Landsat 7 ETM+ SLC-off (2003-present)"
+},
+{
+"id": "sys_etm",
+"title": "Landsat 7 ETM+ Systematically Corrected (1999-May 2003)"
+},
+{
+"id": "Landsat_8",
+"title": "Landsat 8"
+},
+{
+"id": "lima",
+"title": "Landsat Image Mosaic of Antarctica (LIMA)"
+},
+{
+"id": "LANDSAT_SURFACE_REFLECTANCE_L8_OLI_TIRS",
+"title": "Landsat Surface Reflectance - L8 OLI/TIRS"
+},
+{
+"id": "LANDSAT_SURFACE_REFLECTANCE_L7_ETM",
+"title": "LANDSAT SURFACE REFLECTANCE -L7 ETM+"
+},
+{
+"id": "LANDSAT_SURFACE_REFLECTANCE_L4-5_TM",
+"title": "LANDSAT SURFACE REFLECTANCE L4-5 TM"
+},
+{
+"id": "DLG_LARGE",
+"title": "Large-scale digital line graph data from the U.S. Geological Survey"
+},
+{
+"id": "MSS_1_5",
+"title": "MSS 1-5 (1972-1987)"
+},
+{
+"id": "MRLC",
+"title": "Multi-Resolution Land Characteristics"
+},
+{
+"id": "NASAPHOTOS",
+"title": "NASA Aerial Photography"
+},
+{
+"id": "NLDC",
+"title": "NASA Landsat Data Collection"
+},
+{
+"id": "NAIP",
+"title": "National Agriculture Imagery Program (NAIP)"
+},
+{
+"id": "NHAP",
+"title": "National High Altitude Photography"
+},
+{
+"id": "nlcd_1992",
+"title": "National Land Cover Data set 1992 (NLCD1992)"
+},
+{
+"id": "nlcd_2006",
+"title": "National Land Cover Database 2006 (NLCD2006)"
+},
+{
+"id": "USGS_EDC_NRCS",
+"title": "Natural Resources Conservation Service SD State Farm Service Agency Color Slide Scans"
+},
+{
+"id": "nlcd_1992_2001_retrofit",
+"title": "NLCD 1992/2001 Retrofit Land Cover Change Product"
+},
+{
+"id": "nlcd_2001_ver_2",
+"title": "NLCD 2001 Version 2"
+},
+{
+"id": "NALC",
+"title": "North American Landscape Characterization"
+},
+{
+"id": "orbview_3",
+"title": "Orbview-3"
+},
+{
+"id": "JPL_SRTM",
+"title": "Shuttle Radar Topography Mission (SRTM) Images"
+},
+{
+"id": "JPL_SRTM_V2.v2",
+"title": "Shuttle Radar Topography Mission (SRTM) Version 2"
+},
+{
+"id": "SRTMGLOBAL1N",
+"title": "Shuttle Radar Topography Mission 1-arc second Global"
+},
+{
+"id": "DMA_DTED",
+"title": "Shuttle Radar Topography Mission DTED Level 1 (3-arc second) Data (DTED-1)"
+},
+{
+"id": "SLAR",
+"title": "Side Looking Airborne Radar (SLAR) Imagery"
+},
+{
+"id": "SPACE_PHOTOS",
+"title": "Space Acquired Photography"
+},
+{
+"id": "sir_c",
+"title": "Spaceborne Imaging Radar C-band (SIR-C)"
+},
+{
+"id": "SIR-C_PRECISION",
+"title": "Spaceborne Imaging Radar-C Precision"
+},
+{
+"id": "srtm_water_body",
+"title": "SRTM Water Body Data"
+},
+{
+"id": "TM_MOSAICS",
+"title": "Thematic Mapper (TM) Mosaics (1984-1997)"
+},
+{
+"id": "USGSPHOTOS",
+"title": "U.S. Geological Survey Aerial Photography"
+},
+{
+"id": "airmoss_chamela_mexico",
+"title": "USGS AirMOSS - Chamela, Mexico"
+},
+{
+"id": "antarctic_single_frames",
+"title": "USGS Antarctic Single Frame Records"
+},
+{
+"id": "USGS_DOQ",
+"title": "USGS Digital Orthophoto Quadrangles"
+},
+{
+"id": "usgs_global_fiducials",
+"title": "USGS Global Fiducials"
+},
+{
+"id": "USGS_GFOI_Argentina",
+"title": "USGS Global Forest Observations Initiative (GFOI) Argentina"
+},
+{
+"id": "USGS_GFOI_BANGLADESH",
+"title": "USGS Global Forest Observations Initiative (GFOI) Bangladesh"
+},
+{
+"id": "USGS_GFOI_Belize",
+"title": "USGS Global Forest Observations Initiative (GFOI) Belize"
+},
+{
+"id": "USGS_GFOI_Bolivia",
+"title": "USGS Global Forest Observations Initiative (GFOI) Bolivia"
+},
+{
+"id": "USGS_GFOI_Borneo_Island",
+"title": "USGS Global Forest Observations Initiative (GFOI) Borneo Island"
+},
+{
+"id": "USGS_GFOI_Brazil",
+"title": "USGS Global Forest Observations Initiative (GFOI) Brazil"
+},
+{
+"id": "USGS_GFOI_Burma",
+"title": "USGS Global Forest Observations Initiative (GFOI) Burma"
+},
+{
+"id": "USGS_GFOI_Cambodia",
+"title": "USGS Global Forest Observations Initiative (GFOI) Cambodia"
+},
+{
+"id": "USGS_GFOI_Cameroon",
+"title": "USGS Global Forest Observations Initiative (GFOI) Cameroon"
+},
+{
+"id": "USGS_GFOI_Colombia",
+"title": "USGS Global Forest Observations Initiative (GFOI) Colombia"
+},
+{
+"id": "USGS_GFOI_Costa_Rica",
+"title": "USGS Global Forest Observations Initiative (GFOI) Costa Rica"
+},
+{
+"id": "USGS_GFOI_Democratic_Republic_of_Congo",
+"title": "USGS Global Forest Observations Initiative (GFOI) Democratic Republic of Congo"
+},
+{
+"id": "USGS_GFOI_Ecuador",
+"title": "USGS Global Forest Observations Initiative (GFOI) Ecuador"
+},
+{
+"id": "USGS_GFOI_GABON",
+"title": "USGS Global Forest Observations Initiative (GFOI) Gabon"
+},
+{
+"id": "USGS_GFOI_Guatemala",
+"title": "USGS Global Forest Observations Initiative (GFOI) Guatemala"
+},
+{
+"id": "USGS_GFOI_Guyana",
+"title": "USGS Global Forest Observations Initiative (GFOI) Guyana"
+},
+{
+"id": "USGS_GFOI_Honduras",
+"title": "USGS Global Forest Observations Initiative (GFOI) Honduras"
+},
+{
+"id": "USGS_GFOI_Laos",
+"title": "USGS Global Forest Observations Initiative (GFOI) Laos"
+},
+{
+"id": "USGS_GFOI_Malawi",
+"title": "USGS Global Forest Observations Initiative (GFOI) Malawi"
+},
+{
+"id": "USGS_GFOI_Mexico",
+"title": "USGS Global Forest Observations Initiative (GFOI) Mexico"
+},
+{
+"id": "USGS_GFOI_Nepal",
+"title": "USGS Global Forest Observations Initiative (GFOI) Nepal"
+},
+{
+"id": "USGS_GFOI_Nicaragua",
+"title": "USGS Global Forest Observations Initiative (GFOI) Nicaragua"
+},
+{
+"id": "USGS_GFOI_Panama",
+"title": "USGS Global Forest Observations Initiative (GFOI) Panama"
+},
+{
+"id": "USGS_GFOI_Peru",
+"title": "USGS Global Forest Observations Initiative (GFOI) Peru"
+},
+{
+"id": "USGS_GFOI_Philippines",
+"title": "USGS Global Forest Observations Initiative (GFOI) Philippines"
+},
+{
+"id": "USGS_GFOI_REP_CONGO",
+"title": "USGS Global Forest Observations Initiative (GFOI) REPUBLIC OF THE CONGO"
+},
+{
+"id": "USGS_GFOI_Sumatra",
+"title": "USGS Global Forest Observations Initiative (GFOI) Sumatra"
+},
+{
+"id": "USGS_GFOI_Tanzania",
+"title": "USGS Global Forest Observations Initiative (GFOI) Tanzania"
+},
+{
+"id": "USGS_GFOI_Tasmania_Island",
+"title": "USGS Global Forest Observations Initiative (GFOI) Tasmania Island"
+},
+{
+"id": "USGS_GFOI_Thailand",
+"title": "USGS Global Forest Observations Initiative (GFOI) Thailand"
+},
+{
+"id": "USGS_GFOI_Vietnam",
+"title": "USGS Global Forest Observations Initiative (GFOI) Vietnam"
+},
+{
+"id": "USGS_GFOI_Zambia",
+"title": "USGS Global Forest Observations Initiative (GFOI) Zambia"
+},
+{
+"id": "USGS_GEOGLAM_Algeria",
+"title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Algeria"
+},
+{
+"id": "USGS_GEOGLAM_Argentina",
+"title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Argentina"
+},
+{
+"id": "USGS_GEOGLAM_Australia",
+"title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Australia"
+},
+{
+"id": "USGS_GEOGLAM_Ethiopia",
+"title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Ethiopia"
+},
+{
+"id": "USGS_GEOGLAM_Pakistan",
+"title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Pakistan"
+},
+{
+"id": "USGS_GEOGLAM_Russia",
+"title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Russia"
+},
+{
+"id": "USGS_GEOGLAM_Uganda",
+"title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Uganda"
+},
+{
+"id": "USGS_GEOGLAM_Ukraine",
+"title": "USGS Group on Earth Observations (GEO) Global Agricultural Monitoring (GLAM) Ukraine"
+},
+{
+"id": "HRO",
+"title": "USGS High Resolution Orthoimagery"
+},
+{
+"id": "USGS_JECAM_Canada_South_Nation",
+"title": "USGS JECAM Canada South Nation"
+},
+{
+"id": "vegdri",
+"title": "Vegetation Drought Response Index (VegDRI)"
+}
+]

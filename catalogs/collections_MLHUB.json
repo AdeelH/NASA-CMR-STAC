@@ -1,0 +1,234 @@
+[
+{
+"id": "2019 Mali CropType Training Data.v1",
+"title": "2019 Mali CropType Training Data"
+},
+{
+"id": "A crop type dataset for consistent land cover classification in Central Asia.v1",
+"title": "A crop type dataset for consistent land cover classification in Central Asia"
+},
+{
+"id": "A Fusion Dataset for Crop Type Classification in Germany.v1",
+"title": "A Fusion Dataset for Crop Type Classification in Germany"
+},
+{
+"id": "A Fusion Dataset for Crop Type Classification in Western Cape, South Africa.v1",
+"title": "A Fusion Dataset for Crop Type Classification in Western Cape, South Africa"
+},
+{
+"id": "AgriFieldNet Competition Dataset.v1",
+"title": "AgriFieldNet Competition Dataset"
+},
+{
+"id": "BigEarthNet.v1",
+"title": "BigEarthNet"
+},
+{
+"id": "Chesapeake Land Cover.v1",
+"title": "Chesapeake Land Cover"
+},
+{
+"id": "Cloud to Street - Microsoft flood dataset.v1",
+"title": "Cloud to Street - Microsoft flood dataset"
+},
+{
+"id": "CSU Synthetic Attribution Benchmark Dataset.v1",
+"title": "CSU Synthetic Attribution Benchmark Dataset"
+},
+{
+"id": "CV4A Kenya Crop Type Competition.v1",
+"title": "CV4A Kenya Crop Type Competition"
+},
+{
+"id": "Dalberg Data Insights Crop Type Uganda.v1",
+"title": "Dalberg Data Insights Crop Type Uganda"
+},
+{
+"id": "Drone Imagery Classification Training Dataset for Crop Types in Rwanda.v1",
+"title": "Drone Imagery Classification Training Dataset for Crop Types in Rwanda"
+},
+{
+"id": "East Africa Agricultural Field Centers.v1",
+"title": "East Africa Agricultural Field Centers"
+},
+{
+"id": "Eyes on the Ground Image Data.v1",
+"title": "Eyes on the Ground Image Data"
+},
+{
+"id": "Great African Food Company Crop Type Tanzania.v1",
+"title": "Great African Food Company Crop Type Tanzania"
+},
+{
+"id": "LandCoverNet Africa.v1",
+"title": "LandCoverNet Africa"
+},
+{
+"id": "LandCoverNet Asia.v1",
+"title": "LandCoverNet Asia"
+},
+{
+"id": "LandCoverNet Australia.v1",
+"title": "LandCoverNet Australia"
+},
+{
+"id": "LandCoverNet Europe.v1",
+"title": "LandCoverNet Europe"
+},
+{
+"id": "LandCoverNet North America.v1",
+"title": "LandCoverNet North America"
+},
+{
+"id": "LandCoverNet South America.v1",
+"title": "LandCoverNet South America"
+},
+{
+"id": "Marine Debris Archive (MARIDA).v1",
+"title": "Marine Debris Archive (MARIDA)"
+},
+{
+"id": "Marine Debris Dataset for Object Detection in Planetscope Imagery.v1",
+"title": "Marine Debris Dataset for Object Detection in Planetscope Imagery"
+},
+{
+"id": "NASA Flood Extent Detection.v1",
+"title": "NASA Flood Extent Detection"
+},
+{
+"id": "Open Cities AI Challenge Dataset.v1",
+"title": "Open Cities AI Challenge Dataset"
+},
+{
+"id": "PlantVillage Crop Type Kenya.v1",
+"title": "PlantVillage Crop Type Kenya"
+},
+{
+"id": "ramp Building Footprint Dataset - Accra, Ghana.v1",
+"title": "ramp Building Footprint Dataset - Accra, Ghana"
+},
+{
+"id": "ramp Building Footprint Dataset - Barishal, Bangladesh.v1",
+"title": "ramp Building Footprint Dataset - Barishal, Bangladesh"
+},
+{
+"id": "ramp Building Footprint Dataset - Bentiu, South Sudan.v1",
+"title": "ramp Building Footprint Dataset - Bentiu, South Sudan"
+},
+{
+"id": "ramp Building Footprint Dataset - Chittagong, Bangladesh.v1",
+"title": "ramp Building Footprint Dataset - Chittagong, Bangladesh"
+},
+{
+"id": "ramp Building Footprint Dataset - Cox's Bazar, Bangladesh.v1",
+"title": "ramp Building Footprint Dataset - Cox's Bazar, Bangladesh"
+},
+{
+"id": "ramp Building Footprint Dataset - Dar es Salaam, Tanzania.v1",
+"title": "ramp Building Footprint Dataset - Dar es Salaam, Tanzania"
+},
+{
+"id": "ramp Building Footprint Dataset - Dhaka, Bangladesh.v1",
+"title": "ramp Building Footprint Dataset - Dhaka, Bangladesh"
+},
+{
+"id": "ramp Building Footprint Dataset - Hpa-an, Myanmar.v1",
+"title": "ramp Building Footprint Dataset - Hpa-an, Myanmar"
+},
+{
+"id": "ramp Building Footprint Dataset - Jashore, Bangladesh.v1",
+"title": "ramp Building Footprint Dataset - Jashore, Bangladesh"
+},
+{
+"id": "ramp Building Footprint Dataset - Karnataka, India.v1",
+"title": "ramp Building Footprint Dataset - Karnataka, India"
+},
+{
+"id": "ramp Building Footprint Dataset - Les Cayes, Haiti.v1",
+"title": "ramp Building Footprint Dataset - Les Cayes, Haiti"
+},
+{
+"id": "ramp Building Footprint Dataset - Lubumbashi, Democratic Republic of the Congo.v1",
+"title": "ramp Building Footprint Dataset - Lubumbashi, Democratic Republic of the Congo"
+},
+{
+"id": "ramp Building Footprint Dataset - Manjama, Sierra Leone.v1",
+"title": "ramp Building Footprint Dataset - Manjama, Sierra Leone"
+},
+{
+"id": "ramp Building Footprint Dataset - Mesopotamia, St. Vincent.v1",
+"title": "ramp Building Footprint Dataset - Mesopotamia, St. Vincent"
+},
+{
+"id": "ramp Building Footprint Dataset - Muscat, Oman.v1",
+"title": "ramp Building Footprint Dataset - Muscat, Oman"
+},
+{
+"id": "ramp Building Footprint Dataset - Mzuzu, Malawi.v1",
+"title": "ramp Building Footprint Dataset - Mzuzu, Malawi"
+},
+{
+"id": "ramp Building Footprint Dataset - N'Djamena, Chad.v1",
+"title": "ramp Building Footprint Dataset - N'Djamena, Chad"
+},
+{
+"id": "ramp Building Footprint Dataset - Nairobi, Kenya.v1",
+"title": "ramp Building Footprint Dataset - Nairobi, Kenya"
+},
+{
+"id": "ramp Building Footprint Dataset - Paris, France.v1",
+"title": "ramp Building Footprint Dataset - Paris, France"
+},
+{
+"id": "ramp Building Footprint Dataset - Shanghai, China.v1",
+"title": "ramp Building Footprint Dataset - Shanghai, China"
+},
+{
+"id": "ramp Building Footprint Dataset - Sylhet, Bangladesh.v1",
+"title": "ramp Building Footprint Dataset - Sylhet, Bangladesh"
+},
+{
+"id": "ramp Building Footprint Dataset - Wa, Ghana.v1",
+"title": "ramp Building Footprint Dataset - Wa, Ghana"
+},
+{
+"id": "Rwanda Field Boundary Competition Dataset.v1",
+"title": "Rwanda Field Boundary Competition Dataset"
+},
+{
+"id": "Semantic Segmentation of Crop Type in Ghana.v1",
+"title": "Semantic Segmentation of Crop Type in Ghana"
+},
+{
+"id": "Semantic Segmentation of Crop Type in South Sudan.v1",
+"title": "Semantic Segmentation of Crop Type in South Sudan"
+},
+{
+"id": "SEN12-FLOOD : A SAR and Multispectral Dataset for Flood Detection.v1",
+"title": "SEN12-FLOOD : A SAR and Multispectral Dataset for Flood Detection"
+},
+{
+"id": "SEN12TS: A SAR and Multispectral Dataset for Land Cover Classification.v1",
+"title": "SEN12TS: A SAR and Multispectral Dataset for Land Cover Classification"
+},
+{
+"id": "Sentinel-2 Cloud Cover Segmentation Dataset.v1",
+"title": "Sentinel-2 Cloud Cover Segmentation Dataset"
+},
+{
+"id": "Smallholder Cashew Plantations in Benin.v1",
+"title": "Smallholder Cashew Plantations in Benin"
+},
+{
+"id": "South Africa Crop Type Competition.v1",
+"title": "South Africa Crop Type Competition"
+},
+{
+"id": "Tropical Cyclone Wind Estimation Competition.v1",
+"title": "Tropical Cyclone Wind Estimation Competition"
+},
+{
+"id": "Western USA Live Fuel Moisture.v1",
+"title": "Western USA Live Fuel Moisture"
+}
+]

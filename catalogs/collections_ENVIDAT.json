@@ -1,0 +1,1990 @@
+[
+{
+"id": "latent-reserves-in-the-swiss-nfi.v1.0",
+"title": "'Latent reserves' within the Swiss NFI"
+},
+{
+"id": "envidat-lwf-34.v2019-03-06",
+"title": "10-HS Pfynwald"
+},
+{
+"id": "pfynwaldgasexchange.v1.0",
+"title": "2013-2020 gas exchange at Pfynwald"
+},
+{
+"id": "a-numerical-solver-for-heat-and-mass-transport-in-snow-based-on-fenics.v1.0",
+"title": "A numerical solver for heat and mass transport in snow based on FEniCS"
+},
+{
+"id": "above-and-below-ground-herbivore-communities-along-elevation.v1.0",
+"title": "Above- and below-ground herbivore communities along elevation"
+},
+{
+"id": "aerosol-data-davos-wolfgang.v1.0",
+"title": "Aerosol Data Davos Wolfgang"
+},
+{
+"id": "aerosol-data-weissfluhjoch.v1.0",
+"title": "Aerosol Data Weissfluhjoch"
+},
+{
+"id": "alnus-glutinosa-orientus-ishidae-flavescence-doree.v1.0",
+"title": "Alnus glutinosa (L.) Gaertn. and Orientus ishidae (Matsumura, 1902) share phytoplasma genotypes linked to the \u201cFlavescence dor\u00e9e\u201d epidemics"
+},
+{
+"id": "ch2014.v1",
+"title": "Alpine3D simulations of future climate scenarios CH2014"
+},
+{
+"id": "alpine3d-simulations-of-future-climate-scenarios-for-graubunden.v1.0",
+"title": "Alpine3D simulations of future climate scenarios for Graubunden"
+},
+{
+"id": "lwfmeteo-alpthal.v1.0",
+"title": "Alpthal, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1997 onwards"
+},
+{
+"id": "als-based-snow-depth.v1.0",
+"title": "ALS-based snow depth and canopy height maps from flights in 2017 (Grisons, CH and Grand Mesa, CO)"
+},
+{
+"id": "amount_of_dead_wood-214.v1.0",
+"title": "Amount of dead wood"
+},
+{
+"id": "amphibian-and-landscape-data-swiss-lowlands.v1.0",
+"title": "Amphibian and urban-rural landscape data Swiss Lowlands"
+},
+{
+"id": "amphibian-data-aargau.v1.0",
+"title": "Amphibian observation and pond data (Aargau, Switzerland)"
+},
+{
+"id": "angle-of-repose-of-snow.v1.0",
+"title": "Angle of repose experiments with natural and spherical snow"
+},
+{
+"id": "10-16904-8.v1",
+"title": "Antarctic sea-ice freshwater fluxes associated with freezing, transport, and melting"
+},
+{
+"id": "anthropogenic-change-and-net-n-mineralization.v1.0",
+"title": "Anthropogenic change and soil net N mineralization"
+},
+{
+"id": "area_of_shrub_forest-123.v1.0",
+"title": "Area of shrub forest"
+},
+{
+"id": "arthropod-biomass-abundance-species-richness-trends-limpach.v1.0",
+"title": "Arthropod biomass, abundance and species richness trends over 32 years in the agricultural Limpach valley, Switzerland"
+},
+{
+"id": "asrb-dav.v1.0",
+"title": "ASRB_DAV: Shortwave and longwave radiation measurements (2 min) in Davos Dorf"
+},
+{
+"id": "asrb-wfj.v1.0",
+"title": "ASRB_WFJ: Shortwave and longwave radiation measurements (2 min) at the Weissfluhjoch research site, Davos"
+},
+{
+"id": "asrb-vf.v1.0",
+"title": "ASRB_WFJVF: Shortwave and longwave radiation measurements (2 min) at the Weissfluhjoch research site, Davos"
+},
+{
+"id": "envidat-lwf-15.v2019-03-06",
+"title": "Atmospheric deposition (throughfall and bulk deposition) LWF"
+},
+{
+"id": "atree-forest-owners-survey-about-climate-regulation-services-of-forests.v1.0",
+"title": "ATREE forest owners survey about climate regulation services of forests"
+},
+{
+"id": "atree-forest-owner-clearances-offsetting.v1.0",
+"title": "ATREE forest owners survey about forest clearances offsetting in the forest"
+},
+{
+"id": "atree-q-methodology-forest-clearances-offsetting.v1.0",
+"title": "ATREE Q-methodology statement sorts on forest clearances offsetting in the forest"
+},
+{
+"id": "atree-social-network-analysis-carbon-sequestration-lucerne.v1.0",
+"title": "ATREE Social Network Analysis survey on policy options regarding CO2 mitigation and sequestration in wood and forest"
+},
+{
+"id": "automated-avalanche-release-area-pra-delineation-davos.v1.0",
+"title": "Automated Avalanche Release Area (PRA) Delineation Davos"
+},
+{
+"id": "envidat-lwf-57.v2019-03-06",
+"title": "Automated point dendrometer measurements at LWF sites"
+},
+{
+"id": "automatic-classification-of-avalanches.v1.0",
+"title": "Automatic Classification of Avalanches"
+},
+{
+"id": "10-16904-envidat-29.v1.0",
+"title": "Automatic detection of avalanches"
+},
+{
+"id": "avalanche-fatalities-european-alps-1969-2015.v1.0",
+"title": "Avalanche fatalities in the European Alps (1969/1970 - 2014/2015)"
+},
+{
+"id": "p_pet_500m.v1.0",
+"title": "Average precipitation and PET over Switzerland at 500m resolution"
+},
+{
+"id": "raclets-backward-trajectories.v1.0",
+"title": "Backward  Trajectories"
+},
+{
+"id": "basal_area-92.v1.0",
+"title": "Basal area"
+},
+{
+"id": "basal_area_of_dead_wood-171.v1.0",
+"title": "Basal area of dead wood"
+},
+{
+"id": "basal_area_of_dead_wood_nfi1-247.v1.0",
+"title": "Basal area of dead wood NFI1"
+},
+{
+"id": "base-cation-dynamics-in-an-oriental-beech-forest.v1.0",
+"title": "Base cation dynamics in an Oriental beech forest"
+},
+{
+"id": "bats-and-nocturnal-insects-in-urban-green-areas.v1.0",
+"title": "Bats and nocturnal insects in urban green areas"
+},
+{
+"id": "lwfmeteo-beatenberg.v1.0",
+"title": "Beatenberg, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1997 onwards"
+},
+{
+"id": "lwfmeteo-bettlachstock.v1.0",
+"title": "Bettlachstock, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1997 onwards"
+},
+{
+"id": "biogas-aus-hofdunger-in-der-schweiz.v1.0",
+"title": "Biogas aus Hofd\u00fcnger in der Schweiz"
+},
+{
+"id": "biogas-from-animal-manure-in-switzerland.v1.0",
+"title": "Biogas from animal manure in Switzerland"
+},
+{
+"id": "mountland-jura.v1",
+"title": "Biogeochemical data from a transplantation experiment of monolith soil turfs along an altitudinal gradient to simulate climate change scenarios"
+},
+{
+"id": "biomass_above_ground_of_live_trees-19.v1.0",
+"title": "Biomass above ground of live trees"
+},
+{
+"id": "biomass_of_live_trees-18.v1.0",
+"title": "Biomass of live trees"
+},
+{
+"id": "biomass_of_lying_dead_trees-70.v1.0",
+"title": "Biomass of lying dead trees"
+},
+{
+"id": "biomass_of_lying_dead_wood_lis-72.v1.0",
+"title": "Biomass of lying dead wood (LIS)"
+},
+{
+"id": "biomass_of_standing_dead_trees-69.v1.0",
+"title": "Biomass of standing dead trees"
+},
+{
+"id": "biomass_of_total_dead_wood-71.v1.0",
+"title": "Biomass of total dead wood"
+},
+{
+"id": "bole_wood_mass_of_live_trees-50.v1.0",
+"title": "Bole wood mass of live trees"
+},
+{
+"id": "10-16904-envidat-27.v1.0",
+"title": "Calibration data for empirical mortality models of 18 European tree species"
+},
+{
+"id": "carabid-beetles-in-forests.v2.0",
+"title": "Carabid beetles in forests"
+},
+{
+"id": "causal-effect-of-lup.v1.0",
+"title": "Causal effect of LUP"
+},
+{
+"id": "causal-effect-of-mfoz.v1.0",
+"title": "Causal effect of MFOZ"
+},
+{
+"id": "ccn-hygroscopicity-predicted-cloud-droplet-numbers-weissfluhjoch.v1.0",
+"title": "CCN, hygroscopicity, predicted cloud droplet numbers Weissfluhjoch"
+},
+{
+"id": "ceilometer-klosters.v1.0",
+"title": "Ceilometer Klosters"
+},
+{
+"id": "lwfmeteo-celerina.v1.0",
+"title": "Celerina, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1997 onwards"
+},
+{
+"id": "challenging-the-sustainability-of-urban-beekeeping-evidence-from-swiss-cities.v1.0",
+"title": "Challenging the sustainability of urban beekeeping: evidence from Swiss cities"
+},
+{
+"id": "bender2020.v1.0",
+"title": "Changes in climatology, snow cover and ground temperatures at high alpine locations in Switzerland (Bender et al. 2020)"
+},
+{
+"id": "bioclim_plus.v1.0",
+"title": "CHELSA-BIOCLIM+ A novel set of global climate-related predictors at kilometre-resolution"
+},
+{
+"id": "chelsa_trace.v1.0",
+"title": "CHELSA-TraCE21k: Downscaled transient temperature and precipitation data since the last glacial maximum"
+},
+{
+"id": "chelsacruts.v1.0",
+"title": "CHELSAcruts -  High resolution temperature and precipitation timeseries for the 20th century and beyond"
+},
+{
+"id": "lwfmeteo-chironico.v1.0",
+"title": "Chironico, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 2000 onwards"
+},
+{
+"id": "envidat-lwf-19.v2019-03-06",
+"title": "Circular vegetation plots LWF"
+},
+{
+"id": "chelsa-climatologies.v2.1",
+"title": "Climatologies at high resolution for the earth\u2019s land surface areas"
+},
+{
+"id": "core.v0.1",
+"title": "Cloud Optimized Raster Encoding (CORE) format"
+},
+{
+"id": "snowmicroquakes.v1.0",
+"title": "Compressive stick slip and snow-micro-quakes"
+},
+{
+"id": "content-coding-of-exemption-approval-decisions-for-forest-clearances.v1.0",
+"title": "Content coding of exemption approval decisions for forest clearances"
+},
+{
+"id": "envidat-lwf-37.v2019-03-06",
+"title": "Continuous measurement of O3 LWF"
+},
+{
+"id": "crack-propagation-speeds-in-weak-snowpack-layers.v1.0",
+"title": "Crack propagation speeds in weak snowpack layers from three events: PST, whumpf and slab avalanche"
+},
+{
+"id": "cropland-and-grassland-map-of-switzerland-based-on-sentinel-2-data.v1.5",
+"title": "Cropland and grassland map of Switzerland based on Sentinel-2 data"
+},
+{
+"id": "envidat-lwf-48.v2019-03-06",
+"title": "Crown Condition Assessment and Damage Cause Assessment LWF"
+},
+{
+"id": "envidat-lwf-47.v2019-03-06",
+"title": "Crown Condition Assessment and Damage Cause Assessment Sanasilva"
+},
+{
+"id": "daily-500m-gridded-net-radiation-and-soil-moisture-for-switzerland-2004.v1.0",
+"title": "daily 500m gridded net radiation and soil moisture for Switzerland, 2004"
+},
+{
+"id": "sagehen_cycles.v1.0",
+"title": "Daily cycles in solar flux, snowmelt, transpiration, groundwater, and streamflow at Sagehen and Independence Creeks, Sierra Nevada, USA"
+},
+{
+"id": "daily-solute-and-isotope-of-stream-water-and-precipitation.v1.0",
+"title": "Daily data of solute and stable water isotopes in stream water and precipitation in the Alp catchment, Central Switzerland"
+},
+{
+"id": "snowmeltlysimeter-dataset.v1.0",
+"title": "Daily data of the volumes, solutes and isotopes in snowpack outflow measured at three locations in the southern Alp catchment"
+},
+{
+"id": "data-analysis-toolkits.v1.0",
+"title": "Data analysis toolkits"
+},
+{
+"id": "data-broedlin-cnp.v1.0",
+"title": "Data Broedlin CNP"
+},
+{
+"id": "data-for-numerical-investigation-of-sediment-yield.v1.0",
+"title": "Data for Numerical Investigation of Sediment Yield Underestimation in Supply-Limited Mountain Basins with Short Records"
+},
+{
+"id": "secondary-ice-production-processes-in-wintertime-alpine-mixed-phase-clouds.v1.0",
+"title": "Data for the publication \"Secondary ice production processes in wintertime alpine mixed-phase clouds\""
+},
+{
+"id": "dalmolin_thurmodeling1.v1.0",
+"title": "Data for: Understanding dominant controls on streamflow spatial variability to set-up a semi-distributed hydrological model: the case study of the Thur catchment"
+},
+{
+"id": "data-for-huelsmann_et_al_ecol_appl_2016.v1.0",
+"title": "Data from: Does one model fit all? patterns of beech mortality in natural forests of three European regions"
+},
+{
+"id": "data-from-hagen-skeels-etal-pnas.v1.0",
+"title": "Data from: Earth history events shaped the evolution of uneven biodiversity across tropical moist forests"
+},
+{
+"id": "data-amphibian-monitoring.v1.0",
+"title": "Data from: Estimation of breeding probbability can make monitoring data more revealing: a case study of amphibians"
+},
+{
+"id": "data-of-national-dishes-their-similarity-and-trade-flows.v1.0",
+"title": "Data of national dishes, their similarity and trade flows"
+},
+{
+"id": "data-set-of-mee-20-04-264.v1.0",
+"title": "Data set of: Plant and root-zone water isotopes are difficult to measure, explain, and predict: some practical recommendations for determining plant water sources"
+},
+{
+"id": "labchemistrymetamorphism.v1.0",
+"title": "Data set on bromide oxidation by ozone in snow during metamorphism from laboratory study"
+},
+{
+"id": "nacl_interfacial_phasechanges.v1.0",
+"title": "Data set on interfacial supercooling and the precipitation of hydrohalite in frozen NaCl solutions by X-ray absorption spectroscopy"
+},
+{
+"id": "data-snow-instability.v1.0",
+"title": "Data set on snow instability"
+},
+{
+"id": "data-code-link-and-metadata-on-forward-scattering-of-snow-at-totalp.v1.0",
+"title": "Data, Code Link and Metadata on Forward Scattering of Snow at Totalp"
+},
+{
+"id": "crack-propagation-in-weak-snowpack-layers-insights-from-high-speed-photography.v1.0",
+"title": "Dataset for \"Dynamic crack propagation in weak snowpack layers: Insights from high-resolution, high-speed photography\""
+},
+{
+"id": "dataset-for-ogrs-2018-publication.v1.0",
+"title": "Dataset for OGRS 2018 publication"
+},
+{
+"id": "climate-change-scenarios-at-hourly-resolution.v1.0",
+"title": "Dataset for: Climate change scenarios at hourly time-step over Switzerland from an enhanced temporal downscaling approach"
+},
+{
+"id": "dataset-for-future-water-temperature.v1.0",
+"title": "Dataset for: Future water temperature of rivers in Switzerland under climate change investigated with physics-based models"
+},
+{
+"id": "dataset-on-wind-fields-and-energy-potential-in-swiss-alps.v1.0",
+"title": "Dataset on Cosmo-1 based Energy Potential in Swiss Alps"
+},
+{
+"id": "pv_snow_mountain.v1.0",
+"title": "Dataset on PV Production in Snow Covered Mountains"
+},
+{
+"id": "envidat-lwf-86.v2019-03-06",
+"title": "Deadwood sampling at Sanasilva and LWF sites"
+},
+{
+"id": "envidat-lwf-49.v2019-03-06",
+"title": "Deadwood survey LWF 1995 - line intersect"
+},
+{
+"id": "envidat-lwf-50.v2019-03-06",
+"title": "Deadwood survey LWF 2005 - subplot (Forets Biota)"
+},
+{
+"id": "envidat-lwf-52.v2019-03-06",
+"title": "Deadwood survey LWF 2013 - line intersect"
+},
+{
+"id": "envidat-lwf-51.v2019-03-06",
+"title": "Deadwood survey LWF 2013 - subplot"
+},
+{
+"id": "envidat-lwf-53.v2019-03-06",
+"title": "Deadwood survey Sanasilva 2013"
+},
+{
+"id": "debris-flow-volumes-at-the-illgraben-2000-2017.v1.0",
+"title": "Debris-flow volumes at the Illgraben 2000-2017"
+},
+{
+"id": "envidat-lwf-82.v2019-03-06",
+"title": "Dendrochronological analyses of tree core samples (CATS) adjacent to LWF sites"
+},
+{
+"id": "envidat-lwf-81.v2019-03-06",
+"title": "Dendrochronological analyses of tree core samples (dominant trees) LWF"
+},
+{
+"id": "envidat-lwf-83.v2019-03-06",
+"title": "Dendrochronological analyses of tree core samples (IsoN) adjacent to LWF sites"
+},
+{
+"id": "envidat-lwf-84.v2019-03-06",
+"title": "Dendrochronological analyses of tree core samples (subplot) LWF"
+},
+{
+"id": "digitizing-historical-plague.v1.0",
+"title": "Digitizing historical plague"
+},
+{
+"id": "streamwater-level-and-isotopic-composition-four-rainfall-events-studibach.v1.0",
+"title": "Discharge, rainfall, and deuterium compositions of streamwater, rainwater and groundwater, for four rainfall events in the Studibach, Alptal, Switzerland"
+},
+{
+"id": "10-16904-envidat-25.v1",
+"title": "DISCHMEX - High-resolution daily snow ablation rates in an Alpine environment"
+},
+{
+"id": "dischmex-high-resolution-wrf-simulations-and-measurements.v1.0",
+"title": "DISCHMEX - High-resolution WRF simulations in complex alpine terrain and station measurements"
+},
+{
+"id": "10-16904-10.v1.0",
+"title": "DISCHMEX - Impact of extreme land-surface heterogeneity on micrometeorology over spring snow-cover"
+},
+{
+"id": "dischmex-meteorological-measurements.v1.0",
+"title": "DISCHMEX - Meteorological measurements"
+},
+{
+"id": "10-16904-19.v1.0",
+"title": "DISCHMEX - Observations and simulations of the close-ridge small-scale atmospheric flow field and snow accumulation at Sattelhorn, Dischma valley, Davos, Switzerland."
+},
+{
+"id": "disdrometer-data-davos-wolfgang.v1.0",
+"title": "Disdrometer Data Davos Wolfgang"
+},
+{
+"id": "disdrometer-data-gotschna.v1.0",
+"title": "Disdrometer Data Gotschnagrat"
+},
+{
+"id": "disdrometer_laret.v1.0",
+"title": "Disdrometer Data Laret"
+},
+{
+"id": "distributed-subcanopy-datasets.v1.0",
+"title": "Distributed sub-canopy datasets from mobile multi-sensor platforms (CH / FIN, 2018-2019) for hyper-resolution forest snow model evaluation"
+},
+{
+"id": "mogli-sdm.v1.0",
+"title": "Distribution maps of common woody species for Swiss forests"
+},
+{
+"id": "diversity-of-ground-beetles-and-spiders-as-well-as-cynipid-oak-gall-formation.v1.0",
+"title": "Diversity of ground beetles and spiders as well as cynipid oak gall formation on irrigated and non-irrigated plots in a dry mixed Scots pine forest"
+},
+{
+"id": "diversity_of_woody_species-36.v1.0",
+"title": "Diversity of woody species"
+},
+{
+"id": "drought-alters-c-footprint-of-trees-in-soil-13c-pulse-labelling-experiment.v1.0",
+"title": "Drought alters C footprint of trees in soil: tracking the spatio-temporal fate of 13C labelled assimilates in the soil"
+},
+{
+"id": "dynamics-of-insect-natural-enemies-of-bark-beetles.v1.0",
+"title": "Dynamics of insect natural enemies of bark beetles"
+},
+{
+"id": "envidat-lwf-30.v2019-03-06",
+"title": "EC-5 soil water content measurement LWF"
+},
+{
+"id": "ecological-properties-of-urban-ecosystems-biodiversity-dataset-of-zurich.v1.0",
+"title": "Ecological properties of urban ecosystems. Biodiversity dataset of Zurich"
+},
+{
+"id": "ecosystem-coupling-and-multifunctionality-exclosure-experiment.v1.0",
+"title": "Ecosystem coupling and multifunctionality - exclosure experiment"
+},
+{
+"id": "ect-and-rb-data-switzerland.v1.0",
+"title": "ECT and RB data Switzerland"
+},
+{
+"id": "effects-of-canopy-disturbance-on-swiss-forests.v1.0",
+"title": "Effects of canopy disturbance on Swiss forests"
+},
+{
+"id": "elk-and-bison-carcasses-in-yellowstone-usa.v1.0",
+"title": "Elk and bison carcasses in Yellowstone, USA"
+},
+{
+"id": "emergence-dynamics-of-natural-enemies.v1.0",
+"title": "Emergence dynamics of natural enemies of spruce bark beetles"
+},
+{
+"id": "endsplit.v1.0",
+"title": "EndSplit"
+},
+{
+"id": "2016gl071822.v1.0",
+"title": "Energy- and momentum-conserving model of splash entrainment in sand and snow saltation"
+},
+{
+"id": "ensemble-hydrograph-separation.v1.4",
+"title": "Ensemble hydrograph separation scripts"
+},
+{
+"id": "wslintern-article-envidat-supports-open-science.v1.0",
+"title": "EnviDat Supports Open Science"
+},
+{
+"id": "environmental-constraints-on-tree-growth.v1.0",
+"title": "Environmental constraints on tree growth"
+},
+{
+"id": "sdm-env-layers-gdplants.v1.0",
+"title": "Environmental layers for SDM simulations (GDPlants)"
+},
+{
+"id": "espon-digiplan.v1.0",
+"title": "ESPON Digiplan"
+},
+{
+"id": "european-snow-booklet.v1.0",
+"title": "European Snow Booklet \u2013 an Inventory of Snow Measurements in Europe"
+},
+{
+"id": "10-16904-envidat-30.v1.0",
+"title": "Expedition to Princess Elisabeth Antarctica Station, 2016/2017"
+},
+{
+"id": "experimental-rockfall-trilogy-of-surava.v1.0",
+"title": "Experimental rockfall trilogy of Surava"
+},
+{
+"id": "snow-deltao18-metamorphism-advection.v1.0",
+"title": "Experiments on stable water isotopes,  snow metamorphism, and advection"
+},
+{
+"id": "face-stillberg.v1.0",
+"title": "FACE: Stillberg CO2 enrichment and soil warming study"
+},
+{
+"id": "factors-influencing-teenagers-forest-visit-frequency.v1.0",
+"title": "Factors influencing teenagers' forest visit frequency"
+},
+{
+"id": "factors-slowing-down-upward-shifts-of-trees-upper-elevation-limits.v1.0",
+"title": "Factors slowing down upward shifts of trees\u2019 upper elevation limits"
+},
+{
+"id": "fatal-avalanche-accidents-switzerland-1995.v1.0",
+"title": "Fatal avalanche accidents in Switzerland since 1995-1996"
+},
+{
+"id": "fiber-bundle-model-for-snow-failure.v1.0",
+"title": "Fiber Bundle Model for snow failure and concurrent Acoustic Emissions"
+},
+{
+"id": "field-observations-of-snow-instabilities.v1.0",
+"title": "Field observations of snow instabilities"
+},
+{
+"id": "flowering-plants-angiospermae-in-urban-green-areas-in-five-european-cities.v1.0",
+"title": "Flowering Plants (Angiospermae) in Urban Green Areas in five European Cities"
+},
+{
+"id": "envidat-lwf-18.v2019-03-06",
+"title": "Foliar analyses LWF"
+},
+{
+"id": "forclim.v4.0",
+"title": "ForClim"
+},
+{
+"id": "forecast-avalanche-danger-level-european-alps-2011-2015.v1.0",
+"title": "Forecast avalanche danger level European Alps 2011 - 2015"
+},
+{
+"id": "10-16904-3.v1",
+"title": "Forest Access Roads 2013"
+},
+{
+"id": "forest_area-44.v1.0",
+"title": "Forest area"
+},
+{
+"id": "forest_area_by_forest_function-262.v1.0",
+"title": "Forest area by forest function"
+},
+{
+"id": "forest_area_by_natural_hazard-260.v1.0",
+"title": "Forest area by natural hazard"
+},
+{
+"id": "chm-hp-4rtm.v1.0",
+"title": "Forest canopy structure data for radiation and snow modelling (CH/FIN)"
+},
+{
+"id": "forecomon-proceedings.v1.0",
+"title": "Forest monitoring to assess forest functioning under air pollution and climate change. Proceedings. FORECOMON 2021 - the 9th forest ecosystem monitoring conference. 7\u20139 June 2021, Birmensdorf, Switzerland"
+},
+{
+"id": "forecomon-proceedings.v1.0",
+"title": "Forest monitoring to assess forest functioning under air pollution and climate change. Proceedings. FORECOMON 2021 - the 9th forest ecosystem monitoring conference. 7\u20139 June 2021, Birmensdorf, Switzerland"
+},
+{
+"id": "forest-reserves-monitoring-in-switzerland.v1.0",
+"title": "Forest Reserves Monitoring in Switzerland"
+},
+{
+"id": "forest-type-nfi.v2018 (current)",
+"title": "Forest Type NFI"
+},
+{
+"id": "forhycs-v-1-0-0-model-code.v1.0.0",
+"title": "FORHYCS v. 1.0.0 model code"
+},
+{
+"id": "four-years-of-daily-stable-water-isotope-data.v1.0",
+"title": "Four years of daily stable water isotope data in stream water and precipitation from three Swiss catchments"
+},
+{
+"id": "book-of-abstracts-from-plans-to-land-change-dynamics-of-urban-regions.v1.0",
+"title": "From Plans to Land Change: Dynamics of Urban Regions. Book of Abstracts"
+},
+{
+"id": "gtree.v1.0",
+"title": "G-TREE: Global Treeline Range Expansion Experiment Davos, Switzerland"
+},
+{
+"id": "gcos-swe-data.v1",
+"title": "GCOS SWE data from 11 stations in Switzerland"
+},
+{
+"id": "gem2.v1.0",
+"title": "GEM2: Meteorological and snow station at Gemsstock (3021 m asl), Canton Uri, Switzerland"
+},
+{
+"id": "generalised-stand-descriptions-within-the-swiss-nfi.v1.0",
+"title": "Generalised stand descriptions in Switzerland"
+},
+{
+"id": "evoltree-conference-2021-birmensdorf-switzerland.v1.0",
+"title": "Genomics and Adaptation in Forest Ecosystems. Book of Abstracts. EvolTree Conference 2021, 14 \u2013 17 September 2021, Birmensdorf, Switzerland"
+},
+{
+"id": "global-cryosphere-watch-data-survey.v1.0",
+"title": "Global Cryosphere Watch data survey"
+},
+{
+"id": "gps-derived-data-of-swe-hs-and-lwc-and-corresponding-validation-data.v1.0",
+"title": "GPS-derived data of SWE, HS and LWC and corresponding validation data"
+},
+{
+"id": "data_ecolappl_2020.v1.0",
+"title": "Grassland restoration: insects and insect traits"
+},
+{
+"id": "data_jae_2019.v1.0",
+"title": "Grassland restoration: nematodes and plant communities"
+},
+{
+"id": "green-infrastructure-in-european-strategic-spatial-plans-of-urban.v1.0",
+"title": "Green infrastructure in strategic spatial plans: Evidence from European urban regions"
+},
+{
+"id": "gcnet.v1.0",
+"title": "Greenland Climate Network (GC-Net) Data"
+},
+{
+"id": "gl_microclim.v1.0",
+"title": "Greenland shrubs and microclimate"
+},
+{
+"id": "groundwater-time-series-studibach-rinderer-et-al-2019-wrr.v1.0",
+"title": "Groundwater time series Studibach (Rinderer et al., 2019, WRR)"
+},
+{
+"id": "herb-layer-biomass-in-swiss-forests.v1.0",
+"title": "Herb layer biomass in Swiss forests"
+},
+{
+"id": "eur11.v1.0",
+"title": "High resolution climate data for Europe"
+},
+{
+"id": "chelsa_cmip5_ts.v1.0",
+"title": "High resolution monthly precipitation and temperature timeseries for the period 2006-2100"
+},
+{
+"id": "10-16904-9.v1",
+"title": "High resolution sea ice surface topography from the SIPEX-2 expedition, East Antarctica, 2012"
+},
+{
+"id": "high-resolution-static-data-for-wrf-over-switzerland.v1.0",
+"title": "High resolution static data for WRF over Switzerland"
+},
+{
+"id": "hillshade-for-vegetation-height-model-nfi.v2016 (current)",
+"title": "Hillshade for Vegetation Height Model NFI"
+},
+{
+"id": "history-of-wetlands-in-switzerland-since-1850.v1.0",
+"title": "History of wetlands in Switzerland since 1850"
+},
+{
+"id": "how-do-stability-corrections-perform-in-the-stable-boundary-layer-over-snow.v1.0",
+"title": "How do stability corrections perform in the stable boundary layer over snow?"
+},
+{
+"id": "danger_descriptions_avalanche_bulletin_switzerland.v1.0",
+"title": "How is avalanche danger described in textual descriptions in avalanche forecasts in Switzerland?"
+},
+{
+"id": "landscape-technology-fit-public-evaluation.v1.0",
+"title": "Hybrid choice modelling dataset for the effects of landscape-technology fit on public evaluations"
+},
+{
+"id": "hydraulic-resistance-of-pores-in-porous-media-using-dns-of-laminar-flow.v1.0",
+"title": "Hydraulic resistance of pores in porous media using DNS of laminar flow"
+},
+{
+"id": "hydro-ch2018-evolution-of-stream-and-lake-water-temperature-under-climate-change.v1.0",
+"title": "Hydro-CH2018 Evolution of stream and lake water temperature under climate change"
+},
+{
+"id": "hydro-ch2018-reservoirs.v1.0",
+"title": "Hydro-CH2018 reservoirs"
+},
+{
+"id": "hydro-meteorological-simulations-1981-2018.v1.0",
+"title": "Hydro-meteorological simulations for the period 1981-2018 for Switzerland"
+},
+{
+"id": "hydropot_integral.v1.0",
+"title": "HYDROpot_integral"
+},
+{
+"id": "hymenoptera.v1.0",
+"title": "Hymenoptera"
+},
+{
+"id": "icbo2020.v1.0",
+"title": "ICBO2020"
+},
+{
+"id": "ice-nucleating-particle-concentrations-active-at-15-c-at-weissfluhjoch.v1.0",
+"title": "Ice nucleating particle concentrations active at -15 \u00b0C at Weissfluhjoch"
+},
+{
+"id": "icecube_microct_snow_grainsize.v1.0",
+"title": "IceCube_microCT_Snow_grainsize"
+},
+{
+"id": "impact-des-extremes-sur-les-scieries.v1.0",
+"title": "Impact des \u00e9v\u00e9nements m\u00e9t\u00e9orologiques extr\u00eames sur l'\u00e9conomie foresti\u00e8re suisse: le point de vue des scieries"
+},
+{
+"id": "fdp-grapevine-trunks-impact-xylem-phloem.v1.0",
+"title": "Impact of the \u201cFlavescence dor\u00e9e\u201d phytoplasma on xylem growth and phloem anomalies in trunks of \u2018Chardonnay\u2019 grapevines (Vitis vinifera)"
+},
+{
+"id": "fdp-grapevine-trunks-impact-xylem-phloem.v1.0",
+"title": "Impact of the \u201cFlavescence dor\u00e9e\u201d phytoplasma on xylem growth and phloem anomalies in trunks of \u2018Chardonnay\u2019 grapevines (Vitis vinifera)"
+},
+{
+"id": "impulse_response_function_script.v1.2",
+"title": "Impulse response functions for nonlinear nonstationary and heterogeneous systems"
+},
+{
+"id": "increment-11.v1.0",
+"title": "Increment"
+},
+{
+"id": "increment_star-162.v1.0",
+"title": "Increment*"
+},
+{
+"id": "induced-rockfall-dataset-chant-sura.v1.0",
+"title": "Induced Rockfall Dataset #2 (Chant Sura Experimental Campaign), Fl\u00fcelapass, Grisons, Switzerland"
+},
+{
+"id": "experimental-rockfall-dataset-tschamut-grisons-switzerland.v1.0",
+"title": "Induced Rockfall Dataset (Small Rock Experimental Campaign), Tschamut, Grisons, Switzerland"
+},
+{
+"id": "bark-and-wood-boring-insects-in-pines.v1.0",
+"title": "Infestation of Scots pines with different vitalities by bark and wood boring insects"
+},
+{
+"id": "10-16904-envidat-24.v1.0",
+"title": "Influence of slope-scale snowmelt on catchment response simulated with the Alpine3D model"
+},
+{
+"id": "inishell-2-0-4.v2.0.4",
+"title": "Inishell-2.0.4"
+},
+{
+"id": "input-data-for-break-point-detection-of-swiss-snow-depth-time-series.v1.0",
+"title": "Input data for break point detection of Swiss snow depth time series"
+},
+{
+"id": "interview-guide-and-transcripts.v1.0",
+"title": "Interview guide and transcripts (CONCUR Aim 2 on Governance)"
+},
+{
+"id": "inventaire-forestier-national-suisse-2009-2017.v1.0",
+"title": "Inventaire forestier national suisse. R\u00e9sultats du quatri\u00e8me inventaire 2009-2017"
+},
+{
+"id": "soil-moisture-measurements-davos.v1.0",
+"title": "IRKIS Soil moisture measurements Davos"
+},
+{
+"id": "lwfmeteo-isone.v1.0",
+"title": "Isone, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1997 onwards"
+},
+{
+"id": "lwfmeteo-jussy.v1.0",
+"title": "Jussy, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1997 onwards"
+},
+{
+"id": "kinetic-experiments-on-the-oxidation-of-bromide-by-ozone-from-289-245-k.v1.0",
+"title": "Kinetic experiments on the oxidation of bromide by ozone from 289-245 K."
+},
+{
+"id": "l-band-davos-laret.v1.0",
+"title": "L-Band Radiometry of Alpine Seasonal Snow Cover: 4 Years at the Davos-Laret Remote Sensing Field Laboratory"
+},
+{
+"id": "swiss_landscape_services_change.v1.0",
+"title": "Land use projections and services for Switzerland"
+},
+{
+"id": "land-use-cover-dynamics-in-austin-metropolitan-area-since-1992.v1.0",
+"title": "Land use/cover dynamics in Austin metropolitan area since 1992"
+},
+{
+"id": "landscape.v1.0",
+"title": "Landscape in contemporary strategic spatial plans of European Urban regions"
+},
+{
+"id": "gisdata.v1.0",
+"title": "Large GIS raster data derived from Natural Earth Data (Cross Blended Hypso with Shaded Relief and Water)"
+},
+{
+"id": "large-scale-hazard-indication-simulations-for-avalanches-canton-of-grisons.v1.0",
+"title": "Large Scale Hazard Indication Simulations for avalanches, canton of Grisons"
+},
+{
+"id": "large-wood-event-database.v1.0",
+"title": "Large wood event database"
+},
+{
+"id": "larval-food-composition-of-four-wild-bee-species-in-five-european-cities.v1.0",
+"title": "Larval food composition of four wild bee species in five European cities"
+},
+{
+"id": "lwfmeteo-lausanne.v1.0",
+"title": "Lausanne, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1996 onwards"
+},
+{
+"id": "envidat-lwf-21.v2019-03-06",
+"title": "Leaf area index (LAI) LWF"
+},
+{
+"id": "length_of_forest_edge-8.v1.0",
+"title": "Length of forest edge"
+},
+{
+"id": "length_of_forest_roads-78.v1.0",
+"title": "Length of forest roads"
+},
+{
+"id": "lwfmeteo-lens.v1.0",
+"title": "Lens, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1997 onwards"
+},
+{
+"id": "lidar-davos-wolfgang.v1.0",
+"title": "LIDAR Davos Wolfgang"
+},
+{
+"id": "lidar_forest_myotis-myotis.v1.0",
+"title": "LiDAR metrics predict suitable forest foraging areas of endangered Mouse-eared bats (Myotis myotis)"
+},
+{
+"id": "linked-discharge-bedload-transport-and-bedrock-erosion-data-set.v1.0",
+"title": "Linked water discharge, bedload transport and bedrock erosion data set in 1minute resolution"
+},
+{
+"id": "literature-data-of-sound-speed-in-snow.v1.0",
+"title": "Literature data of sound speed in snow"
+},
+{
+"id": "wsl-drought-initiative-2018.v1.0",
+"title": "Litterfall and pollen data of three LWF beech plots"
+},
+{
+"id": "envidat-lwf-17.v2019-03-06",
+"title": "Litterfall LWF"
+},
+{
+"id": "stillberg-climate.v1.0",
+"title": "Long-term meteorological and snow station at 2090 m a.s.l., Stillberg, Davos, Switzerland (1975 - present)"
+},
+{
+"id": "long-term-recovery-of-above-and-belowground-interactions-in-restored-grasslands.v1.0",
+"title": "Long-term recovery of above-and belowground interactions in restored grasslands"
+},
+{
+"id": "stillberg-reforestation.v1.0",
+"title": "Long-term treeline research dataset at Stillberg, Davos"
+},
+{
+"id": "longterm-hydrological-observatory-alptal-central-switzerland.v2.0",
+"title": "Longterm hydrological observatory Alptal (central Switzerland)"
+},
+{
+"id": "large-scale-urban-development-projects-in-european-urban-regions.v1.0",
+"title": "lsUDPS Large-scale urban development projects in European urban regions"
+},
+{
+"id": "luszoning.v1.0",
+"title": "LUSzoning: Land-use simulations integrating zoning regulations in Spanish functional urban areas"
+},
+{
+"id": "lwf-alptal-long-term-research-site.v1.0",
+"title": "LWF Alptal long-term research site"
+},
+{
+"id": "lwf-beatenberg-long-term-research-site.v1.0",
+"title": "LWF Beatenberg long-term research site"
+},
+{
+"id": "lwf-bettlachstock-long-term-research-site.v1.0",
+"title": "LWF Bettlachstock long-term research site"
+},
+{
+"id": "lwf-celerina-long-term-research-site.v1.0",
+"title": "LWF Celerina long-term research site"
+},
+{
+"id": "lwf-chironico-long-term-research-site.v1.0",
+"title": "LWF Chironico long-term research site"
+},
+{
+"id": "lwf-isone-long-term-research-site.v1.0",
+"title": "LWF Isone long-term research site"
+},
+{
+"id": "lwf-jussy-long-term-research-site.v1.0",
+"title": "LWF Jussy long-term research site"
+},
+{
+"id": "lwf-lantsch-long-term-research-site.v1.0",
+"title": "LWF Lantsch long-term research site"
+},
+{
+"id": "lwf-lausanne-long-term-research-site.v1.0",
+"title": "LWF Lausanne long-term research site"
+},
+{
+"id": "lwf-lens-long-term-research-site.v1.0",
+"title": "LWF Lens long-term research site"
+},
+{
+"id": "lwf-nationalpark-long-term-research-site.v1.0",
+"title": "LWF Nationalpark long-term research site"
+},
+{
+"id": "lwf-neunkirch-long-term-research-site.v1.0",
+"title": "LWF Neunkirch long-term research site"
+},
+{
+"id": "lwf-novaggio-long-term-research-site.v1.0",
+"title": "LWF Novaggio long-term research site"
+},
+{
+"id": "lwf-othmarsingen-long-term-research-site.v1.0",
+"title": "LWF Othmarsingen long-term research site"
+},
+{
+"id": "lwf-pfynwald-long-term-experimental-irrigation-site.v1.0",
+"title": "LWF Pfynwald long-term experimental irrigation site"
+},
+{
+"id": "lwf-schanis-long-term-research-site.v1.0",
+"title": "LWF Sch\u00e4nis long-term research site"
+},
+{
+"id": "lwf-visp-long-term-research-site.v1.0",
+"title": "LWF Visp long-term research site"
+},
+{
+"id": "lwf-vordemwald-long-term-research-site.v1.0",
+"title": "LWF Vordemwald long-term research site"
+},
+{
+"id": "lwf-tea-bag-sites.v1.0",
+"title": "LWF-Tea bag sites"
+},
+{
+"id": "madcrypto-bryophyte-and-macrolichen-diversity-in-laurel-forests-of-madeira.v1.0",
+"title": "MadCrypto \u2013 Bryophyte and macrolichen diversity in laurel forests of Madeira"
+},
+{
+"id": "10-16904-2.v1",
+"title": "Manual bi-weekly snow profiles from Weissfluhjoch, Davos, Switzerland"
+},
+{
+"id": "envidat-lwf-56.v2019-03-06",
+"title": "Manual circumference band measurement LWF"
+},
+{
+"id": "marine-fish-occurrences-of-tropical-america.v1.0",
+"title": "marine fish occurrences of Tropical America"
+},
+{
+"id": "mass_of_merchantable_branches_of_live_trees-47.v1.0",
+"title": "Mass of merchantable branches of live trees"
+},
+{
+"id": "mass_of_needles_or_leaves_of_live_trees-49.v1.0",
+"title": "Mass of needles or leaves of live trees"
+},
+{
+"id": "massimo.v1.0",
+"title": "MASSIMO"
+},
+{
+"id": "envidat-lwf-27.v2019-03-06",
+"title": "Matric potential (manual suction cups) LWF"
+},
+{
+"id": "ros_data.v1.0",
+"title": "Meteorological data for investigation of rain-on-snow events in 58 catchments in Switzerland"
+},
+{
+"id": "meteorological-data-used-to-develop-and-validate-the-bias-detecting-ensemble-bde.v1.0",
+"title": "Meteorological data used to develop and validate the bias-detecting ensemble (BDE)"
+},
+{
+"id": "envidat-lwf-12.v2019-03-06",
+"title": "Meteorological measurements LWF"
+},
+{
+"id": "meteo-at-s17-antarctica-2018-2019.v1.0",
+"title": "Meteorology and snow transport at S17 near Syowa, Antarctica, in austral summer 2018/2019"
+},
+{
+"id": "modeling-snow-failure-with-dem.v1.0",
+"title": "Modeling snow failure with DEM"
+},
+{
+"id": "modeling-snow-saltation-the-effect-of-grain-size-and-interparticle-cohesion.v1.0",
+"title": "Modeling snow saltation: the effect of grain size and interparticle cohesion"
+},
+{
+"id": "monitoring-of-ash-trees.v1.0",
+"title": "Monitoring of ash trees as part of the Intercantonal Forest Observation Programme"
+},
+{
+"id": "monitoring-of-lymantria-dispar-lymantria-monacha-and-zeiraphera-griseana.v1.0",
+"title": "Monitoring of Lymantria dispar, Lymantria monacha and Zeiraphera griseana and host food quality in the Swiss Alps"
+},
+{
+"id": "10-16904-7.v1",
+"title": "More than one century of hydrological monitoring in two small catchments with different forest coverage, Sperbelgraben and Rappengraben (Switzerland)"
+},
+{
+"id": "mortality-16.v1.0",
+"title": "Mortality"
+},
+{
+"id": "mortality-of-regeneration-acer-spp-and-fagus-sylvatica.v1.0",
+"title": "Mortality of regeneration: Acer spp. and Fagus sylvatica"
+},
+{
+"id": "mortality_star-164.v1.0",
+"title": "Mortality*"
+},
+{
+"id": "mountain-permafrost-hydrology.v1.0",
+"title": "Mountain Permafrost Hydrology"
+},
+{
+"id": "envidat-lwf-32.v2019-03-06",
+"title": "MPS-2 on LWF Visp to survey 2017 mortality wave"
+},
+{
+"id": "envidat-lwf-31.v2019-03-06",
+"title": "MPS-2 soil water matric potential LWF"
+},
+{
+"id": "multiple-realizations-of-daily-swe-swi-and-rain-projections.v1.0",
+"title": "Multiple realizations of daily snow water equivalent, surface water input and liquid precipitation projections for mid- and late-century"
+},
+{
+"id": "nanoplastics-in-forests.v1.0",
+"title": "Nanoplastics in forests: Exploring the effects of nanoplastics on forest soils and tree physiology (NanoPlast)"
+},
+{
+"id": "napf-ert-monitoring-data.v1.0",
+"title": "Napf ERT monitoring data"
+},
+{
+"id": "lwfmeteo-nationalpark.v1.0",
+"title": "Nationalpark, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1997 onwards"
+},
+{
+"id": "non-native-native-plant-interactions-in-australian-grasslands.v1.0",
+"title": "Native and no-native plant interactions in Australian grasslands"
+},
+{
+"id": "net_increment-80.v1.0",
+"title": "Net increment"
+},
+{
+"id": "net_increment_star-187.v1.0",
+"title": "Net increment*"
+},
+{
+"id": "net-primary-productivity-npp-anomalies-simulated-by-3-pg-model-for-switzerland.v1.0",
+"title": "Net primary productivity (NPP) anomalies simulated by 3-PG model for Switzerland"
+},
+{
+"id": "lwfmeteo-neunkirch.v1.0",
+"title": "Neunkirch, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1997 onwards"
+},
+{
+"id": "niche-partitioning-between-wild-bees-and-honeybees.v1.0",
+"title": "Niche partitioning between wild bees and honeybees"
+},
+{
+"id": "n-availability-face-hofstetten.v1.0",
+"title": "Nitrogen availability under trees exposed to CO2 enrichment (FACE)"
+},
+{
+"id": "nead.v0.1 (public request for comments)",
+"title": "Non-Binary Environmental Archive Data (NEAD) format"
+},
+{
+"id": "lwfmeteo-novaggio.v1.0",
+"title": "Novaggio, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1996 onwards"
+},
+{
+"id": "correct-observer-bias-only-sdms.v1.0",
+"title": "Novel methods to correct for observer and sampling bias in presence-only species distribution models"
+},
+{
+"id": "trichopria_drosophilae_nuclear_microsats.v1.0",
+"title": "Nuclear microsatellite markers for Trichopria drosophilae, parasitoid wasp on Drosophila suzukii"
+},
+{
+"id": "avalanche-fatalities-per-calendar-year-since-1936.v1.0",
+"title": "Number of avalanche fatalities per calendar year in Switzerland since 1937"
+},
+{
+"id": "avalanche-fatalities-switzerland-1936.v1.0",
+"title": "Number of avalanche fatalities per hydrological year in Switzerland since 1936-1937"
+},
+{
+"id": "number_of_forest_edges-124.v1.0",
+"title": "Number of forest edges"
+},
+{
+"id": "number_of_forest_plots-125.v1.0",
+"title": "Number of forest plots"
+},
+{
+"id": "number-of-natural-hazard-fatalities-per-year-in-switzerland-since-1946.v1.0",
+"title": "Number of natural hazard fatalities per year in Switzerland since 1946"
+},
+{
+"id": "number_of_woody_species_gt_12_cm_dbh-41.v1.0",
+"title": "Number of woody species (>= 12 cm DBH)"
+},
+{
+"id": "number_of_woody_species_from_40_cm_height-144.v1.0",
+"title": "Number of woody species (from 40 cm height)"
+},
+{
+"id": "number_of_young_forest_plants_by_damage-209.v1.0",
+"title": "Number of young forest plants by damage"
+},
+{
+"id": "observational-data-switzerland-2016-2021.v1.0",
+"title": "Observational data: avalanche observations, danger signs and stability test results, Switzerland (2016/2017 to 2020/2021 )"
+},
+{
+"id": "observer-driven-pseudoturnover-in-vegetation-surveys.v1.0",
+"title": "Observer-driven pseudoturnover in vegetation surveys"
+},
+{
+"id": "open-science-support-at-wsl.v1.0",
+"title": "Open Science Support at the Swiss Federal Research Institute WSL. The EnviDat Concept"
+},
+{
+"id": "lwfmeteo-othmarsingen.v1.0",
+"title": "Othmarsingen, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1996 onwards"
+},
+{
+"id": "envidat-lwf-22.v2019-03-06",
+"title": "Passive sampling of NH3 LWF"
+},
+{
+"id": "envidat-lwf-23.v2019-03-06",
+"title": "Passive sampling of NO2 LWF"
+},
+{
+"id": "envidat-lwf-36.v2019-03-06",
+"title": "Passive sampling of O3 LWF"
+},
+{
+"id": "envidat-lwf-20.v2019-03-06",
+"title": "Permanent vegetation quadrats LWF"
+},
+{
+"id": "envidat-lwf-24.v2019-03-06",
+"title": "Phenological observations LWF"
+},
+{
+"id": "jfetzer-phosphatase-leaching.v1.0",
+"title": "Phosphatase leaching"
+},
+{
+"id": "phosphorus-and-nitrogen-leaching-from-beech-forest-soils.v1.0",
+"title": "Phosphorus and nitrogen leaching from beech forest soils"
+},
+{
+"id": "intercomparison-of-photogrammetric-platforms.v1.0",
+"title": "Photogrammetric snow depth maps from satellite-, airplane-, UAS and terrestrial platforms from the Davos region (Switzerland)"
+},
+{
+"id": "pine-insects-along-elevational-gradients.v1.0",
+"title": "Pine insects along elevational gradients"
+},
+{
+"id": "plan-statements-for-external-consistency-analysis.v1.0",
+"title": "Plan statements for external consistency analysis: Evidence from Bucharest\u2019s spatial plans"
+},
+{
+"id": "plan-statements-for-external-consistency-analysis.v1.0",
+"title": "Plan statements for external consistency analysis: Evidence from Bucharest\u2019s spatial plans"
+},
+{
+"id": "planning-efficacy-questionnaire-and-interviews.v1.0",
+"title": "Planning efficacy - questionnaire and interviews"
+},
+{
+"id": "planning-efficacy-computation-based-on-ahp.v1.0",
+"title": "Planning efficacy computation based on AHP"
+},
+{
+"id": "planning-intention-in-copenhagen-urban-region.v1.0",
+"title": "Planning intention in Copenhagen urban region"
+},
+{
+"id": "planning-intention-in-hannover-urban-region.v1.0",
+"title": "Planning intention in Hannover urban region"
+},
+{
+"id": "planning-intentions-in-strategic-plans-of-european-urban-regions.v1.0",
+"title": "Planning intentions in strategic plans of European urban regions"
+},
+{
+"id": "planning-intentions-lyon.v1.0",
+"title": "Planning intentions Lyon"
+},
+{
+"id": "heavy-metals-and-acid-rain-effects-on-aphids-and-caterpillars.v1.0",
+"title": "Plant-mediated effects of heavy metals and acid rain on feeding aphids and caterpillars"
+},
+{
+"id": "plant-orthoptera-trophic-networks-lif3web-projet.v1.0",
+"title": "Plant-Orthoptera trophic networks (Lif3web projet)"
+},
+{
+"id": "pollination-experiment-insect-traits.v1.0",
+"title": "Pollination experiment: insect traits"
+},
+{
+"id": "potential-driving-factors-of-urban-transformations-of-austin-over-25-years.v1.0",
+"title": "Potential driving factors of urban transformations of Austin over 25 years"
+},
+{
+"id": "swiss-biomass-potentials.v1.0",
+"title": "Potentials of domestic biomass resources for the energy transition in Switzerland"
+},
+{
+"id": "10-16904-23.v1.0",
+"title": "Precipitation Scaling Data Set (V\u00f6geli et al., Frontiers)"
+},
+{
+"id": "predicted-cloud-droplet-numbers-davos-wolfgang.v1.0",
+"title": "Predicted cloud droplet numbers Davos Wolfgang"
+},
+{
+"id": "pref-dep-hills.v1.0",
+"title": "Preferential deposition of snow and dust over hills: governing processes and relevant scales"
+},
+{
+"id": "present-weather-sensor-klosters.v1.0",
+"title": "Present Weather Sensor Klosters"
+},
+{
+"id": "flu-a-bh.v1.0",
+"title": "Processed permafrost borehole data (2394 m asl), Fluelapass A, Switzerland"
+},
+{
+"id": "gem-bh.v1.0",
+"title": "Processed permafrost borehole data (2940 m asl), Gemsstock, Switzerland"
+},
+{
+"id": "production-de-biogaz-a-partir-d-engrais-de-ferme-en-suisse.v1.0",
+"title": "Production de biogaz \u00e0 partir d\u2019engrais de ferme en Suisse"
+},
+{
+"id": "weird.v1.0",
+"title": "Quantifying Surface Heat Exchange over Heterogeneous Land Surfaces at Ultra-High Spatio-Temporal Resolution"
+},
+{
+"id": "r3pg-an-r-package-for-simulating-forest-growth.v1.0",
+"title": "r3PG \u2013 An r package for simulating forest growth"
+},
+{
+"id": "radar-wind-profiler-davos-wolfgang.v1.0",
+"title": "RADAR Wind profiler Davos Wolfgang"
+},
+{
+"id": "radiosondes.v1.0",
+"title": "Radiosondes"
+},
+{
+"id": "wml_bilderstudie.v1.0",
+"title": "Relationship between physical forest characteristics, visual attractiveness and perception of ecosystem services in urban forests"
+},
+{
+"id": "rema-topography-and-antarcticalc2000-for-wrf.v1.0",
+"title": "REMA topography and AntarcticaLC2000 for WRF"
+},
+{
+"id": "tschamut2014.v1.0",
+"title": "Repetitive trajectory testing in Tschamut 2014"
+},
+{
+"id": "biodiversity-integration.v1.0",
+"title": "Replication files for \"Integrating biodiversity: A longitudinal and cross-sectoral analysis of Swiss politics\""
+},
+{
+"id": "envidat_232.v1.0",
+"title": "Reproducibility Dataset for CRYOWRF v1.0"
+},
+{
+"id": "resolution-in-sdms-shapes-plant-multifaceted-diversity.v1.0",
+"title": "Resolution in species distribution models shapes spatial patterns of plant multifaceted diversity"
+},
+{
+"id": "data-hagenmoos-1989-2020.v1.0",
+"title": "Restoration of the lowland raised bog Hagenmoos (Switzerland): Data on vegetation, ecological indicator values and species richness from 1989 until 2020"
+},
+{
+"id": "restoring-grassland-multifunctionality.v1.0",
+"title": "Restoring grassland multifunctionality"
+},
+{
+"id": "rit1.v1.0",
+"title": "RIT1: Processed permafrost borehole data (2690  m asl), Ritigraben, Switzerland"
+},
+{
+"id": "rit2.v1.0",
+"title": "RIT2: Meteorological station at Ritigraben borehole site"
+},
+{
+"id": "rockfall-gallery-testing-parde-2016.v1.0",
+"title": "Rockfall gallery testing Parde 2016"
+},
+{
+"id": "root_mass_of_live_trees_zell_wutzler-210.v1.0",
+"title": "Root mass of live trees (Zell, Wutzler)"
+},
+{
+"id": "root-traits.v1.0",
+"title": "Root-traits"
+},
+{
+"id": "mr.v1.0",
+"title": "RoRCC"
+},
+{
+"id": "cosmo-wrf-documentation.v1.0",
+"title": "Running COSMO-WRF on very-high resolution over complex terrain"
+},
+{
+"id": "saltation-of-cohesive-granular-materials.v1.0",
+"title": "Saltation of cohesive granular materials"
+},
+{
+"id": "salvage_logging-27.v1.0",
+"title": "Salvage logging"
+},
+{
+"id": "salvage_logging_due_to_insects-89.v1.0",
+"title": "Salvage logging due to insects"
+},
+{
+"id": "salvage_logging_due_to_insects_star-251.v1.0",
+"title": "Salvage logging due to insects*"
+},
+{
+"id": "salvage_logging_due_to_wind-88.v1.0",
+"title": "Salvage logging due to wind"
+},
+{
+"id": "salvage_logging_due_to_wind_star-250.v1.0",
+"title": "Salvage logging due to wind*"
+},
+{
+"id": "salvage_logging_star-186.v1.0",
+"title": "Salvage logging*"
+},
+{
+"id": "example-geodata-for-demonstrating-geospatial-preprocessing-at-foss4g2019.v1.0",
+"title": "Sample Geodata and Software for Demonstrating Geospatial Preprocessing for Forest Accessibility and Wood Harvesting at FOSS4G2019"
+},
+{
+"id": "envidat-lwf-54.v2019-03-06",
+"title": "Sapflow measurements LWF"
+},
+{
+"id": "satellite-avalanche-mapping-validation.v1.0",
+"title": "Satellite avalanche mapping validation data"
+},
+{
+"id": "schweizerisches-landesforstinventar-2009-2017.v1.0",
+"title": "Schweizerisches Landesforstinventar. Ergebnisse der vierten Erhebung 2009\u20132017"
+},
+{
+"id": "lwfmeteo-schaenis.v1.0",
+"title": "Sch\u00e4nis, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1998 onwards"
+},
+{
+"id": "scolytidae.v1.0",
+"title": "Scolytidae"
+},
+{
+"id": "seasonal-fractional-snow-covered-area-algorithm.v1.0",
+"title": "Seasonal fractional snow-covered area algorithm"
+},
+{
+"id": "sediment-transport-observations-in-swiss-mountain-streams.v1.0",
+"title": "Sediment transport observations in Swiss mountain streams"
+},
+{
+"id": "seilaplan.v2.0",
+"title": "Seilaplan"
+},
+{
+"id": "selected-wet-snow-avalanche-activity-data-davos-switzerland-2011-2014.v1.0",
+"title": "Selected wet snow avalanche activity data Davos, Switzerland (2011-2014)"
+},
+{
+"id": "sensitivity-of-modeled-snow-instability.v1.0",
+"title": "Sensitivity of modeled snow instability"
+},
+{
+"id": "forest-radiation-data.v1.0",
+"title": "Shading by Trees and Fractional Snow Cover Control the Subcanopy Radiation Budget"
+},
+{
+"id": "dispersal-prevalence-fish-traits-assemblages.v1.0",
+"title": "Simulated and observed prevalence of dispersal-related traits in tropical reef fish assemblages worldwide"
+},
+{
+"id": "simulated-avalanche-problem-types-at-weissfluhjoch-1999-2017.v1.0",
+"title": "Simulated avalanche problem types and seismic avalanche activity around Weissfluhjoch"
+},
+{
+"id": "simulated-future-discharge-and-climatological-variables.v1.0",
+"title": "Simulated future discharge and climatological variables for medium-sized catchments in Switzerland"
+},
+{
+"id": "simulating-chamois-populations.v1.0",
+"title": "Simulating population divergence of Northern chamois in the Alps based on habitat dynamics"
+},
+{
+"id": "hydro-ch2018-snow.v1.0",
+"title": "Snow and the water cycle in a changing climate"
+},
+{
+"id": "snow-avalanche-data-davos.v1.0",
+"title": "Snow avalanche data Davos, Switzerland, 1999-2019"
+},
+{
+"id": "snow-climate-indicators-derived-from-parallel-manuel-snow-measurements.v1.0",
+"title": "Snow climate indicators derived from parallel manual snow measurements"
+},
+{
+"id": "snow-depth-mapping.v1.0",
+"title": "Snow Depth Mapping"
+},
+{
+"id": "forest-snow-modelling-davos-2012-2015.v1.0",
+"title": "Snow depth, canopy structure and meterorological datasets from the Davos area, Switzerland, Winters 2012/13-2014/15, used for high-resolution forest snow modelling"
+},
+{
+"id": "snow-drift-station-3d-ultrasonic.v1.0",
+"title": "Snow Drift Station - 3D Ultrasonic"
+},
+{
+"id": "snow-drift-station-flowcapt.v1.0",
+"title": "Snow Drift Station - Flowcapt"
+},
+{
+"id": "snow-drift-station-micro-rain-radar.v1.0",
+"title": "Snow Drift Station - Micro Rain Radar"
+},
+{
+"id": "snow-drift-station-snow-and-air-data.v1.0",
+"title": "Snow Drift Station - Snow and Air Data"
+},
+{
+"id": "snow-water-equivalent-for-wagital-catchment-starting-1943.v1.0",
+"title": "Snow water equivalent for reference date April 1 for W\u00e4gital catchment, starting 1943"
+},
+{
+"id": "swe-measurements-gnss-along-a-steep-elevation-gradient.v1.0",
+"title": "Snow water equivalent measurements with low-cost GNSS receivers along a steep elevation gradient in the East-ern Swiss Alps"
+},
+{
+"id": "snow-accumulation-on-arctic-sea-ice-during-mosaic.v1.0",
+"title": "snowBedFoam: an OpenFOAM Eulerian-Lagrangian solver for modelling snow transport"
+},
+{
+"id": "10-16904-envidat-28.v1.0",
+"title": "Snowfarming data set Davos and Martell 2015"
+},
+{
+"id": "snowmicropen-and-manual-snowpits-from-dronning-maud-land-east-antarctica.v1.0",
+"title": "SnowMicroPen measurements and manual snowpits from Dronning Maud Land, East Antarctica"
+},
+{
+"id": "convection-in-snow.v1.0",
+"title": "snowpackBuoyantPimpleFoam: an OpenFOAM Eulerian\u2013Eulerian two-phase solver for modelling convection of water vapor in snowpacks"
+},
+{
+"id": "soil-fauna-drives-soc-storage-in-a-long-term-irrigated-dry-pine-forest.v1.0",
+"title": "Soil fauna drives SOC storage in a long-term irrigated dry pine forest"
+},
+{
+"id": "envidat-lwf-26.v2019-03-06",
+"title": "Soil matrix chemistry LWF"
+},
+{
+"id": "envidat-lwf-25.v2019-03-06",
+"title": "Soil morphology LWF"
+},
+{
+"id": "soil-net-nitrogen-mineralisation-across-global-grasslands.v1.0",
+"title": "Soil net nitrogen mineralisation across global grasslands"
+},
+{
+"id": "soil-respiration-exclosure-experiment.v1.0",
+"title": "Soil respiration - exclosure experiment"
+},
+{
+"id": "soil-sealing-barcelona-milan.v1.0",
+"title": "Soil sealing Barcelona and Milan different territorial levels"
+},
+{
+"id": "envidat-lwf-28.v2019-03-06",
+"title": "Soil solution chemistry (lysimeters) LWF"
+},
+{
+"id": "source-code-climate-change-scenarios-at-hourly-resolution.v1.0",
+"title": "Source code for: Climate change scenarios at hourly time-step over Switzerland from an enhanced temporal downscaling approach"
+},
+{
+"id": "debris-flow-prediction-based-on-rainfall.v1.0",
+"title": "Source code for: Evaluating methods for debris-flow prediction based on rainfall in an Alpine catchment"
+},
+{
+"id": "spatial-modelling-of-ecological-indicator-values.v1.0",
+"title": "Spatial modelling of ecological indicator values"
+},
+{
+"id": "spatial-planning-brazil.v1.0",
+"title": "Spatially explicit data to evaluate spatial planning outcomes in a coastal region in S\u00e3o Paulo State, Brazil"
+},
+{
+"id": "species-distribution-maps-gdplants.v1.0",
+"title": "Species distribution maps of Fagales and Pinales (GDPlants)"
+},
+{
+"id": "spot6-avalanche-outlines-16-january-2019.v1.0",
+"title": "SPOT6 Avalanche outlines 16 January 2019"
+},
+{
+"id": "spot6-avalanche-outlines-24-january-2018.v1.0",
+"title": "SPOT6 Avalanche outlines 24 January 2018"
+},
+{
+"id": "stability-tests-avalanche-observations-switzerland-norway.v1.0",
+"title": "Stability tests, avalanche observations, Switzerland, Norway"
+},
+{
+"id": "isotope-lab.v1.0",
+"title": "Stable Isotope Research Lab WSL"
+},
+{
+"id": "water-isotopes-plynlimon.v1.0",
+"title": "Stable water isotopes in precipitation and streamflow at Plynlimon, Wales, UK"
+},
+{
+"id": "stable-water-isotopes-in-snow-and-vapor-on-the-weissfluhjoch.v1.0",
+"title": "Stable Water Isotopes in snow and vapor on the Weissfluhjoch"
+},
+{
+"id": "stand_density_sdi-29.v1.0",
+"title": "Stand density (SDI)"
+},
+{
+"id": "stand-inventory-data-from-the-10-ha-forest-research-plot-in-uholka-ukraine.v1.0",
+"title": "Stand inventory data from the 10\u2010ha forest research plot in Uholka, Ukraine"
+},
+{
+"id": "stated-preference-data-on-the-insurance-value-of-forests-in-switzerland.v1.0",
+"title": "Stated preference data on the insurance value of forests in Switzerland"
+},
+{
+"id": "stem_count_of_young_forest-191.v1.0",
+"title": "Stem count of young forest"
+},
+{
+"id": "envidat-lwf-87.v2019-03-06",
+"title": "Stem discs LWF"
+},
+{
+"id": "stem_number-73.v1.0",
+"title": "Stem number"
+},
+{
+"id": "stem_number_of_dead_wood-116.v1.0",
+"title": "Stem number of dead wood"
+},
+{
+"id": "stem_number_of_dead_wood_nfi1-248.v1.0",
+"title": "Stem number of dead wood NFI1"
+},
+{
+"id": "envidat-lwf-16.v2019-03-06",
+"title": "Stemflow LWF"
+},
+{
+"id": "beech_stress_thresholds.v1.0",
+"title": "Stress thresholds of mature European beech trees"
+},
+{
+"id": "stumps-as-a-dead-wood-resource.v1.0",
+"title": "Stumps as a dead wood resource in forests - data based on the Swiss National Forest Inventory"
+},
+{
+"id": "waldinventursihlwald.v1.0",
+"title": "Supplementary Data Sample Plot Inventory Sihlwald"
+},
+{
+"id": "survey-of-spruce-seed-and-cone-insects-in-switzerland.v1.0",
+"title": "Survey of spruce seed and cone insects in Switzerland"
+},
+{
+"id": "swiss-canopy-crane-ii-research-site.v1.0",
+"title": "Swiss Canopy Crane II research site"
+},
+{
+"id": "swiss-municipalities-survey-on-spatial-planning-instruments.v1.0",
+"title": "Swiss Municipal Spatial Planning Survey"
+},
+{
+"id": "swissfungi-distribution-of-fungi-in-switzerland.v1.0",
+"title": "SwissFungi - Records Database for the Fungi of Switzerland"
+},
+{
+"id": "swisslichens.v1.0",
+"title": "SwissLichens - Distribution of lichens in Switzerland"
+},
+{
+"id": "envidat-lwf-38.v2019-03-06",
+"title": "Symptoms of O3 injuries LWF"
+},
+{
+"id": "envidat-lwf-33.v2019-03-06",
+"title": "TDR Pfynwald"
+},
+{
+"id": "envidat-lwf-29.v2019-03-06",
+"title": "TDR soil water content measurements LWF Visp"
+},
+{
+"id": "temperature-dependent-life-history-ips-typographus.v1.0",
+"title": "Temperature-dependent development and oviposition of the spruce bark beetle Ips typographus"
+},
+{
+"id": "terrestrial-laser-scans-on-hammarryggen-ice-rise-dml-east-antarctica.v1.0",
+"title": "Terrestrial laser scans on Hammarryggen Ice Rise, Dronning Maud Land, East Antarctica"
+},
+{
+"id": "the-experimental-forest-management-network.v1.0",
+"title": "The Experimental Forest Management network"
+},
+{
+"id": "habitat-map-of-switzerland.v1.0",
+"title": "The Habitat Map of Switzerland v1"
+},
+{
+"id": "the-origin.v1.0",
+"title": "The origin of urban communities: from the regional species pool to community assemblages in city"
+},
+{
+"id": "the-usage-of-landscape-ecological-concepts-in-the-planning-literature.v1.0",
+"title": "The usage of landscape ecological concepts in the planning literature"
+},
+{
+"id": "three-dimensional-debris-flow-simulation-tool-debrisintermixing.v4.x; 6",
+"title": "Three-dimensional debris flow simulation tool debrisInterMixing"
+},
+{
+"id": "topoclim-v-1-0-code.v1.0",
+"title": "TopoCLIM v1.0 code"
+},
+{
+"id": "topoclim-v1-1-code.v1.1",
+"title": "TopoCLIM v1.1 code"
+},
+{
+"id": "torymus-sinensis-population-evolution-from-arrival-to-biocontrol.v1.0",
+"title": "Torymus sinensis local and regional early population dynamics in the Insubrian and Piedmont regions"
+},
+{
+"id": "total_basal_area-2.v1.0",
+"title": "Total basal area"
+},
+{
+"id": "total_basal_area_nfi1-238.v1.0",
+"title": "Total basal area NFI1"
+},
+{
+"id": "total_stem_number-3.v1.0",
+"title": "Total stem number"
+},
+{
+"id": "total_stem_number_by_cause_of_damage-218.v1.0",
+"title": "Total stem number by cause of damage"
+},
+{
+"id": "total_stem_number_by_type_of_damage-208.v1.0",
+"title": "Total stem number by type of damage"
+},
+{
+"id": "total_stem_number_nfi1-243.v1.0",
+"title": "Total stem number NFI1"
+},
+{
+"id": "total_timber_volume-23.v1.0",
+"title": "Total timber volume"
+},
+{
+"id": "total_timber_volume_nfi1-242.v1.0",
+"title": "Total timber volume NFI1"
+},
+{
+"id": "mega-plots.v1.0",
+"title": "Towards comparable species richness estimates across plot-based inventories - data"
+},
+{
+"id": "10-16904-5.v1",
+"title": "TRAMM project - experimental hydrological and hydrogeological dataset of a landslide prone hillslope. Rufiberg, Switzerland"
+},
+{
+"id": "10-16904-4.v1",
+"title": "TRAMM project Ruedlingen experimental landslide dataset, Switzerland"
+},
+{
+"id": "envidat-lwf-45.v2019-03-06",
+"title": "Tree Diameter and Height Inventory LWF"
+},
+{
+"id": "pfynwald.v2016",
+"title": "Tree measurements 2002-2016 from the long-term irrigation experiment Pfynwald, Switzerland"
+},
+{
+"id": "tree-rings-and-climate-data-of-four-tree-species-in-switzerland.v1.0",
+"title": "Tree rings and climate data of four tree species in Switzerland"
+},
+{
+"id": "twig_mass_of_live_trees-48.v1.0",
+"title": "Twig mass of live trees"
+},
+{
+"id": "uas-based-snow-depth-maps-bramabuel-davos-ch.v1.0",
+"title": "UAS based snow depth maps Br\u00e4mab\u00fcel, Davos, CH"
+},
+{
+"id": "uav-datasets-for-three-alpine-glaciers.v1.0",
+"title": "UAV-derived Digital Surface Models and orthoimages for three alpine glaciers"
+},
+{
+"id": "spherical-model-snow-compression-3dct.v1.0",
+"title": "Unconfined compression experiments and 3D CT images of spherical model snow and RG snow samples"
+},
+{
+"id": "urals-latitudinal-decline-in-treeline-biomass-and-productivity.v1.0",
+"title": "Urals: latitudinal decline in treeline biomass and productivity"
+},
+{
+"id": "validation-of-the-critical-crack-length-in-snowpack.v1.0",
+"title": "Validating and improving the critical crack length in SNOWPACK"
+},
+{
+"id": "vegetation-height-model-nfi.v2019 (current)",
+"title": "Vegetation Height Model NFI"
+},
+{
+"id": "lwfmeteo-visp.v1.0",
+"title": "Visp, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1997 onwards"
+},
+{
+"id": "volume-21.v1.0",
+"title": "Volume"
+},
+{
+"id": "volume_of_bole_wood_hg_2000-167.v1.0",
+"title": "Volume of bole wood (HG 2000)"
+},
+{
+"id": "volume_of_bole_wood_hg_2010-211.v1.0",
+"title": "Volume of bole wood (HG 2010)"
+},
+{
+"id": "volume_of_dead_wood-24.v1.0",
+"title": "Volume of dead wood"
+},
+{
+"id": "volume_of_dead_wood_nfi1-249.v1.0",
+"title": "Volume of dead wood NFI1"
+},
+{
+"id": "lwfmeteo-vordemwald.v1.0",
+"title": "Vordemwald, Switzerland: Long-term forest meteorological data from the Long-term Forest Ecosystem Research Programme (LWF), from 1996 onwards"
+},
+{
+"id": "wmlganzeschweiz.v1.0",
+"title": "WaMos meets LFI, ganze Schweiz"
+},
+{
+"id": "water-availability-of-swiss-forests-during-the-2015-and-2018-droughts.v1.0",
+"title": "Water availability of Swiss forests during the 2015 and 2018 droughts"
+},
+{
+"id": "weather-station-wolfgangpass.v1.0",
+"title": "Weather Station Davos Wolfgang"
+},
+{
+"id": "weather_station_klosters.v1.0",
+"title": "Weather Station Klosters"
+},
+{
+"id": "weather-snowpack-danger_ratings-data.v1.0",
+"title": "Weather, snowpack and danger ratings data for automated avalanche danger level predictions"
+},
+{
+"id": "snowmip.v1.0",
+"title": "Weissfluhjoch dataset for ESM-SnowMIP"
+},
+{
+"id": "wetlands-of-zurich.v1.0",
+"title": "Wetlands of the canton of Z\u00fcrich (Switzerland): Data on species richness and recent and historic area and connectivity of 55 fens"
+},
+{
+"id": "wfj_ice_layers.v1.0",
+"title": "WFJ_ICE_LAYERS: Multi-instrument data for monitoring deep ice layer formation in an alpine snowpack"
+},
+{
+"id": "10-16904-1.v1",
+"title": "WFJ_MOD: Meteorological and snowpack measurements from Weissfluhjoch, Davos, Switzerland"
+},
+{
+"id": "wfj_rhossa.v1.0",
+"title": "WFJ_RHOSSA: Multi-instrument stratigraphy data for the seasonal evolution of an alpine snowpack"
+},
+{
+"id": "10-16904-22.v1.0",
+"title": "Wind crust formation: Microsoft Kinect data"
+},
+{
+"id": "10-16904-21.v1.0",
+"title": "Wind crust formation: SnowMicroPen data"
+},
+{
+"id": "lidar-wind-profiler-data.v1.0",
+"title": "Wind LIDAR Davos Wolfgang"
+},
+{
+"id": "10-16904-6.v1",
+"title": "Wind tunnel measurement data of drifting snow and turbulent wind fluctuations"
+},
+{
+"id": "wind-topo_model.v0.1.0",
+"title": "Wind-Topo_model"
+},
+{
+"id": "lsa_forest_snow.v1.0",
+"title": "Wintertime UAV-based land surface albedo data over forested environments"
+},
+{
+"id": "wood-mobilization-survey.v1.0",
+"title": "Wood Mobilization Survey"
+},
+{
+"id": "yield-15.v1.0",
+"title": "Yield"
+},
+{
+"id": "yield_and_mortality-13.v1.0",
+"title": "Yield and mortality"
+},
+{
+"id": "yield_and_mortality_star-163.v1.0",
+"title": "Yield and mortality*"
+},
+{
+"id": "yield_of_live_bole_wood-87.v1.0",
+"title": "Yield of live bole wood"
+},
+{
+"id": "yield_of_merchantable_branches-112.v1.0",
+"title": "Yield of merchantable branches"
+},
+{
+"id": "yield_of_merchantable_timber-114.v1.0",
+"title": "Yield of merchantable timber"
+},
+{
+"id": "yield_star-161.v1.0",
+"title": "Yield*"
+},
+{
+"id": "young_forest_with_browsing_damage-193.v1.0",
+"title": "Young forest with browsing damage"
+}
+]

@@ -1,0 +1,5082 @@
+[
+{
+"id": "ASAC_2201_HCL_0.5.v1",
+"title": "0.5 hour 1 M HCl extraction data for the Windmill Islands marine sediments"
+},
+{
+"id": "LGB_10m_traverse.v1",
+"title": "10 m firn temperature data: LGB traverses 1990-95"
+},
+{
+"id": "ASAC_2357.v2",
+"title": "10 year trend of levels of organochlorine pollutants in Antarctic seabirds"
+},
+{
+"id": "AAS_4156_Macquarie_Island_Emerald_Lake.v1",
+"title": "12,000 year record of sea spray and minerogenic input from Emerald Lake, Macquarie Island"
+},
+{
+"id": "mbs_wilhelm_msa_hooh.v1",
+"title": "15 year Wilhelm II Land MSA and HOOH shallow ice core record from Mount Brown South (MBS)"
+},
+{
+"id": "law_dome_annual_msa.v1",
+"title": "150 year MSA sea ice proxy record from Law Dome, Antarctica"
+},
+{
+"id": "Survey_1988_89_Mawson_npcms.v1",
+"title": "1988/89 Summer season, surveying and mapping program, Mawson - North Prince Charles Mountains - Davis"
+},
+{
+"id": "AAS_4156_Macquarie_Island_unnamed_lake.v1",
+"title": "2000 year record of environmental change from an unnamed lake on Macquarie Island"
+},
+{
+"id": "200708_CEAMARC_CASO_TRACE_ELEMENT_SAMPLES.v1",
+"title": "2007-08 CEAMARC-CASO VOYAGE TRACE ELEMENT SAMPLING AROUND AN ICEBERG"
+},
+{
+"id": "CEAMARC_CASO_200708030_EVENT_BATHYMETRY_PLOTS.v1",
+"title": "2007-08 V3 CEAMARC-CASO Bathymetry Plots Over Time During Events"
+},
+{
+"id": "CEAMARC_CASO_200708030_BIOGEOCHEMISTRYL_SAMPLES.v1",
+"title": "2007-08 V3 CEAMARC-CASO Samples for germanium and boron group"
+},
+{
+"id": "CEAMARC_CASO_200708_V3_IMAGES.v1",
+"title": "2007-08 Voyage 3 of the Aurora Australis, CEAMARC-CASO Image Data - Stills and Video"
+},
+{
+"id": "CEAMARC_CASO_200708_V3_KRILL.v2",
+"title": "2007-08 Voyage 3 of the Aurora Australis, CEAMARC-CASO Krill Data"
+},
+{
+"id": "CEAMARC_CASO_200708_V3_MINERALOGY.v1",
+"title": "2007-08 Voyage 3 of the Aurora Australis, CEAMARC-CASO Mineralogy Biota Data"
+},
+{
+"id": "VMS_FRRF.v1",
+"title": "2010/11 VMS - Fast Repetition Rate Fluorometer (FRRF) sampling on the Aurora Australis"
+},
+{
+"id": "VMS_Genomics.v1",
+"title": "2010/11 VMS Geonomics sampling - data collected from the VMS (Voyage Marine Science) voyage of the Aurora Australis"
+},
+{
+"id": "AAS_4102_2012_Blue_Whale_Voyages.v1",
+"title": "2012 Blue whale voyages in the Bonney Upwelling, Australia"
+},
+{
+"id": "201213_10_second_underway.v1",
+"title": "2012-13 Season Voyage Track and Underway Data"
+},
+{
+"id": "AAS_4102_2013_Antarctic_Blue_Whale_Voyage.v1",
+"title": "2013 Antarctic Blue Whale Voyage to the Southern OCean"
+},
+{
+"id": "NESP_2015_SRW.v3",
+"title": "2015 Aerial survey data of southern right whales (Eubalaena australis) off southern Australia"
+},
+{
+"id": "NESP_2016_SRW.v3",
+"title": "2016 Aerial survey data of southern right whales (Eubalaena australis) off southern Australia"
+},
+{
+"id": "NESP_2017_SRW.v1",
+"title": "2017 Aerial survey data of southern right whales (Eubalaena australis) off southern Australia"
+},
+{
+"id": "NESP_2018_SRW.v1",
+"title": "2018 Aerial survey data of southern right whales (Eubalaena australis) off southern Australia"
+},
+{
+"id": "NESP_2019_SRW.v1",
+"title": "2019 Aerial survey data of southern right whales (Eubalaena australis) off southern Australia"
+},
+{
+"id": "SIPEX_II_AUV.v1",
+"title": "3-D mapping of sea ice draft with an autonomous underwater vehicle"
+},
+{
+"id": "ASAC_2201_HCL_4.v1",
+"title": "4 hour 1 M HCl extraction data for the Windmill Islands marine sediments"
+},
+{
+"id": "AAS_4446_Kerguelen_Geochronology.v1",
+"title": "40Ar/39Ar geochronology data of basalt samples from the Kerguelen Plateau and Broken Ridge"
+},
+{
+"id": "ERS_CONT_500_ANT.v1",
+"title": "500 metre interval contours of Antarctica derived from ERS radar altimetry data."
+},
+{
+"id": "oxygen-isotopes-plateau-1984.v1",
+"title": "7 year oxygen isotope results from samples taken on Antarctic Plateau traverse, 1984"
+},
+{
+"id": "law_dome_700yr_na.v1",
+"title": "700 Year Record of Winter Sodium Concentrations (May June July averages) from Law Dome"
+},
+{
+"id": "law_dome_700yr_ion_chem.v2",
+"title": "700 Years of Ice Core Major Ion Chemistry Data from Law Dome, Antarctica"
+},
+{
+"id": "AAS_4061_DSS_2000-year_annual_snow_accumulation.v1",
+"title": "A 2000-year annual record of snow accumulation rates for Law Dome, East Antarctica"
+},
+{
+"id": "brownbay_bathy_dem.v1",
+"title": "A bathymetric Digital Elevation Model (DEM) of Brown Bay, Windmill Islands"
+},
+{
+"id": "newcomb_bay_bathy_dem.v1",
+"title": "A bathymetric Digital Elevation Model (DEM) of Newcomb Bay, Windmill Islands"
+},
+{
+"id": "obrienbay_bathy_dem.v1",
+"title": "A bathymetric Digital Elevation Model (DEM) of O'Brien Bay, Windmill Islands"
+},
+{
+"id": "GVdem_2008.v3",
+"title": "A bathymetric Digital Elevation Model (DEM) of the George V and Terre Adelie continental shelf and margin"
+},
+{
+"id": "winston_bathy.v1",
+"title": "A bathymetric survey of Winston Lagoon"
+},
+{
+"id": "C_Bibliography.v1",
+"title": "A bibliography containing references to Collembola from the Antarctic and subantarctic regions"
+},
+{
+"id": "CS_Bibliography.v1",
+"title": "A bibliography containing references to contaminated sites from the Antarctic and subantarctic regions"
+},
+{
+"id": "F_Bibliography.v1",
+"title": "A bibliography containing references to flora from the Antarctic and subantarctic regions"
+},
+{
+"id": "RiSCC_Outcomes_Bibliography.v1",
+"title": "A bibliography containing references to the outcomes of the RiSCC project from the Antarctic and subantarctic regions"
+},
+{
+"id": "RiSCC_Research_Support_Bibliography.v1",
+"title": "A bibliography containing references to the research support of the RiSCC project from the Antarctic and subantarctic regions"
+},
+{
+"id": "Lidar_Bibliography.v1",
+"title": "A bibliography detailing references related to Light Detection and Ranging (LIDAR) instruments"
+},
+{
+"id": "medical_bibliography.v1",
+"title": "A bibliography of polar medicine related articles"
+},
+{
+"id": "Biology_Bunger_Hills_1977.v1",
+"title": "A biological reconnaissance of the Bunger Hills, March 1977 - R.J. Barker"
+},
+{
+"id": "FAUNA_PENGUIN_COLONY.v1",
+"title": "A census of penguin colony counts (provided to OBIS) from the year 1900 to 1996 in the Antarctic Region"
+},
+{
+"id": "AAS_4124_pelagic_regionalisation.v1",
+"title": "A circumpolar pelagic regionalisation of the Southern Ocean"
+},
+{
+"id": "BROKE_Documentation_Logs.v1",
+"title": "A collection of logs and documentation associated with the BROKE voyage of the Aurora Australis in the 1995/1996 season"
+},
+{
+"id": "CosRay_Notes_Charts_1959-1986.v1",
+"title": "A collection of some comsic ray physics notes and charts from Antarctica in the period 1959-1986"
+},
+{
+"id": "ASAC_1342.v1",
+"title": "A comparison of sea-ice thickness measurements made using ship-mounted and airborne electromagnetic induction devices"
+},
+{
+"id": "DB_Trophic.v1",
+"title": "A compilation of dietary and related data from the Southern Ocean"
+},
+{
+"id": "DB_Voyages.v1",
+"title": "A database of Scientific Voyages of the Australian Antarctic Programme."
+},
+{
+"id": "block_invertebrates.v1",
+"title": "A dataset of Antarctic and sub-Antarctic invertebrates"
+},
+{
+"id": "shirley_dem.v1",
+"title": "A digital elevation model (DEM) and orthophoto of Shirley Island, Windmill Islands, Antarctica"
+},
+{
+"id": "whitney_dem.v1",
+"title": "A digital elevation model (DEM) and orthophoto of the Whitney Point area of the Windmill Islands, Antarctica"
+},
+{
+"id": "heard_dem_terrasar.v1",
+"title": "A Digital Elevation Model of Heard Island derived from TerraSAR satellite imagery"
+},
+{
+"id": "mcdonald_dem_may2012.v1",
+"title": "A Digital Elevation Model of McDonald Island derived from GeoEye-1 stereo imagery captured 19 May 2012"
+},
+{
+"id": "ERS_DTM_TIN_ANT.v1",
+"title": "A digital terrain model of Antarctica in Triangulated Irregular Network (TIN) format, derived from ERS Radar Altimetry."
+},
+{
+"id": "capeden_sat_ikonos.v1",
+"title": "A georeferenced high resolution satellite image mosaic of Cape Denison, Mackellar Islands and part of the George V Land Coast acquired on 26, 31 January 2001"
+},
+{
+"id": "BIRDSCASEY0203.v1",
+"title": "A GIS dataset of bird nests mapped in the Windmill Islands by Frederique Olivier and Drew Lee during the 2002-2003 season"
+},
+{
+"id": "SNPEMAWSON04-05.v1",
+"title": "A GIS dataset of Snow Petrel nests mapped in the Mawson region during the 2004-2005 season"
+},
+{
+"id": "WISPMAWSON04-05.v1",
+"title": "A GIS dataset of Wilson's storm petrel nests mapped in the Mawson region during the 2004-2005 season"
+},
+{
+"id": "macquarie_taspaws_grid.v1",
+"title": "A grid system used by the Parks and Wildlife Service, Tasmania, for Macquarie Island, 1974 to June 2001"
+},
+{
+"id": "AADC-00043.v1",
+"title": "A guide to the fish otoliths from waters off the Australian Antarctic Territory, Heard and Macquarie Islands"
+},
+{
+"id": "AAS_3326_bathymetric_grid_casey_2013-2015.v1",
+"title": "A high resolution bathymetric grid of the nearshore area at Casey station, Antarctica"
+},
+{
+"id": "Biology_Log_Mawson_1971_1974.v1",
+"title": "A log of biological and sea ice observations made at Mawson station between 1971 and 1974"
+},
+{
+"id": "Biology_Log_Mawson_1977_1978.v1",
+"title": "A log of biological and sea ice observations made at Mawson station between 1977 and 1978"
+},
+{
+"id": "Biology_Log_Mawson_1980_1981.v1",
+"title": "A log of biological observations at Mawson station during 1980 and 1981"
+},
+{
+"id": "Biology_Log_Mawson_1982.v1",
+"title": "A log of biological observations at Mawson station in 1982"
+},
+{
+"id": "Biology_Log_Mawson_Skuas_1982_1990.v1",
+"title": "A log of biological observations at Mawson station of skuas from 1982 to 1990"
+},
+{
+"id": "Biology_Log_Mawson_1958_1962.v1",
+"title": "A log of biological observations made at Mawson, Davis and Wilkes stations between 1958 and 1962"
+},
+{
+"id": "Biology_Log_Mawson_Antarctic_Petrels_1972_1990.v1",
+"title": "A log of biological observations of Antarctic Petrels made at Mawson station between 1972 and 1990"
+},
+{
+"id": "Biology_Log_Mawson_Pintardo_Petrels_1972_1988.v1",
+"title": "A log of biological observations of Pintardo Petrels made at Mawson station between 1972 and 1988"
+},
+{
+"id": "Biology_Log_Mawson_Snow_Petrels_1971_1990.v1",
+"title": "A log of biological observations of Snow Petrels made at Mawson station between 1971 and 1990"
+},
+{
+"id": "Biology_Log_Mawson_Seals_1974_1979.v1",
+"title": "A log of biological observations of Weddell Seals and Leopard Seals made at Mawson station between 1974 and 1979"
+},
+{
+"id": "Biology_Log_Wilkes_Bird_Banding_1962_1963.v1",
+"title": "A log of bird banding and zoological observations made at Wilkes Station and the Windmill Islands, 1962-1963"
+},
+{
+"id": "Biology_Log_Mawson_Fishing_1978_1985.v1",
+"title": "A log of fishing activities at Mawson station during 1979 and 1985"
+},
+{
+"id": "Meteorology_Log_Commonwealth_Bay_1977_1978.v1",
+"title": "A log of meteorological observations made at Commonwealth Bay between 1977 and 1978"
+},
+{
+"id": "Biology_Log_Wilkes_Zoology_1959_1961.v1",
+"title": "A log of zoological observations made at Wilkes Station and the Windmill Islands, 1959-1961"
+},
+{
+"id": "ASAC_2201_Casey_SRE1.v1",
+"title": "A manipulative field experiment examining the effect of contaminated sediment on the recruitment and recolonisation of soft-sediment infauna."
+},
+{
+"id": "ASAC_2201_Casey_SRE2.v1",
+"title": "A manipulative field experiment examining the effect of contaminated sediment on the recruitment of soft-sediment infauna (Mar 1998 - Feb 1999)."
+},
+{
+"id": "ASAC_2201_Casey_SRE3.v1",
+"title": "A manipulative field experiment examining the effect of heavy metal and hydrocarbon contaminated sediment on the recruitment of soft-sediment infauna."
+},
+{
+"id": "ASAC_2201_Casey_tiles_1_mobile.v1",
+"title": "A manipulative field experiment examining the recruitment of mobile epifauna to hard-substratum at potentially impacted and control locations."
+},
+{
+"id": "ASAC_2201_Casey_tiles_1_sessile.v1",
+"title": "A manipulative field experiment examining the recruitment of sessile epifauna to hard-substratum at potentially impacted and control locations."
+},
+{
+"id": "Biology_Log_Wilkes_Skuas_1957_1958.v1",
+"title": "A map of banding stations for a study on the distribution of south polar skuas in 1957-1958"
+},
+{
+"id": "ASAC_2529.v1",
+"title": "A Meteor Radar for Measuring Mesospheric and Lower Thermospheric Winds and Temperatures at Davis Station"
+},
+{
+"id": "ASAC_2677.v2",
+"title": "A practical approach to the assessment of risk to Antarctic marine organisms from environmental contaminants: Modelled 10 day and 4 day LC50 from rapid tests at Casey 2005/06"
+},
+{
+"id": "ANARE-26.v1",
+"title": "A qualitative investigation into scavenging of airborne sea salt over Macquarie Island."
+},
+{
+"id": "Davis_Winter_Report_1989.v1",
+"title": "A report on winter scientific work undertaken at Davis Station 1989 - Simon Townsend"
+},
+{
+"id": "Heard_data_snapshot_1901-2002.v1",
+"title": "A snapshot of Heard Island data from 1901-2002 held by the AADC"
+},
+{
+"id": "AAS_4088_Spatial_reference_system_coastal_east_Antarctica.v1.1",
+"title": "A spatial reference system for coastal ice-free land in East Antarctica"
+},
+{
+"id": "ASAC_194.v1",
+"title": "A Study of the Nitrogen-fixing Microbiota of Macquarie Island Plant Communities"
+},
+{
+"id": "ASAC_555.v1",
+"title": "A Survey of the Freshwater Macroinvertebrates in Streams and Lakes of Macquarie Island"
+},
+{
+"id": "ISPOL2004_AAD_BuoyData.v1",
+"title": "AAD buoy data collected during ISPOL 2004, Western Weddell Sea"
+},
+{
+"id": "AAD_Hydroacoustics_data.v1",
+"title": "AAD Hydroacoustics hard disks - data collected from Southern Ocean cruises 1993-2004"
+},
+{
+"id": "AAS_4087_Fulmarine_petrel_tracking_study_Hop_Island_2015_16.v1",
+"title": "AAS 4087 Fulmarine petrel tracking study, Hop Island, 2015/16"
+},
+{
+"id": "CEAMARC_CASO_AAV30708_Biogeochemistry.v1",
+"title": "AAV30708 Biogeochemistry - CO2 and Alkalinity bottle data collected on the CEAMARC Cruise of the Aurora Australis"
+},
+{
+"id": "CEAMARC_CASO_200708_V3_Biogeochemistry_EIMS.v1",
+"title": "AAV30708 Biogeochemistry - EIMS Data Collected on the CEAMARC Cruise of the Aurora Australis 2007-2008"
+},
+{
+"id": "CEAMARC_CASO_200708_V3_Surface_Hydrochemistry.v1",
+"title": "AAV30708 Biogeochemistry - Surface Hydrochemistry data taken from the CEAMARC Cruise of the Aurora Australis in the 2007-2008 Summer Season"
+},
+{
+"id": "CEAMARC_CASO_200708_V3_Biogeochemistry_PCO2.v1",
+"title": "AAV30708 Biogeochemistry PCO2 Data Collected on the CEAMARC Cruise of the Aurora Australis 2007-2008"
+},
+{
+"id": "AAS_3051_AbatusMicrosatellites.v2",
+"title": "Abatus Microsatellites data set"
+},
+{
+"id": "AAS_4075_ABN_continuousGas-CFA.v1",
+"title": "ABN continuous gas CFA - methane (CH4) and carbon monoxide (CO)"
+},
+{
+"id": "AAS_4075_ABN1314_BoreholeTemperature.v1",
+"title": "ABN1314 borehole temperature profile for the ABN1314 main ice core drill hole"
+},
+{
+"id": "CEAMARC_Diatom_Absolute_Abundance.v1",
+"title": "Absolute abundance of diatoms from CEAMARC cores"
+},
+{
+"id": "AAS_974_Concordia_2009to2011_1min.v1",
+"title": "Absolute vertical electric field data raw and selected data - Concordia from 2006-2011; processed 1-minute averages"
+},
+{
+"id": "AAS_974_Vostok_2006to2011_1min.v1",
+"title": "Absolute vertical electric field data raw and selected data - Vostok from 2006-2011; processed 1-minute averages"
+},
+{
+"id": "ASAC_229.v1",
+"title": "Abundance, Life-cycle and Potential Productivity of 'Euphausia superba' and its Relationship With Other Zooplankton in Prydz Bay, Antarctica"
+},
+{
+"id": "AAS_4124_CEAMARC200708_BenthicStills_InvertebrateAbundances.v2",
+"title": "Abundances of benthic invertebrate species in the CEAMARC region 2007/08"
+},
+{
+"id": "AAS_4124_CEAMARC200708_BenthicStills.v1",
+"title": "Abundances of broad benthic functional groups in the CEAMARC region 2007/08"
+},
+{
+"id": "ASAC_2690.v1",
+"title": "Accessory mineral behaviour during partial melting in the crust - improving the geochronology of granulite terrains."
+},
+{
+"id": "accum-measurements-domec-traverse-1982.v1",
+"title": "Accumulation Measurements from Pioneerskaya to Dome C, 1982-84"
+},
+{
+"id": "accumulation_lawdome_1960.v1",
+"title": "Accumulation Measurements, Law Dome 1959-1960"
+},
+{
+"id": "lawdome_1979_field_data.v1",
+"title": "Accumulation, Air Temperature, Barometric Pressure and Magnetic Readings from Law Dome and Wilkes Land, 1979"
+},
+{
+"id": "climate_pressure.v1",
+"title": "ACE CRC and Australian Antarctic Division Climate Data Set - Mean monthly surface air pressure"
+},
+{
+"id": "climate_temps.v1",
+"title": "ACE CRC and Australian Antarctic Division Climate Data Set - Mean monthly surface air temperatures"
+},
+{
+"id": "AAS_4434_ACE_Wave_Spectra_CalVal.v1",
+"title": "ACE wave spectra - model prediction vs WaMoSII data"
+},
+{
+"id": "ASAC_829.v1",
+"title": "ACE-1 - Southern Hemisphere marine aerosol characterisation experiment"
+},
+{
+"id": "AAD_voyage_soundings.v1",
+"title": "Acoustic depth soundings collected on Australian Antarctic Division voyages"
+},
+{
+"id": "AAD_voyage_soundings_HI513.v1",
+"title": "Acoustic depth soundings collected on Australian Antarctic Division voyages, 1997/98, 1998/99 and 2003/04 to 2011/12"
+},
+{
+"id": "VMS_Bathy_Processing.v1",
+"title": "Acoustic depth soundings collected on Australian Antarctic Division voyages, 2006/07 to 2010/11"
+},
+{
+"id": "AAD_voyage_soundings_HI534.v1",
+"title": "Acoustic depth soundings collected on Australian Antarctic Division voyages, 2012/13"
+},
+{
+"id": "AAS_4102_AcousticEventLog2013.v1",
+"title": "Acoustic event log of the 2013 Antarctic Blue Whale Voyage to the Southern Ocean"
+},
+{
+"id": "acoustic_charts_v6_1994_95.v1",
+"title": "Acoustic Sounder Charts from Australian Antarctic Division Voyage 6 1994/95 (BANGSS)"
+},
+{
+"id": "Acoustic_seals.v1",
+"title": "Acoustic surveying of pack-ice seals"
+},
+{
+"id": "AAS_4102_AcousticTrackingLog2013.v1",
+"title": "Acoustic whale tracking log of the 2013 Antarctic Blue Whale Voyage to the Southern Ocean"
+},
+{
+"id": "BROKE-West_ACS.v1",
+"title": "ACS data collected on the BROKE-West voyage of the Aurora Australis, 2006"
+},
+{
+"id": "AAS_4342_ActiveSeis_2015-2016.v1",
+"title": "Active Seismics on Sorsdal Glacier 2015-2016"
+},
+{
+"id": "AAS_4342_ActiveSeis_2016-2017.v1.1",
+"title": "Active Seismics on Sorsdal Glacier 2016-2017"
+},
+{
+"id": "ADBEX_I_nutrient.v1",
+"title": "ADBEX I cruise to the Prydz Bay region, 1982: nutrient data"
+},
+{
+"id": "ADBEX_III_ice_floe.v1",
+"title": "ADBEX III Ice Floe Measurements and Observations"
+},
+{
+"id": "ADBEX_III_oxygen_isotope.v1",
+"title": "ADBEX III Oxygen Isotope Results For Snow And Sea Ice Sampling"
+},
+{
+"id": "ADBEX_III_strain_grid.v1",
+"title": "ADBEX III Sea Ice Strain Grid Measurements"
+},
+{
+"id": "ADBEX_III_density.v1",
+"title": "ADBEX III Water Density Results"
+},
+{
+"id": "BROKE-West_ADCP.v1",
+"title": "ADCP current velocity data for CTD stations of the BROKE-West voyage of the Aurora Australis, 2006"
+},
+{
+"id": "ASAC_2720_ADCP.v1",
+"title": "ADCP data collected during the SAZ-SENSE voyage, January-February 2007"
+},
+{
+"id": "breeding_success_BI.v1",
+"title": "Adelie penguin breeding success for Bechervaise Island, Mawson"
+},
+{
+"id": "adpe-aat-census.v1",
+"title": "Adelie penguin census from records from 1931 to 2007 AAT region"
+},
+{
+"id": "ANARE-71.v1",
+"title": "Adelie Penguin Colonies - Mawson Area and Rookery Islands"
+},
+{
+"id": "robinson_adelie_colonies.v1",
+"title": "Adelie penguin colonies in the Robinson Group, Antarctica: surveys conducted during 2005/06 and 2006/07"
+},
+{
+"id": "ASAC_2722_Adelie_Rauer_Vestfold_Nov1993.v1",
+"title": "Adelie penguin colony boundaries at the Rauer Group and the Vestfold Hills, November 1993"
+},
+{
+"id": "Adelie_diet_BI.v1",
+"title": "Adelie Penguin Dietary Data From Bechervaise Island Antarctica"
+},
+{
+"id": "ASAC_1219_AAT_APen_D_73.v1",
+"title": "Adelie Penguin Distributions in the Davis Area, Antarctica"
+},
+{
+"id": "ASAC_1219_AAT_APen_M.v1",
+"title": "Adelie Penguin Distributions in the Mawson Area Antarctica"
+},
+{
+"id": "foraging_trip_duration_BI.v1",
+"title": "Adelie penguin foraging trip duration, Bechervaise Island, Mawson"
+},
+{
+"id": "bech_nest_locations.v1",
+"title": "Adelie Penguin nest locations on Bechervaise Island"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Mawson_Taylor.v1",
+"title": "Adelie penguin occupancy survey between Mawson and Taylor Glacier, 2015"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Bechervaise_Kista_2013.v1",
+"title": "Adelie penguin occupancy survey of Bechervaise Island and Kista Rock, 2013"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Bechervaise_2013.v1",
+"title": "Adelie penguin occupancy survey of Bechervaise Island, 2013"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Bechervaise_2016.v1",
+"title": "Adelie penguin occupancy survey of Bechervaise Island, 2016"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Chick_Henry_2012.v1",
+"title": "Adelie penguin occupancy survey of Chick and Henry Islands, 2012"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Knox_2009-2010.v1",
+"title": "Adelie penguin occupancy survey of islands along the Knox Coast, 2009-2010"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Knox_2011.v1",
+"title": "Adelie penguin occupancy survey of islands along the Knox Coast, 2011"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Low_Tongue_2015.v1",
+"title": "Adelie penguin occupancy survey of Low Tongue, 2015"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Biscoe.v1",
+"title": "Adelie penguin occupancy survey of Mount Biscoe, 1985"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Murray_2010.v1",
+"title": "Adelie penguin occupancy survey of Murray Monolith, 2010"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Scullin_2010.v1",
+"title": "Adelie penguin occupancy survey of Scullin Monolith, 2010"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Stillwell_2015.v1",
+"title": "Adelie penguin occupancy survey of Stillwell Island, 2015"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Balaena.v1",
+"title": "Adelie penguin occupancy survey of the Balaena Islands, 2012"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Bolingen.v1",
+"title": "Adelie penguin occupancy survey of the Bolingen Island group, 2010"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Kista_2015.v1",
+"title": "Adelie penguin occupancy survey of the Kista Island Group, 2015"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Lewis_2012.v1",
+"title": "Adelie penguin occupancy survey of the Lewis Islands, 2012"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Rauer_2009.v1",
+"title": "Adelie penguin occupancy survey of the Rauer Group, 2009"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Rauer_2010.v1",
+"title": "Adelie penguin occupancy survey of the Rauer Group, 2010"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Robinson_2006.v1",
+"title": "Adelie penguin occupancy survey of the Robinson Group, 2006"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Robinson_2013.v1",
+"title": "Adelie penguin occupancy survey of the Robinson Group, 2013"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Rookery_2013.v1",
+"title": "Adelie penguin occupancy survey of the Rookery Island Group, 2013"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Rookery_2014.v1",
+"title": "Adelie penguin occupancy survey of the Rookery Island Group, 2014"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Rookery_2015.v1",
+"title": "Adelie penguin occupancy survey of the Rookery Island Group, 2015"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Stanton_2015.v1",
+"title": "Adelie penguin occupancy survey of the Stanton Group, 2015"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Svenner_2010.v1",
+"title": "Adelie penguin occupancy survey of the Svenner Islands, 2010"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Vestfold_2009.v1",
+"title": "Adelie penguin occupancy survey of the Vestfold Hills, 2009"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Vestfold_2011.v1",
+"title": "Adelie penguin occupancy survey of the Vestfold Hills, 2011"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Vestfold_2012.v1",
+"title": "Adelie penguin occupancy survey of the Vestfold Hills, 2012"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Wilkes_2011.v1",
+"title": "Adelie penguin occupancy survey of the Wilkes Land Coastline, 2011"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Windmill.v1",
+"title": "Adelie penguin occupancy survey of the Windmill Island group, 2011"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Windmill_2012-2013.v1",
+"title": "Adelie penguin occupancy survey of the Windmill Island group, 2012 - 2013"
+},
+{
+"id": "AAS_4088_Adelie_occupancy_Welch_2014.v1",
+"title": "Adelie penguin occupancy survey of Welch Island 2014"
+},
+{
+"id": "population_counts_BI.v1",
+"title": "Adelie penguin population counts for Bechervaise, Verner and Petersen Islands, Mawson"
+},
+{
+"id": "Biology_Log_Adelie_Rookery_1957_Gardner.v1",
+"title": "Adelie Penguin rookery observations made at Gardner Island in 1957"
+},
+{
+"id": "aster.v1",
+"title": "Advanced Spaceborne Thermal Emission and Reflection Radiometer (Aster) satellite image data held by the Australian Antarctic Data Centre"
+},
+{
+"id": "AAS_3145_Advection.v1",
+"title": "Advection shapes Southern Ocean microbial assemblages independent of distance and environment effects"
+},
+{
+"id": "AAS_4036_aerial_mosaic_macquarie_jan2015.v1",
+"title": "Aerial photograph mosaic of Macquarie Island isthmus, 31 January 2015"
+},
+{
+"id": "aerial_mosaics_macquarie_2017.v2",
+"title": "Aerial photograph mosaics of The Isthmus at Macquarie Island, January and February 2017"
+},
+{
+"id": "ASAC_1219_AAT_Img_C_90.v1",
+"title": "Aerial Photographic Census of Birds in the Windmill Islands in 1990-91"
+},
+{
+"id": "aerial_rpa_nov2016.v1",
+"title": "Aerial photographs of Davis and Heidemann Valley taken with Remotely Piloted Aircraft, November 2016"
+},
+{
+"id": "aerial_photo_sea_ice.v1",
+"title": "Aerial photographs of sea ice flown by the Australian Antarctic Division"
+},
+{
+"id": "aerial_photo_sea_ice_ARISE.v1",
+"title": "Aerial photographs of sea ice flown by the Australian Antarctic Division on the ARISE voyage in 2003"
+},
+{
+"id": "aerial_photo_sea_ice_ISPOL.v1",
+"title": "Aerial photographs of sea ice flown by the Australian Antarctic Division on the ISPOL voyage in 2004"
+},
+{
+"id": "aerial_photo_sea_ice_SIPEX.v1",
+"title": "Aerial photographs of sea ice flown by the Australian Antarctic Division on the SIPEX voyage in 2007"
+},
+{
+"id": "ASAC_1219_HIMI_Img87.v2",
+"title": "Aerial photography at Heard Island 1987/88"
+},
+{
+"id": "aerial_casa_2010_11.v1",
+"title": "Aerial photography flown for the Australian Antarctic Division from CASA 212-400 aircraft, 2010-11"
+},
+{
+"id": "Adelie_Aerial_Photography_Casey20102011.v1",
+"title": "Aerial photography from the Casey region taken during January 2011 used for Adelie penguin analysis"
+},
+{
+"id": "Adelie_Aerial_Photography_Davis20092010.v1",
+"title": "Aerial photography from the Davis region taken during November 2009 used for Adelie penguin analysis"
+},
+{
+"id": "Adelie_Aerial_Photography_Davis20102011.v1",
+"title": "Aerial photography from the Davis region taken during November 2010 used for Adelie penguin analysis"
+},
+{
+"id": "aerial_surveys_vestfold_2017-18.v1",
+"title": "Aerial surveys of Davis station and an area of the Vestfold Hills to the north-east of the station 2017/18"
+},
+{
+"id": "AAS_4191_metamorphic_events.v1",
+"title": "Ages and P-T conditions of metamorphic events in the Windmill Islands"
+},
+{
+"id": "ASAC_1004.v1",
+"title": "Air sampling and analysis from Antarctic firn and ice"
+},
+{
+"id": "SOE_greenhouse_gas.v1",
+"title": "Air sampling for greenhouse gas concentrations and associated species"
+},
+{
+"id": "SIPEX_LiDAR_sea_ice.v1",
+"title": "Airborne scanning LiDAR of sea ice during SIPEX in 2007"
+},
+{
+"id": "vanderford_data_1983_85.v1",
+"title": "Airborne Topographic and Ice Thickness Survey of the Vanderford Glacier, 1983-85"
+},
+{
+"id": "AAS_4046_spectroscopy_chlorophyll.v1",
+"title": "Airborne, satellite and ground imaging spectroscopy data for estimation of chlorophyll content, leaf density and relative vigour of Antarctic mosses at ASPA 135 and Robinson Ridge study sites."
+},
+{
+"id": "AAS_4346_Airborne_Ocean_Sensors.v2",
+"title": "Airborne-deployed ocean sensors in the Southern Ocean, 2016-2018, Level 0 data"
+},
+{
+"id": "AAS_4346_Airborne_Ocean_Sensors_Level_2.v1",
+"title": "Airborne-deployed ocean sensors in the Southern Ocean, 2016-2018, Level 2 data"
+},
+{
+"id": "ASPECT_AF050692.v1",
+"title": "Akademic Fedorov (37th Russian Antarctic Expedition) May to June 1992"
+},
+{
+"id": "SIPEX_II_Albedo.v1",
+"title": "Albedos for 300-2500nm for thin sea ice covered with frost flowers, nilas, snow, and slush collected during SIPEX II"
+},
+{
+"id": "Aliens_in_Antarctica_Invertebrates_2000_2013.v1",
+"title": "Alien invertebrates collected though the Australian Antarctic Program 2000-2013"
+},
+{
+"id": "MI2010_11_Alien-plant-survey_JDS.v1",
+"title": "Alien plant survey Macquarie Island 2010_11"
+},
+{
+"id": "Aliens_in_Antarctica_visitor_data.v1",
+"title": "Aliens in Antarctica - Clothing Item and Propagule data"
+},
+{
+"id": "Aliens_in_Antarctica_survey_data.v1",
+"title": "Aliens in Antarctica - General Visitor Survey and Visitor Clothing Survey data"
+},
+{
+"id": "ASAC_2904.v1",
+"title": "Aliens in Antarctica - project to study exotic species and visitors in the Antarctic"
+},
+{
+"id": "Aliens_in_Antarctica_seed_identifications.v1",
+"title": "Aliens in Antarctica - Seed Identifications data"
+},
+{
+"id": "ASAC_2904_Food.v1",
+"title": "Aliens in Antarctica Project - Inspection of fresh food for alien propagules"
+},
+{
+"id": "Aliens_in_Ant_Visitor_Numbers.v1",
+"title": "Aliens in Antarctica tourist and scientist numbers 2007 - 2008"
+},
+{
+"id": "MI_alk_clones.v1",
+"title": "Alkane mono-oxygenase clone library from Macquarie Island soil"
+},
+{
+"id": "casey_alk_clones.v1",
+"title": "Alkane mono-oxygenase genes from marine sediment near Casey"
+},
+{
+"id": "AAS_4102_all_photo_ID_images_2013.v1",
+"title": "All identification photos taken of Antarctic blue whales during the Antarctic blue whale voyage 2013"
+},
+{
+"id": "AAS_4102_all_photo_ID_images_2015.v1",
+"title": "All identification photos taken of whales during the NZ-Australia Antarctic Ecosystems Voyage to the Ross Sea 2015"
+},
+{
+"id": "AAS_4102_all_photo_ID_images_2012.v1",
+"title": "All identification photos taken of whales during the two blue whale voyages in the Bonney Upwelling, Januray and March 2012"
+},
+{
+"id": "AAS_4011_PLATO_HRCAM.v1",
+"title": "All-sky images taken from Dome A, Dome Fuji and Ridge A"
+},
+{
+"id": "amanda_bay_sat.v1",
+"title": "Amanda Bay Satellite Image Map 1:100 000"
+},
+{
+"id": "ASAC_1164_AM02_Caliper.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2000-01 - AM02 borehole caliper profile data"
+},
+{
+"id": "ASAC_1164_AM02_CTD.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2000-01 - AM02 borehole CTD profile data"
+},
+{
+"id": "ASAC_1164_AM02_Drilling.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2000-01 - AM02 borehole drilling data"
+},
+{
+"id": "ASAC_1164_AM02_Other.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2000-01 - AM02 seawater and sediment samples, plus AWS data"
+},
+{
+"id": "ASAC_1164_AM01.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2001-02 - AM01"
+},
+{
+"id": "ASAC_1164_AM01_Aquadopp.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2001-02 - AM01 Aquadopp current meter data"
+},
+{
+"id": "ASAC_1164_AM01_caliper.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2001-02 - AM01 caliper data"
+},
+{
+"id": "ASAC_1164_AM01_Drilling.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2001-02 - AM01 drilling parameters data"
+},
+{
+"id": "ASAC_1164_AM01_CTD.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2001-02 - AM01 FSI-CTD profile data"
+},
+{
+"id": "ASAC_1164_AM01_GPS.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2001-02 - AM01 GPS data in vicinity of borehole site using Leica System 300."
+},
+{
+"id": "ASAC_1164_AM01_GPR.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2001-02 - AM01 ground penetrating radar data in vicinity of borehole site"
+},
+{
+"id": "ASAC_1164_AM01_Other.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2001-02 - AM01 sampling (seafloor sediment, ice cores, seawater) and Automatic Weather Station data"
+},
+{
+"id": "ASAC_1164_AM02.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2001-02 - AM02"
+},
+{
+"id": "ASAC_1164_AM01b.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2003-04 - AM01b"
+},
+{
+"id": "ASAC_1164_AM01b_video.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2003-04 - AM01b - video footage"
+},
+{
+"id": "ASAC_1164_AM01b_Aquadopp.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2003-04 - AM01b Aquadopp current meter data"
+},
+{
+"id": "ASAC_1164_AM01b_CTD.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2003-04 - AM01b FSI-CTD profile data"
+},
+{
+"id": "ASAC_1164_AM01b_GPS.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2003-04 - AM01b GPS data in vicinity of borehole site using Leica System 300."
+},
+{
+"id": "ASAC_1164_AM01b_Other.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2003-04 - AM01b sampling (seafloor sediment, ice cores, seawater) and Automatic Weather Station data"
+},
+{
+"id": "ASAC_1164_AM03.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2005-06 - AM03"
+},
+{
+"id": "ASAC_1164_AM03_video.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2005-06 - AM03 - video footage"
+},
+{
+"id": "ASAC_1164_AM03_Aquadopp.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2005-06 - AM03 Aquadopp current meter data"
+},
+{
+"id": "ASAC_1164_AM03_caliper.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2005-06 - AM03 caliper data"
+},
+{
+"id": "ASAC_1164_AM03_Drilling.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2005-06 - AM03 drilling parameters data"
+},
+{
+"id": "ASAC_1164_AM03_CTD.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2005-06 - AM03 FSI-CTD profile data"
+},
+{
+"id": "ASAC_1164_AM04.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2005-06 - AM04"
+},
+{
+"id": "ASAC_1164_AM04_video.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2005-06 - AM04 - video footage"
+},
+{
+"id": "ASAC_1164_AM04_Aquadopp.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2005-06 - AM04 Aquadopp current meter data"
+},
+{
+"id": "ASAC_1164_AM04_caliper.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2005-06 - AM04 caliper data"
+},
+{
+"id": "ASAC_1164_AM04_Drilling.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2005-06 - AM04 drilling parameters data"
+},
+{
+"id": "ASAC_1164_AM04_CTD.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2005-06 - AM04 FSI-CTD profile data"
+},
+{
+"id": "ASAC_1164_AM05.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2009-11 - AM05"
+},
+{
+"id": "ASAC_1164_AM05_Aquadopp.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2009-11 - AM05 Aquadopp current meter data"
+},
+{
+"id": "ASAC_1164_AM05_caliper.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2009-11 - AM05 caliper data"
+},
+{
+"id": "ASAC_1164_AM05_Drilling.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2009-11 - AM05 drilling parameters data"
+},
+{
+"id": "ASAC_1164_AM05_CTD.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2009-11 - AM05 FSI-CTD profile data"
+},
+{
+"id": "ASAC_1164_AM06.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2010-11 - AM06"
+},
+{
+"id": "ASAC_1164_AM06_Aquadopp.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2010-11 - AM06 Aquadopp current meter data"
+},
+{
+"id": "ASAC_1164_AM06_caliper.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2010-11 - AM06 caliper data"
+},
+{
+"id": "ASAC_1164_AM06_Drilling.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2010-11 - AM06 drilling parameters data"
+},
+{
+"id": "ASAC_1164_AM06_CTD.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, 2010-11 - AM06 FSI-CTD profile data"
+},
+{
+"id": "ASAC_1164_AM01_Brancker.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, AM01 Brancker thermistor data"
+},
+{
+"id": "AAS_4096_AM01_Brancker.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, AM01 Brancker thermistor data - 2011/2012 data"
+},
+{
+"id": "ASAC_1164_AM01_MicroCAT.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, AM01 Seabird MicroCAT CTD moorings at three depths in ocean cavity beneath the shelf"
+},
+{
+"id": "ASAC_1164_AM02_Brancker.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, AM02 Brancker thermistor data"
+},
+{
+"id": "AAS_4096_AM02_Brancker.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, AM02 Brancker thermistor data - 2011/2012 data"
+},
+{
+"id": "ASAC_1164_AM02_MicroCAT.v2",
+"title": "Amery Ice Shelf - hot water drill borehole, AM02 CTD mooring data"
+},
+{
+"id": "ASAC_1164_AM03_Brancker.v2",
+"title": "Amery Ice Shelf - hot water drill borehole, AM03 Brancker thermistor data"
+},
+{
+"id": "AAS_4096_AM03_Brancker.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, AM03 Brancker thermistor data - 2011/2012 data"
+},
+{
+"id": "ASAC_1164_AM03_MicroCAT.v4",
+"title": "Amery Ice Shelf - hot water drill borehole, AM03 Seabird MicroCAT CTD moorings at three depths in ocean cavity beneath the shelf"
+},
+{
+"id": "AAS_4096_AM03_MicroCAT.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, AM03 Seabird MicroCAT CTD moorings at three depths in ocean cavity beneath the shelf - 2011/2012 data"
+},
+{
+"id": "ASAC_1164_AM04_Brancker.v2",
+"title": "Amery Ice Shelf - hot water drill borehole, AM04 Brancker thermistor data"
+},
+{
+"id": "AAS_4096_AM04_Brancker.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, AM04 Brancker thermistor data - 2011/2012 data"
+},
+{
+"id": "ASAC_1164_AM04_MicroCAT.v3",
+"title": "Amery Ice Shelf - hot water drill borehole, AM04 Seabird MicroCAT CTD moorings at three depths in ocean cavity beneath the shelf"
+},
+{
+"id": "ASAC_1164_AM05_MicroCAT.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, AM05 Seabird MicroCAT CTD moorings at three depths in ocean cavity beneath the shelf"
+},
+{
+"id": "AAS_4096_AM05_MicroCAT.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, AM05 Seabird MicroCAT CTD moorings at three depths in ocean cavity beneath the shelf - 2011-2013 data"
+},
+{
+"id": "ASAC_1164_AM06_MicroCAT.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, AM06 Seabird MicroCAT CTD moorings at three depths in ocean cavity beneath the shelf"
+},
+{
+"id": "AAS_4096_AM06_MicroCAT.v1",
+"title": "Amery Ice Shelf - hot water drill borehole, AM06 Seabird MicroCAT CTD moorings at three depths in ocean cavity beneath the shelf - 2011-2013 data"
+},
+{
+"id": "AIS_1968_traverse.v1",
+"title": "Amery Ice Shelf 1968 Traverse Reports and Logs"
+},
+{
+"id": "AIS_1968_borehole.v1",
+"title": "Amery Ice Shelf Borehole Measurements in 1968"
+},
+{
+"id": "AIS_thickness_bottom.v1",
+"title": "Amery Ice Shelf compiled and merged ice thickness datasets"
+},
+{
+"id": "ASAC_1120.v1",
+"title": "Amery Ice Shelf Dynamics from GPS"
+},
+{
+"id": "AMISOR_ship.v1",
+"title": "Amery Ice Shelf Experiment (AMISOR), Aurora Australis marine science cruises au0106 and au0207 - ship-based CTD, ADCP and mooring data"
+},
+{
+"id": "aad_ais_gz_modis_slope_break.v1",
+"title": "Amery Ice Shelf Grounding Zone defined as interpreted slope break in MODIS images"
+},
+{
+"id": "AIS_1970_iceradar.v1",
+"title": "Amery Ice Shelf Ice Depth Radar 1970"
+},
+{
+"id": "ais_1970_log.v1",
+"title": "Amery Ice Shelf Traverse Daily Log, 1970"
+},
+{
+"id": "AAD_Ant_AIS_vel_series.v1",
+"title": "Amery Ice Shelf velocity time series from Landsat images"
+},
+{
+"id": "AIS_1968_met_obs.v1",
+"title": "Amery Ice Shelf Weather Observations in 1968"
+},
+{
+"id": "ASAC_1224.v1",
+"title": "Amery shallow ice coring"
+},
+{
+"id": "SOE_incinerated_waste.v1",
+"title": "Amount of incinerated waste from Australian Antarctic Stations"
+},
+{
+"id": "Macquarie_Island_Notes_1948_1949.v1",
+"title": "An account of the establishment of Macquarie Island Station in 1948-1949 by Peter Wylie King"
+},
+{
+"id": "AcousticTrends_BlueFinLibrary.v1",
+"title": "An annotated library of underwater acoustic recordings for testing and training automated algorithms for detecting Antarctic blue and fin whale sounds"
+},
+{
+"id": "ASAC_987.v1",
+"title": "An assessment of some uncertainties in using ice core S180 data to deduce past temperatures"
+},
+{
+"id": "AAS_3132.v1",
+"title": "An assessment of variability in the influx of cosmic dust during the Holocene and the potential effect on iron concentrations in the Southern Ocean."
+},
+{
+"id": "ANARE-74.v1",
+"title": "An atlas of the lakes of the Larsemann Hills, Princess Elizabeth Land, Antarctica - ANARE Research Notes 74"
+},
+{
+"id": "ASAC_3137_SUMMIT_DOMEA_PLATO.v1",
+"title": "An Australian autonomous observatory, PLATO at Dome A"
+},
+{
+"id": "ASAC_135.v1",
+"title": "An Elemental Analysis of the Glacial Deposits of the Vestfold Hills, Antarctica"
+},
+{
+"id": "ASAC_1092.v1",
+"title": "An environmental record of lead isotopes over four centuries at Law Dome, Antarctica"
+},
+{
+"id": "AAS_4061_Law_Dome_sulphate.v1",
+"title": "An independently dated 2000-year volcanic record from Law Dome, East Antarctica"
+},
+{
+"id": "ASAC_973.v1",
+"title": "An integrated field, geochemical, isotopic and geochronological study of Gaussberg"
+},
+{
+"id": "AAS_4030_ToothfishAssessment.v1",
+"title": "An integrated stock assessment for the Heard Island and the McDonald Islands Patagonian toothfish (Dissostichus eleginoides) fishery in CCAMLR Division 58.5.2"
+},
+{
+"id": "ASAC_2767.v1",
+"title": "An integrated study of processes linking sea ice and biological ecosystem elements off East Antarctica during winter"
+},
+{
+"id": "ASAC_1049.v1",
+"title": "An inter-disciplinary investigation of biological, physical and geochemical lake processes"
+},
+{
+"id": "ASAC_1080.v1",
+"title": "An investigation into Southern Hemisphere cyclone-sea ice links using long records of NCEP analyses and passive microwave data"
+},
+{
+"id": "AAS_4046_Temperature_Optima_Model.v1",
+"title": "An R model to calculate the environmental optima for a species response curve"
+},
+{
+"id": "AAS_4046_Estimate_Abundance_Model.v1",
+"title": "An R model to estimate the relative abundance of species from presence-absence data"
+},
+{
+"id": "AAS_4296_Antarctic_Conservation_Biogeographic_Regions_v2.v1",
+"title": "An update of the Antarctic Conservation Biogeographic Regions (ACBRs)"
+},
+{
+"id": "AAS_4296_Antarctic_Specially_Protected_Areas_v2.v1",
+"title": "An update to the Antarctic Specially Protected Areas (ASPAs) March 2016"
+},
+{
+"id": "ASAC_520.v1",
+"title": "Anaesthetics and Ecology of the Southern Elephant Sea at Macquarie Island and Heard Island"
+},
+{
+"id": "AAS_4177_Rock_Cod_Wastewater.v1",
+"title": "Analyses of tissue samples from Antarctic Rock-cod (Trematomus bernacchii) collected at sites around Davis station to determine wastewater exposure and sub-lethal impact"
+},
+{
+"id": "bhc1_bhc2_analysis_notes.v1",
+"title": "Analysis notes for BHC1 and BHC2 ice cores, taken from Law Dome"
+},
+{
+"id": "ASAC_2788.v1",
+"title": "Analysis of East Antarctic drainage basins with altimetric, interferometric, gravity and GPS techniques to determine their state of flux"
+},
+{
+"id": "lawdome_icecore_analysis_2013.v1",
+"title": "Analysis of Ice Cores from Law Dome, 2013"
+},
+{
+"id": "ASAC_687.v1",
+"title": "Analysis of Remotely Sensed Sea Ice Images Using an Expert System"
+},
+{
+"id": "Davis_STP_Chemistry_Methods.v1",
+"title": "Analytical methods used to measure chemical and physical properties of Davis Station wastewater and marine sediments."
+},
+{
+"id": "ASAC_12.v1",
+"title": "ANARE Health Register"
+},
+{
+"id": "ANARE_History_Timelines.v1",
+"title": "ANARE History and Timeline documents"
+},
+{
+"id": "HI_animaltracks_ARGOS.v1",
+"title": "Animal Tracking at Heard Island 2003/2004 - ARGOS data"
+},
+{
+"id": "mi_vascular_plants_census_1979.v1",
+"title": "Annotated Atlas of the Vascular Flora of Macquarie Island - 1979"
+},
+{
+"id": "larsemann_visible_disturbance.v1",
+"title": "Annotated maps and accompanying notes compiled in May 2000 about visible disturbance in the Larsemann Hills, Princess Elizabeth Land, Antarctica"
+},
+{
+"id": "LD2012-d18O-Native-age.v1",
+"title": "Annual Mean Water Isotope (d18O) Record for the \"DSS\" Law Dome Ice Core"
+},
+{
+"id": "SOE_seabird_candidate_sp_AP.v1",
+"title": "Annual population counts at selected Adelie Penguin colonies within the AAT"
+},
+{
+"id": "SOE_elephant_seals.v4",
+"title": "Annual population estimates of Southern Elephant Seals at Macquarie Island from censuses made annually on October 15th."
+},
+{
+"id": "Davis_Annual_Report_1985.v1",
+"title": "Annual report on the scientific work undertaken at Davis Station in 1985"
+},
+{
+"id": "Vertebrate_Biology_MI_1990.v1",
+"title": "Annual report on vertebrate biology at Macquarie Island, 1990"
+},
+{
+"id": "SOE_wilderness.v1",
+"title": "Annual variations in the visibility 'footprint' of structures in the Australian Antarctic Territory"
+},
+{
+"id": "summer_sea_salt_1000-2009.v1",
+"title": "Annualized Summer Sea Salt From the Law Dome Ice Core Chemistry Record, 1000-2009"
+},
+{
+"id": "Neutron-Monitor-era-annual-10Be.v1",
+"title": "Annually-resolved polar ice core 10Be records spanning the Neutron Monitor era"
+},
+{
+"id": "AHS_hydrographic_surveys_antarctica.v1",
+"title": "Antarctic and subantarctic hydrographic surveys by the RAN Australian Hydrographic Service"
+},
+{
+"id": "AArt_Bibliography.v1",
+"title": "Antarctic Art Bibliography"
+},
+{
+"id": "AA_Bibliography.v1",
+"title": "Antarctic Artefacts Bibliography"
+},
+{
+"id": "DB_Antarctic_Artefacts.v1",
+"title": "Antarctic Artefacts Database"
+},
+{
+"id": "ASAC_2688.v1",
+"title": "Antarctic associations with Australian and South American cold outbreaks: Present and future"
+},
+{
+"id": "antarctic_biodiversity_db.v1",
+"title": "Antarctic Biodiversity Database"
+},
+{
+"id": "Flora1.v1",
+"title": "Antarctic Biodiversity Database - Flora Observations"
+},
+{
+"id": "AAS_4434_ACE_WAMOS.v3",
+"title": "Antarctic Circumnavigation Expedition 2016-2017: WAMOS data"
+},
+{
+"id": "AAS_4434_ACE_HOSM.v1",
+"title": "Antarctic Circumnavigation Expedition 2017: HOSM data product"
+},
+{
+"id": "AAS_4434_ACE_GPS.v1",
+"title": "Antarctic Circumnavigation Expedition 2017: motion sensor and GPS data"
+},
+{
+"id": "AAS_4434_ACE_WAMOS_timeseries.v1",
+"title": "Antarctic Circumnavigation Expedition 2017: WAMOS data product"
+},
+{
+"id": "Antarctic_Meteorology.v1",
+"title": "Antarctic Climate Data Collected by Australian Agencies"
+},
+{
+"id": "climate_iceberg.v1",
+"title": "Antarctic CRC and Australian Antarctic Division Climate Data Set - Australian iceberg observations"
+},
+{
+"id": "climate_sea_ice.v1",
+"title": "Antarctic CRC and Australian Antarctic Division Climate Data Set - Northern extent of Antarctic sea ice"
+},
+{
+"id": "AAS_4026_Silicification_CO2.v1",
+"title": "Antarctic diatom silicification diminishes under ocean acidification"
+},
+{
+"id": "ant_dist.v1",
+"title": "Antarctic Distances"
+},
+{
+"id": "AADC-00103.v1",
+"title": "Antarctic Drifting Buoys"
+},
+{
+"id": "AAS_4127_antFOCE_Project4127.v1",
+"title": "Antarctic Free Ocean Carbon Dioxide Enrichment Experiment"
+},
+{
+"id": "AADC-00009.v1",
+"title": "Antarctic Fur Seal Populations on Heard Island Summer 1987-1988"
+},
+{
+"id": "survey_2006-2007_geodesy.v1",
+"title": "Antarctic Geodesy Field Report 2006-2007 - N Brown and A Woods"
+},
+{
+"id": "survey_2004-2005_geodesy.v1",
+"title": "Antarctic Geodesy Survey Report 2004-2005 summer - Samim Naebkhil and Michael Moore"
+},
+{
+"id": "deglacial_water_isotope_composite_gicc05.v1",
+"title": "Antarctic Ice Core Deglacial Water Isotope Composite Record on GICC05"
+},
+{
+"id": "ASAC_1220.v1",
+"title": "Antarctic ice sheet history and stability: baseline palaeoclimate research on the Pagodroma Group, Prince Charles Mountains."
+},
+{
+"id": "AAS_4116_IceShelfStudy.v1",
+"title": "Antarctic ice shelf disintegration triggered by sea ice loss and ocean swell"
+},
+{
+"id": "AAD_Ant_iceberg_SAR.v1",
+"title": "Antarctic iceberg sizes and spatial distribution from SAR image analysis - Map"
+},
+{
+"id": "AAS_4015_Krill_Gonad_Transcriptome.v1",
+"title": "Antarctic Krill Gonad mRNA Transcriptome"
+},
+{
+"id": "Biology_Log_Antarctic_Petrel_Photos_1961_1962.v1",
+"title": "Antarctic Petrel photographs taken at Ardery Island and Lewis Island in 1961-1962"
+},
+{
+"id": "AP_Bibliography.v1",
+"title": "Antarctic Petrels Bibliography"
+},
+{
+"id": "AAS_4297_PTM_Data.v1",
+"title": "Antarctic Priority Threat Management Data"
+},
+{
+"id": "sea_ice_extents_1980_1988.v1",
+"title": "Antarctic sea ice extent data - 1980-1988"
+},
+{
+"id": "AAS_4296_Updated_ASPAs_2018.v1",
+"title": "Antarctic Specially Protected Areas (Points and Polygons) 2018 Update"
+},
+{
+"id": "aspas_asmas_aat.v3",
+"title": "Antarctic Specially Protected Areas and Antarctic Specially Managed Areas in the Australian Antarctic Territory - GIS polygon dataset."
+},
+{
+"id": "SOE_Bibliography.v1",
+"title": "Antarctic State of the Environment Bibliography"
+},
+{
+"id": "AAS_4558_Subglacial_Carbonates_Samples.v1",
+"title": "Antarctic subglacial carbonates as archives of subglacial volcanism and Life in extreme conditions - Samples"
+},
+{
+"id": "AAD_Ant_surf_snow_grain_size.v1",
+"title": "Antarctic surface snow grain size spatial distribution from satellite nir analysis - Map"
+},
+{
+"id": "Survey_1989_90_Casey_airfield.v1",
+"title": "Antarctic Survey Report, Casey Summer 1989/90"
+},
+{
+"id": "AAS_4296_Antarctic_terrestrial_biodiversity_DB.v2",
+"title": "Antarctic Terrestrial Biodiversity Database"
+},
+{
+"id": "gis108.v1",
+"title": "Antarctic Territorial Claims GIS"
+},
+{
+"id": "ant_seafloor_geomorph.v1",
+"title": "Antarctic wide seafloor geomorphology"
+},
+{
+"id": "AAD_Ant_WLD_ice_vel.v1",
+"title": "Antarctica - Wilkes Land ice velocity from over_snow traverse Doppler Satellite Position data"
+},
+{
+"id": "AAD_Ant_WLD_firn_temp.v1",
+"title": "Antarctica - Wilkes Land snow / firn temperatures"
+},
+{
+"id": "PAGESAntTemp2013.v1",
+"title": "Antarctica continental-scale temperature variability during the past two millennia"
+},
+{
+"id": "AAS_4127_antFOCE_AmbientSeawaterTemperature.v1",
+"title": "antFOCE Ambient Seawater Temperature"
+},
+{
+"id": "AAS_4127_antFOCE_CarbonateChemistry.v1",
+"title": "antFOCE Carbonate chemistry data sets"
+},
+{
+"id": "AAS_4127_antFOCE_HardSubstrateFauna.v1",
+"title": "antFOCE Hard Substrate Fauna data sets"
+},
+{
+"id": "AAS_4127_antFOCE_SeawaterCarbonateChemistry.v1",
+"title": "antFOCE Seawater Carbonate Chemistry collected at Casey Station in the 2014/2015 season."
+},
+{
+"id": "ASAC_2050.v1",
+"title": "Antifreeze molecules in Nototheniid fish around Davis Station, Antarctica"
+},
+{
+"id": "APIS.v1",
+"title": "APIS - Antarctic Pack Ice Seals 1994-1999, plus historical data from the 1980's"
+},
+{
+"id": "twin_pups.v1",
+"title": "Apparent twin pups of the weddell seal near Mawson, Antarctica"
+},
+{
+"id": "ASAC_2323_Crooked.v1",
+"title": "Applying e-science to evaluating Antarctic lakes as indicators of climate change - Crooked Lake Dataset"
+},
+{
+"id": "ASAC_2323_OGorman.v1",
+"title": "Applying e-science to evaluating antarctic lakes as indicators of climate change - O'Gorman Rocks Dataset"
+},
+{
+"id": "AAS_4029_Lab_ICP.v1",
+"title": "Aqua regia digestible and labile metal concentrations of PRB media"
+},
+{
+"id": "AAS380.v1",
+"title": "Archaeological Investigation of Sealing Sites at Heard Island"
+},
+{
+"id": "ASAC_1219_HIMI_archaeology.v1",
+"title": "Archaeological sites on Heard Island compiled by Eric Woehler"
+},
+{
+"id": "ASAC_1219_AAT_APen_M_Area.v1",
+"title": "Area - population relationships for Adelie Penguin colonies at Mawson."
+},
+{
+"id": "gis310.v1",
+"title": "Areas of exposed rock and blue ice in the Australian Antarctic Territory digitised from satellite images"
+},
+{
+"id": "Vestfold_Lake_Areas.v1",
+"title": "Areas of Lakes in the Vestfold Hills"
+},
+{
+"id": "HIMI_seabed_areas.v1",
+"title": "Areas of seabed within the Heard Island and McDonald Islands Marine Reserve and adjacent Conservation Zone in one hundred metre depth ranges"
+},
+{
+"id": "AAS_4316_40Ar_39Ar.v1",
+"title": "Argon age dating from Heard Island samples"
+},
+{
+"id": "AAS_2941_4101_SRW_tracks.v1",
+"title": "Argos location data for southern right whales satellite tagged off New Zealand and South Australia"
+},
+{
+"id": "DB_Argos_PTT_Tracking.v1",
+"title": "Argos PTT Tracking Database"
+},
+{
+"id": "AAS_859_Fur_Seals_MI_1997_1999.v1",
+"title": "ARGOS Tracking Data of Fur Seals from Macquarie Island in 1997-1999"
+},
+{
+"id": "AAS_4127_antFOCE_ArtificialSubstrateUnits.v1",
+"title": "Artificial Substrate Units from the antFOCE (Antarctic Free Ocean Carbon Enrichment) experiment at Casey Station"
+},
+{
+"id": "AAS_4301_Scatterometer-derived_ice_thickness_proxy.v1",
+"title": "ASCAT C-band backscatter-derived sea ice freeboard in the Weddell Sea"
+},
+{
+"id": "AAS_4361_ASPA135_2011_REF.v1",
+"title": "ASPA135 2011 6 band reflectance map at 3cm resolution"
+},
+{
+"id": "AAS_4361_ASPA135_2014_Ref.v1",
+"title": "ASPA135 6 band reflectance map at 3cm resolution"
+},
+{
+"id": "AAS_4361_ASPA_2014_Health.v1",
+"title": "ASPA135 Modeled Moss Health as a percentage 3 cm resolution"
+},
+{
+"id": "ASPECT.v1",
+"title": "ASPECT - Antarctic sea ice thickness distribution from ship observations collected between 1980 - 2004"
+},
+{
+"id": "ASPECT_2007_2013.v1",
+"title": "ASPeCt bridge-based sea-ice observations - 2007 to 2013"
+},
+{
+"id": "SIPEX_ASPECT.v1",
+"title": "ASPeCt Sea Ice Data from the SIPEX Voyage of the Aurora Australis in 2007-2008"
+},
+{
+"id": "SIPEX_II_ASPECT.v1",
+"title": "ASPeCt ship-based observations during the SIPEX II voyage of the Aurora Australis, 2012"
+},
+{
+"id": "ASPeCt-Bio.v1",
+"title": "ASPeCt-Bio: Chlorophyll a in Antarctic sea ice from historical ice core dataset"
+},
+{
+"id": "Vestfold_Hills_Limnological_Sulphur.v1",
+"title": "Aspects of the biological sulphur cycle in limnological ecosystems in the Vestfold Hills, Antarctica"
+},
+{
+"id": "ASAC_2691.v1",
+"title": "Assessing the impact of contaminated sediments on hard-substrate Antarctic marine communities"
+},
+{
+"id": "ASAC_1310.v1",
+"title": "Assessing UV-B induced DNA damage in Antarctic plants: is desiccation a compounding factor?"
+},
+{
+"id": "ASAC_996.v1",
+"title": "Assessment of the impact of human sewage effluent on benthic communities at Macquarie Island"
+},
+{
+"id": "AAS_4326_DGTvalidation.v1",
+"title": "Assessment of the performance of diffusive gradients in thin-films for metal contaminant measurements in Antarctic marine waters"
+},
+{
+"id": "ASAC_1093.v1",
+"title": "Assessment of the potential for microbial contamination of antarctic terrestrial habitats resulting from human activities (previously ASAC 870)"
+},
+{
+"id": "BROKE_at_sea_obs.v1",
+"title": "At sea observations made on the BROKE voyage of the Aurora Australis, 1995-1996"
+},
+{
+"id": "atlas_cove_photos.v1",
+"title": "Atlas Cove Terrestrial Photos - historic ANARE Base"
+},
+{
+"id": "SIPEX_II_CO2_Flux.v1",
+"title": "Atmospheric carbon dioxide (CO2) concentrations for CO2 flux"
+},
+{
+"id": "AAS_4011_PLATO_SNODAR.v1",
+"title": "Atmospheric turbulence above Dome A from a sonic radar"
+},
+{
+"id": "AAS_4088_Adelie_Counts_Cameras.v1",
+"title": "Attendance counts of Adelie penguins from remotely operating cameras in East Antarctica"
+},
+{
+"id": "200203010.v1",
+"title": "Aurora Australis 1 2002-2003 Underway Data"
+},
+{
+"id": "199900020.v1",
+"title": "Aurora Australis 1999-00 Voyage 2 Underway Data"
+},
+{
+"id": "AAS_4292_Aurora_Australis_Cloud_Camera.v1",
+"title": "Aurora Australis Cloud Camera Images"
+},
+{
+"id": "au0103.v1",
+"title": "Aurora Australis marine science cruise au0103 (CLIVAR_SR3) - CTD and ADCP data"
+},
+{
+"id": "au1203.v1",
+"title": "Aurora Australis Marine Science Cruise AU1203 (V3 2011/2012), CLIVAR I9S transect and Adelie Land - ship-based CTD data."
+},
+{
+"id": "au1402.v2",
+"title": "Aurora Australis Marine Science Cruise AU1402 (V2 2014/15), Totten and Mertz Glacier regions - ship-based CTD data"
+},
+{
+"id": "AAS_4131_au1602.v2",
+"title": "Aurora Australis Marine Science Cruise AU1602, Dalton, Mertz and Ninnis CTDs - Oceanographic Field Measurements and Analysis"
+},
+{
+"id": "AAS_4344_au1603_CTD_version27sep2017.v3",
+"title": "Aurora Australis Marine Science Cruise AU1603 - Oceanographic Field Measurements and Analysis"
+},
+{
+"id": "AAS_4292_Aurora_Australis_Radiometers.v1",
+"title": "Aurora Australis Pyranometer and Pyrgeometer data"
+},
+{
+"id": "au97_9801.v1",
+"title": "Aurora Australis SAZ Southern Ocean oceanographic data, cruise au9701"
+},
+{
+"id": "au97_9806.v1",
+"title": "Aurora Australis SAZ Southern Ocean oceanographic data, cruise au97_9806"
+},
+{
+"id": "au97_9807.v1",
+"title": "Aurora Australis SAZ Southern Ocean oceanographic data, cruise au97_9807"
+},
+{
+"id": "adcp.v2",
+"title": "Aurora Australis Southern Ocean ADCP data"
+},
+{
+"id": "KROCK_Ocean.v1",
+"title": "Aurora Australis Southern Ocean oceanographic (CTD) data, cruise 1992/93 V7 (KROCK)"
+},
+{
+"id": "BANGSS_Ocean.v1",
+"title": "Aurora Australis Southern Ocean oceanographic (CTD) data, cruise 1994/95 V6 (BANGSS)"
+},
+{
+"id": "SIPEX_Ocean.v1",
+"title": "Aurora Australis Southern Ocean oceanographic (CTD) data, cruise 2007/08 V1 (SIPEX)"
+},
+{
+"id": "au9005.v1",
+"title": "Aurora Australis Southern Ocean oceanographic (CTD) data, cruise au9005 (HIMS)"
+},
+{
+"id": "au9006.v1",
+"title": "Aurora Australis Southern Ocean oceanographic (CTD) data, cruise au9006 (AAMBER2)"
+},
+{
+"id": "au9206.v1",
+"title": "Aurora Australis Southern Ocean oceanographic (CTD) data, cruise au9206 (FISHOG)"
+},
+{
+"id": "au9301.v1",
+"title": "Aurora Australis Southern Ocean oceanographic (CTD) data, cruise au9301 (THIRST)"
+},
+{
+"id": "au96_9705.v1",
+"title": "Aurora Australis Southern Ocean oceanographic data from geoscience cruise au9705"
+},
+{
+"id": "au1121.v1",
+"title": "Aurora Australis Southern Ocean oceanographic data, cruise au1121 2010/11 VMS"
+},
+{
+"id": "au9604.v1",
+"title": "Aurora Australis Southern Ocean oceanographic data, cruise au9604 - BROKE"
+},
+{
+"id": "au9901.v1",
+"title": "Aurora Australis Southern Ocean oceanographic data, voyage 1, 1999-2000 - IDIOTS"
+},
+{
+"id": "au0201.v1",
+"title": "Aurora Australis Southern Ocean oceanographic data, voyage 1, 2002-2003 - ADCP data"
+},
+{
+"id": "au0106.v1",
+"title": "Aurora Australis Southern Ocean oceanographic data, voyage 6, 2000-2001 - KACTAS"
+},
+{
+"id": "au0207.v1",
+"title": "Aurora Australis Southern Ocean oceanographic data, voyage 7, 2001-2002 - LOSS"
+},
+{
+"id": "201011000.v1",
+"title": "Aurora Australis Trials Voyage 2010/11 Track and Underway Data"
+},
+{
+"id": "201112000.v1",
+"title": "Aurora Australis Trials Voyage 2011/12 Track and Underway Data"
+},
+{
+"id": "201011002.v1",
+"title": "Aurora Australis Voyage - Eradication 2 - 2010/11 Track and Underway Data"
+},
+{
+"id": "199596010.v1",
+"title": "Aurora Australis Voyage 1 (ABSTAIN) 1995-96 Underway Data"
+},
+{
+"id": "199899010.v1",
+"title": "Aurora Australis Voyage 1 (FIRE) 1998-99 Underway Data"
+},
+{
+"id": "199900010.v1",
+"title": "Aurora Australis Voyage 1 (IDIOTS) 1999-00 Underway Data"
+},
+{
+"id": "199293010.v1",
+"title": "Aurora Australis Voyage 1 (MONGREL) 1992-93 Underway Data"
+},
+{
+"id": "AADC-00073.v1",
+"title": "Aurora Australis Voyage 1 (THIRST) 1993-94 Demersal Fish Data"
+},
+{
+"id": "199394010.v1",
+"title": "Aurora Australis Voyage 1 (THIRST) 1993-94 Underway Data"
+},
+{
+"id": "199798010.v1",
+"title": "Aurora Australis Voyage 1 (WANDER) 1997-98 Underway Data"
+},
+{
+"id": "199697010.v1",
+"title": "Aurora Australis Voyage 1 (WASTE) 1996-97 Underway Data"
+},
+{
+"id": "199495010.v1",
+"title": "Aurora Australis Voyage 1 1994-95 Underway Data"
+},
+{
+"id": "200001010.v1",
+"title": "Aurora Australis Voyage 1 2000-01 Underway Data"
+},
+{
+"id": "200304010_raw.v2",
+"title": "Aurora Australis Voyage 1 2003-04 Raw Data"
+},
+{
+"id": "200304010.v1",
+"title": "Aurora Australis Voyage 1 2003-2004 Underway Data"
+},
+{
+"id": "200405010_raw.v1",
+"title": "Aurora Australis Voyage 1 2004-05 Raw Data"
+},
+{
+"id": "200405010.v1",
+"title": "Aurora Australis Voyage 1 2004-2005 Underway Data"
+},
+{
+"id": "200506010.v1",
+"title": "Aurora Australis Voyage 1 2005-2006 Underway Data"
+},
+{
+"id": "200910010.v1",
+"title": "Aurora Australis Voyage 1 2009/10 Track and Underway Data"
+},
+{
+"id": "201011010.v1",
+"title": "Aurora Australis Voyage 1 2010/11 Track and Underway Data"
+},
+{
+"id": "201112010.v1",
+"title": "Aurora Australis Voyage 1 2011/12 Track and Underway Data"
+},
+{
+"id": "201213010.v1",
+"title": "Aurora Australis Voyage 1 2012/13 Track and Underway Data"
+},
+{
+"id": "201314010.v1",
+"title": "Aurora Australis Voyage 1 2013/14 Track and Underway Data"
+},
+{
+"id": "201415010.v1",
+"title": "Aurora Australis Voyage 1 2014/15 Track and Underway Data"
+},
+{
+"id": "201516010.v1",
+"title": "Aurora Australis Voyage 1 2015/16 Track and Underway Data"
+},
+{
+"id": "201617010.v1",
+"title": "Aurora Australis Voyage 1 2016/17 Track and Underway Data"
+},
+{
+"id": "201718010.v1",
+"title": "Aurora Australis Voyage 1 2017/18 Track and Underway Data"
+},
+{
+"id": "201819010.v1",
+"title": "Aurora Australis Voyage 1 2018/19 Track and Underway Data"
+},
+{
+"id": "201920010.v1",
+"title": "Aurora Australis Voyage 1 2019/20 Track and Underway Data"
+},
+{
+"id": "199192010.v1",
+"title": "Aurora Australis Voyage 1 and 1.1 (WOCE91) 1991-92 Underway Data"
+},
+{
+"id": "201920011.v1",
+"title": "Aurora Australis Voyage 1.1 (Macquarie Island, Dumont D'Urville) 2019/20 Track and Underway Data"
+},
+{
+"id": "199091020.v1",
+"title": "Aurora Australis Voyage 2 (ICE) 1990-91 Underway Data"
+},
+{
+"id": "ONICE_Chlorophyll.v1",
+"title": "Aurora Australis Voyage 2 (ONICE) 1997-98 Chlorophyll a Data"
+},
+{
+"id": "199798020.v1",
+"title": "Aurora Australis Voyage 2 (ONICE) 1997-98 Underway Data"
+},
+{
+"id": "199394020.v1",
+"title": "Aurora Australis Voyage 2 1993-94 Underway Data"
+},
+{
+"id": "199495020.v1",
+"title": "Aurora Australis Voyage 2 1994-95 Underway Data"
+},
+{
+"id": "199596020.v1",
+"title": "Aurora Australis Voyage 2 1995-96 Underway Data"
+},
+{
+"id": "199697020.v1",
+"title": "Aurora Australis Voyage 2 1996-97 Underway Data"
+},
+{
+"id": "200102020.v1",
+"title": "Aurora Australis Voyage 2 2001-02 Underway Data"
+},
+{
+"id": "200203020.v1",
+"title": "Aurora Australis Voyage 2 2002-2003 Underway Data"
+},
+{
+"id": "200304020_raw.v1",
+"title": "Aurora Australis Voyage 2 2003-04 Raw Data"
+},
+{
+"id": "200304020.v1",
+"title": "Aurora Australis Voyage 2 2003-2004 Underway Data"
+},
+{
+"id": "200405020.v1",
+"title": "Aurora Australis Voyage 2 2004-2005 Underway Data"
+},
+{
+"id": "200506020.v1",
+"title": "Aurora Australis Voyage 2 2005-2006 Underway Data"
+},
+{
+"id": "200910020.v1",
+"title": "Aurora Australis Voyage 2 2009/10 Track and Underway Data"
+},
+{
+"id": "201011020.v1",
+"title": "Aurora Australis Voyage 2 2010/11 Track and Underway Data"
+},
+{
+"id": "201112020.v1",
+"title": "Aurora Australis Voyage 2 2011/12 Track and Underway Data"
+},
+{
+"id": "201213020.v1",
+"title": "Aurora Australis Voyage 2 2012/13 Track and Underway Data"
+},
+{
+"id": "201415020.v1",
+"title": "Aurora Australis Voyage 2 2014/15 Track and Underway Data"
+},
+{
+"id": "201516020.v1",
+"title": "Aurora Australis Voyage 2 2015/16 Track and Underway Data"
+},
+{
+"id": "201617020.v1",
+"title": "Aurora Australis Voyage 2 2016/17 Track and Underway Data"
+},
+{
+"id": "201718020.v1",
+"title": "Aurora Australis Voyage 2 2017/18 Track and Underway Data"
+},
+{
+"id": "201819020.v1",
+"title": "Aurora Australis Voyage 2 2018/19 Track and Underway Data"
+},
+{
+"id": "201920020.v1",
+"title": "Aurora Australis Voyage 2 2019/20 Track and Underway Data"
+},
+{
+"id": "201314020.v1",
+"title": "Aurora Australis Voyage 2/3 2013/14 Track and Underway Data"
+},
+{
+"id": "199495030.v1",
+"title": "Aurora Australis Voyage 3 (MIRTH) 1994-95 Underway Data"
+},
+{
+"id": "199596030.v1",
+"title": "Aurora Australis Voyage 3 1995-96 Underway Data"
+},
+{
+"id": "199697030.v1",
+"title": "Aurora Australis Voyage 3 1996/97 Underway Data"
+},
+{
+"id": "199798030.v1",
+"title": "Aurora Australis Voyage 3 1997-98 Underway Data"
+},
+{
+"id": "200102030.v1",
+"title": "Aurora Australis Voyage 3 2001-2002 Underway Data"
+},
+{
+"id": "200405030.v1",
+"title": "Aurora Australis Voyage 3 2004-2005 Underway Data"
+},
+{
+"id": "200506030.v1",
+"title": "Aurora Australis Voyage 3 2005-2006 (BROKE-West) Underway Data"
+},
+{
+"id": "200910030.v1",
+"title": "Aurora Australis Voyage 3 2009/10 Track and Underway Data"
+},
+{
+"id": "201011030.v1",
+"title": "Aurora Australis Voyage 3 2010/11 Track and Underway Data"
+},
+{
+"id": "201112030.v1",
+"title": "Aurora Australis Voyage 3 2011/12 Track and Underway Data"
+},
+{
+"id": "201213030.v1",
+"title": "Aurora Australis Voyage 3 2012/13 Track and Underway Data"
+},
+{
+"id": "201415030.v1",
+"title": "Aurora Australis Voyage 3 2014/15 Track and Underway Data"
+},
+{
+"id": "201516030.v1",
+"title": "Aurora Australis Voyage 3 2015/16 Track and Underway Data"
+},
+{
+"id": "201617030.v1",
+"title": "Aurora Australis Voyage 3 2016/17 Track and Underway Data"
+},
+{
+"id": "201718030.v1",
+"title": "Aurora Australis Voyage 3 2017/18 Track and Underway Data"
+},
+{
+"id": "201819030.v1",
+"title": "Aurora Australis Voyage 3 2018/19 Track and Underway Data"
+},
+{
+"id": "201920030.v1",
+"title": "Aurora Australis Voyage 3 2019/20 Track and Underway Data"
+},
+{
+"id": "199596040.v1",
+"title": "Aurora Australis Voyage 4 (BROKE) 1995-96 Underway Data"
+},
+{
+"id": "199899040.v1",
+"title": "Aurora Australis Voyage 4 (SEXY II) 1998-99 Underway Data"
+},
+{
+"id": "199798040.v1",
+"title": "Aurora Australis Voyage 4 (SEXY) 1997-98 Underway Data"
+},
+{
+"id": "199495040.v1",
+"title": "Aurora Australis Voyage 4 (WOCET) 1994-95 Underway Data"
+},
+{
+"id": "199091040.v1",
+"title": "Aurora Australis Voyage 4 1990-91 Underway Data"
+},
+{
+"id": "199192040.v1",
+"title": "Aurora Australis Voyage 4 1991-92 Underway Data"
+},
+{
+"id": "199293040.v1",
+"title": "Aurora Australis Voyage 4 1992-93 Underway Data"
+},
+{
+"id": "199394040.v1",
+"title": "Aurora Australis Voyage 4 1993-94 Underway Data"
+},
+{
+"id": "199697040.v1",
+"title": "Aurora Australis Voyage 4 1996-97 Underway Data"
+},
+{
+"id": "199900040.v1",
+"title": "Aurora Australis Voyage 4 1999-2000 Underway Data"
+},
+{
+"id": "200001040.v1",
+"title": "Aurora Australis Voyage 4 2000-2001 Underway Data"
+},
+{
+"id": "200203040.v1",
+"title": "Aurora Australis Voyage 4 2002-2003 Underway Data"
+},
+{
+"id": "200304040_raw.v1",
+"title": "Aurora Australis Voyage 4 2003-04 Raw Data"
+},
+{
+"id": "200304040.v1",
+"title": "Aurora Australis Voyage 4 2003-2004 Underway Data"
+},
+{
+"id": "200910040.v1",
+"title": "Aurora Australis Voyage 4 2009/10 Track and Underway Data"
+},
+{
+"id": "201011040.v1",
+"title": "Aurora Australis Voyage 4 2010/11 Track and Underway Data"
+},
+{
+"id": "201112040.v1",
+"title": "Aurora Australis Voyage 4 2011/12 Track and Underway Data"
+},
+{
+"id": "201213040.v1",
+"title": "Aurora Australis Voyage 4 2012/13 Track and Underway Data"
+},
+{
+"id": "201314040.v1",
+"title": "Aurora Australis Voyage 4 2013/14 Track and Underway Data"
+},
+{
+"id": "201415040.v1",
+"title": "Aurora Australis Voyage 4 2014/15 Track and Underway Data"
+},
+{
+"id": "201617040.v1",
+"title": "Aurora Australis Voyage 4 2016/17 Track and Underway Data"
+},
+{
+"id": "201718040.v1",
+"title": "Aurora Australis Voyage 4 2017/18 Track and Underway Data"
+},
+{
+"id": "201819040.v1",
+"title": "Aurora Australis Voyage 4 2018/19 Track and Underway Data"
+},
+{
+"id": "201920040.v1",
+"title": "Aurora Australis Voyage 4 2019/20 Track and Underway Data"
+},
+{
+"id": "199697050.v1",
+"title": "Aurora Australis Voyage 5 (BRAD) 1996-97 Underway Data"
+},
+{
+"id": "199798050.v1",
+"title": "Aurora Australis Voyage 5 1997-98 Underway Data"
+},
+{
+"id": "199900050.v1",
+"title": "Aurora Australis Voyage 5 1999-2000 Underway Data"
+},
+{
+"id": "200102050.v1",
+"title": "Aurora Australis Voyage 5 2001-2002 Underway Data"
+},
+{
+"id": "200405050.v1",
+"title": "Aurora Australis Voyage 5 2004-2005 Underway Data"
+},
+{
+"id": "200506050.v1",
+"title": "Aurora Australis Voyage 5 2005-2006 Underway Data"
+},
+{
+"id": "200910050.v1",
+"title": "Aurora Australis Voyage 5 2009/10 Track and Underway Data"
+},
+{
+"id": "201011050.v1",
+"title": "Aurora Australis Voyage 5 2010/11 Track and Underway Data"
+},
+{
+"id": "201112050.v1",
+"title": "Aurora Australis Voyage 5 2011/12 Track and Underway Data"
+},
+{
+"id": "AADC-00082.v1",
+"title": "Aurora Australis Voyage 6 (AAMBER2) 1990-91 Pelagic Fish Data"
+},
+{
+"id": "AADC-00095.v1",
+"title": "Aurora Australis Voyage 6 (AAMBER2) 1990-91 Phytoplankton Data"
+},
+{
+"id": "199091060.v1",
+"title": "Aurora Australis Voyage 6 (AAMBER2) 1990-91 Underway Data"
+},
+{
+"id": "AADC-00083.v1",
+"title": "Aurora Australis Voyage 6 (AAMBER2) 1990-91 Zooplankton Data"
+},
+{
+"id": "199495060.v1",
+"title": "Aurora Australis Voyage 6 (BANGSS) 1994-95 Underway Data"
+},
+{
+"id": "AADC-00094.v1",
+"title": "Aurora Australis Voyage 6 (FISHOG) 1991-92 Heard Island Chlorophyll a Data"
+},
+{
+"id": "AADC-00080.v1",
+"title": "Aurora Australis Voyage 6 (FISHOG) 1991-92 Heard Island Fish Data"
+},
+{
+"id": "199192060.v1",
+"title": "Aurora Australis Voyage 6 (FISHOG) 1991-92 Underway Data"
+},
+{
+"id": "SAZ_Chlorophyll.v1",
+"title": "Aurora Australis Voyage 6 (SAZ - Subantarctic Zone) 1997-98 Chlorophyll a Data"
+},
+{
+"id": "199798060.v1",
+"title": "Aurora Australis Voyage 6 (SNARK) 1997-98 Underway Data"
+},
+{
+"id": "199899060.v1",
+"title": "Aurora Australis Voyage 6 (STAY) 1998-99 Underway Data"
+},
+{
+"id": "199596060.v1",
+"title": "Aurora Australis Voyage 6 1995-96 Underway Data"
+},
+{
+"id": "199697060.v1",
+"title": "Aurora Australis Voyage 6 1996-97 Underway Data"
+},
+{
+"id": "199900060.v1",
+"title": "Aurora Australis Voyage 6 1999-2000 Underway Data"
+},
+{
+"id": "200001060.v1",
+"title": "Aurora Australis Voyage 6 2000-2001 Underway Data"
+},
+{
+"id": "201112060.v1",
+"title": "Aurora Australis Voyage 6 2011/12 Track and Underway Data"
+},
+{
+"id": "201314060.v1",
+"title": "Aurora Australis Voyage 6 2013/14 Track and Underway Data"
+},
+{
+"id": "AADC-00096.v1",
+"title": "Aurora Australis Voyage 7 (KROCK) 1992-93 Chlorophyll a Data"
+},
+{
+"id": "199293070.v1",
+"title": "Aurora Australis Voyage 7 (KROCK) 1992-93 Underway Data"
+},
+{
+"id": "AADC-00071.v1",
+"title": "Aurora Australis Voyage 7 (KROCK) 1992-93 Zooplankton Data"
+},
+{
+"id": "199798070.v1",
+"title": "Aurora Australis Voyage 7 (PICCIES) 1997-98 Underway Data"
+},
+{
+"id": "199394070.v1",
+"title": "Aurora Australis Voyage 7 (SHAM) 1993-94 Underway Data"
+},
+{
+"id": "199495070.v1",
+"title": "Aurora Australis Voyage 7 1994-95 Underway Data"
+},
+{
+"id": "200102070.v1",
+"title": "Aurora Australis Voyage 7 2001-2002 Underway Data"
+},
+{
+"id": "200304070_raw.v1",
+"title": "Aurora Australis Voyage 7 2003-04 Raw Data"
+},
+{
+"id": "200910070.v1",
+"title": "Aurora Australis Voyage 7 2009/10 Track and Underway Data - Voyage VE1 Pest Eradication"
+},
+{
+"id": "AADC-00075.v1",
+"title": "Aurora Australis Voyage 7.2 (HIMS) 1989-90 Heard Island Fish Data"
+},
+{
+"id": "AADC-00098.v1",
+"title": "Aurora Australis Voyage 7.2 (HIMS) 1989-90 Heard Island Zooplankton Data"
+},
+{
+"id": "198990072.v1",
+"title": "Aurora Australis Voyage 7.2 (HIMS) 1989-90 Underway Data"
+},
+{
+"id": "200001080.v1",
+"title": "Aurora Australis Voyage 8 2000-01 Underway Data"
+},
+{
+"id": "200102080.v1",
+"title": "Aurora Australis Voyage 8 2001-2002 Underway Data"
+},
+{
+"id": "WOES_Chlorophyll.v1",
+"title": "Aurora Australis Voyage 9 (WOES) 1992-93 Chlorophyll a Data"
+},
+{
+"id": "201011021.v1",
+"title": "Aurora Australis Voyage Marine Science (VMS) 2010/11 Track and Underway Data"
+},
+{
+"id": "200607010.v1",
+"title": "Aurora Australis Voyage V1 2006/07 Track and Underway Data"
+},
+{
+"id": "200708010.v1",
+"title": "Aurora Australis Voyage V1 2007/08 (SIPEX) Track and Underway Data"
+},
+{
+"id": "200809010.v1",
+"title": "Aurora Australis Voyage V1 2008/09 Track and Underway Data"
+},
+{
+"id": "200607011.v1",
+"title": "Aurora Australis Voyage V1.1 2006/07 Track and Underway Data"
+},
+{
+"id": "200607020.v1",
+"title": "Aurora Australis Voyage V2 2006/07 Track and Underway Data"
+},
+{
+"id": "200708020.v1",
+"title": "Aurora Australis Voyage V2 2007/08 Track and Underway Data"
+},
+{
+"id": "200809020.v1",
+"title": "Aurora Australis Voyage V2 2008/09 Track and Underway Data"
+},
+{
+"id": "200607030.v1",
+"title": "Aurora Australis Voyage V3 2006/07 (SAZ-SENSE) Track and Underway Data"
+},
+{
+"id": "200708030.v1",
+"title": "Aurora Australis Voyage V3 2007/08 Track and Underway Data - CEAMARC-CASO Voyage"
+},
+{
+"id": "200809030.v1",
+"title": "Aurora Australis Voyage V3 2008/09 Track and Underway Data"
+},
+{
+"id": "200607040.v1",
+"title": "Aurora Australis Voyage V4 2006/07 Track and Underway Data"
+},
+{
+"id": "200708040.v1",
+"title": "Aurora Australis Voyage V4 2007/08 Track and Underway Data"
+},
+{
+"id": "200607050.v1",
+"title": "Aurora Australis Voyage V5 2006/07 Track and Underway Data"
+},
+{
+"id": "200809050.v1",
+"title": "Aurora Australis Voyage V5 2008/09 Track and Underway Data"
+},
+{
+"id": "200203060.v1",
+"title": "Aurora Australis Voyage V6 2002/03 Track and Underway Data"
+},
+{
+"id": "200708060.v1",
+"title": "Aurora Australis Voyage V6 2007/08 Track and Underway Data - CASO Voyage"
+},
+{
+"id": "200304070.v1",
+"title": "Aurora Australis Voyage V7 2003/04 Track and Underway Data"
+},
+{
+"id": "199293091.v1",
+"title": "Aurora Australis Voyage V9.1 1992/93 (WORSE) Track and Underway Data"
+},
+{
+"id": "201213001.v1",
+"title": "Aurora Australis Voyage VMS 2012/13 Track and Underway Data (SIPEX II)"
+},
+{
+"id": "200910000.v1",
+"title": "Aurora Australis Voyage VTrials 2009/10 Track and Underway Data"
+},
+{
+"id": "199293090.v1",
+"title": "Aurora Australis Voyages 9 and 9.1 (WOES and WORSE) 1992-93 Underway Data"
+},
+{
+"id": "au91_9201.v1",
+"title": "Aurora Australis WOCE Southern Ocean oceanographic data, cruise au9101"
+},
+{
+"id": "au9309_9391.v1",
+"title": "Aurora Australis WOCE Southern Ocean oceanographic data, cruise au9309/9391"
+},
+{
+"id": "au9404.v1",
+"title": "Aurora Australis WOCE Southern Ocean oceanographic data, cruise au9404"
+},
+{
+"id": "au9407.v1",
+"title": "Aurora Australis WOCE Southern Ocean oceanographic data, cruise au9407"
+},
+{
+"id": "au9501.v1",
+"title": "Aurora Australis WOCE Southern Ocean oceanographic data, cruise au9501"
+},
+{
+"id": "au9601.v1",
+"title": "Aurora Australis WOCE Southern Ocean oceanographic data, cruise au9601"
+},
+{
+"id": "AAS_4075_ABN1314_Glacial_isotopic_composition.v2",
+"title": "Aurora Basin North, glacial isotopic composition data from the 2013-2014 season"
+},
+{
+"id": "ASAC_2792.v1",
+"title": "Australia's Census of Antarctic Marine Life project"
+},
+{
+"id": "CEAMARC-200708_V3_IYGPT.v2",
+"title": "Australia's Census of Antarctic Marine Life project - IYGPT Data collected on the CEAMARC cruise"
+},
+{
+"id": "aws_gis.v1",
+"title": "Australian Antarctic automatic weather station gis dataset - 2003 location information"
+},
+{
+"id": "gaz.v1",
+"title": "Australian Antarctic Gazetteer"
+},
+{
+"id": "ASAC_1119.v1",
+"title": "Australian Antarctic Southern Ocean Profiling Project"
+},
+{
+"id": "AAT_ABBBS.v1",
+"title": "Australian Antarctic Territory bird banding records"
+},
+{
+"id": "AAT_Coastline_2003.v1",
+"title": "Australian Antarctic Territory Coastline 2003"
+},
+{
+"id": "Geology_NPCMs.v1",
+"title": "Australian Geological Activities in the Northern Prince Charles Mountains"
+},
+{
+"id": "AHS_Surveys_Casey_ITRF2000.v1",
+"title": "Australian Hydrographic Service Surveys at Casey Station - ITRF2000"
+},
+{
+"id": "AHS_Surveys_Davis_ITRF2000.v1",
+"title": "Australian Hydrographic Service Surveys at Davis Station - ITRF2000"
+},
+{
+"id": "AHS_Surveys_Mawson_ITRF2000.v1",
+"title": "Australian Hydrographic Service Surveys at Mawson Station - ITRF2000"
+},
+{
+"id": "ANARE_Expeditions_1947-1966.v1",
+"title": "Australian National Antarctic Research Expeditions 1947 to 1966 - Double sided map"
+},
+{
+"id": "casey_aws.v1",
+"title": "Automatic Weather Station Data from Casey"
+},
+{
+"id": "davis_aws.v1",
+"title": "Automatic Weather Station Data from Davis"
+},
+{
+"id": "macquarie_aws.v1",
+"title": "Automatic Weather Station Data from Macquarie Island"
+},
+{
+"id": "mawson_aws.v1",
+"title": "Automatic Weather Station Data from Mawson"
+},
+{
+"id": "DomeA_AWS.v1 ",
+"title": "Automatic Weather Station Data obtained at Dome A (Argus), Antarctica"
+},
+{
+"id": "AAS_4096_AM06_ApRES.v1",
+"title": "Autonomous phase sensitive radar (ApRES) on Amery Ice Shelf 2015-2018"
+},
+{
+"id": "AAS_4436_Totten_Glacier_ApRES.v1",
+"title": "Autonomous phase sensitive radar (ApRES) on Totten Glacier 2016-2019"
+},
+{
+"id": "AAS_4342_ApRES_S02_2015-16.v1",
+"title": "Autonomous phase sensitive radar on Sorsdal Glacier 2015-2016"
+},
+{
+"id": "AAS_4342_ApRES_2017-2019.v1",
+"title": "Autonomous phase sensitive radar on Sorsdal Glacier 2017-2019"
+},
+{
+"id": "SOE_chlorophyll.v1",
+"title": "Average Chlorophyll concentrations for the Southern Ocean across latitude bands 40-50 deg S, 50-60 deg S, 60 deg S-continent"
+},
+{
+"id": "SOE_sea_surface_salinity.v1",
+"title": "Average sea surface salinity in latitude bands: 40-50 deg S, 50-60 deg S, 60 deg S-continent"
+},
+{
+"id": "SOE_sea_surface_temp.v1",
+"title": "Average sea surface temperatures in latitude bands: 40-50 deg S, 50-60 deg S, 60 deg S-continent"
+},
+{
+"id": "AVHRR_Imagery.v1",
+"title": "AVHRR Images of Antarctica from the Antarctic Meteorology Centre - Casey HRPT receiver"
+},
+{
+"id": "AAS_4312_Azorella_condition_site_topo.v1",
+"title": "Azorella macquariensis condition and site topographic values"
+},
+{
+"id": "AAS_4312_Azorella_leaftraitDB_CRD.v1",
+"title": "Azorella macquariensis leaf trait database"
+},
+{
+"id": "AAS_4347_Sea_Ice_Model_Configurations.v1",
+"title": "Background regarding the sea-ice model configuration and forcings, and the use of sea-ice model output to identify potential habitat for Antarctic krill larvae"
+},
+{
+"id": "AAS_4301_ASCAT_backscatter_parameters.v1",
+"title": "Backscatter-derived Antarctic sea ice roughness proxy from ASCAT"
+},
+{
+"id": "SRE4_hydrocarbondegrading_MPN_2006.v1",
+"title": "Bacterial numbers in year five of SRE4 experiment by most probable number count"
+},
+{
+"id": "ASAC_2154.v1",
+"title": "Bacterioplankton dynamics in Antarctic lakes"
+},
+{
+"id": "ASAC_1261_Balance_Flux.v1",
+"title": "Balance ice fluxes for the Antarctic Ice sheet"
+},
+{
+"id": "ASAC_1261_Balance_Velocities.v1",
+"title": "Balance ice velocities for the Antarctic Ice sheet"
+},
+{
+"id": "SRE4_desulfobaculaDGGE.v1",
+"title": "Band pattern data from Desulfobacula-group specific DGGE for the SRE4 experiment"
+},
+{
+"id": "SRE4_gammaproteobacteriaDGGE.v1",
+"title": "Band pattern data from Gammaproteobacteria-group specific DGGE"
+},
+{
+"id": "Biology_Log_Wilkes_Banding_1968_1969.v1",
+"title": "Banding information for Wilkes Station, 1968-1969"
+},
+{
+"id": "Biology_Log_Wilkes_Banding_1966.v1",
+"title": "Banding report for Wilkes Station, 1966"
+},
+{
+"id": "BANZARE_logs.v1",
+"title": "BANZARE ship logs and station lists"
+},
+{
+"id": "baro-levelling-to-domec.v1",
+"title": "Barometric Leveling Results, Pioneerskaya to Dome C"
+},
+{
+"id": "glacio_1973_barometric_levelling.v1",
+"title": "Barometric Levelling over IAGP trilateration net, Wilkes Land 1973"
+},
+{
+"id": "baro_pressure_1968.v1",
+"title": "Barometric Pressure and Air Temperature Measurements, Law Dome and Wilkes Land, 1968"
+},
+{
+"id": "AAS_4556_BAS_Adelie_Diet.v1",
+"title": "BAS Adelie Penguin Diet"
+},
+{
+"id": "BAS_Soil.v1",
+"title": "BAS Soil and Water Sampling Locations at Casey and Davis January 2005"
+},
+{
+"id": "ASAC.v1",
+"title": "Basin Analysis of the Permo-Triassic Amery Group, Northern Prince Charles Mountains"
+},
+{
+"id": "AAS_4292_Macquarie_Cloud_Radar.v1",
+"title": "BASTA Cloud Radar data from Macquarie Island, 2016-2017"
+},
+{
+"id": "AAS1300_PW_BATCHIX.v1",
+"title": "Batch ion-exchange experiments for Amberlite IRC748 (WTP for Thala Valley clean-up)"
+},
+{
+"id": "AAD_Bathy_Acoustic_1985-2012.v1",
+"title": "Bathymetric data collected from Australian Antarctic vessels from 1985-2012"
+},
+{
+"id": "VH_bathy_99.v1",
+"title": "Bathymetric data of Long and Tryne Fjords at Vestfold Hills, Antarctica, collected in December 1999"
+},
+{
+"id": "kerg_ant_bathy.v1",
+"title": "Bathymetric Grid for the region 60E to 90E, 48S to 70S"
+},
+{
+"id": "AADC_Heard_bathy_grid.v1",
+"title": "Bathymetric Grid of Heard Island - Kerguelen Plateau Region (2005)"
+},
+{
+"id": "AADC_Macquarie_bathy_grid.v1",
+"title": "Bathymetric grid of Macquarie Island Region (2004)"
+},
+{
+"id": "ASAC_933.v1",
+"title": "Bathymetric Profiling of the Antarctic Continental Margin"
+},
+{
+"id": "windmill_bathy_surveys.v1",
+"title": "Bathymetric surveys of Brown Bay, O'Brien Bay and Newcomb Bay in the Windmill Islands"
+},
+{
+"id": "AIS_GEOM.v1",
+"title": "Bathymetry and Ice draft maps for the Amery Ice Shelf cavity"
+},
+{
+"id": "bathy_proposedMPAs_eastantarctica.v1",
+"title": "Bathymetry Compilation for Proposed Marine Protected Areas in East Antarctica"
+},
+{
+"id": "BROKE-WEST_12kHZ_Bathy_Data.v1",
+"title": "Bathymetry Data from the 12KHZ sounder on the BROKE-West voyage of the Aurora Australis, 2006"
+},
+{
+"id": "caseybathy_gis.v1",
+"title": "Bathymetry of Approaches to Casey Station"
+},
+{
+"id": "davisbathy_gis.v1",
+"title": "Bathymetry of Approaches to Davis Station"
+},
+{
+"id": "mawsonbathy_gis.v1",
+"title": "Bathymetry of Approaches to Mawson Station"
+},
+{
+"id": "lutzow_holm_bay_bathy.v1",
+"title": "Bathymetry of Lutzow-Holm Bay digitised by NIPR from bathymetric chart of Lutzow-Holm Bay"
+},
+{
+"id": "ASAC_2647_lake_bathymetry.v1",
+"title": "Bathymetry of three lakes in the Vestfold Hills - Ace, Ekho and Pendant"
+},
+{
+"id": "Long_Fjord_Depth_Measurements_2007.v1",
+"title": "Bathymetry/depth measurements made at Long Fjord, Vestfold Hills by drilling through sea ice"
+},
+{
+"id": "SPOT5_BEAVER_LOEWE_FEATURES.v1",
+"title": "Beaver Lake and Loewe Massif Features Mapped from SPOT 5 Imagery."
+},
+{
+"id": "beaver_sat.v1",
+"title": "Beaver Lake Satellite Image and Topographic Double-sided Map 1:100 000"
+},
+{
+"id": "gis114.v1",
+"title": "Bechervaise Island - penguin colony boundary survey February 2000"
+},
+{
+"id": "gis115.v1",
+"title": "Bechervaise Island - Survey of penguin colony markers and some infrastructure 1999/2000"
+},
+{
+"id": "gis43.v1",
+"title": "Bechervaise Island - Total station survey, February 2002"
+},
+{
+"id": "wed_sat_99.v1",
+"title": "Behaviour of Weddell seals during winter recorded by satellite tracking."
+},
+{
+"id": "bhc1_bhc2_1982.v1",
+"title": "BHC1 and BHC2 Orientation and Temperature, Law Dome 1982-83"
+},
+{
+"id": "bhc1_bhc2_bhq_logs_notes.v1",
+"title": "BHC1, BHC2, BHQ ice core data records"
+},
+{
+"id": "bhq_temp_1977.v1",
+"title": "BHQ Temperature and Drill Time, Law Dome 1977"
+},
+{
+"id": "GLE_Bibliography.v1",
+"title": "Bibliography of Ground Level Enhancements - near-Earth cosmic radiation"
+},
+{
+"id": "LF_Bibliography.v1",
+"title": "Bibliography of papers relevant to longline fishing."
+},
+{
+"id": "ACE_AME_Bibliography.v1",
+"title": "Bibliography of papers relevant to the ACE-CRC's Antarctic Marine Ecosystem programme"
+},
+{
+"id": "PM_Bibliography.v1",
+"title": "Bibliography of polar microrganisms."
+},
+{
+"id": "SBD_Bibliography.v1",
+"title": "Bibliography of seabird diseases"
+},
+{
+"id": "AAS_4338_Bio_Optics.v1",
+"title": "Bio-optical measurements for particle and phytoplankton characterisation"
+},
+{
+"id": "ASAC_127.v1",
+"title": "Biodegradation of Petroleum in Soils and Beach Sands at Davis Station, Antarctica"
+},
+{
+"id": "ASAC_1012.v1",
+"title": "Biodiversity and ecophysiology of Antarctic sea-ice bacteria"
+},
+{
+"id": "ASAC_1002.v1",
+"title": "Biodiversity and low temperature biology of Antarctic yeasts"
+},
+{
+"id": "AAS_4296_ASPA_Biodiversity_Data.v1",
+"title": "Biodiversity data from Antarctic Specially Protected Area Management Plans (2018)"
+},
+{
+"id": "ASAC_1200.v1",
+"title": "Biodiversity of lacustrine Antarctic crustaceans: local and regional genetic diversity of copepods and cladocerans"
+},
+{
+"id": "ASAC_1049_Micromat.v1",
+"title": "Biodiversity of Microbial mats in Antarctica"
+},
+{
+"id": "ASAC_2545.v1",
+"title": "Biodiversity, biogeography, reproduction and conservation of the Macquarie Island orchid Nematocerus (Corybas) dienema"
+},
+{
+"id": "ASAC_1216.v1",
+"title": "Biogenic sediment history from diatom remains in cores along Wilkes Land"
+},
+{
+"id": "AAS_4078_Wilks_SAZ_47S_sediment_trap_dataset.v1",
+"title": "Biogeochemical flux and phytoplankton assemblage variability: A unique year-long sediment trap record in the Australian Sector of the Subantarctic Zone."
+},
+{
+"id": "ASAC_2584.v1",
+"title": "Biogeochemical modelling of the feedback between ocean biota and climate at polar latitudes"
+},
+{
+"id": "ASAC_3022.v1",
+"title": "Biogeography in saline lake dinoflagellates: evolutionary jumps between limnic and marine systems"
+},
+{
+"id": "ASAC_1015_spiders.v1",
+"title": "Biogeography of spiders on islands of the Southern Ocean"
+},
+{
+"id": "AAS_926_Bunger_Hills_Biogeography.v1",
+"title": "Biogeography of the Bunger Hills - plant and bird locations 1995-2000"
+},
+{
+"id": "DAVIS_STP_Biota.v1",
+"title": "Biological data from the Environmental Impact Assessment of the Davis Sewage Outfall"
+},
+{
+"id": "ASAC_1131.v1",
+"title": "Biological evolution of Antarctic lakes"
+},
+{
+"id": "Biology_Log_Casey_Birds_1967_1968.v1",
+"title": "Biological notes and observations (primarily of Southern Giant Petrels) made in the Casey region, 1967-1968"
+},
+{
+"id": "SOE_effluent_BOD.v1",
+"title": "Biological Oxygen Demand (BOD) of wastewater discharged from Australian Antarctic Stations"
+},
+{
+"id": "ASAC_38.v1",
+"title": "Biology and Classification of Macquarie Island Echinoderms"
+},
+{
+"id": "MI_Orchids_1976-2009.v1",
+"title": "Biology and population studies of two endemic orchid species on sub-Antarctic Macquarie Island"
+},
+{
+"id": "Biology_Log_Casey_1968_1969.v1",
+"title": "Biology log from Casey station during 1968 and 1969."
+},
+{
+"id": "Biology_Log_Casey_1972.v1",
+"title": "Biology log from Casey station during 1972."
+},
+{
+"id": "Biology_Log_Wilkes_1968_1969.v1",
+"title": "Biology log from Wilkes station during 1968 and 1969."
+},
+{
+"id": "Biology_Log_Casey_Report_1972.v1",
+"title": "Biology log report from Casey station during 1972."
+},
+{
+"id": "ASAC_102.v1",
+"title": "Biology of Antarctic Algae"
+},
+{
+"id": "ASAC_1242.v2",
+"title": "Biology of Southern Ocean squid, ecological importance and potential commercial implications - a preliminary assessment"
+},
+{
+"id": "feral_cat_macca.v1",
+"title": "Biology of the Feral Cat, Felis catus (L.), on Macquarie Island"
+},
+{
+"id": "ASAC_1101_Protists.v1",
+"title": "Biology of the Mertz Glacier Polynya - Protist Data"
+},
+{
+"id": "ASAC_1101.v1",
+"title": "Biology of the Mertz Glacier Polynya - Zooplankton and CTD Data"
+},
+{
+"id": "sea_elephant_biology_1951.v1",
+"title": "Biology of the Sea Elephant (Elephant Seal), Heard Island, 1951"
+},
+{
+"id": "Biology_Log_Wilkes_Ardery_1963.v1",
+"title": "Biology report for Ardery Island, Wilkes Station, January 1963"
+},
+{
+"id": "Biology_Log_Wilkes_1963.v1",
+"title": "Biology report for Wilkes Station, 1963"
+},
+{
+"id": "Biology_Log_Wilkes_1964.v1",
+"title": "Biology report for Wilkes Station, 1964"
+},
+{
+"id": "Biology_Log_Wilkes_1968.v1",
+"title": "Biology report for Wilkes Station, 1968"
+},
+{
+"id": "Biology_Log_Windmill_Islands_Report_1962_1963.v1",
+"title": "Biology report from the Windmill Islands, 1962-1963"
+},
+{
+"id": "Biology_Log_Wilkes_1961.v1",
+"title": "Biology report from Wilkes Station, 1961"
+},
+{
+"id": "Biology_Log_Wilkes_1962.v1",
+"title": "Biology report from Wilkes Station, 1962"
+},
+{
+"id": "Biology_Log_Wilkes_1962_1963.v1",
+"title": "Biology report from Wilkes Station, 1962-1963"
+},
+{
+"id": "Davis_biology_report_1982.v1",
+"title": "Biology Year Report for Davis Station, 1982"
+},
+{
+"id": "Biology_Log_Windmill_Islands_Fleas_1961.v1",
+"title": "Bird Fleas in the Windmill Islands, 1961"
+},
+{
+"id": "HABITATMAWSON04-05.v1",
+"title": "Bird habitat surveys conducted during the 2004/05 summer and descriptive information of the terrestrial environment in the Mawson region"
+},
+{
+"id": "HABITATCASEY0203.v2",
+"title": "Bird habitat surveys conducted in the Windmill Islands during 2002/03 and descriptive information of the terrestrial Environment in the Windmill Islands"
+},
+{
+"id": "ASAC_2940_Bird_Island.v1",
+"title": "Bird Island female Antarctic fur seal geolocation tracking data"
+},
+{
+"id": "ASAC_2940_Bird_Island_Isotopes.v1",
+"title": "Bird Island female Antarctic fur seal geolocation tracking data - Isotope Data"
+},
+{
+"id": "ASAC_2350.v1",
+"title": "Boron in Antarctic granulite-facies rocks: under what conditions is boron retained in the middle crust?"
+},
+{
+"id": "AAS_4088_Adelie_breeding_colony_boundaries.v1",
+"title": "Boundaries of Adelie penguin breeding colonies at numerous breeding sites across east Antarctica"
+},
+{
+"id": "SIPEX_II_Boundary_Layer_Met.v1",
+"title": "Boundary Layer Meteorology measurements collected from ice stations during the SIPEX II voyage of the Aurora Australis, 2012"
+},
+{
+"id": "AAS_4422_Thermal_Salinity_Profiles.v1",
+"title": "Boundary layer profiles during melting of the sloping ice shelves"
+},
+{
+"id": "box_hill_ice_compression.v1",
+"title": "Box Hill Ice Compression Tests"
+},
+{
+"id": "RoyalPenguin1955-1969.v1",
+"title": "Breeding biology of the Royal Penguin (Eudypted chrysolophus)at Macquarie Island 1955-1969"
+},
+{
+"id": "SOE_seabird_candidate_sp_SGP.v1",
+"title": "Breeding populations of Southern Giant Petrels at Heard Island, the McDonald Islands and within the AAT"
+},
+{
+"id": "ASAC_1060.v1",
+"title": "Brine flow through sea ice"
+},
+{
+"id": "BROKE_Krill_Scans.v1",
+"title": "BROKE transects and krill aggregations - scanned maps of voyage 4 of the Aurora Australis, 1995-1996"
+},
+{
+"id": "BROKE-West_CTD_au0603.v2",
+"title": "BROKE West Survey, Marine Science Cruise AU0603 - Oceanographic Field Measurements and Analysis"
+},
+{
+"id": "AAS_4050_EK60.v1",
+"title": "BROKE-West active acoustic data workflow"
+},
+{
+"id": "BROKE-West_flow_cytometry.v1",
+"title": "BROKE-West microbial concentrations - Voyage 3 of the Aurora Australis 2005/2006"
+},
+{
+"id": "brok_5k_gis.v1",
+"title": "Broknes Peninsula 1:5000 Topographic GIS Dataset"
+},
+{
+"id": "ASAC_1313_Baseline.v1",
+"title": "Bryophyte species composition over moisture gradients in the Windmill Islands, East Antarctica; development of a baseline for monitoring climate change impacts"
+},
+{
+"id": "bunger_geology_gis.v1",
+"title": "Bunger Hills - Denman Glacier Bedrock Geology GIS Dataset"
+},
+{
+"id": "bunger_hills_contours.v1",
+"title": "Bunger Hills contours"
+},
+{
+"id": "bunger_east_sat.v1",
+"title": "Bunger Hills East Satellite Image Map 1:50 000"
+},
+{
+"id": "AAS_926_Bunger_Hills_Salt_Sediment_Weathering.v1",
+"title": "Bunger Hills Salt mineralogy, sediment extract chemistry, glacial sediment grain size, surface weathering characteristics"
+},
+{
+"id": "bunger_hills_spot5_dem_gis.v1",
+"title": "Bunger Hills SPOT5 DEM (Digital Elevation Model)"
+},
+{
+"id": "bunger_west_sat.v1",
+"title": "Bunger Hills West Satellite Image Map 1:50 000"
+},
+{
+"id": "BMRGG_InventoryRocks.v1",
+"title": "Bureau of Mineral Resources, Geology and Geophysics Inventory of Antarctic Rock Specimens Held in Australian Institutions"
+},
+{
+"id": "ASAC_1219_HIMI_Pet.v1",
+"title": "Burrowing petrels at Heard Island, 1987/88."
+},
+{
+"id": "Byrd-SipleDome-CO2-GICC05.v1",
+"title": "Byrd and Siple Dome CO2 data on the GICC05 timescale (9--21 ka)"
+},
+{
+"id": "ASAC_276.v1",
+"title": "Cainozoic History of the Bunger Hills Region: A Study of the Dynamic Interaction of Ice and Land"
+},
+{
+"id": "AAS_4344_Calibrated_Fluorescence_Profiles_K-Axis.v1",
+"title": "Calibrated Fluorescence Profiles from the K-Axis Voyage of the Aurora Australis, 2016"
+},
+{
+"id": "ASAC_1227.v1",
+"title": "Calibration of an existing biogeochemical model of DMS production in the Antarctic Southern Ocean."
+},
+{
+"id": "ASAC_2392.v1",
+"title": "Can remote sensing be used to map vegetation and monitor community change in Antarctica?"
+},
+{
+"id": "Cape_Darnley_Bloom.v1",
+"title": "Cape Darnley Early-Autumn Phytoplankton Bloom, March 2012"
+},
+{
+"id": "ASAC_1219_AAT_APen_CD_97.v1",
+"title": "Cape Denison Adelie Penguin census, November - December 1997"
+},
+{
+"id": "ASAC_1219_AAT_APen_CD_99.v1",
+"title": "Cape Denison Adelie Penguin census, November - December 1999"
+},
+{
+"id": "gis41.v1",
+"title": "Cape Denison and McKellar Islands GIS dataset from Ikonos satellite imagery"
+},
+{
+"id": "ASAC_1219_AAT_APen_CD_02.v1",
+"title": "Cape Denison bird survey, November - December 2002"
+},
+{
+"id": "cden_survey_gis.v1",
+"title": "Cape Denison Detail Survey, December 1985, GIS Dataset"
+},
+{
+"id": "AAS_3289.v1",
+"title": "Cape Denison Geological Sampling - 2010-2011"
+},
+{
+"id": "cden_gis.v1",
+"title": "Cape Denison Historic Site, Commonwealth Bay - GIS DataSet Digitised from Cape Denison Map"
+},
+{
+"id": "capeden_management_gis.v1",
+"title": "Cape Denison Management Zone GIS Dataset"
+},
+{
+"id": "AAS_4088_Cape_Petrel_Vestfold_2017.v1",
+"title": "Cape petrel nesting areas on islands off the Vestfold Hills, November 2017"
+},
+{
+"id": "ASAC_2940_Cape_Shirreff.v1",
+"title": "Cape Shirreff female Antarctic fur seal geolocation tracking data"
+},
+{
+"id": "ASAC_2940_Cape_Shirreff_Isotopes.v1",
+"title": "Cape Shirreff female Antarctic fur seal stable isotope data"
+},
+{
+"id": "AAS_4177_CaseyStationIsotopesShellfish.v1",
+"title": "Carbon and Nitrogen Stable isotopes analysis of the lantern shellfish (Laternula elliptica)"
+},
+{
+"id": "AAS_4177_CaseyStationIsotopes.v1",
+"title": "Carbon and Nitrogen Stable Isotopes in tissue of Antarctic Rock-cod (Trematomus bernacchii) from contaminated and reference sites, Casey Station."
+},
+{
+"id": "AAS_3129_JBA_GCB.v1",
+"title": "Carbon isotope measurements across different Antarctic water environments"
+},
+{
+"id": "SIPEX_II_Stable_Isotopes_Sterols.v1",
+"title": "Carbon isotopic signal of cholesterol and brassicasterol (respectively zooplankton and phytoplankton indicator) and presence of particulate Barium in the Antarctic sea-ice - collected during SIPEX II, 2012"
+},
+{
+"id": "AADC-00084.v1",
+"title": "Cardiovascular Research in Antartica"
+},
+{
+"id": "ASAC_2300.v1",
+"title": "Cascading effects of global climate change on near shore benthic communities in the Antarctic"
+},
+{
+"id": "JWasley-LabBook-Casey-1999-2000.v1",
+"title": "Casey 1999-2000 Laboratory Notebook for Jane Wasley"
+},
+{
+"id": "AAS_4307_Casey_01.v1",
+"title": "Casey Arthropod (Springtails) Sampling February 2017 - Abundance data"
+},
+{
+"id": "A6_Survey.v1",
+"title": "Casey Blue Ice Runway Survey Report 2002 - 2003"
+},
+{
+"id": "IHIS2684.v1",
+"title": "Casey EPH Fuel Tank Supply Line Leak - Soil samples for TPH analysis"
+},
+{
+"id": "casey_ice_coring_1979.v1",
+"title": "Casey Ice Coring Program - Operations and Data Report, 1979"
+},
+{
+"id": "AAS_2201_Casey_Monitoring_Meiofauna.v1",
+"title": "Casey marine sediment meiofauna 2005"
+},
+{
+"id": "casfair1_gis.v1",
+"title": "Casey RAN Fair Sheet Data from HI 161 V5/500 6610/1 scale 1:10 000"
+},
+{
+"id": "casfair2_gis.v1",
+"title": "Casey RAN Fair Sheet Data from HI 161 V5/500 6610/2 scale 1:25 000"
+},
+{
+"id": "casfair3.v1",
+"title": "Casey RAN Fair Sheet Data from HI 189 V5/584 6610/1 scale 1:25 000"
+},
+{
+"id": "AADC-00107.v1",
+"title": "Casey Station Antarctica Ice Thickness Data"
+},
+{
+"id": "CSA_ortho.v1",
+"title": "Casey Station Area Orthophoto"
+},
+{
+"id": "S4_211a.v1",
+"title": "Casey Station current meter data: S4_211a"
+},
+{
+"id": "S4_211b.v1",
+"title": "Casey Station current meter data: S4_211b"
+},
+{
+"id": "S4_212a.v1",
+"title": "Casey Station current meter data: S4_212a"
+},
+{
+"id": "S4_212b.v1",
+"title": "Casey Station current meter data: S4_212b"
+},
+{
+"id": "gis20.v1",
+"title": "Casey Station Fire Hydrants GIS Dataset"
+},
+{
+"id": "AAS_4565_2020_CASEY.v1",
+"title": "Casey Station Footprint GIS Layers, 2002-2018"
+},
+{
+"id": "AAS_4565_CASEY_FOOTPRINT_M2.v1",
+"title": "Casey Station Footprint Measurements, 2002-2018"
+},
+{
+"id": "gis11.v1",
+"title": "Casey Station GIS Dataset"
+},
+{
+"id": "gis17.v1",
+"title": "Casey Station GIS Dataset update from various sources"
+},
+{
+"id": "CS_ortho.v1",
+"title": "Casey Station Orthophoto"
+},
+{
+"id": "AAS_4036_Casey_Assessments.v1",
+"title": "Casey Station Site Assessments - 2016, 2018"
+},
+{
+"id": "Casey_Tide_Gauges.v2",
+"title": "Casey Tide Gauge Data 1996-2007"
+},
+{
+"id": "casey_vostok_radiosonde.v1",
+"title": "Casey-Vostok Line, Reduced Radiosonde Data, 1984"
+},
+{
+"id": "CCAMLR_statistical_areas_low_res.v1",
+"title": "CCAMLR Statistical area boundaries - a subset of FAO statistical areas - lowest resolution with coastline"
+},
+{
+"id": "ccamlr_subareas_gis.v1",
+"title": "CCAMLR Statistical Reporting Subareas GIS Dataset."
+},
+{
+"id": "CEAMARC-200708_V3_MARINE_SEDIMENT_SAMPLES.v1",
+"title": "CEAMARC marine sediment samples - collected on voyage 3 of the Aurora Australis, 2007-2008"
+},
+{
+"id": "CEAMARC_CASO_200708030_BATHYMETRY.v1",
+"title": "CEAMARC-CASO 12kHz Bathymetry - data collected from voyage 3, 2007-2008 of the Aurora Australis"
+},
+{
+"id": "CEAMARC_CASO_200708_V3_BENTHIC_TRAWL_SAMPLES.v1",
+"title": "CEAMARC-CASO Benthic Trawl Samples - voyage 3 of the Aurora Australis,\n 2007-2008"
+},
+{
+"id": "CEAMARC_CASO_200708_V3_EVENTS.v1",
+"title": "CEAMARC-CASO Event List of voyage 3 of the Aurora Australis,\n 2007-2008"
+},
+{
+"id": "ASAC_755.v1",
+"title": "Cenozoic History of the East Antarctic Icesheet - Studies of the Pagodroma Tillite and Related Strate, Prince Charles Mountains"
+},
+{
+"id": "CAML_Project_Archive.v1",
+"title": "Census of Antarctic Marine Life (CAML) Archive of Project Documentation"
+},
+{
+"id": "CAML_Project_Archive.CAML_DNA_Barcoding.v1",
+"title": "Census of Antarctic Marine Life (CAML) Archive of Project Documentation - CAML_Project_Archive.CAML_DNA_Barcoding"
+},
+{
+"id": "CAML_Project_Archive.CAML_South_America.v1",
+"title": "Census of Antarctic Marine Life (CAML) Archive of Project Documentation - CAML_Project_Archive.CAML_South_America"
+},
+{
+"id": "CAML_Project_Archive.Data_Synthesis.v1",
+"title": "Census of Antarctic Marine Life (CAML) Archive of Project Documentation - CAML_Project_Archive.Data_Synthesis"
+},
+{
+"id": "CAML_Project_Archive.Documents.v1",
+"title": "Census of Antarctic Marine Life (CAML) Archive of Project Documentation - CAML_Project_Archive.Documents"
+},
+{
+"id": "CAML_Project_Archive.Media_Education_Outreach.v1",
+"title": "Census of Antarctic Marine Life (CAML) Archive of Project Documentation - CAML_Project_Archive.Media_Education_Outreach"
+},
+{
+"id": "CAML_Project_Archive.Meetings.v1",
+"title": "Census of Antarctic Marine Life (CAML) Archive of Project Documentation - CAML_Project_Archive.Meetings"
+},
+{
+"id": "CAML_Project_Archive.Progress_Updates.v1",
+"title": "Census of Antarctic Marine Life (CAML) Archive of Project Documentation - CAML_Project_Archive.Progress_Updates"
+},
+{
+"id": "CAML_Project_Archive.Sampling_Protocols.v1",
+"title": "Census of Antarctic Marine Life (CAML) Archive of Project Documentation - CAML_Project_Archive.Sampling_Protocols"
+},
+{
+"id": "CAML_Project_Archive.Ships.v1",
+"title": "Census of Antarctic Marine Life (CAML) Archive of Project Documentation - CAML_Project_Archive.Ships"
+},
+{
+"id": "frazier_sgp_12dec2011.v1",
+"title": "Census of southern giant petrel nesting areas on Frazier Islands 12 December 2011"
+},
+{
+"id": "frazier_sgp_14dec2005.v1",
+"title": "Census of southern giant petrel nesting areas on Frazier Islands 14 December 2005"
+},
+{
+"id": "ASAC_2941_Aerial_Data.v1",
+"title": "Cetacean (whales) aerial survey data from the Antarctic collected between 2008 and 2010"
+},
+{
+"id": "ASAC_915_2253.v1",
+"title": "Cetacean Sightings Survey and Southern Ocean cetacean program"
+},
+{
+"id": "BROKE-West_Cetaceans.v1",
+"title": "Cetacean Sightings Survey and Southern Ocean Cetacean Program - data collected from the BROKE-West voyage of the Aurora Australis, 2006"
+},
+{
+"id": "AADC-00019.v1",
+"title": "Chaetognaths of the Southern Ocean"
+},
+{
+"id": "AAS_4116_Sea-Ice-Seasonality-East-Antarctic.v1",
+"title": "Change and variability in East Antarctic sea ice seasonality 1979/80-2009/10"
+},
+{
+"id": "King_Penguins_at_GG.v1",
+"title": "Changes in King Penguin numbers at Gadget Gully, Macquarie Island"
+},
+{
+"id": "ASAC_1015_macca_veg_change.v1",
+"title": "Changes in vegetation on Macquarie Island 2000 to 2007"
+},
+{
+"id": "ASAC_3095_Vegetation_Change.v1",
+"title": "Changes in vegetation on Macquarie Island 2000 to 2007 - ASAC_3095_Vegetation_Change"
+},
+{
+"id": "AAS_4320_NBP14-02_seafloor_imagery_data.v1",
+"title": "Characterisation of seafloor imagery from the Sabrina Coast continental shelf"
+},
+{
+"id": "AAS_4315_DMSP-phytobacto.v2",
+"title": "Characterising the microbial interactions that drive organic sulphur cycling in Antarctic waters"
+},
+{
+"id": "MI08_soil_properties.v1",
+"title": "Characteristics of soil collected on Macquarie Island in 2008."
+},
+{
+"id": "charybdis_sat.v1",
+"title": "Charybdis Glacier Satellite Image Map 1:500 000"
+},
+{
+"id": "Antarctic_subantarctic_insects_checklist_1954.v1",
+"title": "Checklist of insect species from the Antarctic and sub-Antarctic - 1954"
+},
+{
+"id": "TVcleanup_2002-2004.v1",
+"title": "Chemical assessment during cleanup of the Thala Valley tip site, Casey Station, 2002/2003-2003/2004"
+},
+{
+"id": "AAS_1236_MillIs_IceCore_TraceIon_Chem.v1",
+"title": "Chemical concentrations of trace ions at the Mill Island ice core site"
+},
+{
+"id": "AAS_4075_ABN1314_chem_data.v1",
+"title": "Chemical concentrations of trace ions from the Aurora Basin North ice core (ABN1314 main) drilled as part of AAS#4075"
+},
+{
+"id": "AAS_4180_TV-LTM1415_SedimentChemistry.v1",
+"title": "Chemical properties of marine sediments sampled during the Thala Valley Long Term Monitoring (TV-LTM) 2014-15 field season"
+},
+{
+"id": "DAVIS_STP_Chemistry.v1",
+"title": "Chemistry data from the Environmental Impact Assessment of the Davis Sewage Outfall"
+},
+{
+"id": "CHEMTAX.v1",
+"title": "Chemtax version 1.95 for calculating the taxonomic composition of phytoplankton populations"
+},
+{
+"id": "SIPEX_II_Chlorophyll_a.v1",
+"title": "Chlorophyll a data collected during the SIPEX II voyage of the Aurora Australis, 2012"
+},
+{
+"id": "WOCE91_Chlorophyll.v1",
+"title": "Chlorophyll a data collected on the 1991 WOCE voyage of the Aurora Australis"
+},
+{
+"id": "AAMBER_II_Chlorophyll.v1",
+"title": "Chlorophyll a data collected on the AAMBER II cruise of the Aurora Australis"
+},
+{
+"id": "CLIVAR_Chlorophyll.v1",
+"title": "Chlorophyll a data collected on voyage 3 of the Aurora Australis in the 2002-2002 season - CLIVAR (Climate Variability) voyage"
+},
+{
+"id": "199192040_Chlorophyll.v1",
+"title": "Chlorophyll a data collected on voyage 4 of the Aurora Australis in the 1991-1992 season"
+},
+{
+"id": "AAS_4344_K-Axis_Chlorophyll.v2",
+"title": "Chlorophyll K-Axis Voyage V3 2015/16"
+},
+{
+"id": "AAS_4116_Fraser_fastice_circumantarctic.v2.2",
+"title": "Circum-Antarctic landfast sea ice extent, 2000-2018"
+},
+{
+"id": "AAS_4512_Antarctic_krill_growth_potential_projections.v1",
+"title": "Circumpolar Projections of Antarctic krill (Euphausia superba) growth potential"
+},
+{
+"id": "AAS_4292_Davis_Cirrus_Cloud.v1",
+"title": "Cirrus cloud and ancillary data from June 2011 at Davis Station, Antarctica"
+},
+{
+"id": "AAS_2780.v1",
+"title": "Climate change and carbon gain in Antarctic mosses"
+},
+{
+"id": "AAS_2780_dryingresponse.v1",
+"title": "Climate change and carbon gain in Antarctic mosses - Drying Responses"
+},
+{
+"id": "AAS_3134_urchins_climate_change.v2",
+"title": "Climate change and urchin fertilisation and the effect on the growth rate of juvenile Abatus sp."
+},
+{
+"id": "au0403.v1",
+"title": "CLIVAR I9 transect and Kerguelen Plateau Deep Western Boundary Current Experiment, Aurora Australis marine science cruise au0403 - ship-based CTD and ADCP data"
+},
+{
+"id": "SRE4_SAB_gammaclones.v1",
+"title": "Clone library using primers for gammaproteobacteria from an SAB treatment in the SRE4 experiment"
+},
+{
+"id": "AAS_4292_Davis_All_Sky_Camera.v1",
+"title": "Cloud and clear-sky images recorded by an all sky camera located at Davis, 2015-2019"
+},
+{
+"id": "AAS_4157_Clouds.v1",
+"title": "Cloud Detector measurements made at Davis Station, Antarctica"
+},
+{
+"id": "ASAC_737_lidar_cloudcam.v1",
+"title": "Cloud images of the sky above Davis Station, Antarctica, taken with the lidar cloudcam"
+},
+{
+"id": "AAS_4292_Cloud_Camera_K-Axis.v1",
+"title": "Cloud-Cam record for the 2016 K-Axis voyage"
+},
+{
+"id": "SIC_187_coregistration.v1",
+"title": "Co-registration of SPOT image, 31 March 1991, Heard Island"
+},
+{
+"id": "SIPEX_II_CO2_Incubations.v1",
+"title": "CO2 incubation data collected during the SIPEX II voyage of the Aurora Australis, 2012"
+},
+{
+"id": "AAS_4026_Pigments_CHEMTAX.v1",
+"title": "CO2-induced changes in Antarctic phytoplankton communities using pigments"
+},
+{
+"id": "AAS_4116_Coastal_Complexity.v1",
+"title": "Coastal complexity of the Antarctic continent"
+},
+{
+"id": "AAS_4116_Coastal_Exposure.v1",
+"title": "Coastal exposure index of sea ice in Antarctica"
+},
+{
+"id": "Davis_multibeam_grids.v2",
+"title": "Coastal seabed mapping survey, Vestfold Hills, Antarctica, February-March 2010"
+},
+{
+"id": "Coccolithophore_Fluxes_SAZ_2009-2012.v1",
+"title": "Coccolithophore species fluxes in the Australian and New Zealand sectors of the Subantarctic Zone"
+},
+{
+"id": "Coccolithophore_Fluxes_SAZ.v1",
+"title": "Coccolithophore species fluxes in the Australian sector of the southern Antarctic Zone"
+},
+{
+"id": "krill_risk_maps.v1",
+"title": "Code, data and results used to fit growth rates of Antarctic krill under experimental CO2 manipulation"
+},
+{
+"id": "ASAC_1165.v1",
+"title": "Cold adaptation and functionality of the Antarctic Coastal Benthic Zones"
+},
+{
+"id": "ASAC_1126.v1",
+"title": "Cold adaptation in planktonic and sea-ice bacteria"
+},
+{
+"id": "AAS_4298_Chlorophyll_a_1970_2015.v2",
+"title": "Collation of existing (historical) Antarctic fast ice core Chlorophyll a data"
+},
+{
+"id": "AAS1300_PW_COLUMNSIX.v1",
+"title": "Column breakthrough ion-exchange experiments for Amberlite IRC748 (WTP for Thala Valley clean-up)"
+},
+{
+"id": "AADFishDatabase.v5",
+"title": "Commercial and Research Fish Catch database held by the Australian Antarctic Division"
+},
+{
+"id": "cden_artefacts_gis.v1",
+"title": "Commonwealth Bay Artefacts Survey Data, October - December 2002"
+},
+{
+"id": "WOV_PRYDZ_BIRD_COMMUNITIES.v1",
+"title": "Community composition of seabirds in the Prydz Bay region, derived from at-sea observations of seabirds."
+},
+{
+"id": "Dive_data_PhD_G.Roncon_IMAS_2019.v1",
+"title": "Comparative Diving Ecology Across Southern Ocean Marine Predators - Seals and Penguins"
+},
+{
+"id": "ASAC_1343.v1",
+"title": "Comparative study of processes controlling carbon export in Southern Ocean environments characterised by a different hydrodynamical and ecological functioning"
+},
+{
+"id": "ASAC_288.v1",
+"title": "Comparative Study of the Composition and Transport of Particulate Biogenic Matter in the Shelf, Slope and Pelagic Watercolumn of Prydz Bay"
+},
+{
+"id": "AAS_4088_SGP_2011-2015.v1",
+"title": "Comparison of phenology of southern giant petrels at Hawker and Nelly islands over three years"
+},
+{
+"id": "AAS_4123_model_comparisons.v1",
+"title": "Comparison of theoretical and laboratory models of ocean wave transmission by a group of ice floes"
+},
+{
+"id": "Davis_Station.v1",
+"title": "Compilation of GIS datasets for Davis Station"
+},
+{
+"id": "AAS_4305_Macquarie_Is_historic_invert_surveys.v1",
+"title": "Compilation of Macquarie Island invertebrate survey data 1986-2010"
+},
+{
+"id": "AAS_4200_Be_data.v1",
+"title": "Compilation of quasi-monthly cosmogenic beryllium concentration at Law Dome, Antarctica."
+},
+{
+"id": "rock_samples.v1",
+"title": "Compilation of Rock Samples collected by ANARE"
+},
+{
+"id": "AAS_4355_Daczko_etal_2018.v1",
+"title": "Compiled and new U-Pb zircon and monazite data from Indo- and Australo-Antarctica"
+},
+{
+"id": "Bot_Bibliography.v1",
+"title": "Compiled bibliography of Antarctic/subantarctic related botanical references"
+},
+{
+"id": "Scotts_Fuel.v1",
+"title": "Composition and origin of fuel from the hut of explorer Robert Falcon Scott, Cape Evans, Antarctica"
+},
+{
+"id": "ASAC_1261.v1",
+"title": "Computer modelling of the mass balance and dynamics of the Antarctic Ice Sheet"
+},
+{
+"id": "CSIRO_AR_GASLAB.v1",
+"title": "Concentration and isotopic measurements of radiatively important gases in the southern atmosphere"
+},
+{
+"id": "DGT-Heavymetals-Casey03-04.v1",
+"title": "Concentration of heavy metals in marine waters around Casey station - summer 2003/04"
+},
+{
+"id": "AAS_4419_IN2017-V01-C012-PC05-TraceMetals.v1",
+"title": "Concentration of Trace Metals in sediment collected from the Sabrina Coast Continental Slope - core C012-PC05"
+},
+{
+"id": "ASAC_517.v1",
+"title": "Conditions for Strong Wind Occurrences at Casey"
+},
+{
+"id": "SIPEX_II_CTD.v1",
+"title": "Conductivity, Temperature and Depth (CTD) data from the SIPEX II voyage of the Aurora Australis"
+},
+{
+"id": "SIPEX_II_Ice_Station_CTD.v1",
+"title": "Conductivity, Temperature and Depth (CTD) measurements made on ice stations during the SIPEX II voyage of the Aurora Australis, 2012"
+},
+{
+"id": "ASAC_2941.v1",
+"title": "Conservation and Management Science of Marine Mammals"
+},
+{
+"id": "ASAC_2569_751.v4",
+"title": "Conservation and population status of albatrosses and giant petrels on Macquarie Island"
+},
+{
+"id": "ASAC_3095_Antarctic_Biogeography_shapefiles.v1",
+"title": "Conservation Biogeography of the Antarctic - Shapefiles"
+},
+{
+"id": "AAS_4184_seabirds_seals_genetics.v1",
+"title": "Conservation genetics of Antarctic seabirds and seals: population connectivity and past glacial refugia"
+},
+{
+"id": "ASAC_2152.v1",
+"title": "Conservation of plant biodiversity in Antarctica - a genetic approach"
+},
+{
+"id": "AHS_Surveys_Macca_ITRF2000.v2",
+"title": "Consolidated dataset of hydrographic surveys at Macquarie Island, 1999-2019, ITRF2000"
+},
+{
+"id": "ASAC_3115.v1",
+"title": "Contaminant profiles of air and soil around Casey station, Antarctica; Discerning local and distant contaminant sources"
+},
+{
+"id": "ERS_CONT_SOURCE_AMERY.v1",
+"title": "Contour source data for the Amery Region map dated November 2002."
+},
+{
+"id": "ERS_CONT_MERGED_AMERY.v1",
+"title": "Contours for the Amery Region map dated November 2002."
+},
+{
+"id": "ASAC_988.v1",
+"title": "Contribution of dinoflagellates to Antarctic coastal zone carbon flux"
+},
+{
+"id": "ASAC_2286.v1",
+"title": "Coordinated magnetic observations at Macquarie Island during the STEP period"
+},
+{
+"id": "Copepods.v1",
+"title": "Copepod faecal pellets and carbon flux in the coastal sea-ice zone"
+},
+{
+"id": "WBD_Copepods.v1",
+"title": "Copepods: Aetideidae of the World Ocean - World Biodiversity Database CD-ROM Series"
+},
+{
+"id": "ASAC_1100_field_lab_books.v1",
+"title": "Copies of field and lab books associated with ASAC project 1100 - Contaminants in the Antarctic environment"
+},
+{
+"id": "ASAC_1163_field_lab_books.v1",
+"title": "Copies of field and lab books associated with ASAC project 1163 - Remediation of petroleum contaminants in the Antarctic and subantarctic"
+},
+{
+"id": "ASAC_1300_field_lab_books.v1",
+"title": "Copies of field and lab books associated with ASAC project 1300 - Development and application of technologies for the removal of heavy-metal contaminants from run-off associated with abandoned waste disposal sites"
+},
+{
+"id": "ASAC_2201_field_lab_books.v1",
+"title": "Copies of field and lab books associated with ASAC project 2201 - Natural variability and human induced change in Antarctic nearshore marine benthic communities"
+},
+{
+"id": "ASAC_2385_field_lab_books.v1",
+"title": "Copies of field and lab books associated with ASAC project 2385 - Development and application of DGT devices for passive sampling of contaminated waters in the Antarctic environment"
+},
+{
+"id": "ASAC_2937_field_lab_books.v1",
+"title": "Copies of field and lab books associated with ASAC project 2397 - In situ chemical stabilisation of contaminants in freezing ground"
+},
+{
+"id": "ASAC_2570_field_lab_books.v1",
+"title": "Copies of field and lab books associated with ASAC project 2570 - Constraints on hydrocarbon adsorption and nutrient release from zeolites at low temperatures for hydrocarbon remediation in Antarctica"
+},
+{
+"id": "ASAC_2576_field_lab_books.v1",
+"title": "Copies of field and lab books associated with ASAC project 2576 - The hydraulic behaviour of Permeable Reactive Barrier materials under freeze-thaw conditions"
+},
+{
+"id": "ASAC_2933_field_lab_books.v1",
+"title": "Copies of field and lab books associated with ASAC project 2933 - Developing water and sediment quality guidelines for Antarctica: Responses of Antarctic marine biota to contaminants."
+},
+{
+"id": "TVcleanup_2002-2004_field_lab_books.v1",
+"title": "Copies of field and lab books relating to the Thala Valley clean up from 2002-2004"
+},
+{
+"id": "ASAC_310.v1",
+"title": "Coring Analyses of Cores from Near Shore Sites in the Vestfold Hills"
+},
+{
+"id": "ASAC_537.v1",
+"title": "Corrosivity Mapping of Antarctica utilising exposure of standard alloy coupons"
+},
+{
+"id": "Cosmic_Ray_PW.v1",
+"title": "Cosmic Ray Associated Atmospheric Pressure and Wind Speed Records, Antarctica"
+},
+{
+"id": "Cosmic_Ray_NM.v1",
+"title": "Cosmic Ray Neutron Monitor Data, Antarctica and Tasmania"
+},
+{
+"id": "Cosmic_Ray_SM.v1",
+"title": "Cosmic Ray Surface Muon Data, Antarctica"
+},
+{
+"id": "Cosmic_Ray_UGM.v1",
+"title": "Cosmic Ray Underground Muon Data, Mawson, Antarctica"
+},
+{
+"id": "RSES_PCM.v1",
+"title": "Cosmogenic dating"
+},
+{
+"id": "ASAC_1215_Mawson_Stinear.v1",
+"title": "Crustal Cross-Sections along the Mawson Escarpment and Mount Stinear, Southern Prince Charles Mountains"
+},
+{
+"id": "ASAC_58.v1",
+"title": "Cryptobiosis in Terrestrial Antarctic Invertebrates"
+},
+{
+"id": "AAS_4167_GASLAB_FLASK.v3",
+"title": "CSIRO GASLAB Flask Air Samples"
+},
+{
+"id": "AAS_4011_PLATO_CSTAR.v1",
+"title": "CSTAR photometry of 21845 stars around the South Celestial Pole observed from Kunlun Station at Dome A"
+},
+{
+"id": "ASAC_2720_CTD.v1",
+"title": "CTD data collected during the SAZ-SENSE voyage, January-February 2007"
+},
+{
+"id": "ta0704.v1",
+"title": "CTD data from cruise ta0704 of the RV Tangaroa"
+},
+{
+"id": "ta0803.v1",
+"title": "CTD data from cruise ta0803 of the RV Tangaroa"
+},
+{
+"id": "BROKE-West_CTD_RMT.v1",
+"title": "CTD Data from the Rectangular Midwater Trawl collected during the BROKE-West voyage of the Aurora Australis, 2006"
+},
+{
+"id": "AAS_4030_CTD_Toothfish_Fishery.v2",
+"title": "CTD data from the toothfish fishery in East Antarctica"
+},
+{
+"id": "in2018_v05.v1",
+"title": "CTD data of cruise in2018_v05 of the RV Investigator"
+},
+{
+"id": "BROKE-West_CTD_Niskin.v1",
+"title": "CTD Niskin data collected from the BROKE-West voyage of the Aurora Australis, 2006"
+},
+{
+"id": "AADC-00025.v1",
+"title": "Ctenophores of the Southern Ocean"
+},
+{
+"id": "ASAC_1264.v1",
+"title": "Cultivation of novel Sub-Antarctic Plants"
+},
+{
+"id": "ARPANSA_BIO.v12",
+"title": "Daily broad-band ultra-violet radiation observations using biologically effective UVR detectors"
+},
+{
+"id": "AAS_4537_z500_SynopticTyping_SouthernIndianOcean.v1",
+"title": "Daily synoptic weather types of southern Indian Ocean: January 1979-October 2018"
+},
+{
+"id": "Soil_Sensors.v1",
+"title": "Data collected from in-situ soil sensors placed at Macquarie Island and Casey Station"
+},
+{
+"id": "AAS_4026_Variance_Experiment.v1",
+"title": "Data for flow cytometry, FlowCam, and microscopy comparison experiment"
+},
+{
+"id": "AAS_4026_Productivity_PAM_Phytoplankton_Bacteria.v1",
+"title": "Data for manuscript 'Ocean acidification of a coastal Antarctic marine microbial community reveals a critical threshold for CO2 tolerance in phytoplankton productivity'"
+},
+{
+"id": "AAS_4026_Flow_Cytometry.v1",
+"title": "Data for manuscript 'Ocean acidification reduces growth and grazing of Antarctic heterotrophic nanoflagellates'"
+},
+{
+"id": "Diatoms_long_core.v1",
+"title": "Data from a 3 m sediment core collected west of Pidgeon Island in the Windmill Islands, Antarctica"
+},
+{
+"id": "Kerguelen_emapex.v1",
+"title": "Data from EM-APEX profiling floats across the northern Kerguelen Platueau in November 2008"
+},
+{
+"id": "AAS_4313_Genetic_CPR.v1",
+"title": "Data from initial evaluation of DNA metabarcoding for processing continuous plankton recorder samples"
+},
+{
+"id": "AAS_4086_Weighbridge.v1",
+"title": "Data from the Bechervaise Island Adelie penguin weighbridge, 2006 onwards"
+},
+{
+"id": "ERS_DTM.v1",
+"title": "Data generated from slope corrected orthometric heights of Antarctica derived from ERS Radar Altimetry"
+},
+{
+"id": "AAS_4341_HERBICIDE_DYNAMICS.v1",
+"title": "Data on glyphosate and aminomethylphosphonic acid (AMPA) concentrations over time at different depths in a sandy soil from Macquarie Island."
+},
+{
+"id": "AAS_4341_PHYSICAL_CONTROL.v1",
+"title": "Data on the regrowth and emergence of Stellaria media following weed control on Macquarie Island."
+},
+{
+"id": "gis13.v1",
+"title": "Data related to helicopter and fixed wing operations of the Australian Antarctic Division"
+},
+{
+"id": "iagp_casey_traverse_results.v1",
+"title": "Data Report on 1981 Traverses From Casey For IAGP"
+},
+{
+"id": "AAS_2691_Clark_et_al_2016.v1",
+"title": "Data: The roles of sea-ice, light and sedimentation in structuring shallow Antarctic benthic communities"
+},
+{
+"id": "aad_ctd_database.v1",
+"title": "Database of CTD data collected in the Southern Ocean by the AAD, ACE CRC and part of the Southern Ocean Atlas data set."
+},
+{
+"id": "GLE_Database.v1",
+"title": "Database of Ground Level Enhancements data - near-Earth cosmic radiation"
+},
+{
+"id": "Mawsons_Huts_Dataloggers.v2",
+"title": "Dataloggers at Mawson's Hut, Cape Denison - microclimate measurements"
+},
+{
+"id": "air_methane_lawdome.v1",
+"title": "Dated Readings For Air Composition And Methane From Law Dome Ice Core"
+},
+{
+"id": "Davis_33MHz_Meteor_Radar.v1",
+"title": "Davis 33MHz Meteor Detection Radar Winds"
+},
+{
+"id": "Davis_MST_Radar.v1",
+"title": "Davis 55MHz Mesosphere Stratosphere Troposphere radar winds and echo characteristics"
+},
+{
+"id": "Davis_Aerodrome_Project.v1",
+"title": "Davis Aerodrome Project - Terrestrial Survey Data"
+},
+{
+"id": "Davis_seabed_geomorphic_map.v1",
+"title": "Davis Coastal Seabed Mapping Survey, Antarctica (GA4301/AAS2201/HI468) - Interpreted Geomorphic Map"
+},
+{
+"id": "davis_baro_leveling_1970.v1",
+"title": "Davis Inland Barometric Levelling 1970"
+},
+{
+"id": "Davis_MFSA_Radar.v3",
+"title": "Davis Medium Frequency Middle Atmosphere Radar Winds"
+},
+{
+"id": "AAS_5093_Davis_multibeam_backscatter_grid_2016_17.v1",
+"title": "Davis Multibeam Survey 2016/17, Antarctica (GA-0357-0360/ AAP 5093/ HI590) \u2013 High Resolution Backscatter Grid"
+},
+{
+"id": "AAS_5093_Davis_multibeam_bathymetry_grid_2016_17.v1",
+"title": "Davis Multibeam Survey 2016/17, Antarctica (GA-0357-0360/ AAP 5093/ HI590) \u2013 High Resolution Bathymetry Grid"
+},
+{
+"id": "AAS_4293_Ozonesonde.v1",
+"title": "Davis ozonesonde measurements"
+},
+{
+"id": "Davis_Radiosonde_Stratospheric_Gravity_Wave_parameters_2001_to_2012.v1",
+"title": "Davis Radiosonde Stratospheric Gravity Wave Parameters for 2001 to 2012"
+},
+{
+"id": "davfair3_gis.v1",
+"title": "Davis RAN Fair Sheet Data from HI 120 SUP 1 V5/480-6877/7 scale 1:10 000"
+},
+{
+"id": "davfair2_gis.v1",
+"title": "Davis RAN Fair Sheet Data from HI 120 V5/463-6877/1 scale 1:10 000"
+},
+{
+"id": "davfair1_gis.v1",
+"title": "Davis RAN Fair Sheet Data from HI 171 V5/519-6877/9 scale 1:5000"
+},
+{
+"id": "AAS_4291_2016_seaice.v1",
+"title": "Davis sea ice Nov. 2016"
+},
+{
+"id": "TRENZ_2010.v1",
+"title": "Davis stable isotope data for coastal ecosystem"
+},
+{
+"id": "gis38.v1",
+"title": "Davis Station - Data eyed in based on advice from AAD Atmospheric Sciences staff"
+},
+{
+"id": "gis29.v1",
+"title": "Davis Station - Total station survey, February 2002"
+},
+{
+"id": "Davis_55MHz_Meteor_Radar.v1",
+"title": "Davis Station 55MHz meteor radar detections and winds"
+},
+{
+"id": "AADC-00108.v1",
+"title": "Davis Station Antarctica Ice Thickness Data"
+},
+{
+"id": "gis103.v1",
+"title": "Davis Station Fire Hydrants and Fire Hoses GIS Dataset"
+},
+{
+"id": "gis104.v1",
+"title": "Davis Station GIS Dataset update from various sources"
+},
+{
+"id": "AAS_4387_Davis_Parsivel.v1",
+"title": "Davis Station Parsivel disdrometer - snowfall data 2018-2019"
+},
+{
+"id": "AAS_3217_Davis_CurrentMetersDispersalModelling.v1",
+"title": "Davis STP current meter data and effluent dispersal modelling report"
+},
+{
+"id": "davis_strain_1971.v1",
+"title": "Davis Strain Grid Measurement 1971"
+},
+{
+"id": "Davis_Tide_Gauges.v2",
+"title": "Davis Tide Gauge Data 1993-2017"
+},
+{
+"id": "Davis_USU_Camera_GW_parameters.v1",
+"title": "Davis Utah State University infrared camera gravity wave parameters - 2012-2013"
+},
+{
+"id": "Davis_USU_Infrared_Camera.v3",
+"title": "Davis Utah State University Meinel band infrared imaging camera"
+},
+{
+"id": "AAS_4292_Davis_BASTA_Radar.v1",
+"title": "Davis W-band cloud radar 'BASTA', 2018-2019 uncalibrated data"
+},
+{
+"id": "SIPEX_II_Ice_Conductivity.v1",
+"title": "DC Conductivity of sea-ice measured during the SIPEX II voyage of the Aurora Australis, 2012"
+},
+{
+"id": "AADC-00018.v1",
+"title": "Decapoda of the Southern Ocean"
+},
+{
+"id": "AAS_4029_Particle_Sizing.v1",
+"title": "Decommissioning particle sizing after a freeze-thaw laboratory based simulation of a permeable reactive barrier"
+},
+{
+"id": "ASAC_251.v1",
+"title": "Decomposition of introduced and natural materials in the Vestfold Hills, and introduced and indigenous Microorganisms"
+},
+{
+"id": "ASAC_15.v1",
+"title": "Deep Ice Drilling on Law Dome"
+},
+{
+"id": "AAS_3313_V2_2014_15_Deep_Ocean_Camera_Observations.v1",
+"title": "Deep Ocean Camera Observations, Dalton Polynya and Mertz Glacier region, V2 2014/15"
+},
+{
+"id": "ASAC_1228_Terrestrial.v1",
+"title": "Degradation of oil by bacteria from terrestrial environments from contaminated and uncontaminated sites in the Windmill Islands"
+},
+{
+"id": "ASAC_992.v1",
+"title": "Delineation of simple microecosystems associated with the quartz stone habitat in the Vestfold Hills"
+},
+{
+"id": "LGB_Del_traverse.v1",
+"title": "Delta Oxygen-18 isotope data: LGB traverses 1989-95"
+},
+{
+"id": "SOE_adelie_demog.v1",
+"title": "Demographics of an Adelie penguin population at Bechervaise Island, Mawson, Antarctica"
+},
+{
+"id": "AAS_4102_sat_tag.v1",
+"title": "Deployment details for satellite tags deployed on Antarctic blue whales during the Antarctic blue whale voyage 2013"
+},
+{
+"id": "ASAC_2201_Depth_Experiment.v1",
+"title": "Depth related changes in the composition of marine soft sediment infaunal invertebrate communities - faunal composition data - Casey 2006/07."
+},
+{
+"id": "ASAC_2201_Depth_Sediment.v1",
+"title": "Depth related changes in the composition of marine soft sediment infaunal invertebrate communities - sediment characteristics data - Casey 2006/07."
+},
+{
+"id": "AAS_5097_DepthToSeaFloorData_Davis_2018-19.v1",
+"title": "Depth to sea floor and sea ice thickness data_Davis_Summer 2018-19"
+},
+{
+"id": "DSS_age_scale.v1",
+"title": "Derivation of an age scale for the Law Dome core - ice cores taken between 1987 and 1993"
+},
+{
+"id": "AAS_4292_MARCUS_Case_Studies.v1",
+"title": "Derived data products produced from MARCUS cyclone observations, January-February, 2018"
+},
+{
+"id": "SNOWPETRELSURVEYSCASEY0203.v1",
+"title": "Detailed information on 196 grid sites used for snow petrel surveys in the Windmill Islands during the 2002/2003 season"
+},
+{
+"id": "accumulation-movement-markers-mirny-domec.v1",
+"title": "Detailed Notes on Accumulation/Movement Markers, Mirny-Dome C"
+},
+{
+"id": "ASAC_2283.v1",
+"title": "Deterioration studies, archaeological investigations and structural assessments of Mawson's Huts (Cape Denison)"
+},
+{
+"id": "SIPEX_II_Stable_Isotopes_Si_N_C.v1",
+"title": "Determination of the regimes of production in the Antarctic sea-ice during SIPEX 2 using Si, N, and C stable isotope in-situ incubation experiments and 13C and 14C primary production method intercomparison"
+},
+{
+"id": "ASAC_2301.v1",
+"title": "Determination of trophic relationships between marine predators and commercial marine living resources"
+},
+{
+"id": "Ecotoxicology.v1",
+"title": "Developing environmental quality guidelines for Antarctica: Responses of Antarctic and subantarctic biota to contaminants"
+},
+{
+"id": "ASAC_2933.v1",
+"title": "Developing water and sediment quality guidelines for Antarctica: Responses of Antarctic marine biota to contaminants."
+},
+{
+"id": "ASAC_2385.v1",
+"title": "Development and application of DGT devices for passive sampling of contaminated waters in the Antarctic environment"
+},
+{
+"id": "ASAC_1300_UMELB_SC.v1",
+"title": "Development and application of particle separator technology for removal of contaminants from water in Antarctica; Site Characterisation, geochemistry"
+},
+{
+"id": "ASAC_1300_PRB.v1",
+"title": "Development and application of technologies for the removal of heavy-metal contaminants from run-off associated with abandoned waste disposal sites - Permeable Reactive Barrier Data"
+},
+{
+"id": "ASAC_2946.v1",
+"title": "Development of an artificial \"living\" sediment to study the effects of metal contamination in Antarctic marine ecosystems."
+},
+{
+"id": "ASAC_570.v1",
+"title": "Development of Fluvioglacial Landforms in the Larsemann Hills, Eastern Antarctica"
+},
+{
+"id": "ASAC_556.v1",
+"title": "Dialects and Usage Patterns of Weddell Seal 'Leptonychotes weddelli' Underwater Vocalisations"
+},
+{
+"id": "CEAMARC_Diatom_Abundance.v1",
+"title": "Diatom abundance from CEAMARC coretop samples"
+},
+{
+"id": "Diatoms_sre2.v1",
+"title": "Diatom and associated data for a field experiment which translocated control and contaminated sediments between locations within the Windmill Islands, Antarctica"
+},
+{
+"id": "diatoms_sre3.v1",
+"title": "Diatom and associated data for examining the effects of heavy metal and petroleum hydrocarbon contamination on benthic diatom communities in Antarctica"
+},
+{
+"id": "WILKS_2018_Chatham_sedimenttraps_specieslist.v3",
+"title": "Diatom and coccolithophore assemblages from archival sediment trap samples of the Subtropical and Subantarctic Southwest Pacific"
+},
+{
+"id": "Diatoms_short_cores.v1",
+"title": "Diatom data for ten sediment cores collected in 3 marine bays in the Windmill Islands, Antarctica"
+},
+{
+"id": "Diatom_transects.v1",
+"title": "Diatom data for transects at 4 locations in the Windmill Islands"
+},
+{
+"id": "IN2017_V01_Diatoms.v1",
+"title": "Diatom data from voyage 1 of the Investigator, 2017 - PC03 analysis"
+},
+{
+"id": "AAS_3214.v1",
+"title": "Diatom identification and counts from 7 multicore locations on Kerguelen Plateau, Southern Ocean"
+},
+{
+"id": "AAS_4078_diatoms_biogenic_flux.v1",
+"title": "Diatom species and biogenic particle fluxes in the Australian sector of the southern Antarctic Zone"
+},
+{
+"id": "AAS_4078_diatoms_biogenic_flux_subantarctic.v1",
+"title": "Diatom species and biogenic particle fluxes in the Australian sector of the Subantarctic and Polar Frontal Zones at ~ 1 km depth"
+},
+{
+"id": "AAS_4078_Diatom_Images.v1",
+"title": "Diatom species of the Australian sector of the Southern Ocean"
+},
+{
+"id": "Diatoms_bbg.v1",
+"title": "Diatom, and associated data from grid samples collected in Brown Bay"
+},
+{
+"id": "ASAC_419.v1",
+"title": "Diet and Feeding Ecology of Emperor Penguins"
+},
+{
+"id": "ASAC_466.v1",
+"title": "Diet and Foraging Area of Antarctic Fur Seals at Heard Island"
+},
+{
+"id": "ASAC_131.v1",
+"title": "Diet and Population of Fish Predators at Heard Island"
+},
+{
+"id": "AAS_4088_Adelie_Diet.v2",
+"title": "Diet results from Adelie penguins at Bechervaise Island and Whitney Point, 2012-2013"
+},
+{
+"id": "ASAC_1015_HIGPS03_04.v1",
+"title": "Differential GPS data collected at Heard Island 2003/04 for the Regional Sensitivity to Climate Change in Terrestrial Ecosystems (RiSCC) program"
+},
+{
+"id": "atlas_photocontrol_gis.v1",
+"title": "Differential GPS survey of points at Atlas Cove for control of 1987 aerial photography"
+},
+{
+"id": "atlas_buildings_gis.v1",
+"title": "Differential GPS survey of the Atlas Cove ANARE Station ruins on Heard Island"
+},
+{
+"id": "ASAC_2665.v1",
+"title": "Diffusive Gradients in Thin Films (DGT) Methodology for Selective and Spatially Discriminating Binding of Metal Ions"
+},
+{
+"id": "holme_bay_dem.v1",
+"title": "Digital Elevation Model of Holme Bay, Antarctica"
+},
+{
+"id": "larsemann_hills_dem.v1",
+"title": "Digital Elevation Model of Larsemann Hills, Antarctica"
+},
+{
+"id": "wind_dem.v1",
+"title": "Digital Elevation Model of the Windmill Islands"
+},
+{
+"id": "vestfold_hills_dem.v1",
+"title": "Digital Elevation Model of Vestfold Hills, Antarctica"
+},
+{
+"id": "highjump_scans.v1",
+"title": "Digital images of Operation Highjump aerial photography"
+},
+{
+"id": "oldcasey_DSM_2014.v1",
+"title": "Digital Surface Model of an area at Old Casey, derived from aerial photographs taken with an Unmanned Aerial Vehicle (UAV), 5 February 2014"
+},
+{
+"id": "casey_biopiles_DSM_2013.v1",
+"title": "Digital Surface Model of the biopiles and nearby area at Casey, derived from aerial photographs taken with an Unmanned Aerial Vehicle (UAV), 10 February 2013"
+},
+{
+"id": "ERS_DTM_GRID_ANT.v1",
+"title": "Digital terrain model of Antarctica in ESRI Grid format, derived from ERS Radar Altimeter data."
+},
+{
+"id": "ASAC_867.v1",
+"title": "Direct Molecular Analysis of Antarctica and Southern Ocean Microbial Communities"
+},
+{
+"id": "Seabirds_HIMI.v1",
+"title": "Distribution and abundance of breeding seabirds at Heard Island and the McDonald Islands"
+},
+{
+"id": "Seabirds_AAT.v1",
+"title": "Distribution and abundance of breeding seabirds in the AAT"
+},
+{
+"id": "ASAC_2208_seabirds.v1",
+"title": "Distribution and abundance of seabirds in the Southern Indian Ocean, 1978/1979+"
+},
+{
+"id": "ASAC_423.v1",
+"title": "Distribution and Dynamics of Vegetation in Relation to Natural Disturbance Factors, Heard and McDonald Islands"
+},
+{
+"id": "ASAC_706.v1",
+"title": "Distribution and Viability of Zooplankton Eggs from Anoxic Sediments from the Vestfold Hills, Antarctica"
+},
+{
+"id": "AAS_4341_DISTRIBUTION.v1",
+"title": "Distribution data for Stellaria media on Macquarie Island."
+},
+{
+"id": "ASAC_1251.v1",
+"title": "Distribution of foraging effort of Antarctic fur seals in relation to oceanographic features around Heard and Kerguelen Islands"
+},
+{
+"id": "Wed_distrib.v1",
+"title": "Distribution of Weddell seals pupping at the Vestfold Hills."
+},
+{
+"id": "ASAC_378.v1",
+"title": "Distribution, Abundance and Biology of the Crabeater Seal Lobodon Carcinop Hagus in the Pack Ice Region of the Australian Antarctic Territory"
+},
+{
+"id": "SIPEX_II_Diurnal_Snow.v1",
+"title": "Diurnal snow pit measurements observed during the SIPEX II voyage of the Aurora Australis, 2012"
+},
+{
+"id": "ASAC_3010.v2",
+"title": "Diversity and evolution of Australian Antarctic sea spiders: Understanding species diversification and distribution patterns"
+},
+{
+"id": "ASAC_2341.v1",
+"title": "Diversity and metabolic abilities of Antarctic bacteria"
+},
+{
+"id": "ASAC_2341_DGGE.v1",
+"title": "Diversity and metabolic abilities of Antarctic bacteria - DGGE fingerprinting of bacteria"
+},
+{
+"id": "ASAC_2341_PHA.v1",
+"title": "Diversity and metabolic abilities of antarctic bacteria - Polyhydroxyalkanoate production by Antarctic soil bacteria"
+},
+{
+"id": "Heard_Is_Pelecanoides_Old.v1",
+"title": "Diving Petrel (Pelecanoides) data tables from Heard Island - circa 1948-1960"
+},
+{
+"id": "ASAC_589.v1",
+"title": "Diving Physiology and Energy Requirements of Free Ranging Southern Elephant Seals"
+},
+{
+"id": "BROKE-West_DMS_DMSP.v1",
+"title": "DMS and DMSP Data from CTD and Minicosm experiments conducted during the BROKE-West voyage of the Aurora Australis, 2006"
+},
+{
+"id": "ASAC2100.v1",
+"title": "DMS in the Southern Ocean"
+},
+{
+"id": "UV_DMS_MINICOSM.v1",
+"title": "DMS, DMSP, DMSO measurements Minicosm Experiment, Davis 2002-03"
+},
+{
+"id": "SIPEX_II_DNA_Sequences.v1",
+"title": "DNA sequence data collected during the SIPEX II voyage of the Aurora Australis, 2012"
+},
+{
+"id": "DNS_subglacial_discharge.v1",
+"title": "DNS of Subglacial Discharge Under sloping ice-face"
+},
+{
+"id": "ASAC_2505.v1",
+"title": "Does prolonged sun deprivation in Antarctic conditions cause irreversible bone loss?"
+},
+{
+"id": "Dogs.v1",
+"title": "Dog / sledging tracks in the Mawson and Casey Regions GIS Dataset"
+},
+{
+"id": "AAS_4061_DSS_ECM_DMP.v1",
+"title": "Dome Summit South Electrical conductivity in ice - Law Dome, Antarctica"
+},
+{
+"id": "AAS_4062_DSS1314_icecore_analysis_ionic_composition.v1",
+"title": "Dome Summit South glacial ice trace ionic composition data from the 2013-2014 season"
+},
+{
+"id": "AAS_4062_DSS1415_icecore_analysis_ionic_composition.v1",
+"title": "Dome Summit South glacial ice trace ionic composition data from the 2014-2015 season"
+},
+{
+"id": "AAS_4062_DSS1516_icecore_analysis_ionic_composition.v1",
+"title": "Dome Summit South glacial ice trace ionic composition data from the 2015-2016 season"
+},
+{
+"id": "AAS_4062_DSS1314_icecore_analysis_isotopic_composition.v1",
+"title": "Dome Summit South glacial isotopic composition data from the 2013-2014 season"
+},
+{
+"id": "AAS_4062_DSS1415_icecore_analysis_isotopic_composition.v1",
+"title": "Dome Summit South glacial isotopic composition data from the 2014-2015 season"
+},
+{
+"id": "AAS_4062_DSS1516_icecore_analysis_isotopic_composition.v1",
+"title": "Dome Summit South glacial isotopic composition data from the 2015-2016 season"
+},
+{
+"id": "SIPEX_II_Ice_ADCP.v1",
+"title": "Downward looking, ice-mounted ADCP data collection during the SIPEX II voyage of the Aurora Australis, 2012"
+},
+{
+"id": "stations_drainage_modelling.v1",
+"title": "Drainage modelling for Australia's year-round Stations in Antarctica and at Macquarie Island"
+},
+{
+"id": "AADC-00031.v1",
+"title": "Ducks and Mallards of Macquarie Island"
+},
+{
+"id": "AAS_4292_Dumont_d'Urville_Radiometers.v1",
+"title": "Dumont d'Urville Pyranometer and Pyrgeometer data"
+},
+{
+"id": "AAS_3140.v1",
+"title": "Dynamical Variability of the Lower Atmosphere"
+},
+{
+"id": "AAS_4346_EAGLE_ICECAP_LEVEL2_AEROGEOPHYSICS.v1",
+"title": "EAGLE/ICECAP II GEOPHYSICAL OBSERVATIONS (SURFACE AND BED ELEVATION, ICE THICKNESS, GRAVITY DISTURBANCE AND MAGNETIC ANOMALIES)"
+},
+{
+"id": "AAS_4346_EAGLE_ICECAP_Level1B_AEROGEOPHYSICS.v1",
+"title": "EAGLE/ICECAP II INSTRUMENT MEASUREMENTS (LASER, MAGNETICS and POSITIONING)"
+},
+{
+"id": "AAS_4346_EAGLE_ICECAP_LEVEL2_RADAR_DATA.v1",
+"title": "EAGLE/ICECAP II RADARGRAMS"
+},
+{
+"id": "AAS_4346_EAGLE_ICECAP_LEVEL0_RAW_DATA.v1",
+"title": "EAGLE/ICECAP II Raw data (gps, raw serial packet data, raw radar records, gravimeter data and camera images)"
+},
+{
+"id": "early_iceberg_obs.v1",
+"title": "Early Iceberg Observations by Australian Antarctic Expeditioners"
+},
+{
+"id": "ASAC_1066.v1",
+"title": "Early Palaeozoic (~500 Ma) versus Neoproterozoic (~1000 Ma) metamorphism within the Vestfold Hills Archaean Craton"
+},
+{
+"id": "LGB_Gra_traverse.v1",
+"title": "Earth gravity field for ice thickness data: LGB traverses 1989-95"
+},
+{
+"id": "ASAC_2122.v2",
+"title": "Easily measured call attributes can detect vocal differences between Weddell seals from two areas (Casey and Davis)."
+},
+{
+"id": "AAS_4320_East_Antarctic_sediment_carbonate_mineralogy.v1",
+"title": "East Antarctic sediment carbonate mineralogy, 2020"
+},
+{
+"id": "AAS_4102_KrillAcoustics_2015.v1",
+"title": "Echosounder data to assess patterns in krill density - voyage of the RV Tangaroa, 2015"
+},
+{
+"id": "AAS_4102_4104_4050_EchoviewR.v1",
+"title": "EchoviewR supplementary data from the KAOS survey"
+},
+{
+"id": "ASAC_2942.v1",
+"title": "Ecological and resource modelling in the Southern Ocean, including fish and fisheries ecology"
+},
+{
+"id": "ASAC_2233.v1",
+"title": "Ecological and taxonomic survey of terrestrial Oligochaetes of Macquarie Island"
+},
+{
+"id": "ASAC_354.v1",
+"title": "Ecological Relationships of Antarctic Tardigrades"
+},
+{
+"id": "ASAC_67.v1",
+"title": "Ecology and Zoogeography of Parasites of Antarctic Fish"
+},
+{
+"id": "ASAC_257.v1",
+"title": "Ecology of Southern Elephant Seals"
+},
+{
+"id": "AAS_4121_Ecosystem_Model_Parameters.v1",
+"title": "Ecosystem model parameter set for a near-shore Antarctic food web"
+},
+{
+"id": "AAS_4568_Antarctic_ecosystem_typologies_map.v1",
+"title": "Ecosystem typologies for terrestrial Antarctica - functional typology map"
+},
+{
+"id": "edward_viii_sat.v1",
+"title": "Edward VIII Gulf Satellite Image Map 1:100 000"
+},
+{
+"id": "ASAC_2518.v1",
+"title": "Effect of Global Change on the Primary Production of Antarctic coastal Ecosystems"
+},
+{
+"id": "AAS_4026_Meta-analysis_Data.v1",
+"title": "Effect of ocean acidification on Antarctic marine organisms: a meta-analysis"
+},
+{
+"id": "ASAC_1171.v1",
+"title": "Effect of spatial and temporal variation in marine productivity on energy acquisition in southern elephant seals, Mirounga leonina"
+},
+{
+"id": "ASAC_115.v1",
+"title": "Effects of Elevated UV Irradiation and CO2 Levels on Antarctic and Subantarctic Plants, Including Implications for Ecosystem Management"
+},
+{
+"id": "ASAC_765.v1",
+"title": "Effects of Enhanced UV-B on Sea Ice Algae"
+},
+{
+"id": "heliemps.v1",
+"title": "Effects of helicopter operations on emperor penguin chicks"
+},
+{
+"id": "helipenguins.v1",
+"title": "Effects of helicopters on Antarctic wildlife"
+},
+{
+"id": "pedestrian_gentoo.v1",
+"title": "Effects of human activity on Gentoo penguins on Macquarie Island"
+},
+{
+"id": "pedestrian_king.v1",
+"title": "Effects of human activity on King penguins on Macquarie Island"
+},
+{
+"id": "pedestrian_royal.v1",
+"title": "Effects of human activity on Royal penguins on Macquarie Island"
+},
+{
+"id": "TNE_8A_acidification_microbes.v1",
+"title": "Effects of ocean acidification on Antarctic marine microbes"
+},
+{
+"id": "AAS_4026_Ocean_Acidification_Marine_Microbes_Parent.v1",
+"title": "Effects of ocean acidification on Antarctic marine microbes - parent record"
+},
+{
+"id": "AAS_4135_Hydrocarbon_Toxicity_Earthworms.v1",
+"title": "Effects of petroleum hydrocarbons to earthworms in laboratory toxicity tests"
+},
+{
+"id": "ASAC_2315.v1",
+"title": "Effects of the modulation of the surface shear stress by the wave field in a model of the Southern Ocean"
+},
+{
+"id": "ASAC_1233.v1",
+"title": "Effects of UV radiation on community establishment: a global perspective"
+},
+{
+"id": "AAS_4414_MountBrownSouth_LawDome_icecores_seasalt_accumulation_2020.v1",
+"title": "El Ni\u00f1o Southern Oscillation signal in a new East Antarctic ice core, Mount Brown South"
+},
+{
+"id": "ASAC_2381.v1",
+"title": "Electrical conductivity of sea ice: a comparison of in-situ and laboratory measurements"
+},
+{
+"id": "SIPEX_II_Ice_Station_EM.v1",
+"title": "Electromagnetic measurement of sea ice thickness on ice stations during the SIPEX II voyage of the Aurora Australis, 2012"
+},
+{
+"id": "em_database.v1",
+"title": "Electron Microscope Database"
+},
+{
+"id": "Elephant_seal_toothfish_interaction.v1",
+"title": "Elephant Seal and Toothfish interations in longline fisheries"
+},
+{
+"id": "Tags_heard_1949.v2",
+"title": "Elephant Seal Sightings, Heard Island (1949 to 1960)"
+},
+{
+"id": "AAS_4192_images.v1",
+"title": "Embolism repair in two species of cushion plants on Macquarie Island"
+},
+{
+"id": "Emperor_Peterson.v1",
+"title": "Emperor Penguin Colony at Peterson Bank"
+},
+{
+"id": "enderby_reports_1978.v1",
+"title": "Enderby Land Field Program Daily Logs and Report, 1977/78"
+},
+{
+"id": "enderby_flight_logs_1977.v1",
+"title": "Enderby Land Flight Logs For Ice Radar and Navigation, 1977"
+},
+{
+"id": "enderby_flight_logs_1979.v1",
+"title": "Enderby Land Flight Logs For Ice Radar and Navigation, 1979/80"
+},
+{
+"id": "enderby_land_logs.v1",
+"title": "Enderby Land Logbooks, 1972-1980"
+},
+{
+"id": "ASAC_100.v1",
+"title": "Energetics of Lactation and Foraging in Antarctic and Subantarctic Fur Seals at Macquarie Island"
+},
+{
+"id": "ASAC_1090.v1",
+"title": "Energy requirements and daily food consumption of crabeater seals in the Antarctic winter pack-ice"
+},
+{
+"id": "AAS_4156_Campbell_Diatoms.v1",
+"title": "Environmental and diatom data obtained from a survey of Campbell Island's lakes and ponds 2010-2011"
+},
+{
+"id": "AAS_4140_Environmentaldata.v1",
+"title": "Environmental data associated with sea ice cores collected during SIPEX and SIPEX II"
+},
+{
+"id": "AAS_4026_Minicosm_Environmental_Data.v1",
+"title": "Environmental data for Davis 14/15 ocean acidification minicosm experiment"
+},
+{
+"id": "AAS_4127_antFOCE_EnvironmentalData.v1",
+"title": "Environmental data from the antFOCE (Antarctic Free Ocean Carbon Enrichment) experiment at Casey Station"
+},
+{
+"id": "AAS_4124_CEAMARC_FoodAvailabilityMertzGlacierTongue.v1",
+"title": "Environmental data layers for a 5 year period before and after the calving of the Mertz Glacier Tongue"
+},
+{
+"id": "Environmental_data_Southern_Ocean.v1",
+"title": "Environmental data of the Southern Ocean, 1955-2012"
+},
+{
+"id": "SOE_fur_seals.v1",
+"title": "Environmental determinants of fecundity and pup growth in fur seals"
+},
+{
+"id": "EDA_v2.v1",
+"title": "Environmental Domains of Antarctica Version 2.0 Final Report"
+},
+{
+"id": "ASAC_31.v1",
+"title": "Environmental History of Small Lake Catchments in the Larsemann Hills, Antarctica"
+},
+{
+"id": "DAVIS_STP.v1",
+"title": "Environmental Impact Assessment of the Davis Sewage Outfall"
+},
+{
+"id": "casey_wilkes_con.v1",
+"title": "Environmental Management Program - Applied GIS for contaminated sites at 'old' Casey Station Tip and abandoned Wilkes Station"
+},
+{
+"id": "ASAC_2239.v1",
+"title": "Environmental monitoring of the atmosphere over the Southern Ocean"
+},
+{
+"id": "Environmental_Kerguelen_Plateau_1955_2012.v1",
+"title": "Environmental parameters (1955-2012) for echinoids distribution modelling on the Kerguelen Plateau"
+},
+{
+"id": "AAS_4036_Fuel-MarineRiskAssessment-MacquarieIsland-2017.v4",
+"title": "Environmental risk assessment of groundwater from remediated fuel spill sites on land into the marine environment at subantarctic Macquarie Island"
+},
+{
+"id": "AAS_4014_whale_age.v1",
+"title": "Epigenetic estimation of age in humpback whales - data held at Dryad"
+},
+{
+"id": "UV_Davis.v1",
+"title": "Erythemal UV radiation at Davis station summer 1998"
+},
+{
+"id": "AAS_4305_Macquarie_Island_burrowing_petrels.v1",
+"title": "Estimating Petrel Populations: Review of Literature"
+},
+{
+"id": "AAS_4127_antFOCE_Biofilms_Eukaryotes.v2",
+"title": "Eukaryotic 18S rDNA PCR amplification and high-throughput sequencing of antFOCE Biofilms"
+},
+{
+"id": "AADC-00017.v1",
+"title": "Euphausiacea of the Southern Ocean"
+},
+{
+"id": "WBD_Euphausiids.v1",
+"title": "Euphausiids of the World Ocean - World Biodiversity Database CD-ROM Series"
+},
+{
+"id": "ASAC_250.v1",
+"title": "Evaluation of Possible Effects on Rocky Shore Biota from Oil Spillage from the 'Nella Dan'"
+},
+{
+"id": "CEAMARC_all_events.v1",
+"title": "Event logs and station lists from all CEAMARC voyages by the Aurora Australis, Astrolabe and Umitaka Maru"
+},
+{
+"id": "ASAC_32.v1",
+"title": "Examination of Distribution and Abundance of Avian Predators in Relation to Prey Densities and to Oceanographic Conditions"
+},
+{
+"id": "AAS_4292_ExhaustID_201718_AA_MARCUS.v1",
+"title": "Exhaust identification product for MARCUS project aboard Aurora Australis 2017/18"
+},
+{
+"id": "ASAC_2348.v1",
+"title": "Exopolysaccharides from Antarctic bacteria"
+},
+{
+"id": "ASAC_2562.v1",
+"title": "Expeditioner and family reintegration: Comparing ship-based and air-based personnel movement"
+},
+{
+"id": "Krill_growth_rates.v1",
+"title": "Experimental studies into growth and ageing of krill 1993-2003"
+},
+{
+"id": "ASAC_2337.v1",
+"title": "Experimental studies into growth and ageing of krill 2002-2012"
+},
+{
+"id": "survey_2001_grove.v1",
+"title": "Extension of the Australian Antarctic Geodetic Network in Grove Mountains - Survey Report 2001"
+},
+{
+"id": "sea_ice_extent_gis.v1",
+"title": "Extents of Antarctic sea ice - GIS data - 1973-1999"
+},
+{
+"id": "gis283.v1",
+"title": "Extents of fast ice digitised from satellite images"
+},
+{
+"id": "sea_ice_measurements_database.v1",
+"title": "Extract of data from the sea ice measurements database - 1985-2007"
+},
+{
+"id": "AAS_4124_Extract_Kerguelen_Plateau_Environmental_Layers.v1",
+"title": "Extract_Kerguelen_Plateau_Environmental_Layers"
+},
+{
+"id": "ASAC_2355_phylogeographic.v1",
+"title": "Extreme Glacial Legacies: A Synthesis of the Antarctic Springtail Phylogeographic Record"
+},
+{
+"id": "AAS_4130.v2",
+"title": "Fabry-Perot Spectrometer Data from project 4130 - How do Antarctic space-weather disturbances propagate northward to influence ionospheric density and structure above Australia and the Southern Ocean?"
+},
+{
+"id": "SOE_fast_ice_thickness.v1",
+"title": "Fast ice thickness at Davis, Mawson and Casey"
+},
+{
+"id": "BROKE-West_FRRF.v1",
+"title": "Fast Repetition Rate Fluorometer Data for the BROKE-West voyage of the Aurora Australis, 2006"
+},
+{
+"id": "fast_ice_1997_1999.v1",
+"title": "Fast-ice Distribution in East Antarctica During 1997 and 1999 Determined Using RADARSAT Data"
+},
+{
+"id": "Biology_Log_Windmill_Islands_Fauna_1961_1962.v1",
+"title": "Fauna survey in the Windmill Islands, 1961-1962"
+},
+{
+"id": "QUICKBIRD_HEARD_EAST_FEATURES.v1",
+"title": "Features mapped from two pan sharpened Quickbird images of eastern Heard Island"
+},
+{
+"id": "ASAC_465.v1",
+"title": "Feeding Ecology of Penguins at Heard Island with Special Emphasis on King Penguins"
+},
+{
+"id": "ASAC_668.v1",
+"title": "Feeding of Antarctic Krill"
+},
+{
+"id": "ASAC_2940_Marion_Island_Isotopes.v1",
+"title": "Female Antarctic fur seal isotope data from Marion Island"
+},
+{
+"id": "ASAC_2952_field_lab_books.v1",
+"title": "Field and lab books from ASAC project 2952 - Spatial variability in polar soil ecosystems: An integrated study of genes, microbial biodiversity and landform evolution as a baseline for monitoring climate change"
+},
+{
+"id": "ASAC_3134_field_lab_books.v1",
+"title": "Field and lab books from ASAC project 3134 - Vulnerability of Antarctic marine benthos to increased temperatures and ocean acidification associated with climate change"
+},
+{
+"id": "ASAC_3217_field_lab_books.v1",
+"title": "Field and lab books from ASAC project 3217 - Environmental assessment of Davis sewage treatment plant up-grade"
+},
+{
+"id": "lawdome_season_1966.v1",
+"title": "Field and traverse data, Law Dome, 1966"
+},
+{
+"id": "lawdome_season_1967.v1",
+"title": "Field and traverse data, Law Dome, 1967"
+},
+{
+"id": "lawdome_1968_season.v1",
+"title": "Field and traverse data, Law Dome, 1968"
+},
+{
+"id": "AAS_4326_DGT_marine_deployments.v1",
+"title": "Field deployments of diffusive gradients in thin-films (DGT) to the Antarctic nearshore environment"
+},
+{
+"id": "ASAC_1087_WaterNutrientExpt.v1",
+"title": "Field experiment testing effect of increased water and nutrient availability on Windmill Islands terrestrial vegetation communities"
+},
+{
+"id": "ASAC_1313_Moss_Field_Measurements.v1",
+"title": "Field measurements of temperature, moisture and photosynthetic activity in three species of moss at Casey over a two week period in January 2003"
+},
+{
+"id": "AAS1300_PW_FIELDTRIALIX.v1",
+"title": "Field trial of WTP ion-exchange columns using Amberlite IRC748 during the Thala Valley clean-up"
+},
+{
+"id": "fieldwork_lawdome_1964.v1",
+"title": "Field work results carried out on Law Dome and Wilkes Land, 1964"
+},
+{
+"id": "ASAC_1071_Loewe.v1",
+"title": "Fieldwork and sampling at Loewe Massif-Amery Oasis"
+},
+{
+"id": "BROKE-West_particulates.v1",
+"title": "Filter Pad absorption measurements of suspended particulate matter -\n data from the BROKE-West voyage of the Aurora Australis, 2006"
+},
+{
+"id": "AAS_2941_blue_whale_Argos_sda_filter_tracks.v1",
+"title": "Filtered Argos location data for pygmy blue whales 2009 and 2011"
+},
+{
+"id": "SCAR_EGBAMM_RAATD_2018_Filtered.v1",
+"title": "Filtered Data from the Retrospective Analysis of Antarctic Tracking Data Project from the Scientific Committee on Antarctic Research"
+},
+{
+"id": "AAS_4312_MI_Azorella_plot_condition_microclimate.v1",
+"title": "Fine-scale Azorella macquariensis condition and site microclimate extremes data from Macquarie Island"
+},
+{
+"id": "AADC-00065.v1",
+"title": "Firn core data from shallow drilling investigations in eastern Wilkes Land, East Antarctica"
+},
+{
+"id": "AAS_4011_PLATO_HEAT_DR1.v1",
+"title": "First data release (DR1) of terahertz data from the HEAT telescope at Ridge A"
+},
+{
+"id": "BROKE_Fish_Zooplankton_RM8.v1",
+"title": "Fish and zooplankton from RMT-8 net hauls on the BROKE voyage"
+},
+{
+"id": "c88_data.v1",
+"title": "Fish biological and stomach contents data - Casey 1988"
+},
+{
+"id": "BROKE-West_RMT_Fish.v1",
+"title": "Fish catches from Rectangular Midwater Trawl - data collected from the BROKE-West voyage of the Aurora Australis, 2006"
+},
+{
+"id": "LANDSAT_FISHER_FEATURES.v1",
+"title": "Fisher Massif Mapped from Landsat 7 Imagery."
+},
+{
+"id": "fisher_sat.v1",
+"title": "Fisher Massif Satellite Image Map 1:100 000"
+},
+{
+"id": "aerial_photo_sea_ice_shapefiles.v1",
+"title": "Flight lines and photo centres of aerial photographs of sea ice flown by the Australian Antarctic Division on the ARISE and ISPOL voyages in 2003 and 2004"
+},
+{
+"id": "SIPEX_II_Sea_Ice_Draft_Maps.v1",
+"title": "Floe-scale maps of sea ice draft from AUV multibeam on SIPEX-II"
+},
+{
+"id": "flor_fna_Stillwl.v1",
+"title": "Flora and fauna survey of the Stillwell Hills, 1996/97 - GIS data"
+},
+{
+"id": "Heard_2016_glaciers.v1",
+"title": "Fluctuations of Heard Island Glaciers 1947-2014"
+},
+{
+"id": "SIPEX_II_Fluid_Permeability.v1",
+"title": "Fluid permeability measurements taken on vertical component of sea ice during the SIPEX II voyage of the Aurora Australis, 2012"
+},
+{
+"id": "ASAC_41_587.v1",
+"title": "Fluoride Concentration in Antarctic Marine Crustaceans"
+},
+{
+"id": "AAS_4088_flying_seabirds_Rauer_Svenner_Vestfold_2017.v1",
+"title": "Flying seabird aerial surveys at the Rauer Group, Svenner Islands and Vestfold Hills, December 2017"
+},
+{
+"id": "ASAC_857.v1",
+"title": "Food consumption and energy expenditure of free ranging southern elephant seals"
+},
+{
+"id": "ASAC_769.v1",
+"title": "Food Consumption and Foraging Success of Free-ranging Southern Elephant Seals"
+},
+{
+"id": "AAS_4087_adelie_penguin_foraging_hop_island_2012_13.v1",
+"title": "Foraging ecology of Adelie penguins at Hop Island, Rauer Group 2012/13"
+},
+{
+"id": "ASAC_1252.v1",
+"title": "Foraging ecology of emperor penguins in summer and potential overlap with fisheries"
+},
+{
+"id": "AADC-02128.v1",
+"title": "Foraging ecology of fur seals at Iles Kerguelen"
+},
+{
+"id": "ASAC_709.v1",
+"title": "Foraging Ecology of Gentoo Penguins"
+},
+{
+"id": "ASAC_1001.v1",
+"title": "Foraging of royal penguins and its relationship to the Antarctic Polar Frontal Zone"
+},
+{
+"id": "ASAC_1257.v2",
+"title": "Foraging zones of Macaroni Penguins breeding at Heard Island"
+},
+{
+"id": "Prydz_Bay_Foraminiferida.v1",
+"title": "Foraminiferida in the Mac. Robertson Shelf\u2013Prydz Bay region, East Antarctica: distribution and controls - unfinished study"
+},
+{
+"id": "ASAC_2581.v1",
+"title": "Fracturing and deformation along the Amery Ice Shelf"
+},
+{
+"id": "fram25k.v1",
+"title": "Framnes Mountains 1:25000 Topographic GIS Dataset"
+},
+{
+"id": "FRAMNESCOAST.v1",
+"title": "Framnes Mountains Coastal Region Photogrammetric Mapping"
+},
+{
+"id": "framnes_contours.v1",
+"title": "Framnes Mountains contours smoothed and edited."
+},
+{
+"id": "framnes_sat.v1",
+"title": "Framnes Mountains Satellite Image Map 1:100000"
+},
+{
+"id": "AAS_4077_GRAV.v1",
+"title": "Free air gravity disturbances derived from measurements taken over Antarctica"
+},
+{
+"id": "antarctic_circumpolar_current_fronts.v1",
+"title": "Fronts of the Antarctic Circumpolar Current - GIS data"
+},
+{
+"id": "ASAC_2386.v1",
+"title": "Frozen dunes: An indicator of climate variability, McMurdo Dry Valleys, Antarctica"
+},
+{
+"id": "ASAC_919.v1",
+"title": "Functional dynamics of the microbial loop in saline lakes of the Vestfold Hills"
+},
+{
+"id": "ASAC_1003.v2",
+"title": "Further investigations of the effects of the Nella Dan oil spill"
+},
+{
+"id": "ASAC_756.v1",
+"title": "Further Investigations of the effects of the Nella Dan oil spill at Macquarie Island: Have benthic communities recovered?"
+},
+{
+"id": "SIPEX_II_Gas_Flux.v1",
+"title": "Gas flux over sea ice and calcium carbonate concentration in sea ice from the SIPEX II voyage of the Aurora Australis"
+},
+{
+"id": "SIPEX_II_Mercury_Air.v1",
+"title": "Gaseous elemental mercury measurements of boundary layer air made by a Tekran 2537 during the SIPEX II voyage of the Aurora Australis, 2012"
+},
+{
+"id": "Gaus5k.v1",
+"title": "Gaussberg 1:5000 Topographic GIS Dataset"
+},
+{
+"id": "MI03_resp_nutrients_GC1.v1",
+"title": "GC-FID analysis of soil respirometery experiment. Soil from Macquarie Island, sampled in 2003."
+},
+{
+"id": "Biology_Log_Windmill_Islands_Photographs_1961_1962.v1",
+"title": "General photographs of the Windmill Islands region taken in December 1961 and January 1962"
+},
+{
+"id": "ASAC_400.v1",
+"title": "Genesis of Volcanic Rocks, Heard Island"
+},
+{
+"id": "AAS_4313_Larval_Fish_Bycatch_ID.v1",
+"title": "Genetic identification of fish caught as bycatch in the Antarctic krill fishery and comparison with observer records"
+},
+{
+"id": "AAS_3010_Sea_Spiders_Genetics.v1",
+"title": "Genetic signature of Last Glacial Maximum regional refugia in a circum-Antarctic sea spider"
+},
+{
+"id": "PSD1-Nottingham.v1",
+"title": "Genetic variation in the lichens Buellia frigida and Xanthoria elegans from the Vestfold Hills, eastern Antarctica"
+},
+{
+"id": "ASAC_2750.v1",
+"title": "Geochemical and biological linkages in glacier ecosystems"
+},
+{
+"id": "AAS_4318_GNSS_bedrock_raw_data.v1",
+"title": "Geodetic GNSS data in RINEX format with IGS site logs for sites on bedrock in the Casey-Davis region of East Antarctica"
+},
+{
+"id": "AAS_4318_GPS_bedrock_data.v1",
+"title": "Geodetic GPS data collected with antennas connected to rock outcrops as part of AAS 4318"
+},
+{
+"id": "GEMIR_GPS_ANU.v1",
+"title": "Geodetic monitoring of isostatic rebound near the Lambert Glacier"
+},
+{
+"id": "ASAC_974.v1",
+"title": "Geoelectrical environment - Vostok - 1998 to 2004"
+},
+{
+"id": "ASAC_1132-2.v1",
+"title": "Geographic variations in underwater male Weddell seal Trills suggest breeding area fidelity"
+},
+{
+"id": "ASAC_51.v1",
+"title": "Geological Development of the Proterozoic Basement of East Antarctica in the Prydz Bay-Prince Charles Mountains Region"
+},
+{
+"id": "VHMap.v1",
+"title": "Geological map of high-grade gneisses in the northern Vestfold Hills"
+},
+{
+"id": "Heard_Geology_1948.v1",
+"title": "Geological Observations of Heard Island - 1948"
+},
+{
+"id": "lars_geology_2004.v1",
+"title": "Geology Map of the Larsemann Hills 2004"
+},
+{
+"id": "ANARE-98.v1",
+"title": "Geology of possible runway sites in the Davis region, Vestfold Hills, East Antarctica"
+},
+{
+"id": "lambert_geology_gis.v1",
+"title": "Geology of the Lambert Glacier - Prydz Bay Region GIS Dataset"
+},
+{
+"id": "lars_geology.v1",
+"title": "Geology of the Larsemann Hills 1997"
+},
+{
+"id": "stillwell_geology_gis.v1",
+"title": "Geology of the Stillwell Hills GIS Dataset"
+},
+{
+"id": "GeomagneticObs.v1",
+"title": "Geomagnetic Observatories at Australian Antarctic and subantarctic stations"
+},
+{
+"id": "ASAC_314.v1",
+"title": "Geomagnetic Variations Studies on Kerguelen Island"
+},
+{
+"id": "Rauer_Group_Geomorphic_Map.v1",
+"title": "Geomorphic map of Rauer Group"
+},
+{
+"id": "AAS_339_geomor.v1",
+"title": "Geomorphological data relating to the Windmill Islands"
+},
+{
+"id": "ASAC_1118.v1",
+"title": "Geomorphological evolution of Heard Island"
+},
+{
+"id": "geomorphology_australasian_seafloor.v1",
+"title": "Geomorphology Map of the Australasian Seafloor"
+},
+{
+"id": "ASAC_2409.v2",
+"title": "Geophysical imaging, structural analysis, alteration geochemistry of Macquarie Island crust, to constrain tectonic, and hydrothermal history of the ocean floor."
+},
+{
+"id": "casey_traverse_1970.v1",
+"title": "Geophysical Survey of Law Dome, 1970"
+},
+{
+"id": "SIC_266_267_georectification.v1",
+"title": "Georectification of IKONOS image, January 2004, Heard Island"
+},
+{
+"id": "SIC_462_georectification.v1",
+"title": "Georectification of Quickbird image, December 2006, Heard Island"
+},
+{
+"id": "L7PAN128112_141101_R.v1",
+"title": "Georeferenced Landsat 7 image of the Prince Charles Mountains and Lambert Glacier"
+},
+{
+"id": "QUICKBIRD_CAPSIZE_COMPTON_GMS.v1",
+"title": "Georeferenced Quickbird Multi Spectral Image of Eastern Heard Island from Capsize Beach to Compton Lagoon"
+},
+{
+"id": "macca_SPOT3_georef.v1",
+"title": "Georeferenced satellite image of Macquarie Island"
+},
+{
+"id": "AAS_4431_CAMMPCAN_GEOS_Chem_Model_AA_2017-18.v1",
+"title": "GEOS-Chem model output for 2017-2018 CAMMPCAN Aurora Australis voyages"
+},
+{
+"id": "AAS_4092_1159.v1",
+"title": "Geoscience Australia Antarctic geodetic and geophysical monitoring program"
+},
+{
+"id": "ASAC_760.v1",
+"title": "Geoscience Australia Geophysical Observatories"
+},
+{
+"id": "AAS_3338_Davis_Gravel_Runway.v2",
+"title": "Geotechnical and Environmental data for Potential Gravel Runway at Davis"
+},
+{
+"id": "AAS_4318_GIA_model_output.v1",
+"title": "GIA model output for bedrock displacement at geodetic GPS sites in the Casey-Davis region of East Antarctica"
+},
+{
+"id": "GP_Bibliography.v1",
+"title": "Giant Petrels Bibliography"
+},
+{
+"id": "gillock_isl_sat.v1",
+"title": "Gillock Island Satellite Image Map 1:100 000"
+},
+{
+"id": "vestfold_seals_gis.v1",
+"title": "GIS data derived from 'Distribution of Weddell seals pupping at the Vestfold Hills' dataset"
+},
+{
+"id": "ASAC_1071_Geomorphic_Map.v1",
+"title": "GIS data of geomorphic features at Beaver Lake-Amery Oasis"
+},
+{
+"id": "oldcasey_buildings_gis.v1",
+"title": "GIS Data representing the buildings at the old Casey station"
+},
+{
+"id": "ASAC_1163_WilkesGis_1999.v1",
+"title": "GIS dataset of Wilkes produced from survey work completed in 1999"
+},
+{
+"id": "ASAC_1163_WilkesGIS_2010.v1",
+"title": "GIS dataset of Wilkes produced from survey work completed in 2010"
+},
+{
+"id": "ASAC_1332.v1",
+"title": "Glacial history of the Framnes Mountains, East Antarctica."
+},
+{
+"id": "AAS_4062_DSS1617_Glacial_isotopic_composition.v1",
+"title": "Glacial isotopic composition from Dome Summit South, 2016-2017 season"
+},
+{
+"id": "AAS_4062_DSS1617A_Glacial_isotopic_composition.v1",
+"title": "Glacial isotopic composition from Dome Summit South, 2016-2017 season, A sample"
+},
+{
+"id": "AAS_4077_ELEV.v1",
+"title": "Glacier Elevation/Ice Sheet Elevation"
+},
+{
+"id": "glacio_1981_traverse_data_report.v1",
+"title": "Glaciology 1981 Traverse Data Report (inland from Casey) - M. Hendy"
+},
+{
+"id": "glacio_87_traverse1a.v1",
+"title": "Glaciology 1987 \"Traverse 1A\" (Law Dome, Wilkes Land) Records and Measurements"
+},
+{
+"id": "glacio_87_traverse1b.v1",
+"title": "Glaciology 1987 \"Traverse 1B\" (Law Dome, Wilkes Land) Records and Measurements"
+},
+{
+"id": "glacio_87_traverse2.v1",
+"title": "Glaciology 1987 \"Traverse 2\" (Law Dome, Wilkes Land) Records and Measurements"
+},
+{
+"id": "glacio_87_traverse3a.v1",
+"title": "Glaciology 1987 \"Traverse 3a\" (Law Dome, Wilkes Land) Records and Measurements"
+},
+{
+"id": "glacio_87_traverse3b.v1",
+"title": "Glaciology 1987 \"Traverse 3b\" (Law Dome, Wilkes Land) Records and Measurements"
+},
+{
+"id": "glacio_87_traverse4.v1",
+"title": "Glaciology 1987 \"Traverse 4\" (Law Dome, Wilkes Land) Records and Measurements"
+},
+{
+"id": "glacio_87_traverse5.v1",
+"title": "Glaciology 1987 \"Traverse 5\" (Law Dome, Wilkes Land) Records and Measurements"
+},
+{
+"id": "lawdome_1970.v1",
+"title": "Glaciology and geophysical survey of Law Dome, 1970"
+}
+]

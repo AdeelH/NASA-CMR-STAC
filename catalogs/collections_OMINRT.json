@@ -1,0 +1,42 @@
+[
+{
+"id": "OMCLDRR.v003",
+"title": "OMI/Aura Cloud Pressure and Fraction (Raman Scattering) 1-Orbit L2 Swath 13x24 km V003 NRT"
+},
+{
+"id": "OMAERUV.v003",
+"title": "OMI/Aura Near UV Aerosol Optical Depth and Single Scattering Albedo 1-orbit L2 Swath 13x24 km V003 NRT"
+},
+{
+"id": "OMTO3.v003",
+"title": "OMI/Aura Ozone (O3) Total Column 1-Orbit L2 Swath 13x24 km V003 NRT"
+},
+{
+"id": "OMTO3e.v003",
+"title": "OMI/Aura Ozone (O3) Total Column Daily L3 Global 0.25deg Lat/Lon Grid NRT"
+},
+{
+"id": "OMSO2.v003",
+"title": "OMI/Aura Sulphur Dioxide (SO2) Total Column 1-orbit L2 Swath 13x24 km V003 NRT"
+},
+{
+"id": "NMMIEAI-L2-NRT.v2",
+"title": "OMPS-NPP L2 NM Aerosol Index swath orbital NRT"
+},
+{
+"id": "NMTO3NRT.v2",
+"title": "OMPS-NPP L2 NM Ozone (O3) Total Column swath orbital NRT"
+},
+{
+"id": "NPBUVO3-L2-NRT.v2",
+"title": "OMPS-NPP L2 NP Ozone (O3) Vertical Profile swath orbital NRT"
+},
+{
+"id": "NMSO2-PCA-L2-NRT.v2",
+"title": "OMPS/NPP PCA SO2 Total Column 1-Orbit L2 Swath 50x50km NRT"
+},
+{
+"id": "OMICOL3NRT.v3",
+"title": "Ozone Monitoring Instrument Near Real Time Data for v3"
+}
+]

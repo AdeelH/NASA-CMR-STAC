@@ -1,0 +1,4070 @@
+[
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCC_1day",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCC) (1-Day)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCC_1month",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCC) (1-Month)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCC_1week",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCC) (1-Week)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCC_1year",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCC) (1-Year)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCK_1day",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCK) (1-Day)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCK_1month",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCK) (1-Month)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCK_1week",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCK) (1-Week)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCK_1year",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCK) (1-Year)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCL_1day",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCL) (1-Day)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCL_1month",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCL) (1-Month)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCL_1week",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCL) (1-Week)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCL_1year",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCL) (1-Year)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCP_1day",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCP) (1-Day)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCP_1month",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCP) (1-Month)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCP_1week",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCP) (1-Week)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_OCP_1year",
+"title": "ADEOS OCTS L3 GAC Binned Map Ocean Color (OCP) (1-Year)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_SST_1day",
+"title": "ADEOS OCTS L3 GAC Binned Map Sea Surface Temperature (1-Day)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_SST_1month",
+"title": "ADEOS OCTS L3 GAC Binned Map Sea Surface Temperature (1-Month)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_SST_1week",
+"title": "ADEOS OCTS L3 GAC Binned Map Sea Surface Temperature (1-Week)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_SST_1year",
+"title": "ADEOS OCTS L3 GAC Binned Map Sea Surface Temperature (1-Year)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_VI_1day",
+"title": "ADEOS OCTS L3 GAC Binned Map Vegetation indices (1-Day)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_VI_1month",
+"title": "ADEOS OCTS L3 GAC Binned Map Vegetation indices (1-Month)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_VI_1week",
+"title": "ADEOS OCTS L3 GAC Binned Map Vegetation indices (1-Week)"
+},
+{
+"id": "ADEOS_OCTS_L3BM_GAC_VI_1year",
+"title": "ADEOS OCTS L3 GAC Binned Map Vegetation indices (1-Year)"
+},
+{
+"id": "ADEOS_OCTS_L3B_GAC_OC_1day",
+"title": "ADEOS OCTS L3 GAC Binned Ocean Color (1-Day)"
+},
+{
+"id": "ADEOS_OCTS_L3B_GAC_OC_1month",
+"title": "ADEOS OCTS L3 GAC Binned Ocean Color (1-Month)"
+},
+{
+"id": "ADEOS_OCTS_L3B_GAC_OC_1week",
+"title": "ADEOS OCTS L3 GAC Binned Ocean Color (1-Week)"
+},
+{
+"id": "ADEOS_OCTS_L3B_GAC_OC_1year",
+"title": "ADEOS OCTS L3 GAC Binned Ocean Color (1-Year)"
+},
+{
+"id": "ADEOS_OCTS_L3B_GAC_SST_1day",
+"title": "ADEOS OCTS L3 GAC Binned Sea Surface Temperature (1-Day)"
+},
+{
+"id": "ADEOS_OCTS_L3B_GAC_SST_1month",
+"title": "ADEOS OCTS L3 GAC Binned Sea Surface Temperature (1-Month)"
+},
+{
+"id": "ADEOS_OCTS_L3B_GAC_SST_1week",
+"title": "ADEOS OCTS L3 GAC Binned Sea Surface Temperature (1-Week)"
+},
+{
+"id": "ADEOS_OCTS_L3B_GAC_SST_1year",
+"title": "ADEOS OCTS L3 GAC Binned Sea Surface Temperature (1-Year)"
+},
+{
+"id": "ADEOS_OCTS_L3B_GAC_VI_1day",
+"title": "ADEOS OCTS L3 GAC Binned Vegetation indices (1-Day)"
+},
+{
+"id": "ADEOS_OCTS_L3B_GAC_VI_1month",
+"title": "ADEOS OCTS L3 GAC Binned Vegetation indices (1-Month)"
+},
+{
+"id": "ADEOS_OCTS_L3B_GAC_VI_1week",
+"title": "ADEOS OCTS L3 GAC Binned Vegetation indices (1-Week)"
+},
+{
+"id": "ADEOS_OCTS_L3B_GAC_VI_1year",
+"title": "ADEOS OCTS L3 GAC Binned Vegetation indices (1-Year)"
+},
+{
+"id": "ADEOS_OCTS_L3M_RTC_OCC",
+"title": "ADEOS OCTS L3 RTC Map Ocean Color (OCC)"
+},
+{
+"id": "ADEOS_OCTS_L3M_RTC_OCK",
+"title": "ADEOS OCTS L3 RTC Map Ocean Color (OCK)"
+},
+{
+"id": "ADEOS_OCTS_L3M_RTC_OCP",
+"title": "ADEOS OCTS L3 RTC Map Ocean Color (OCP)"
+},
+{
+"id": "ADEOS_OCTS_L3M_RTC_SST",
+"title": "ADEOS OCTS L3 RTC Map Sea Surface Temperature"
+},
+{
+"id": "ADEOS-II_AMSR_L1A",
+"title": "ADEOS-II/AMSR L1A"
+},
+{
+"id": "ADEOS-II_AMSR_L2_AP",
+"title": "ADEOS-II/AMSR L2 Amount of Precipitation"
+},
+{
+"id": "ADEOS-II_AMSR_L2_CLW",
+"title": "ADEOS-II/AMSR L2 Cloud Liquid Water"
+},
+{
+"id": "ADEOS-II_AMSR_L2_IC",
+"title": "ADEOS-II/AMSR L2 Ice Concentration"
+},
+{
+"id": "ADEOS-II_AMSR_L2_SST",
+"title": "ADEOS-II/AMSR L2 Sea Surface Temperature"
+},
+{
+"id": "ADEOS-II_AMSR_L2_SSW",
+"title": "ADEOS-II/AMSR L2 Sea Surface Wind"
+},
+{
+"id": "ADEOS-II_AMSR_L2_SWE",
+"title": "ADEOS-II/AMSR L2 Snow Water Equivalent"
+},
+{
+"id": "ADEOS-II_AMSR_L2_SM",
+"title": "ADEOS-II/AMSR L2 Soil Moisture"
+},
+{
+"id": "ADEOS-II_AMSR_L2_WV",
+"title": "ADEOS-II/AMSR L2 Water Vapor"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_10.65GHz-V_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 10.65GHz-H Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_10.65GHz-V_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 10.65GHz-H Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_10.65GHz-H_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 10.65GHz-V Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_10.65GHz-H_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 10.65GHz-V Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_18.7GHz-H_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 18.7GHz-H Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_18.7GHz-H_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 18.7GHz-H Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_18.7GHz-V_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 18.7GHz-V Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_18.7GHz-V_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 18.7GHz-V Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_23.8GHz-H_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 23.8GHz-H Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_23.8GHz-H_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 23.8GHz-H Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_23.8GHz-V_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 23.8GHz-V Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_23.8GHz-V_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 23.8GHz-V Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_36.5GHz-H_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 36.5GHz-H Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_36.5GHz-H_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 36.5GHz-H Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_36.5GHz-V_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 36.5GHz-V Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_36.5GHz-V_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 36.5GHz-V Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_50.3GHz-H_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 50.3GHz-H Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_50.3GHz-H_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 50.3GHz-H Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_50.3GHz-V_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 50.3GHz-V Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_50.3GHz-V_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 50.3GHz-V Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_52.8GHz-H_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 52.8GHz-H Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_52.8GHz-H_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 52.8GHz-H Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_52.8GHz-V_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 52.8GHz-V Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_52.8GHz-V_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 52.8GHz-V Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_6GHz-H_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 6GHz-H Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_6GHz-H_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 6GHz-H Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_6GHz-V_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 6GHz-V Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_6GHz-V_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 6GHz-V Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_89.0GHz-H_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 89.0GHz-H Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_89.0GHz-H_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 89.0GHz-H Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_89.0GHz-V_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 89.0GHz-V Mean for Brightness Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_TB_89.0GHz-V_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 89.0GHz-V Mean for Brightness Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_AP_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 Amount of Precipitation (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_AP_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 Amount of Precipitation (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_CLW_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 Cloud Liquid Water (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_CLW_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 Cloud Liquid Water (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_IC_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 Ice Concentration (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_IC_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 Ice Concentration (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_SST_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 Sea Surface Temperature (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_SST_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 Sea Surface Temperature (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_SSW_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 Sea Surface Wind (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_SSW_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 Sea Surface Wind (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_SWE_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 Snow Water Equivalent (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_SWE_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 Snow Water Equivalent (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_SM_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 Soil Moisture (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_SM_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 Soil Moisture (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_WV_1day_0.25deg",
+"title": "ADEOS-II/AMSR L3 Water Vapor (1day,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L3_WV_1month_0.25deg",
+"title": "ADEOS-II/AMSR L3 Water Vapor (1month,0.25deg)"
+},
+{
+"id": "ADEOS-II_AMSR_L1B",
+"title": "ADEOS-II/AMSR_L1B"
+},
+{
+"id": "ADEOS-II_GLI_L2_CLOP_i_r",
+"title": "ADEOS-II/GLI Cloud Optical Thickness of ice cloud by reflection method ( i r: ice cloud reflectance)"
+},
+{
+"id": "ADEOS-II_GLI_L1A_MTIR_1km",
+"title": "ADEOS-II/GLI L1A Middle and thermal infrared (1km)"
+},
+{
+"id": "ADEOS-II_GLI_L1A_SWIR_1km",
+"title": "ADEOS-II/GLI L1A Short-wavelength infrared (1km)"
+},
+{
+"id": "ADEOS-II_GLI_L1A_VNIR_1km",
+"title": "ADEOS-II/GLI L1A Visible and near infrared (1km)"
+},
+{
+"id": "ADEOS-II_GLI_L1B_MTIR_1km",
+"title": "ADEOS-II/GLI L1B Middle and thermal infrared (1km)"
+},
+{
+"id": "ADEOS-II_GLI_L1B_SLPT_1km",
+"title": "ADEOS-II/GLI L1B Satellite Position (1km)"
+},
+{
+"id": "ADEOS-II_GLI_L1B_SWIR_1km",
+"title": "ADEOS-II/GLI L1B Short-wavelength infrared (1km)"
+},
+{
+"id": "ADEOS-II_GLI_L1B_VNIR_1km",
+"title": "ADEOS-II/GLI L1B Visible and near infrared (1km)"
+},
+{
+"id": "ADEOS-II_GLI_L2_ARAE",
+"title": "ADEOS-II/GLI L2 Aerosol Angstrom Exponent"
+},
+{
+"id": "ADEOS-II_GLI_L2_AROP",
+"title": "ADEOS-II/GLI L2 Aerosol Optical Thickness"
+},
+{
+"id": "ADEOS-II_GLI_L2_ACLC",
+"title": "ADEOS-II/GLI L2 Atmospheric correction data for land and cryosphere"
+},
+{
+"id": "ADEOS-II_GLI_L2_CLER_i_e",
+"title": "ADEOS-II/GLI L2 Cloud Effective Particle Radius of ice cloud by emission method"
+},
+{
+"id": "ADEOS-II_GLI_L2_CLER_w_r",
+"title": "ADEOS-II/GLI L2 Cloud Effective Particle Radius of water cloud by reflection method"
+},
+{
+"id": "ADEOS-II_GLI_L2_CLFLG_p",
+"title": "ADEOS-II/GLI L2 Cloud flag"
+},
+{
+"id": "ADEOS-II_GLI_L2_CLFR",
+"title": "ADEOS-II/GLI L2 Cloud fraction"
+},
+{
+"id": "ADEOS-II_GLI_L2_CLWP_w_r",
+"title": "ADEOS-II/GLI L2 Cloud Liquid Water Path of water cloud by reflection method"
+},
+{
+"id": "ADEOS-II_GLI_L2_CLOP_i_e",
+"title": "ADEOS-II/GLI L2 Cloud Optical Thickness of ice cloud by emission method"
+},
+{
+"id": "ADEOS-II_GLI_L2_CLOP_w_r",
+"title": "ADEOS-II/GLI L2 Cloud Optical Thickness of water cloud by reflection method"
+},
+{
+"id": "ADEOS-II_GLI_L2_CLHT_w_r",
+"title": "ADEOS-II/GLI L2 Cloud Top Height of water cloud by reflection method"
+},
+{
+"id": "ADEOS-II_GLI_L2_CLTT_i_e",
+"title": "ADEOS-II/GLI L2 Cloud Top Temperature of ice cloud by emission method"
+},
+{
+"id": "ADEOS-II_GLI_L2_CLTT_w_r",
+"title": "ADEOS-II/GLI L2 Cloud Top Temperature of water cloud by reflection method"
+},
+{
+"id": "ADEOS-II_GLI_L2_NW",
+"title": "ADEOS-II/GLI L2 Normalized water leaving radiance"
+},
+{
+"id": "ADEOS-II_GLI_L2_CS_LR",
+"title": "ADEOS-II/GLI L2 Ocean color"
+},
+{
+"id": "ADEOS-II_GLI_L2_PGCP",
+"title": "ADEOS-II/GLI L2 Precise Geometric Correction Parameter"
+},
+{
+"id": "ADEOS-II_GLI_L2_ST_LR",
+"title": "ADEOS-II/GLI L2 Sea surface temperature"
+},
+{
+"id": "ADEOS-II_GLI_L2_SNGI",
+"title": "ADEOS-II/GLI L2 Snow Grain and Impurities"
+},
+{
+"id": "ADEOS-II_GLI_L2_VGI",
+"title": "ADEOS-II/GLI L2 Vegetation Index"
+},
+{
+"id": "ADEOS-II_GLI_L2A_LC",
+"title": "ADEOS-II/GLI L2A Land and Cryosphere"
+},
+{
+"id": "ADEOS-II_GLI_L2A_OA",
+"title": "ADEOS-II/GLI L2A Ocean and Atmosphere"
+},
+{
+"id": "ADEOS-II_GLI_L3B_ARAE_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Aerosol Angstrom Exponent (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_ARAE_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Aerosol Angstrom Exponent (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_AROP_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Aerosol Optical Thickness (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_AROP_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Aerosol Optical Thickness (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_LA_1day_9km",
+"title": "ADEOS-II/GLI L3 Binned Aerosol radiance (1day,9 km)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_LA_1month_9km",
+"title": "ADEOS-II/GLI L3 Binned Aerosol radiance (1month,9 km)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_LA_8days_9km",
+"title": "ADEOS-II/GLI L3 Binned Aerosol radiance (8days,9 km)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_ST_1day_9km",
+"title": "ADEOS-II/GLI L3 Binned Bulk Sea surface temperature (1day,9 km)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_ST_1month_9km",
+"title": "ADEOS-II/GLI L3 Binned Bulk Sea surface temperature (1month,9 km)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_ST_8days_9km",
+"title": "ADEOS-II/GLI L3 Binned Bulk Sea surface temperature (8days,9 km)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLER_i_e_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Effective Particle Radius of ice cloud by emission method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLER_i_e_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Effective Particle Radius of ice cloud by emission method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLER_w_r_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Effective Particle Radius of water cloud by reflection method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLER_w_r_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Effective Particle Radius of water cloud by reflection method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLFR_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud fraction (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLFR_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud fraction (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLWP_w_r_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Liquid Water Path of water cloud by reflection method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLWP_w_r_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Liquid Water Path of water cloud by reflection method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLOP_i_e_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Optical Thickness of ice cloud by emission method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLOP_i_e_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Optical Thickness of ice cloud by emission method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLOP_i_r_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Optical Thickness of ice cloud by reflection method ( i r: ice cloud reflectance) (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLOP_i_r_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Optical Thickness of ice cloud by reflection method ( i r: ice cloud reflectance) (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLOP_w_r_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Optical Thickness of water cloud by reflection method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLOP_w_r_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Optical Thickness of water cloud by reflection method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLHT_w_e_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Top Height of water cloud by emission method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLHT_w_e_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Top Height of water cloud by emission method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLTT_i_e_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Top Temperature of ice cloud by emission method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLTT_i_e_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Top Temperature of ice cloud by emission method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLTT_w_r_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Top Temperature of water cloud by reflection method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CLTT_w_r_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 Binned Cloud Top Temperature of water cloud by reflection method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_NW_1day_9km",
+"title": "ADEOS-II/GLI L3 Binned Normalized water-leaving radiance (1day,9 km)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_NW_1month_9km",
+"title": "ADEOS-II/GLI L3 Binned Normalized water-leaving radiance (1month,9 km)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_NW_8days_9km",
+"title": "ADEOS-II/GLI L3 Binned Normalized water-leaving radiance (8days,9 km)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CS_1day_9km",
+"title": "ADEOS-II/GLI L3 Binned Ocean Color (1day,9 km)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CS_1month_9km",
+"title": "ADEOS-II/GLI L3 Binned Ocean Color (1month,9 km)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_CS_8days_9km",
+"title": "ADEOS-II/GLI L3 Binned Ocean Color (8days,9 km)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_SNWGS_16days_1-12deg",
+"title": "ADEOS-II/GLI L3 Binned Snow grain size retrieved with 1640nm band (16days,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_SNWGS_1month_1-12deg",
+"title": "ADEOS-II/GLI L3 Binned Snow grain size retrieved with 1640nm band (1month,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_SNWG_16days_1-12deg",
+"title": "ADEOS-II/GLI L3 Binned Snow grain size retrieved with 865nm band (16days,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_SNWG_1month_1-12deg",
+"title": "ADEOS-II/GLI L3 Binned Snow grain size retrieved with 865nm band (1month,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_SNWI_16days_1-12deg",
+"title": "ADEOS-II/GLI L3 Binned Snow impurities (16days,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_SNWI_1month_1-12deg",
+"title": "ADEOS-II/GLI L3 Binned Snow impurities (1month,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_SNWTS_16days_1-12deg",
+"title": "ADEOS-II/GLI L3 Binned Snow surface temperature (16days,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3B_SNWTS_1month_1-12deg",
+"title": "ADEOS-II/GLI L3 Binned Snow surface temperature (1month,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CDOM_1day_9km",
+"title": "ADEOS-II/GLI L3 STA Map Absorption of colored dissolved organic matter (1day,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CDOM_1month_9km",
+"title": "ADEOS-II/GLI L3 STA Map Absorption of colored dissolved organic matter (1month,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CDOM_8days_9km",
+"title": "ADEOS-II/GLI L3 STA Map Absorption of colored dissolved organic matter (8days,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_ARAE_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Aerosol Angstrom Exponent (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_ARAE_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Aerosol Angstrom Exponent (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_AROP_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Aerosol Optical Thickness (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_AROP_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Aerosol Optical Thickness (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_LA_1day_9km",
+"title": "ADEOS-II/GLI L3 STA Map Aerosol radiance (1day,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_LA_1month_9km",
+"title": "ADEOS-II/GLI L3 STA Map Aerosol radiance (1month,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_LA_8days_9km",
+"title": "ADEOS-II/GLI L3 STA Map Aerosol radiance (8days,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_K490_1day_9km",
+"title": "ADEOS-II/GLI L3 STA Map Attenuation coefficient at 490nm (1day,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_K490_1month_9km",
+"title": "ADEOS-II/GLI L3 STA Map Attenuation coefficient at 490nm (1month,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_K490_8days_9km",
+"title": "ADEOS-II/GLI L3 STA Map Attenuation coefficient at 490nm (8days,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_ST_ALL_1day_9km",
+"title": "ADEOS-II/GLI L3 STA Map Bulk Sea surface temperature (all data averaged) (1day,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_ST_ALL_1month_9km",
+"title": "ADEOS-II/GLI L3 STA Map Bulk Sea surface temperature (all data averaged) (1month,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_ST_ALL_8days_9km",
+"title": "ADEOS-II/GLI L3 STA Map Bulk Sea surface temperature (all data averaged) (8days,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CHLA_1day_9km",
+"title": "ADEOS-II/GLI L3 STA Map Chlorophyll-a (1day,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CHLA_1month_9km",
+"title": "ADEOS-II/GLI L3 STA Map Chlorophyll-a (1month,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CHLA_8days_9km",
+"title": "ADEOS-II/GLI L3 STA Map Chlorophyll-a (8days,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLER_i_e_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Effective Particle Radius of ice cloud by emission method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLER_i_e_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Effective Particle Radius of ice cloud by emission method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLER_w_r_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Effective Particle Radius of water cloud by reflection method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLER_w_r_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Effective Particle Radius of water cloud by reflection method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLFR_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud fraction (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLFR_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud fraction (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLWP_w_r_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Liquid Water Path of water cloud by reflection method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLWP_w_r_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Liquid Water Path of water cloud by reflection method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLOP_i_e_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Optical Thickness of ice cloud by emission method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLOP_i_e_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Optical Thickness of ice cloud by emission method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLOP_i_r_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Optical Thickness of ice cloud by reflection method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLOP_i_r_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Optical Thickness of ice cloud by reflection method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLOP_w_r_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Optical Thickness of water cloud by reflection method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLOP_w_r_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Optical Thickness of water cloud by reflection method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLHT_w_e_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Top Height of water cloud by emission method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLHT_w_e_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Top Height of water cloud by emission method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLTT_i_e_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Top Temperature of ice cloud by emission method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLTT_i_e_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Top Temperature of ice cloud by emission method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLTT_w_r_16days_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Top Temperature of water cloud by reflection method (16days,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_CLTT_w_r_1month_1-4deg",
+"title": "ADEOS-II/GLI L3 STA Map Cloud Top Temperature of water cloud by reflection method (1month,1/4deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_NW_1day_9km",
+"title": "ADEOS-II/GLI L3 STA Map Normalized water-leaving radiance (1day,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_NW_1month_9km",
+"title": "ADEOS-II/GLI L3 STA Map Normalized water-leaving radiance (1month,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_NW_8days_9km",
+"title": "ADEOS-II/GLI L3 STA Map Normalized water-leaving radiance (8days,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_ST_DayNight_1day_9km",
+"title": "ADEOS-II/GLI L3 STA Map Sea surface temperature (day/night separately averaged) (1day,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_ST_DayNight_1month_9km",
+"title": "ADEOS-II/GLI L3 STA Map Sea surface temperature (day/night separately averaged) (1month,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_ST_DayNight_8days_9km",
+"title": "ADEOS-II/GLI L3 STA Map Sea surface temperature (day/night separately averaged) (8days,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_SNWGS_16days_1-12deg",
+"title": "ADEOS-II/GLI L3 STA Map Snow grain size retrieved with 1640nm band (16days,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_SNWGS_1month_1-12deg",
+"title": "ADEOS-II/GLI L3 STA Map Snow grain size retrieved with 1640nm band (1month,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_SNWG_16days_1-12deg",
+"title": "ADEOS-II/GLI L3 STA Map Snow grain size retrieved with 865nm band (16days,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_SNWG_1month_1-12deg",
+"title": "ADEOS-II/GLI L3 STA Map Snow grain size retrieved with 865nm band (1month,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_SNWI_16days_1-12deg",
+"title": "ADEOS-II/GLI L3 STA Map Snow impurities (16days,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_SNWI_1month_1-12deg",
+"title": "ADEOS-II/GLI L3 STA Map Snow impurities (1month,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_SNWTS_16days_1-12deg",
+"title": "ADEOS-II/GLI L3 STA Map Snow surface temperature (16days,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_SNWTS_1month_1-12deg",
+"title": "ADEOS-II/GLI L3 STA Map Snow surface temperature (1month,1/12deg)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_SS_1day_9km",
+"title": "ADEOS-II/GLI L3 STA Map Suspended solid weight (1day,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_SS_1month_9km",
+"title": "ADEOS-II/GLI L3 STA Map Suspended solid weight (1month,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_SS_8days_9km",
+"title": "ADEOS-II/GLI L3 STA Map Suspended solid weight (8days,9km)"
+},
+{
+"id": "ADEOS-II_GLI_L3STA_Map_VGI_1-12deg",
+"title": "ADEOS-II/GLI L3 STA Map Vegetation Index product"
+},
+{
+"id": "ADEOS-II_GLI_L1A_250m",
+"title": "ADEOS/2GLI L1A 250m"
+},
+{
+"id": "ADEOS-II_GLI_L1B_250m",
+"title": "ADEOS/2GLI L1B 250m"
+},
+{
+"id": "ADEOS_AVNIR_L1A_MU",
+"title": "ADEOS/AVNIR L1A Multispectral band"
+},
+{
+"id": "ADEOS_AVNIR_L1A_PAN",
+"title": "ADEOS/AVNIR L1A Panchromatic band"
+},
+{
+"id": "ADEOS_AVNIR_L1B2_MU",
+"title": "ADEOS/AVNIR L1B2 Multispectral band"
+},
+{
+"id": "ADEOS_AVNIR_L1B2_PAN",
+"title": "ADEOS/AVNIR L1B2 Panchromatic band"
+},
+{
+"id": "ADEOS_OCTS_L1A_GAC_TI",
+"title": "ADEOS/OCTS L1A GAC Thermal infrared"
+},
+{
+"id": "ADEOS_OCTS_L1A_GAC_VNR",
+"title": "ADEOS/OCTS L1A GAC Visible and near infrared"
+},
+{
+"id": "ADEOS_OCTS_L1A_RTC_TI",
+"title": "ADEOS/OCTS L1A RTC Thermal infrared"
+},
+{
+"id": "ADEOS_OCTS_L1A_RTC_VNR",
+"title": "ADEOS/OCTS L1A RTC Visible and near infrared"
+},
+{
+"id": "ADEOS_OCTS_L2_GAC_OC1",
+"title": "ADEOS/OCTS L2 GAC Ocean Color (OC1)"
+},
+{
+"id": "ADEOS_OCTS_L2_GAC_OC2",
+"title": "ADEOS/OCTS L2 GAC Ocean Color (OC2)"
+},
+{
+"id": "ADEOS_OCTS_L2_GAC_SST",
+"title": "ADEOS/OCTS L2 GAC Sea Surface Temperature"
+},
+{
+"id": "ADEOS_OCTS_L2_GAC_VI",
+"title": "ADEOS/OCTS L2 GAC Vegetation Indices"
+},
+{
+"id": "ADEOS_OCTS_L2_RTC_OC1",
+"title": "ADEOS/OCTS L2 RTC Ocean Color (OC1)"
+},
+{
+"id": "ADEOS_OCTS_L2_RTC_OC2",
+"title": "ADEOS/OCTS L2 RTC Ocean Color (OC2)"
+},
+{
+"id": "ADEOS_OCTS_L2_RTC_SST",
+"title": "ADEOS/OCTS L2 RTC Sea Surface Temperature (SST)"
+},
+{
+"id": "ADEOS_OCTS_L2_RTC_VI",
+"title": "ADEOS/OCTS L2 RTC Vegetation Indices"
+},
+{
+"id": "ALOS-2_CIRC_L1_RAD",
+"title": "ALOS-2/CIRC L1 Radiance"
+},
+{
+"id": "Aqua_AMSR-E_L1B_AMSR2_Format_TB",
+"title": "Aqua/AMSR-E L1B AMSR2 Format Brightness Temperature"
+},
+{
+"id": "Aqua_AMSR-E_L1B_TB",
+"title": "Aqua/AMSR-E L1B Brightness Temperature"
+},
+{
+"id": "Aqua_AMSR-E_L1R_AMSR2_Format_TB",
+"title": "Aqua/AMSR-E L1R AMSR2 Format Brightness Temperature"
+},
+{
+"id": "Aqua_AMSR-E_L2_AP",
+"title": "Aqua/AMSR-E L2 Amount of Precipitation"
+},
+{
+"id": "Aqua_AMSR-E_L2_AMSR2_Format_CLW",
+"title": "Aqua/AMSR-E L2 AMSR2 Format Cloud Liquid Water"
+},
+{
+"id": "Aqua_AMSR-E_L2_AMSR2_Format_PRC",
+"title": "Aqua/AMSR-E L2 AMSR2 Format Precipitation"
+},
+{
+"id": "Aqua_AMSR-E_L2_AMSR2_Format_SIC",
+"title": "Aqua/AMSR-E L2 AMSR2 Format Sea Ice Concentration"
+},
+{
+"id": "Aqua_AMSR-E_L2_AMSR2_Format_SST",
+"title": "Aqua/AMSR-E L2 AMSR2 Format Sea Surface Temperature"
+},
+{
+"id": "Aqua_AMSR-E_L2_AMSR2_Format_SSW",
+"title": "Aqua/AMSR-E L2 AMSR2 Format Sea Surface Wind"
+},
+{
+"id": "Aqua_AMSR-E_L2_AMSR2_Format_SND",
+"title": "Aqua/AMSR-E L2 AMSR2 Format Snow Depth"
+},
+{
+"id": "Aqua_AMSR-E_L2_AMSR2_Format_SMC",
+"title": "Aqua/AMSR-E L2 AMSR2 Format Soil Moisture Content"
+},
+{
+"id": "Aqua_AMSR-E_L2_AMSR2_Format_TPW",
+"title": "Aqua/AMSR-E L2 AMSR2 Format Total Precipitable Water"
+},
+{
+"id": "Aqua_AMSR-E_L2_CLW",
+"title": "Aqua/AMSR-E L2 Cloud Liquid Water"
+},
+{
+"id": "Aqua_AMSR-E_L2_IC",
+"title": "Aqua/AMSR-E L2 Ice Concentration"
+},
+{
+"id": "Aqua_AMSR-E_L2_SST",
+"title": "Aqua/AMSR-E L2 Sea Surface Temperature"
+},
+{
+"id": "Aqua_AMSR-E_L2_SSW",
+"title": "Aqua/AMSR-E L2 Sea Surface Wind"
+},
+{
+"id": "Aqua_AMSR-E_L2_SND",
+"title": "Aqua/AMSR-E L2 Snow Water Equivalent"
+},
+{
+"id": "Aqua_AMSR-E_L2_SM",
+"title": "Aqua/AMSR-E L2 Soil Moisture Content"
+},
+{
+"id": "Aqua_AMSR-E_L2_WV",
+"title": "Aqua/AMSR-E L2 Water Vapor"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_10.65GHz-H_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 10.65GHz-H Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_10.65GHz-H_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 10.65GHz-H Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_10.65GHz-V_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 10.65GHz-V Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_10.65GHz-V_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 10.65GHz-V Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_18.7GHz-H_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 18.7GHz-H Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_18.7GHz-H_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 18.7GHz-H Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_18.7GHz-V_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 18.7GHz-V Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_18.7GHz-V_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 18.7GHz-V Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_23.8GHz-H_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 23.8GHz-H Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_23.8GHz-H_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 23.8GHz-H Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_23.8GHz-V_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 23.8GHz-V Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_23.8GHz-V_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 23.8GHz-V Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_36.5GHz-H_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 36.5GHz-H Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_36.5GHz-H_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 36.5GHz-H Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_36.5GHz-V_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 36.5GHz-V Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_36.5GHz-V_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 36.5GHz-V Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_6GHz-H_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 6GHz-H Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_6GHz-H_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 6GHz-H Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_6GHz-V_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 6GHz-V Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_6GHz-V_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 6GHz-V Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_89.0GHz-H_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 89.0GHz-H Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_89.0GHz-H_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 89.0GHz-H Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_89.0GHz-V_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 89.0GHz-V Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_TB_89.0GHz-V_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 89.0GHz-V Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AP_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 Amount of Precipitation (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AP_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 Amount of Precipitation (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_10.65GHz_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 10.65GHz  Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_10.65GHz_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 10.65GHz Mean for Brightness Temperature (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_10.65GHz_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 10.65GHz Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_10.65GHz_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 10.65GHz Mean for Brightness Temperature (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_18.7GHz_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 18.7GHz  Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_18.7GHz_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 18.7GHz Mean for Brightness Temperature (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_18.7GHz_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 18.7GHz Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_18.7GHz_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 18.7GHz Mean for Brightness Temperature (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_23.8GHz_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 23.8GHz  Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_23.8GHz_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 23.8GHz Mean for Brightness Temperature (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_23.8GHz_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 23.8GHz Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_23.8GHz_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 23.8GHz Mean for Brightness Temperature (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_36.5GHz_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 36.5GHz  Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_36.5GHz_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 36.5GHz Mean for Brightness Temperature (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_36.5GHz_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 36.5GHz Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_36.5GHz_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 36.5GHz Mean for Brightness Temperature (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_6GHz_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 6GHz  Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_6GHz_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 6GHz Mean for Brightness Temperature (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_6GHz_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 6GHz Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_6GHz_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 6GHz Mean for Brightness Temperature (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_89.0GHz_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 89.0GHz  Mean for Brightness Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_89.0GHz_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 89.0GHz Mean for Brightness Temperature (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_89.0GHz_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 89.0GHz Mean for Brightness Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TB_89.0GHz_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format 89.0GHz Mean for Brightness Temperature (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_CLW_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Cloud Liquid Water (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_CLW_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Cloud Liquid Water (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_CLW_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Cloud Liquid Water (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_CLW_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Cloud Liquid Water (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_PRC_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Precipitation (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_PRC_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Precipitation (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_PRC_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Precipitation (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_PRC_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Precipitation (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SIC_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Sea Ice Concentration (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SIC_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Sea Ice Concentration (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SIC_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Sea Ice Concentration (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SIC_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Sea Ice Concentration (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SST_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Sea Surface Temperature (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SST_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Sea Surface Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SST_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Sea Surface Temperature (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SST_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Sea Surface Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SSW_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Sea Surface Wind (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SSW_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Sea Surface Wind (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SSW_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Sea Surface Wind (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SSW_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Sea Surface Wind (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SND_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Snow Depth (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SND_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Snow Depth (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SND_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Snow Depth (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SND_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Snow Depth (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SMC_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Soil Moisture Content (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SMC_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Soil Moisture Content (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SMC_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Soil Moisture Content Content (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_SMC_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Soil Moisture Content Content (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TPW_1day_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Total Precipitable Water (1-Day, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TPW_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Total Precipitable Water (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TPW_1month_0.1deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Total Precipitable Water (1-Month, 0.1 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_AMSR2_Format_TPW_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 AMSR2 Format Total Precipitable Water (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_CLW_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 Cloud Liquid Water (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_CLW_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 Cloud Liquid Water (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_IC_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 Ice Concentration (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_IC_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 Ice Concentration (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_SST_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 Sea Surface Temperature (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_SST_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 Sea Surface Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_SSW_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 Sea Surface Wind (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_SSW_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 Sea Surface Wind (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_SND_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 Snow Water Equivalent (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_SND_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 Snow Water Equivalent (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_SM_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 Soil Moisture Content (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_SM_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 Soil Moisture Content (1-Month, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_WV_1day_0.25deg",
+"title": "Aqua/AMSR-E L3 Water Vapor (1-Day, 0.25 deg)"
+},
+{
+"id": "Aqua_AMSR-E_L3_WV_1month_0.25deg",
+"title": "Aqua/AMSR-E L3 Water Vapor (1-Month, 0.25 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L1A_SWI_and_TIR_1km",
+"title": "GCOM-C/SGLI L1A Shortwave Infrared  Thermal Infrared (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L1A_SWI_and_TIR_250m",
+"title": "GCOM-C/SGLI L1A Shortwave Infrared  Thermal Infrared (250m)"
+},
+{
+"id": "GCOM-C_SGLI_L1A_Visible_and_Near_Infrared_NP_1km",
+"title": "GCOM-C/SGLI L1A Visible and Near Infrared (Non-Polarization) (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L1A_Visible_and_Near_Infrared_NP_250m",
+"title": "GCOM-C/SGLI L1A Visible and Near Infrared (Non-Polarization) (250m)"
+},
+{
+"id": "GCOM-C_SGLI_L1A_Visible_and_Near_Infrared_PL_1km",
+"title": "GCOM-C/SGLI L1A Visible and Near Infrared (Polarization) (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L1B_SWI_and_TIR_1km",
+"title": "GCOM-C/SGLI L1B Shortwave Infrared Thermal Infrared (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L1B_SWI_and_TIR_250m",
+"title": "GCOM-C/SGLI L1B Shortwave Infrared Thermal Infrared (250m)"
+},
+{
+"id": "GCOM-C_SGLI_L1B_Visible_and_Near_Infrared_NP_1km",
+"title": "GCOM-C/SGLI L1B Visible and Near Infrared (Non-Polarization) (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L1B_Visible_and_Near_Infrared_NP_250m",
+"title": "GCOM-C/SGLI L1B Visible and Near Infrared (Non-Polarization) (250m)"
+},
+{
+"id": "GCOM-C_SGLI_L1B_Visible_and_Near_Infrared_PL_1km",
+"title": "GCOM-C/SGLI L1B Visible and Near Infrared (Polarization) (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_AGB",
+"title": "GCOM-C/SGLI L2 Above Ground Biomass and Vegetation Roughness Index"
+},
+{
+"id": "GCOM-C_SGLI_L2_ARNP",
+"title": "GCOM-C/SGLI L2 Aerosol over the ocean-Land aerosol by near ultra violet"
+},
+{
+"id": "GCOM-C_SGLI_L2_CLFG_1km",
+"title": "GCOM-C/SGLI L2 Cloud flag Classification (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_CLFG_250m",
+"title": "GCOM-C/SGLI L2 Cloud flag Classification (250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_CLPR",
+"title": "GCOM-C/SGLI L2 Cloud properties"
+},
+{
+"id": "GCOM-C_SGLI_L2_global-ARNP",
+"title": "GCOM-C/SGLI L2 Global-Aerosol over the ocean-Land aerosol by near ultra violet"
+},
+{
+"id": "GCOM-C_SGLI_L2_global-LCLR",
+"title": "GCOM-C/SGLI L2 Global-TOA radiance"
+},
+{
+"id": "GCOM-C_SGLI_L2_global-LTOA",
+"title": "GCOM-C/SGLI L2 Global-TOA radiance (clear sky)"
+},
+{
+"id": "GCOM-C_SGLI_L2_IWPR_1km",
+"title": "GCOM-C/SGLI L2 In-water properties (Chl-a TSM CDOM) (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_IWPR_250m",
+"title": "GCOM-C/SGLI L2 In-water properties (Chl-a TSM CDOM) (250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_LAI",
+"title": "GCOM-C/SGLI L2 LAI and FAPAR"
+},
+{
+"id": "GCOM-C_SGLI_L2_RSRF",
+"title": "GCOM-C/SGLI L2 Land Surface Reflectance"
+},
+{
+"id": "GCOM-C_SGLI_L2_LST",
+"title": "GCOM-C/SGLI L2 Land surface temperature"
+},
+{
+"id": "GCOM-C_SGLI_L2_NWLR_1km",
+"title": "GCOM-C/SGLI L2 Normalized water leaving radiance and aerosol parameters and PAR (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_NWLR_250m",
+"title": "GCOM-C/SGLI L2 Normalized water leaving radiance and aerosol parameters and PAR (250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_OKID_1km",
+"title": "GCOM-C/SGLI L2 Okhotsk sea-ice Distribution (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_OKID_250m",
+"title": "GCOM-C/SGLI L2 Okhotsk sea-ice Distribution (250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_SST_1km",
+"title": "GCOM-C/SGLI L2 Sea surface temperature (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_SST_250m",
+"title": "GCOM-C/SGLI L2 Sea surface temperature (250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_SICE_1km",
+"title": "GCOM-C/SGLI L2 Snow and Ice Cover Extent (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_SICE_250m",
+"title": "GCOM-C/SGLI L2 Snow and Ice Cover Extent (250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_SIPR_1km",
+"title": "GCOM-C/SGLI L2 Snow and Ice Physical Properties (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_SIPR_250m",
+"title": "GCOM-C/SGLI L2 Snow and Ice Physical Properties (250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-AGB_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Above Ground Biomass (AGB) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-AGB_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Above Ground Biomass (AGB) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-EVI_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Enhanced Vegetation Index (EVI) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-EVI_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Enhanced Vegetation Index (EVI) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-FAPAR_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Fraction of absorbed PAR (FAPAR) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-FAPAR_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Fraction of absorbed PAR (FAPAR) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-GEOI_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(GEOI) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-GEOI_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(GEOI) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-GEOP_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(GEOP) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-GEOP_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(GEOP) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-GEOV_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(GEOV) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-GEOV_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(GEOV) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RN08_1month_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RN08) (1-Month,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RN08_8days_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RN08) (8-Days,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RN11_1month_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RN11) (1-Month,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RN11_8days_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RN11) (8-Days,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RP01_1month_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RP01) (1-Month,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RP01_8days_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RP01) (8-Days,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RP02_1month_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RP02) (1-Month,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RP02_8days_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RP02) (8-Days,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RS01_1month_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RS01) (1-Month,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RS01_8days_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RS01) (8-Days,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RS02_1month_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RS02) (1-Month,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RS02_8days_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RS02) (8-Days,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RS03_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RS03) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RS03_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RS03) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RS04_1month_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RS04) (1-Month,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RS04_8days_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RS04) (8-Days,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RT01_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RT01) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RT01_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RT01) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RT02_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RT02) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RT02_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RT02) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV01_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV01) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV01_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV01) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV02_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV02) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV02_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV02) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV03_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV03) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV03_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV03) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV04_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV04) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV04_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV04) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV05_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV05) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV05_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV05) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV06_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV06) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV06_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV06) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV07_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV07) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV07_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV07) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV08_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV08) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV08_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV08) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV09_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV09) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV09_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV09) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV10_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV10) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV10_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV10) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV11_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV11) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-RV11_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land Surface Reflectance(RV11) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-LST_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land surface temperature (LST) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-LST_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Land surface temperature (LST) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-LAI_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Leaf Area Index (LAI) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-LAI_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Leaf Area Index (LAI) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-NDVI_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Normalized Difference Vegetation Index (NDVI) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-NDVI_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Normalized Difference Vegetation Index (NDVI) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-SDI_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Shadow index (SI) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-SDI_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Shadow index (SI) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-SICE_1month_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Snow and Ice Cover Extent (1-Month,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-SICE_8days_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Snow and Ice Cover Extent (8-Days,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-SIST_1month_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Snow and ice surface temperature (1-Month,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-SIST_8days_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Snow and ice surface temperature (8-Days,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-SGSL_1month_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Snow gain size of shallow layer (1-Month,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-SGSL_8days_1km",
+"title": "GCOM-C/SGLI L2 Statistics-Snow gain size of shallow layer (8-Days,1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-LTOA_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-TOA radiance (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-LTOA_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-TOA radiance (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-VRI_1month_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Vegetation Roughness Index (VRI) (1-Month,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_statistics-VRI_8days_250m",
+"title": "GCOM-C/SGLI L2 Statistics-Vegetation Roughness Index (VRI) (8-Days,250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_LTOA_1km",
+"title": "GCOM-C/SGLI L2 TOA radiance (1km)"
+},
+{
+"id": "GCOM-C_SGLI_L2_LTOA_250m",
+"title": "GCOM-C/SGLI L2 TOA radiance (250m)"
+},
+{
+"id": "GCOM-C_SGLI_L2_VGI",
+"title": "GCOM-C/SGLI L2 Vegetation Indices"
+},
+{
+"id": "GCOM-C_SGLI_L3B_AGB_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Above Ground Biomass (AGB) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_AGB_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Above Ground Biomass (AGB) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_AGB_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Above Ground Biomass (AGB) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_ARAE_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Aerosol angstrom exponent (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_ARAE_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Aerosol angstrom exponent (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_ARAE_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Aerosol angstrom exponent (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_AROT_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Aerosol optical thickness (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_AROT_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Aerosol optical thickness (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_AROT_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Aerosol optical thickness (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_ASSA_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Aerosol Single Scattering Albedo over land (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_ASSA_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Aerosol Single Scattering Albedo over land (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_GEOI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(GEOI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_GEOI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(GEOI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_GEOI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(GEOI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_GEOP_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(GEOP) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_GEOP_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(GEOP) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_GEOP_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(GEOP) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_GEOV_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(GEOV) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_GEOV_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(GEOV) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_GEOV_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(GEOV) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RN08_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RN08) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RN08_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RN08) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RN08_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RN08) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RN11_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RN11) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RN11_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RN11) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RN11_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RN11) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RP01_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RP01) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RP01_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RP01) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RP01_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RP01) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RP02_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RP02) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RP02_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RP02) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RP02_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RP02) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RS01_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RS01) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RS01_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RS01) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RS01_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RS01) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RS02_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RS02) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RS02_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RS02) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RS02_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RS02) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RS03_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RS03) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RS03_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RS03) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RS03_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RS03) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RS04_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RS04) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RS04_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RS04) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RS04_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RS04) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RT01_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RT01) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RT01_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RT01) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RT01_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RT01) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RT02_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RT02) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RT02_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RT02) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RT02_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RT02) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV01_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV01) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV01_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV01) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV01_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV01) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV02_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV02) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV02_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV02) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV02_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV02) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV03_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV03) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV03_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV03) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV03_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV03) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV04_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV04) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV04_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV04) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV04_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV04) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV05_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV05) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV05_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV05) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV05_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV05) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV06_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV06) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV06_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV06) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV06_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV06) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV07_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV07) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV07_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV07) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV07_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV07) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV08_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV08) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV08_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV08) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV08_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV08) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV09_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV09) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV09_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV09) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV09_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV09) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV10_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV10) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV10_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV10) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV10_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV10) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV11_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV11) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV11_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV11) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_RV11_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric corrected reflectance(RV11) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_T670_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric Correction Parameter (ACP T670) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_T670_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric Correction Parameter (ACP T670) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_T670_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric Correction Parameter (ACP T670) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_T865_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric Correction Parameter (ACP T865) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_T865_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric Correction Parameter (ACP T865) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_T865_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Atmospheric Correction Parameter (ACP T865) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CHLA_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Chlorophyll-a concentration (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CHLA_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Chlorophyll-a concentration (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CHLA_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Chlorophyll-a concentration (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR1_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR1) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR1_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR1) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR1_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR1) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR2_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR2) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR2_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR2) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR2_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR2) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR3_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR3) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR3_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR3) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR3_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR3) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR4_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR4) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR4_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR4) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR4_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR4) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR5_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR5) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR5_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR5) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR5_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR5) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR6_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR6) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR6_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR6) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR6_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR6) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR7_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR7) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR7_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR7) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR7_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR7) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR8_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR8) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR8_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR8) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR8_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR8) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR9_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR9) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR9_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR9) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFR9_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFR9) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFRA_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFRA) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFRA_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFRA) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFRA_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFRA) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFRH_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFRH) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFRH_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFRH) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFRH_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFRH) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFRL_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFRL) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFRL_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFRL) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFRL_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFRL) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFRM_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFRM) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFRM_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFRM) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CFRM_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Classified cloud fraction(CFRM) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CLTH_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Cloud top height (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CLTH_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Cloud top height (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CLTH_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Cloud top height (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CLTT_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Cloud top temperature (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CLTT_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Cloud top temperature (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CLTT_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Cloud top temperature (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CDOM_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Colored dissolved organic matter (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CDOM_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Colored dissolved organic matter (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CDOM_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Colored dissolved organic matter (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_EVI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Enhanced Vegetation Index (EVI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_EVI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Enhanced Vegetation Index (EVI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_EVI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Enhanced Vegetation Index (EVI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_FPAR_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Fraction of absorbed PAR (FAPAR) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_FPAR_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Fraction of absorbed PAR (FAPAR) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_FPAR_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Fraction of absorbed PAR (FAPAR) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_COTI_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Ice cloud optical thickess (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_COTI_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Ice cloud optical thickess (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_COTI_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Ice cloud optical thickess (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_LST_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Land surface temperature (LST) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_LST_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Land surface temperature (LST) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_LST_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Land surface temperature (LST) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_LAI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Leaf Area Index (LAI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_LAI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Leaf Area Index (LAI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_LAI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Leaf Area Index (LAI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_NDVI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized Difference Vegetation Index (NDVI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_NDVI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized Difference Vegetation Index (NDVI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_NDVI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized Difference Vegetation Index (NDVI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L380_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L380) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L380_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L380) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L380_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L380) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L412_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L412) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L412_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L412) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L412_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L412) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L443_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L443) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L443_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L443) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L443_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L443) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L490_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L490) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L490_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L490) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L490_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L490) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L530_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L530) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L530_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L530) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L530_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L530) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L565_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L565) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L565_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L565) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L565_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L565) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L670_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L670) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L670_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L670) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_L670_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Normalized water leaving radiance (NWLR L670) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_PAR_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Photosynthetically available radiation (PAR) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_PAR_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Photosynthetically available radiation (PAR) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_PAR_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Photosynthetically available radiation (PAR) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SST_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Sea surface temperature (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SST_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Sea surface temperature (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SST_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Sea surface temperature (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SDI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Shadow index (SI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SDI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Shadow index (SI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SDI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Shadow index (SI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SICE_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Snow and Ice Cover Extent (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SICE_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Snow and Ice Cover Extent (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SICE_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Snow and Ice Cover Extent (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SIST_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Snow and ice surface temperature (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SIST_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Snow and ice surface temperature (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SIST_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Snow and ice surface temperature (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SGSL_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Snow grain size of shallow layer (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SGSL_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Snow grain size of shallow layer (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_SGSL_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Snow grain size of shallow layer (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_TSM_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Suspended solid concentration (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_TSM_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Suspended solid concentration (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_TSM_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Suspended solid concentration (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_VRI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Vegetation Roughness Index (VRI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_VRI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Vegetation Roughness Index (VRI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_VRI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Binned Vegetation Roughness Index (VRI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CERW_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Water cloud effective radius (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CERW_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Water cloud effective radius (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_CERW_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Water cloud effective radius (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_COTW_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Water cloud optical thickness (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_COTW_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Water cloud optical thickness (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3B_COTW_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Binned Water cloud optical thickness (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_AGB_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Above Ground Biomass (AGB) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_AGB_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Above Ground Biomass (AGB) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_AGB_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Above Ground Biomass (AGB) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_ARAE_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Aerosol angstrom exponent (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_ARAE_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Aerosol angstrom exponent (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_ARAE_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Aerosol angstrom exponent (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_AROT_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Aerosol optical thickness (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_AROT_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Aerosol optical thickness (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_AROT_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Aerosol optical thickness (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_ASSA_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Aerosol Single Scattering Albedo over land (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_ASSA_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Aerosol Single Scattering Albedo over land (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RLAI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RLAI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RLAI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RLAI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RLAI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RLAI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RLAP_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RLAP) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RLAP_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RLAP) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RLAP_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RLAP) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RLAV_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RLAV) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RLAV_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RLAV) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RLAV_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RLAV) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RN08_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RN08) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RN08_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RN08) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RN08_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RN08) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RN11_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RN11) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RN11_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RN11) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RN11_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RN11) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RP01_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RP01) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RP01_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RP01) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RP01_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RP01) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RP02_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RP02) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RP02_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RP02) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RP02_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RP02) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RS01_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RS01) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RS01_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RS01) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RS01_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RS01) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RS02_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RS02) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RS02_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RS02) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RS02_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RS02) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RS03_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RS03) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RS03_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RS03) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RS03_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RS03) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RS04_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RS04) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RS04_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RS04) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RS04_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RS04) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RT01_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RT01) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RT01_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RT01) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RT01_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RT01) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RT02_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RT02) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RT02_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RT02) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RT02_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RT02) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV01_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV01) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV01_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV01) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV01_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV01) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV02_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV02) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV02_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV02) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV02_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV02) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV03_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV03) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV03_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV03) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV03_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV03) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV04_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV04) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV04_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV04) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV04_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV04) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV05_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV05) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV05_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV05) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV05_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV05) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV06_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV06) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV06_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV06) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV06_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV06) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV07_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV07) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV07_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV07) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV07_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV07) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV08_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV08) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV08_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV08) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV08_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV08) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV09_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV09) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV09_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV09) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV09_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV09) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV10_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV10) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV10_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV10) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV10_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV10) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV11_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV11) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV11_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV11) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_RV11_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(RV11) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SLZI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SLZI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SLZI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SLZI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SLZI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SLZI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SLZP_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SLZP) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SLZP_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SLZP) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SLZP_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SLZP) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SLZV_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SLZV) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SLZV_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SLZV) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SLZV_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SLZV) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SNZI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SNZI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SNZI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SNZI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SNZI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SNZI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SNZP_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SNZP) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SNZP_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SNZP) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SNZP_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SNZP) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SNZV_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SNZV) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SNZV_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SNZV) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SNZV_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric corrected reflectance(SNZV) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_T670_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric Correction Parameter (ACP T670) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_T670_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric Correction Parameter (ACP T670) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_T670_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric Correction Parameter (ACP T670) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_T865_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric Correction Parameter (ACP T865) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_T865_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric Correction Parameter (ACP T865) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_T865_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Atmospheric Correction Parameter (ACP T865) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CHLA_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Chlorophyll-a concentration (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CHLA_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Chlorophyll-a concentration (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CHLA_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Chlorophyll-a concentration (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR1_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR1) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR1_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR1) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR1_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR1) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR2_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR2) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR2_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR2) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR2_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR2) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR3_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR3) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR3_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR3) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR3_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR3) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR4_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR4) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR4_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR4) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR4_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR4) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR5_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR5) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR5_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR5) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR5_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR5) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR6_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR6) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR6_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR6) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR6_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR6) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR7_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR7) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR7_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR7) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR7_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR7) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR8_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR8) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR8_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR8) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR8_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR8) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR9_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR9) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR9_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR9) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFR9_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFR9) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFRA_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFRA) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFRA_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFRA) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFRA_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFRA) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFRH_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFRH) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFRH_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFRH) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFRH_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFRH) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFRL_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFRL) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFRL_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFRL) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFRL_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFRL) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFRM_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFRM) (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFRM_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFRM) (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CFRM_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Classified cloud fraction(CFRM) (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CLTH_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Cloud top height (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CLTH_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Cloud top height (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CLTH_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Cloud top height (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CLTT_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Cloud top temperature (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CLTT_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Cloud top temperature (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CLTT_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Cloud top temperature (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CDOM_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Colored dissolved organic matter (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CDOM_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Colored dissolved organic matter (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CDOM_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Colored dissolved organic matter (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_EVI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Enhanced Vegetation Index (EVI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_EVI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Enhanced Vegetation Index (EVI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_EVI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Enhanced Vegetation Index (EVI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_FPAR_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Fraction of absorbed PAR (FAPAR) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_FPAR_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Fraction of absorbed PAR (FAPAR) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_FPAR_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Fraction of absorbed PAR (FAPAR) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_COTI_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Ice cloud optical thickess (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_COTI_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Ice cloud optical thickess (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_COTI_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Ice cloud optical thickess (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_LST_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Land surface temperature (LST) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_LST_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Land surface temperature (LST) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_LST_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Land surface temperature (LST) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_LAI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Leaf Area Index (LAI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_LAI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Leaf Area Index (LAI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_LAI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Leaf Area Index (LAI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_NDVI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized Difference Vegetation Index (NDVI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_NDVI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized Difference Vegetation Index (NDVI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_NDVI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized Difference Vegetation Index (NDVI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L380_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L380) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L380_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L380) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L380_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L380) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L412_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L412) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L412_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L412) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L412_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L412) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L443_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L443) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L443_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L443) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L443_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L443) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L490_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L490) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L490_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L490) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L490_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L490) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L530_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L530) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L530_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L530) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L530_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L530) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L565_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L565) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L565_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L565) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L565_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L565) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L670_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L670) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L670_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L670) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_L670_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Normalized water leaving radiance (NWLR L670) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_PAR_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Photosynthetically available radiation (PAR) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_PAR_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Photosynthetically available radiation (PAR) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_PAR_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Photosynthetically available radiation (PAR) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SST_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Sea surface temperature (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SST_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Sea surface temperature (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SST_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Sea surface temperature (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SDI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Shadow index (SI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SDI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Shadow index (SI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SDI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Shadow index (SI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SICE_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Snow and Ice Cover Extent (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SICE_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Snow and Ice Cover Extent (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SICE_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Snow and Ice Cover Extent (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SIST_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Snow and ice surface temperature (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SIST_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Snow and ice surface temperature (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SIST_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Snow and ice surface temperature (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SGSL_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Snow grain size of shallow layer (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SGSL_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Snow grain size of shallow layer (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_SGSL_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Snow grain size of shallow layer (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_TSM_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Suspended solid concentration (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_TSM_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Suspended solid concentration (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_TSM_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Suspended solid concentration (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_VRI_1day_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Vegetation Roughness Index (VRI) (1-Day,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_VRI_1month_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Vegetation Roughness Index (VRI) (1-Month,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_VRI_8days_1-24deg",
+"title": "GCOM-C/SGLI L3 Map Vegetation Roughness Index (VRI) (8-Days,1/24 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CERW_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Water cloud effective radius (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CERW_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Water cloud effective radius (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_CERW_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Water cloud effective radius (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_COTW_1day_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Water cloud optical thickness (1-Day,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_COTW_1month_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Water cloud optical thickness (1-Month,1/12 deg)"
+},
+{
+"id": "GCOM-C_SGLI_L3M_COTW_8days_1-12deg",
+"title": "GCOM-C/SGLI L3 Map Water cloud optical thickness (8-Days,1/12 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L1B_TB",
+"title": "GCOM-W/AMSR2 L1B Brightness Temperature"
+},
+{
+"id": "GCOM-W_AMSR2_L1R_TB",
+"title": "GCOM-W/AMSR2 L1R Brightness Temperature"
+},
+{
+"id": "GCOM-W_AMSR2_L2_CLW",
+"title": "GCOM-W/AMSR2 L2 Cloud Liquid Water"
+},
+{
+"id": "GCOM-W_AMSR2_L2_WV",
+"title": "GCOM-W/AMSR2 L2 Integrated Water Vapor"
+},
+{
+"id": "GCOM-W_AMSR2_L2_PRC",
+"title": "GCOM-W/AMSR2 L2 Precipitation"
+},
+{
+"id": "GCOM-W_AMSR2_L2_SIC",
+"title": "GCOM-W/AMSR2 L2 Sea Ice Concentration"
+},
+{
+"id": "GCOM-W_AMSR2_L2_SST",
+"title": "GCOM-W/AMSR2 L2 Sea Surface Temperature"
+},
+{
+"id": "GCOM-W_AMSR2_L2_SSW",
+"title": "GCOM-W/AMSR2 L2 Sea Surface Wind Speed"
+},
+{
+"id": "GCOM-W_AMSR2_L2_SND",
+"title": "GCOM-W/AMSR2 L2 Snow Depth"
+},
+{
+"id": "GCOM-W_AMSR2_L2_SMC",
+"title": "GCOM-W/AMSR2 L2 Soil Moisture Content"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T10_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (10Ghz) (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T10_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (10Ghz) (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T10_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (10Ghz) (1-Month,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T10_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (10Ghz) (1-Month,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T18_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (18Ghz) (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T18_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (18Ghz) (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T18_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (18Ghz) (1-Month,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T18_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (18Ghz) (1-Month,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T23_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (23Ghz) (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T23_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (23Ghz) (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T23_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (23Ghz) (1-Month,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T23_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (23Ghz) (1-Month,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T36_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (36Ghz) (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T36_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (36Ghz) (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T36_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (36Ghz) (1-Month,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T36_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (36Ghz) (1-Month,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T06_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (6Ghz) (1-Day,0.1_deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T06_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (6Ghz) (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T06_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (6Ghz) (1-Month,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T06_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (6Ghz) (1-Month,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T07_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (7Ghz) (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T07_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (7Ghz) (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T07_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (7Ghz) (1-Month,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T07_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (7Ghz) (1-Month,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T89_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (89Ghz) (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T89_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (89Ghz) (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T89_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (89Ghz) (1-Month,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_T89_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Brightness Temperature (89Ghz) (1-Month,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_CLW_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Cloud Liquid Water (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_CLW_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Cloud Liquid Water (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_CLW_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Cloud Liquid Water (1-Month, 0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_CLW_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Cloud Liquid Water (1-Month, 0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_WV_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Integrated Water Vapor (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_WV_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Integrated Water Vapor (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_WV_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Integrated Water Vapor (1-Month, 0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_WV_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Integrated Water Vapor (1-Month, 0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_PRC_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Precipitation (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_PRC_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Precipitation (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_PRC_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Precipitation (1-Month, 0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_PRC_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Precipitation (1-Month, 0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SIC_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Sea Ice Concentration (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SIC_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Sea Ice Concentration (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SIC_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Sea Ice Concentration (1-Month, 0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SIC_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Sea Ice Concentration (1-Month, 0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SST_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Sea Surface Temperature (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SST_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Sea Surface Temperature (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SST_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Sea Surface Temperature (1-Month, 0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SST_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Sea Surface Temperature (1-Month, 0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SSW_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Sea Surface Wind Speed (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SSW_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Sea Surface Wind Speed (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SSW_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Sea Surface Wind Speed (1-Month,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SSW_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Sea Surface Wind Speed (1-Month,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SND_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Snow Depth (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SND_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Snow Depth (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SND_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Snow Depth (1-Month, 0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SND_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Snow Depth (1-Month, 0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SMC_1day_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Soil Moisture Content (1-Day,0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SMC_1day_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Soil Moisture Content (1-Day,0.25 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SMC_1month_0.1deg",
+"title": "GCOM-W/AMSR2 L3 Soil Moisture Content (1-Month, 0.1 deg)"
+},
+{
+"id": "GCOM-W_AMSR2_L3_SMC_1month_0.25deg",
+"title": "GCOM-W/AMSR2 L3 Soil Moisture Content (1-Month, 0.25 deg)"
+},
+{
+"id": "GPM_DPR_DPR_DD2",
+"title": "GPM/DPR DPR Environment Auxiliary"
+},
+{
+"id": "GPM_DPR_KaPR_DA2",
+"title": "GPM/DPR KaPR Environment Auxiliary"
+},
+{
+"id": "GPM_DPR_KuPR_DU2",
+"title": "GPM/DPR KuPR Environment Auxiliary"
+},
+{
+"id": "GPM_DPR_L2_DD2",
+"title": "GPM/DPR L2 Precipitation"
+},
+{
+"id": "GPM_DPR_L2_SLP",
+"title": "GPM/DPR L2 Spectral Latent Heating"
+},
+{
+"id": "GPM_DPR_L3_SLG_0.5deg",
+"title": "GPM/DPR L3 Gridded Orbital Spectral Latent Heating (0.5deg)"
+},
+{
+"id": "GPM_DPR_L3_D3D_1day_0.1deg",
+"title": "GPM/DPR L3 Precipitaion (1-Day,0.1deg)"
+},
+{
+"id": "GPM_DPR_L3_D3Q_1day_0.25deg",
+"title": "GPM/DPR L3 Precipitaion (1-Day,0.25deg)"
+},
+{
+"id": "GPM_DPR_L3_D3M_1month_0.25deg",
+"title": "GPM/DPR L3 Precipitaion (1-Month,0.25deg)"
+},
+{
+"id": "GPM_DPR_L3_SLM_1month_0.5deg",
+"title": "GPM/DPR L3 Spectral Latent Heating (1-Month,0.5deg)"
+},
+{
+"id": "GPM_DPR_KaPR_L1B_DAB",
+"title": "GPM/DPR/KaPR L1B Received Power"
+},
+{
+"id": "GPM_DPR_KaPR_L2_DA2",
+"title": "GPM/DPR/KaPR L2 Precipitation"
+},
+{
+"id": "GPM_DPR_KuPR_L1B_DUB",
+"title": "GPM/DPR/KuPR L1B Received Power"
+},
+{
+"id": "GPM_DPR_KuPR_L2_DU2",
+"title": "GPM/DPR/KuPR L2 Precipitation"
+},
+{
+"id": "GSMaP_Hourly",
+"title": "GSMaP(Hourly)"
+},
+{
+"id": "GSMaP_Monthly",
+"title": "GSMaP(Monthly)"
+},
+{
+"id": "JERS-1_SAR_L0_Data",
+"title": "JERS-1/SAR L0 SAR Data"
+},
+{
+"id": "JERS-1_SAR_L2.1_Data",
+"title": "JERS-1/SAR L2.1 SAR Data"
+},
+{
+"id": "JERS-1_OPS_L2_SWIR",
+"title": "JSRS-1/OPS L2 Short Wave Infrared Radiometer Data"
+},
+{
+"id": "JERS-1_OPS_L2_VNIR",
+"title": "JSRS-1/OPS L2 Visible and Near Infrared Radiometer Data"
+},
+{
+"id": "MESSR_MOS-1_L2_Data",
+"title": "MESSR/MOS-1 L2 Data"
+},
+{
+"id": "MESSR_MOS-1b_L2_Data",
+"title": "MESSR/MOS-1b L2 Data"
+},
+{
+"id": "TRMM_PR_L1_1B21",
+"title": "TRMM/PR L1 Received Power"
+},
+{
+"id": "TRMM_PR_L1_1C21",
+"title": "TRMM/PR L1 Reflectiveities"
+},
+{
+"id": "TRMM_PR_L2_2A23",
+"title": "TRMM/PR L2 Qualitative"
+},
+{
+"id": "TRMM_PR_L2_2A25",
+"title": "TRMM/PR L2 Rainfall Profile"
+},
+{
+"id": "TRMM_PR_L2_2H25",
+"title": "TRMM/PR L2 Spectral Latent Heating"
+},
+{
+"id": "TRMM_PR_L2_2A21",
+"title": "TRMM/PR L2 Surface Cross Section"
+},
+{
+"id": "TRMM_PR_L3_3G25",
+"title": "TRMM/PR L3 Gridded Orbital Spectral Latent Heating"
+},
+{
+"id": "TRMM_PR_L3_3A25",
+"title": "TRMM/PR L3 Monthly Rainfall"
+},
+{
+"id": "TRMM_PR_L3_3H25",
+"title": "TRMM/PR L3 Monthly Spectral Latent Heating"
+},
+{
+"id": "TRMM_PR_L3_3A26",
+"title": "TRMM/PR L3 Monthly Surface Rain"
+},
+{
+"id": "TRMM_GPMFormat_PR_KuPR_DU2",
+"title": "TRMM_GPMFormat/PR KuPR Environment Auxiliary"
+},
+{
+"id": "TRMM_GPMFormat_PR_L2_SLP",
+"title": "TRMM_GPMFormat/PR L2 Spectral Latent Heating Profiles"
+},
+{
+"id": "TRMM_GPMFormat_PR_L3_SLG_0.5deg",
+"title": "TRMM_GPMFormat/PR L3 Gridded Orbital Spectral Latent Heating (0.5deg)"
+},
+{
+"id": "TRMM_GPMFormat_PR_L3_D3D_1day_0.1deg",
+"title": "TRMM_GPMFormat/PR L3 Precipitaion (1-Day,0.1deg)"
+},
+{
+"id": "TRMM_GPMFormat_PR_L3_D3Q_1day_0.25deg",
+"title": "TRMM_GPMFormat/PR L3 Precipitaion (1-Day,0.25deg)"
+},
+{
+"id": "TRMM_GPMFormat_PR_L3_D3M_1month_0.25deg",
+"title": "TRMM_GPMFormat/PR L3 Precipitaion (1-Month,0.25deg)"
+},
+{
+"id": "TRMM_GPMFormat_PR_L3_SLM_1month_0.5deg",
+"title": "TRMM_GPMFormat/PR L3 Spectral Latent Heating (1-Month,0.5deg)"
+},
+{
+"id": "TRMM_GPMFormat_PR_KuPR_L1B_DUB",
+"title": "TRMM_GPMFormat/PR/KuPR L1B Received Power"
+},
+{
+"id": "TRMM_GPMFormat_PR_KuPR_L2_DU2",
+"title": "TRMM_GPMFormat/PR/KuPR L2 Precipitation"
+}
+]

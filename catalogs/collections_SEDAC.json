@@ -1,0 +1,1186 @@
+[
+{
+"id": "CIESIN_SEDAC_ESI_2000.v2000.00",
+"title": "2000 Pilot Environmental Sustainability Index (ESI)"
+},
+{
+"id": "CIESIN_SEDAC_ESI_2001.v2001.00",
+"title": "2001 Environmental Sustainability Index (ESI)"
+},
+{
+"id": "CIESIN_SEDAC_ESI_2002.v2002.00",
+"title": "2002 Environmental Sustainability Index (ESI)"
+},
+{
+"id": "CIESIN_SEDAC_ESI_2005.v2005.00",
+"title": "2005 Environmental Sustainability Index (ESI)"
+},
+{
+"id": "CIESIN_SEDAC_EPI_2008.v2008.00",
+"title": "2008 Environmental Performance Index (EPI)"
+},
+{
+"id": "CIESIN_SEDAC_EPI_2010.v2010.00",
+"title": "2010 Environmental Performance Index (EPI)"
+},
+{
+"id": "CIESIN_SEDAC_EPI_2012.v2012.00",
+"title": "2012 Environmental Performance Index and Pilot Trend Environmental Performance Index"
+},
+{
+"id": "CIESIN_SEDAC_EPI_2014.v2014.00",
+"title": "2014 Environmental Performance Index (EPI)"
+},
+{
+"id": "CIESIN_SEDAC_USPAT_USUEXT2015.v1.00",
+"title": "2015 Urban Extents from VIIRS and MODIS for the Continental U.S. Using Machine Learning Methods"
+},
+{
+"id": "CIESIN_SEDAC_EPI_2016.v2016.00",
+"title": "2016 Environmental Performance Index (EPI)"
+},
+{
+"id": "CIESIN_SEDAC_EPI_2018.v2018.00",
+"title": "2018 Environmental Performance Index (EPI)"
+},
+{
+"id": "CIESIN_SEDAC_EPI_2020.v2020.00",
+"title": "2020 Environmental Performance Index (EPI)"
+},
+{
+"id": "CIESIN_SEDAC_EPI_2022.v2022.00",
+"title": "2022 Environmental Performance Index (EPI)"
+},
+{
+"id": "CIESIN_SEDAC_DEDC_ACE_V2.v2.00",
+"title": "Altimeter Corrected Elevations, Version 2 (ACE2)"
+},
+{
+"id": "CIESIN_SEDAC_SDEI_GEHE.v1.00",
+"title": "Annual Global High-Resolution Extreme Heat Estimates (GEHE), 1983-2016"
+},
+{
+"id": "CIESIN_SEDAC_AQDH_PM25COM_US_1KM.v1.00",
+"title": "Annual Mean PM2.5 Components (EC, NH4, NO3, OC, SO4) 50m Urban and 1km Non-Urban Area Grids for Contiguous U.S., 2000-2019 v1"
+},
+{
+"id": "CIESIN_SEDAC_AQDH_TRACE_US_1KM.v1.00",
+"title": "Annual Mean PM2.5 Components Trace Elements (TEs) 50m Urban and 1km Non-Urban Area Grids for Contiguous U.S., 2000-2019, v1"
+},
+{
+"id": "CIESIN_SEDAC_SDEI_APM25_URBAN.v1.00",
+"title": "Annual PM2.5 Concentrations for Countries and Urban Areas, 1998-2016"
+},
+{
+"id": "CIESIN_SEDAC_ANTHROMES_v1.v1.00",
+"title": "Anthropogenic Biomes of the World, Version 1"
+},
+{
+"id": "CIESIN_SEDAC_ANTHROMES_v2_1700.v2.00",
+"title": "Anthropogenic Biomes of the World, Version 2: 1700"
+},
+{
+"id": "CIESIN_SEDAC_ANTHROMES_v2_1800.v2.00",
+"title": "Anthropogenic Biomes of the World, Version 2: 1800"
+},
+{
+"id": "CIESIN_SEDAC_ANTHROMES_v2_1900.v2.00",
+"title": "Anthropogenic Biomes of the World, Version 2: 1900"
+},
+{
+"id": "CIESIN_SEDAC_ANTHROMES_v2_2000.v2.00",
+"title": "Anthropogenic Biomes of the World, Version 2: 2000"
+},
+{
+"id": "CIESIN_SEDAC_HASO2_SO2_1850-2005.v2.86",
+"title": "Anthropogenic Sulfur Dioxide Emissions, 1850-2005: National and Regional Data Set by Source Category, Version 2.86"
+},
+{
+"id": "CIESIN_SEDAC_ACRP_1980_SAS.v1.00",
+"title": "Archive of Census Related Products (ACRP): 1980 SAS Transport Files"
+},
+{
+"id": "CIESIN_SEDAC_ACRP_1990_CBS.v1.00",
+"title": "Archive of Census Related Products (ACRP): 1990 Census Block Statistics"
+},
+{
+"id": "CIESIN_SEDAC_ACRP_1990_EMF.v1.00",
+"title": "Archive of Census Related Products (ACRP): 1990 Enhanced Migration Files"
+},
+{
+"id": "CIESIN_SEDAC_ACRP_1990_PBF.v1.00",
+"title": "Archive of Census Related Products (ACRP): 1990 Public Use Microdata Sample Areas (PUMA) Boundary Files"
+},
+{
+"id": "CIESIN_SEDAC_ACRP_1990_SAS.v1.00",
+"title": "Archive of Census Related Products (ACRP): 1990 SAS Transport Files"
+},
+{
+"id": "CIESIN_SEDAC_ACRP_1990_SEF.v1.00",
+"title": "Archive of Census Related Products (ACRP): 1990 Standard Extract Files"
+},
+{
+"id": "CIESIN_SEDAC_ACRP_1990_SI.v1.00",
+"title": "Archive of Census Related Products (ACRP): 1990 Street Intersections"
+},
+{
+"id": "CIESIN_SEDAC_ACRP_1990_STF1B.v1.00",
+"title": "Archive of Census Related Products (ACRP): 1990 Summary Tape File (STF1B)"
+},
+{
+"id": "CIESIN_SEDAC_ACRP_1990_ZIPEF.v1.00",
+"title": "Archive of Census Related Products (ACRP): 1990 ZIP Equivalency Files"
+},
+{
+"id": "CIESIN_SEDAC_ACRP_1992_BF.v1.00",
+"title": "Archive of Census Related Products (ACRP): 1992 Boundary Files"
+},
+{
+"id": "CIESIN_SEDAC_SSF_HWSPDCMv2.v2.00",
+"title": "ATSDR Hazardous Waste Site Polygon Data with CIESIN Modifications, Version 2"
+},
+{
+"id": "CIESIN_SEDAC_SSF_HWSPDv2.v2.00",
+"title": "ATSDR Hazardous Waste Site Polygon Data, Version 2"
+},
+{
+"id": "CIESIN_SEDAC_LULC_CAMVEGLCCCS.v1.00",
+"title": "Central American Vegetation/Land Cover Classification and Conservation Status"
+},
+{
+"id": "CIESIN_SEDAC_CD_STAT_1949-1990.v1.00",
+"title": "China Dimensions Data Collection: Agricultural Statistics of the People's Republic of China: 1949-1990"
+},
+{
+"id": "CIESIN_SEDAC_CD_BIB_ADM_GEOG.v1.00",
+"title": "China Dimensions Data Collection: Bibliography of Chinese Administrative Geography"
+},
+{
+"id": "CIESIN_SEDAC_CD_ADM_GIS_JUL90.v1.00",
+"title": "China Dimensions Data Collection: China Administrative Regions GIS Data: 1:1M, County Level, 1 July 1990"
+},
+{
+"id": "CIESIN_SEDAC_CD_ ADM_GIS_1990.v1.01",
+"title": "China Dimensions Data Collection: China Administrative Regions GIS Data: 1:1M, County Level, 1990"
+},
+{
+"id": "CIESIN_SEDAC_CD_CTY_ECON_YRBK.v1.00",
+"title": "China Dimensions Data Collection: China County-Level Data from Provincial Economic Yearbooks, Keyed to 1:1M GIS Map"
+},
+{
+"id": "CIESIN_SEDAC_CD_CTY_POPAG_GIS.v1.00",
+"title": "China Dimensions Data Collection: China County-Level Data on Population (Census) and Agriculture, Keyed to 1:1M GIS Map"
+},
+{
+"id": "CIESIN_SEDAC_CD_MAPS_BIBDB.v1.00",
+"title": "China Dimensions Data Collection: China Maps Bibliographic Database"
+},
+{
+"id": "CIESIN_SEDAC_CD_HOS_EPI_50-85.v1.00",
+"title": "China Dimensions Data Collection: Chinese County-Level Data on Hospitals and Epidemiology Stations, 1950-1985"
+},
+{
+"id": "CIESIN_SEDAC_CD_FUNDGIS.v1.00",
+"title": "China Dimensions Data Collection: Fundamental GIS: Digital Chart of China, 1:1M, Version 1"
+},
+{
+"id": "CIESIN_SEDAC_CD_GBCODES.v1.00",
+"title": "China Dimensions Data Collection: GuoBiao (GB) Codes for the Administrative Divisions of the Peoples Republic of China"
+},
+{
+"id": "CIESIN_SEDAC_CD_AGENDA21.v1.00",
+"title": "China Dimensions Data Collection: Priority Programme for China's Agenda 21"
+},
+{
+"id": "CIESIN_SEDAC_GROADS_CCRDSv1.v1.00",
+"title": "CODATA Catalog of Roads Data Sets, Version 1"
+},
+{
+"id": "CIESIN_SEDAC_CESIC_2004EVI.v2004.00",
+"title": "Compendium of Environmental Sustainability Indicator Collections: 2004 Environmental Vulnerability Index (EVI)"
+},
+{
+"id": "CIESIN_SEDAC_CESIC_2006NFA.v2006.00",
+"title": "Compendium of Environmental Sustainability Indicator Collections: 2006 National Footprint Accounts (NFA)"
+},
+{
+"id": "CIESIN_SEDAC_CESIC_ANC.v1.00",
+"title": "Compendium of Environmental Sustainability Indicator Collections: Ancillary Data"
+},
+{
+"id": "CIESIN_SEDAC_CESIC_COMPLETE_V11.v1.01",
+"title": "Compendium of Environmental Sustainability Indicator Collections: Complete Collection, Version 1.1"
+},
+{
+"id": "CIESIN_SEDAC_CESIC_RIOJO.v1.00",
+"title": "Compendium of Environmental Sustainability Indicator Collections: Rio to Johannesburg Dashboard of Sustainable Indicators"
+},
+{
+"id": "CIESIN_SEDAC_CESIC_WELLBEING.v1.00",
+"title": "Compendium of Environmental Sustainability Indicator Collections: The Wellbeing of Nations"
+},
+{
+"id": "CIESIN_SEDAC_AQDH_CTMAP_2003_2018.v1.00",
+"title": "Country Trends in Major Air Pollutants"
+},
+{
+"id": "CIESIN_SEDAC_SDP_CGDP_A1A2B1B2.v1.00",
+"title": "Country-Level GDP and Downscaled Projections Based on the SRES A1, A2, B1, and B2 Marker Scenarios, 1990-2100"
+},
+{
+"id": "CIESIN_SEDAC_SDP_CPOP_A1B1A2.v1.00",
+"title": "Country-Level Population and Downscaled Projections Based on the SRES A1, B1, and  A2 Scenarios, 1990-2100"
+},
+{
+"id": "CIESIN_SEDAC_SDP_CPOP_B2.v1.00",
+"title": "Country-Level Population and Downscaled Projections Based on the SRES B2 Scenario, 1990-2100"
+},
+{
+"id": "CIESIN_SEDAC_AQDH_DAO3_US_1KM.v1.00",
+"title": "Daily 8-Hour Maximum and Annual O3 Concentrations for the Contiguous United States, 1-km Grids, v1 (2000 - 2016)"
+},
+{
+"id": "CIESIN_SEDAC_AQDH_DAO3_US_1KM_1.10.v1.10",
+"title": "Daily 8-Hour Maximum and Annual O3 Concentrations for the Contiguous United States, 1-km Grids, Version 1.10 (2000-2016)"
+},
+{
+"id": "CIESIN_SEDAC_AQDH_NO2_US_1KM.v1.00",
+"title": "Daily and Annual NO2 Concentrations for the Contiguous United States, 1-km Grids, v1 (2000 - 2016)"
+},
+{
+"id": "CIESIN_SEDAC_AQDH_DANO2_US_1KM_1.10.v1.10",
+"title": "Daily and Annual NO2 Concentrations for the Contiguous United States, 1-km Grids, Version 1.10 (2000-2016)"
+},
+{
+"id": "CIESIN_SEDAC_AQDH_DAPM25_US_1KM.v1.0",
+"title": "Daily and Annual PM2.5 Concentrations for the Contiguous United States, 1-km Grids, v1 (2000 - 2016)"
+},
+{
+"id": "CIESIN_SEDAC_AQDH_DAPM25_US_1KM_1.10.v1.10",
+"title": "Daily and Annual PM2.5 Concentrations for the Contiguous United States, 1-km Grids, Version 1.10 (2000-2016)"
+},
+{
+"id": "CIESIN_SEDAC_AQDH_PM25O3NO2_ZIPCODE.v1.00",
+"title": "Daily and Annual PM2.5, O3, and NO2 Concentrations at ZIP Codes for the Contiguous U.S., 2000-2016, v1.0"
+},
+{
+"id": "CIESIN_SEDAC_USPAT_DESLUIS.v1.00",
+"title": "Dar es Salaam Land Use and Informal Settlement Data Set"
+},
+{
+"id": "CIESIN_SEDAC_LULC_DT1_V1.v1.00",
+"title": "Development Threat Index"
+},
+{
+"id": "CIESIN_SEDAC_CROPCLIM_EFCCGPSRES.v1.00",
+"title": "Effects of Climate Change on Global Food Production from SRES Emissions and Socioeconomic Scenarios"
+},
+{
+"id": "CIESIN_SEDAC_FOOD_FIH_V1.v1.00",
+"title": "Food Insecurity Hotspots Data Set"
+},
+{
+"id": "CIESIN_SEDAC_PEND_GDIS.v1.00",
+"title": "Geocoded Disasters (GDIS) Dataset"
+},
+{
+"id": "CIESIN_SEDAC_GEO-MEX_GIS_SMI.v1.00",
+"title": "Georeferenced Population Datasets of Mexico (GEO-MEX): GIS of Mexican States, Municipalities and Islands"
+},
+{
+"id": "CIESIN_SEDAC_GEO-MEX_POPDBMEX.v1.00",
+"title": "Georeferenced Population Datasets of Mexico (GEO-MEX): Population Database of Mexico"
+},
+{
+"id": "CIESIN_SEDAC_GEO-MEX_RASTERGIS.v1.00",
+"title": "Georeferenced Population Datasets of Mexico (GEO-MEX): Raster Based GIS Coverage of Mexican Population"
+},
+{
+"id": "CIESIN_SEDAC_GEO-MEX_URBANGIS.v1.00",
+"title": "Georeferenced Population Datasets of Mexico (GEO-MEX): Urban Place GIS Coverage of Mexico"
+},
+{
+"id": "CIESIN_SEDAC_GEO-MEX_URB_TSER.v1.00",
+"title": "Georeferenced Population Datasets of Mexico (GEO-MEX): Urban Place Time-Series Population of Mexico"
+},
+{
+"id": "CIESIN_SEDAC_PD_PPUSCASRCSSP.v1.00",
+"title": "Georeferenced U.S. County-Level Population Projections, Total and by Sex, Race and Age, Based on the SSPs, 2020-2100"
+},
+{
+"id": "CIESIN_SEDAC_PD_SSPBSYR_1km.v1.01",
+"title": "Global 1-km Downscaled Population Base Year and Projection Grids Based on the Shared Socioeconomic Pathways, Revision 01"
+},
+{
+"id": "CIESIN_SEDAC_SSP_1-kmDULEPBYGSSP.v1.00",
+"title": "Global 1-km Downscaled Urban Land Extent Projection and Base Year Grids by SSP Scenarios, 2000-2100"
+},
+{
+"id": "CIESIN_SEDAC_SDP_GGDP_B2.v1.00",
+"title": "Global 15 x 15 Minute Grids of the Downscaled GDP Based on the SRES B2 Scenario, 1990 and 2025"
+},
+{
+"id": "CIESIN_SEDAC_SDP_GPOP_B2.v1.00",
+"title": "Global 15 x 15 Minute Grids of the Downscaled Population Based on the SRES B2 Scenario, 1990 and 2025"
+},
+{
+"id": "CIESIN_SEDAC_SDEI_NO2.v1.00",
+"title": "Global 3-Year Running Mean Ground-Level Nitrogen Dioxide (NO2) Grids from GOME, SCIAMACHY and GOME-2"
+},
+{
+"id": "CIESIN_SEDAC_AGLANDS_CROP2000.v1.00",
+"title": "Global Agricultural Lands: Croplands, 2000"
+},
+{
+"id": "CIESIN_SEDAC_AGLANDS_PAS2000.v1.00",
+"title": "Global Agricultural Lands: Pastures, 2000"
+},
+{
+"id": "CIESIN_SEDAC_SDEI_GWRPM25_MMSAOD_4GL03.v4.03",
+"title": "Global Annual PM2.5 Grids from MODIS, MISR and SeaWiFS Aerosol Optical Depth (AOD), 1998-2019, V4.GL.03"
+},
+{
+"id": "CIESIN_CHRR_NDH_CYCLONE_HFD.v1.00",
+"title": "Global Cyclone Hazard Frequency and Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_CYCLONE_MRD.v1.00",
+"title": "Global Cyclone Mortality Risks and Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_CYCLONE_PELRD.v1.00",
+"title": "Global Cyclone Proportional Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_CHRR_NDH_CYCLONE_TELRD.v1.00",
+"title": "Global Cyclone Total Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_SEDAC_SPATIALECON_LGII_V1.v1.00",
+"title": "Global Database of Light-based Geospatial Income Inequality (LGII) Measures, Version 1"
+},
+{
+"id": "CIESIN_SEDAC_LULC_DPI.v1.00",
+"title": "Global Development Potential Indices"
+},
+{
+"id": "CIESIN_CHRR_NDH_DROUGHT_HFD.v1.00",
+"title": "Global Drought Hazard Frequency and Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_DROUGHT_MRD.v1.00",
+"title": "Global Drought Mortality Risks and Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_DROUGHT_PELRD.v1.00",
+"title": "Global Drought Proportional Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_CHRR_NDH_DROUGHT_TELRD.v1.00",
+"title": "Global Drought Total Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_CHRR_NDH_EQUAKE_PGA.v1.00",
+"title": "Global Earthquake Hazard Distribution - Peak Ground Acceleration"
+},
+{
+"id": "CIESIN_CHRR_NDH_EQUAKE_HFD.v1.00",
+"title": "Global Earthquake Hazard Frequency and Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_EQUAKE_MRD.v1.00",
+"title": "Global Earthquake Mortality Risks and Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_EQUAKE_PELRD.v1.00",
+"title": "Global Earthquake Proportional Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_CHRR_NDH_EQUAKE_TELRD.v1.00",
+"title": "Global Earthquake Total Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_SEDAC_PD_NETMIG_1970_2000.v1.00",
+"title": "Global Estimated Net Migration Grids by Decade: 1970-2000"
+},
+{
+"id": "CIESIN_SEDAC_FERMANv1_NAPP.v1.00",
+"title": "Global Fertilizer and Manure, Version 1: Nitrogen Fertilizer Application"
+},
+{
+"id": "CIESIN_SEDAC_FERMANv1_NMAN.v1.00",
+"title": "Global Fertilizer and Manure, Version 1: Nitrogen in Manure Production"
+},
+{
+"id": "CIESIN_SEDAC_FERMANv1_PAPP.v1.00",
+"title": "Global Fertilizer and Manure, Version 1: Phosphorus Fertilizer Application"
+},
+{
+"id": "CIESIN_SEDAC_FERMANv1_PMAN.v1.00",
+"title": "Global Fertilizer and Manure, Version 1: Phosphorus in Manure Production"
+},
+{
+"id": "CIESIN_SEDAC_SDEI_GFED4_CLTAB.v1.00",
+"title": "Global Fire Emissions Indicators, Country-Level Tabular Data: 1997-2015"
+},
+{
+"id": "CIESIN_SEDAC_SDEI_GFED4_GRIDS.v1.00",
+"title": "Global Fire Emissions Indicators, Grids: 1997-2015"
+},
+{
+"id": "CIESIN_CHRR_NDH_FLOOD_HFD.v1.00",
+"title": "Global Flood Hazard Frequency and Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_FLOOD_MRD.v1.00",
+"title": "Global Flood Mortality Risks and Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_FLOOD_PELRD.v1.00",
+"title": "Global Flood Proportional Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_CHRR_NDH_FLOOD_TELRD.v1.00",
+"title": "Global Flood Total Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_SEDAC_LULC_PUEXPANS_2030.v1.00",
+"title": "Global Grid of Probabilities of Urban Expansion to 2030"
+},
+{
+"id": "CIESIN_SEDAC_SPATIALECON_GECON4.v4.00",
+"title": "Global Gridded Geographically Based Economic Data (G-Econ), Version 4"
+},
+{
+"id": "CIESIN_SEDAC_PMP_GRDI_2010_2020.v1.00",
+"title": "Global Gridded Relative Deprivation Index (GRDI), Version 1"
+},
+{
+"id": "CIESIN_SEDAC_SDEI_UHE.v1.00",
+"title": "Global High Resolution Daily Extreme Urban Heat Exposure (UHE-Daily), 1983-2016"
+},
+{
+"id": "CIESIN_SEDAC_ULANDSAT_HBASE_V1.v1.00",
+"title": "Global Human Built-up And Settlement Extent (HBASE) Dataset From Landsat"
+},
+{
+"id": "CIESIN_SEDAC_LULC_HMTS.v1.00",
+"title": "Global Human Modification of Terrestrial Systems"
+},
+{
+"id": "CIESIN_SEDAC_GHSL_PBSMOD.v1.0",
+"title": "Global Human Settlement Layer: Population and Built-Up Estimates, and Degree of Urbanization Settlement Model Grid"
+},
+{
+"id": "CIESIN_CHRR_NDH_LSLIDE_HD.v1.00",
+"title": "Global Landslide Hazard Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_LSLIDE_MRD.v1.00",
+"title": "Global Landslide Mortality Risks and Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_LSLIDE_PELRD.v1.00",
+"title": "Global Landslide Proportional Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_CHRR_NDH_LSLIDE_TELRD.v1.00",
+"title": "Global Landslide Total Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_SEDAC_ULANDSAT_GMIS_V1.v1.00",
+"title": "Global Man-made Impervious Surface (GMIS) Dataset From Landsat"
+},
+{
+"id": "CIESIN_SEDAC_LULC_MANGROVES_2000.v1.00",
+"title": "Global Mangrove Forests Distribution, 2000"
+},
+{
+"id": "CIESIN_SEDAC_USPAT_BSCATTER_1993_2020.v1.00",
+"title": "Global Monthly and Seasonal Urban and Land Backscatter Time Series, 1993-2020"
+},
+{
+"id": "CIESIN_CHRR_NDH_MULTI_HFD.v1.00",
+"title": "Global Multihazard Frequency and Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_MULTI_MRD.v1.00",
+"title": "Global Multihazard Mortality Risks and Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_MULTI_PELRD.v1.00",
+"title": "Global Multihazard Proportional Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_CHRR_NDH_MULTI_TELRD.v1.00",
+"title": "Global Multihazard Total Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_SEDAC_PD_SSPBSYR_1_8th.v1.01",
+"title": "Global One-Eighth Degree Population Base Year and Projection Grids Based on the Shared Socioeconomic Pathways, Revision 01"
+},
+{
+"id": "CIESIN_SEDAC_SSP_1-8thDULEPBYGSSP.v1.00",
+"title": "Global One-Eighth Degree Urban Land Extent Projection and Base Year Grids by SSP Scenarios, 2000-2100"
+},
+{
+"id": "CIESIN_SEDAC_FERMANv1_PESTG_V1.01.v1.01",
+"title": "Global Pesticide Grids (PEST-CHEMGRIDS), Version 1.01"
+},
+{
+"id": "CIESIN_SEDAC_PD_POPCGTSE.v1.00",
+"title": "Global Population Count Grid Time Series Estimates"
+},
+{
+"id": "CIESIN_SEDAC_PD_POPDGTSE.v1.00",
+"title": "Global Population Density Grid Time Series Estimates"
+},
+{
+"id": "CIESIN_SEDAC_GRANDv1_DAMS.v1.01",
+"title": "Global Reservoir and Dam Database, Version 1 (GRanDv1): Dams, Revision 01"
+},
+{
+"id": "CIESIN_SEDAC_GRANDv1_RESERVOIRS.v1.01",
+"title": "Global Reservoir and Dam Database, Version 1 (GRanDv1): Reservoirs, Revision 01"
+},
+{
+"id": "CIESIN_SEDAC_GROADS_V1.v1.00",
+"title": "Global Roads Open Access Data Set, Version 1 (gROADSv1)"
+},
+{
+"id": "CIESIN_SEDAC_GRUMPv1_COASTLINES.v1.00",
+"title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Coastlines"
+},
+{
+"id": "CIESIN_SEDAC_GRUMPv1_LGUAG.v1.00",
+"title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Land and Geographic Unit Area Grids"
+},
+{
+"id": "CIESIN_SEDAC_GRUMPv1_NADMINBND.v1.00",
+"title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): National Administrative Boundaries"
+},
+{
+"id": "CIESIN_SEDAC_GRUMPv1_NATIDEN.v1.00",
+"title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): National Identifier Grid"
+},
+{
+"id": "CIESIN_SEDAC_GRUMPv1_POPCOUNT.v1.00",
+"title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Population Count Grid"
+},
+{
+"id": "CIESIN_SEDAC_GRUMPv1_POPDENS.v1.00",
+"title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Population Density Grid"
+},
+{
+"id": "CIESIN_SEDAC_GRUMPv1_STLMNT.v1.00",
+"title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Settlement Points"
+},
+{
+"id": "CIESIN_SEDAC_GRUMPv1_STLMNT01.v1.01",
+"title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Settlement Points, Revision 01"
+},
+{
+"id": "CIESIN_SEDAC_GRUMPv1_EXT02.v1.02",
+"title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Urban Extent Polygons, Revision 02"
+},
+{
+"id": "CIESIN_SEDAC_GRUMPv1_EXT.v1.00",
+"title": "Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Urban Extents Grid"
+},
+{
+"id": "CIESIN_SEDAC_PMP_IMR_V2.01.v2.01",
+"title": "Global Subnational Infant Mortality Rates, Version 2.01"
+},
+{
+"id": "CIESIN_SEDAC_SDEI_LST2013.v1.00",
+"title": "Global Summer Land Surface Temperature (LST) Grids, 2013"
+},
+{
+"id": "CIESIN_SEDAC_SDEI_UHI2013.v1.00",
+"title": "Global Urban Heat Island (UHI) Data Set, 2013"
+},
+{
+"id": "CIESIN_CHRR_NDH_VOLCANO_HFD.v1.00",
+"title": "Global Volcano Hazard Frequency and Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_VOLCANO_MRD.v1.00",
+"title": "Global Volcano Mortality Risks and Distribution"
+},
+{
+"id": "CIESIN_CHRR_NDH_VOLCANO_PELRD.v1.00",
+"title": "Global Volcano Proportional Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_CHRR_NDH_VOLCANO_TELRD.v1.00",
+"title": "Global Volcano Total Economic Loss Risk Deciles"
+},
+{
+"id": "CIESIN_SEDAC_GPWv3_CENTROIDS.v3.00",
+"title": "Gridded Population of the World, Version 3 (GPWv3): Centroids"
+},
+{
+"id": "CIESIN_SEDAC_GPWv3_COASTLINES.v3.00",
+"title": "Gridded Population of the World, Version 3 (GPWv3): Coastlines"
+},
+{
+"id": "CIESIN_SEDAC_GPWv3_LANDGEOG.v3.00",
+"title": "Gridded Population of the World, Version 3 (GPWv3): Land and Geographic Unit Area Grids"
+},
+{
+"id": "CIESIN_SEDAC_GPWv3_NADMINBND.v3.00",
+"title": "Gridded Population of the World, Version 3 (GPWv3): National Administrative Boundaries"
+},
+{
+"id": "CIESIN_SEDAC_GPWv3_NATIDEN.v3.00",
+"title": "Gridded Population of the World, Version 3 (GPWv3): National Identifier Grid"
+},
+{
+"id": "CIESIN_SEDAC_GPWv3_POPCOUNT.v3.00",
+"title": "Gridded Population of the World, Version 3 (GPWv3): Population Count Grid"
+},
+{
+"id": "CIESIN_SEDAC_GPWv3_POPCOUNTFE.v3.00",
+"title": "Gridded Population of the World, Version 3 (GPWv3): Population Count Grid, Future Estimates"
+},
+{
+"id": "CIESIN_SEDAC_GPWv3_POPDENS.v3.00",
+"title": "Gridded Population of the World, Version 3 (GPWv3): Population Density Grid"
+},
+{
+"id": "CIESIN_SEDAC_GPWv3_POPDENSFE.v3.00",
+"title": "Gridded Population of the World, Version 3 (GPWv3): Population Density Grid, Future Estimates"
+},
+{
+"id": "CIESIN_SEDAC_GPWv3_SUBADBND.v3.00",
+"title": "Gridded Population of the World, Version 3 (GPWv3): Subnational Administrative Boundaries"
+},
+{
+"id": "CIESIN_SEDAC_GPWv4_ADUCPPE_R11.v4.11",
+"title": "Gridded Population of the World, Version 4 (GPWv4): Administrative Unit Center Points with Population Estimates, Revision 11"
+},
+{
+"id": "CIESIN_SEDAC_GPWv4_BDC_R11.v4.11",
+"title": "Gridded Population of the World, Version 4 (GPWv4): Basic Demographic Characteristics, Revision 11"
+},
+{
+"id": "CIESIN_SEDAC_GPWv4_DQI_R11.v4.11",
+"title": "Gridded Population of the World, Version 4 (GPWv4): Data Quality Indicators, Revision 11"
+},
+{
+"id": "CIESIN_SEDAC_GPWv4_LANDH2OAREA_R11.v4.11",
+"title": "Gridded Population of the World, Version 4 (GPWv4): Land and Water Area, Revision 11"
+},
+{
+"id": "CIESIN_SEDAC_GPWv4_NATIDEN_R11.v4.11",
+"title": "Gridded Population of the World, Version 4 (GPWv4): National Identifier Grid, Revision 11"
+},
+{
+"id": "CIESIN_SEDAC_GPWv4_APCT_WPP_2015_R11.v4.11",
+"title": "Gridded Population of the World, Version 4 (GPWv4): Population Count Adjusted to Match 2015 Revision of UN WPP Country Totals, Revision 11"
+},
+{
+"id": "CIESIN_SEDAC_GPWv4_POPCOUNT_R11.v4.11",
+"title": "Gridded Population of the World, Version 4 (GPWv4): Population Count, Revision 11"
+},
+{
+"id": "CIESIN_SEDAC_GPWv4_APDENS_WPP_2015_R11.v4.11",
+"title": "Gridded Population of the World, Version 4 (GPWv4): Population Density Adjusted to Match 2015 Revision UN WPP Country Totals, Revision 11"
+},
+{
+"id": "CIESIN_SEDAC_GPWv4_POPDENS_R11.v4.11",
+"title": "Gridded Population of the World, Version 4 (GPWv4): Population Density, Revision 11"
+},
+{
+"id": "CIESIN_SEDAC_SPECIES_AMP_RICH15.v2015.00",
+"title": "Gridded Species Distribution: Global Amphibian Richness Grids, 2015 Release"
+},
+{
+"id": "CIESIN_SEDAC_SPECIES_MAM_RICH15.v2015.00",
+"title": "Gridded Species Distribution: Global Mammal Richness Grids, 2015 Release"
+},
+{
+"id": "CIESIN_SEDAC_CLIMMIG_GASPMP18SR.v1.00",
+"title": "Groundswell Africa Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050"
+},
+{
+"id": "CIESIN_SEDAC_CLIMMIG_GSPMP18SR.v1.00",
+"title": "Groundswell Spatial Population and Migration Projections at One-Eighth Degree According to SSPs and RCPs, 2010-2050"
+},
+{
+"id": "CIESIN_SEDAC_HANPP.v1.00",
+"title": "HANPP Collection: Global Patterns in Human Appropriation of Net Primary Productivity (HANPP)"
+},
+{
+"id": "CIESIN_SEDAC_HANPP_NPP.v1.00",
+"title": "HANPP Collection: Global Patterns in Net Primary Productivity (NPP)"
+},
+{
+"id": "CIESIN_SEDAC_HANPP_CPROD.v1.00",
+"title": "HANPP Collection: Human Appropriation of Net Primary Productivity (HANPP) by Country and Product"
+},
+{
+"id": "CIESIN_SEDAC_HANPP_PERCENT.v1.00",
+"title": "HANPP Collection: Human Appropriation of Net Primary Productivity as a Percentage of Net Primary Productivity"
+},
+{
+"id": "CIESIN_SEDAC_USPAT_HUP.v1.00",
+"title": "Historical Urban Population: 3700 BC - AD 2000"
+},
+{
+"id": "CIESIN_SEDAC_INDIA_AWCA.v1.00",
+"title": "India Annual Winter Cropped Area, 2001-2016"
+},
+{
+"id": "CIESIN_SEDAC_INDIA_VILSOCIOECON.v1.00",
+"title": "India Village-Level Geospatial Socio-Economic Data Set: 1991, 2001"
+},
+{
+"id": "CIESIN_SEDAC_ICWQ_ANC.v1.00",
+"title": "Indicators of Coastal Water Quality: Ancillary Data"
+},
+{
+"id": "CIESIN_SEDAC_ICWQ_ACHLOA.v1.00",
+"title": "Indicators of Coastal Water Quality: Annual Chlorophyll-a Concentration 1998-2007"
+},
+{
+"id": "CIESIN_SEDAC_ICWQ_CCHLOA.v1.00",
+"title": "Indicators of Coastal Water Quality: Change in Chlorophyll-a Concentration 1998-2007"
+},
+{
+"id": "CIESIN_SEDAC_IPCC_GRI_MIDYR_0.3.7.v0.3.7",
+"title": "INFORM Global Risk Index 2019 Mid Year, v0.3.7"
+},
+{
+"id": "CIESIN_SEDAC_IPCC_OBSERVED_AR5.v2.01",
+"title": "IPCC Fifth Assessment Report (AR5) Observed Climate Change Impacts Database, Version 2.01"
+},
+{
+"id": "CIESIN_SEDAC_IPCC_OBSERVED.v1.00",
+"title": "IPCC Fourth Assessment Report (AR4) Observed Climate Change Impacts Database"
+},
+{
+"id": "CIESIN_SEDAC_IPCC_IS92_V11.v1.01",
+"title": "IPCC IS92 Emissions Scenarios (A, B, C, D, E, F) Dataset Version 1.1"
+},
+{
+"id": "CIESIN_SEDAC_IPCC_BASELINE.v1.00",
+"title": "IPCC Socio-Economic Baseline Dataset"
+},
+{
+"id": "CIESIN_SEDAC_IPCC_SRES_1X1EM.v1.00",
+"title": "IPCC Special Report on Emissions Scenarios (SRES) 1x1 Degree Gridded Emissions Dataset"
+},
+{
+"id": "CIESIN_SEDAC_IPCC_SRES_EMSC_V11.v1.01",
+"title": "IPCC Special Report on Emissions Scenarios (SRES) Emissions Scenarios Dataset Version 1.1"
+},
+{
+"id": "CIESIN_SEDAC_IPCC_SRES_FLGASES.v1.00",
+"title": "IPCC Special Report on Emissions Scenarios (SRES) Fluor-Gases Emissions Dataset"
+},
+{
+"id": "CIESIN_SEDAC_LWP_HFP_GEOG.v1.00",
+"title": "Last of the Wild Project, Version 1, 2002 (LWP-1): Global Human Footprint Dataset (Geographic)"
+},
+{
+"id": "CIESIN_SEDAC_LWP_HFP_IGHP.v1.00",
+"title": "Last of the Wild Project, Version 1, 2002 (LWP-1): Global Human Footprint Dataset (IGHP)"
+},
+{
+"id": "CIESIN_SEDAC_LWP_LW_GEOG.v1.00",
+"title": "Last of the Wild Project, Version 1, 2002 (LWP-1): Last of the Wild Dataset (Geographic)"
+},
+{
+"id": "CIESIN_SEDAC_LWP_LW_IGHP.v1.00",
+"title": "Last of the Wild Project, Version 1, 2002 (LWP-1): Last of the Wild Dataset (IGHP)"
+},
+{
+"id": "CIESIN_SEDAC_LWP_TOPWA_GEOG.v1.00",
+"title": "Last of the Wild Project, Version 1, 2002 (LWP-1): Top One Percent Wild Areas Dataset (Geographic)"
+},
+{
+"id": "CIESIN_SEDAC_LWP_TOPWA_IGHP.v1.00",
+"title": "Last of the Wild Project, Version 1, 2002 (LWP-1): Top One Percent Wild Areas Dataset (IGHP)"
+},
+{
+"id": "CIESIN_SEDAC_LWP2_HF_GEOG.v2.00",
+"title": "Last of the Wild Project, Version 2, 2005 (LWP-2): Global Human Footprint Dataset (Geographic)"
+},
+{
+"id": "CIESIN_SEDAC_LWP2_HF_IGHP.v2.00",
+"title": "Last of the Wild Project, Version 2, 2005 (LWP-2): Global Human Footprint Dataset (IGHP)"
+},
+{
+"id": "CIESIN_SEDAC_LWP2_HII_GEOG.v2.00",
+"title": "Last of the Wild Project, Version 2, 2005 (LWP-2): Global Human Influence Index (HII) Dataset (Geographic)"
+},
+{
+"id": "CIESIN_SEDAC_LWP2_HII_IGHP.v2.00",
+"title": "Last of the Wild Project, Version 2, 2005 (LWP-2): Global Human Influence Index (HII) Dataset (IGHP)"
+},
+{
+"id": "CIESIN_SEDAC_LWP2_LW_GEOG.v2.00",
+"title": "Last of the Wild Project, Version 2, 2005 (LWP-2): Last of the Wild Dataset (Geographic)"
+},
+{
+"id": "CIESIN_SEDAC_LWP2_LW_IGHP.v2.00",
+"title": "Last of the Wild Project, Version 2, 2005 (LWP-2): Last of the Wild Dataset (IGHP)"
+},
+{
+"id": "CIESIN_SEDAC_LWP3_HF_1993.v2018.00",
+"title": "Last of the Wild Project, Version 3 (LWP-3): 1993 Human Footprint, 2018 Release"
+},
+{
+"id": "CIESIN_SEDAC_LWP3_HF_2009.v2018.00",
+"title": "Last of the Wild Project, Version 3 (LWP-3): 2009 Human Footprint, 2018 Release"
+},
+{
+"id": "CIESIN_SEDAC_PD_LACPOP.v1.00",
+"title": "Latin America and the Caribbean Population Time Series"
+},
+{
+"id": "CIESIN_SEDAC_LECZ_DELTA_V1.v1.00",
+"title": "Low Elevation Coastal Zone (LECZ) Global Delta Urban-Rural Population and Land Area Estimates, Version 1"
+},
+{
+"id": "CIESIN_SEDAC_LECZ_URPLAEV2.v2.00",
+"title": "Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 2"
+},
+{
+"id": "CIESIN_SEDAC_LECZ_URPLAEV3.v3.00",
+"title": "Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 3"
+},
+{
+"id": "CIESIN_SEDAC_LECZ_URPEV1.v1.00",
+"title": "Low Elevation Coastal Zone (LECZ) Urban-Rural Population Estimates, Global Rural-Urban Mapping Project (GRUMP), Alpha Version"
+},
+{
+"id": "CIESIN_SEDAC_MA_BIODIVERSITY.v1.00",
+"title": "Millennium Ecosystem Assessment: MA Biodiversity"
+},
+{
+"id": "CIESIN_SEDAC_MA_CLIMLC.v1.00",
+"title": "Millennium Ecosystem Assessment: MA Climate and Land Cover"
+},
+{
+"id": "CIESIN_SEDAC_MA_ECOSYSTEMS.v1.00",
+"title": "Millennium Ecosystem Assessment: MA Ecosystems"
+},
+{
+"id": "CIESIN_SEDAC_MA_POPULATION.v1.00",
+"title": "Millennium Ecosystem Assessment: MA Population"
+},
+{
+"id": "CIESIN_SEDAC_MA_RLCC.v1.00",
+"title": "Millennium Ecosystem Assessment: MA Rapid Land Cover Change"
+},
+{
+"id": "CIESIN_SEDAC_MA_SCENARIOS.v1.00",
+"title": "Millennium Ecosystem Assessment: MA Scenarios"
+},
+{
+"id": "CIESIN_SEDAC_NAGDC_PLACE.v1.00",
+"title": "National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates (PLACE)"
+},
+{
+"id": "CIESIN_SEDAC_NAGDC_PLACEII.v2.00",
+"title": "National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 2 (PLACE II)"
+},
+{
+"id": "CIESIN_SEDAC_NAGDC_PLACEIII.v3.00",
+"title": "National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 3 (PLACE III)"
+},
+{
+"id": "CIESIN_SEDAC_NAGDC_PLACEIV.v4.00",
+"title": "National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 4 (PLACE IV)"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_2010.v2010.00",
+"title": "Natural Resource Management Index (NRMI), 2010 Release"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_2011.v2011.00",
+"title": "Natural Resource Management Index (NRMI), 2011 Release"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_NRPCHI12.v2012.00",
+"title": "Natural Resource Protection and Child Health Indicators, 2012 Release"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_NRPCHI13.v2013.00",
+"title": "Natural Resource Protection and Child Health Indicators, 2013 Release"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_NRPCHI14.v2014.00",
+"title": "Natural Resource Protection and Child Health Indicators, 2014 Release"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_NRPCHI15.v2015.00",
+"title": "Natural Resource Protection and Child Health Indicators, 2015 Release"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_NRPCHI16.v2016.00",
+"title": "Natural Resource Protection and Child Health Indicators, 2016 Release"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_NRPCHI17.v2017.00",
+"title": "Natural Resource Protection and Child Health Indicators, 2017 Release"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_NRPCHI18.v2018.00",
+"title": "Natural Resource Protection and Child Health Indicators, 2018 Release"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_NRPCHI19.v2019.00",
+"title": "Natural Resource Protection and Child Health Indicators, 2019 Release"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_NRPCHI20.v2020.00",
+"title": "Natural Resource Protection and Child Health Indicators, 2020 Release"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_NRPCHI21.v2021.00",
+"title": "Natural Resource Protection and Child Health Indicators, 2021 Release"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_NRPCHI22.v2022.00",
+"title": "Natural Resource Protection and Child Health Indicators, 2022 Release"
+},
+{
+"id": "CIESIN_SEDAC_NRMI_NRPCHI23.v2023.00",
+"title": "Natural Resource Protection and Child Health Indicators, 2023 Release"
+},
+{
+"id": "CIESIN_SEDAC_EPI_2006.v2006.00",
+"title": "Pilot 2006 Environmental Performance Index (EPI)"
+},
+{
+"id": "CIESIN_SEDAC_ENERGY_NPPCLA.v1.00",
+"title": "Population Exposure Estimates in Proximity to Nuclear Power Plants, Country-Level Aggregates"
+},
+{
+"id": "CIESIN_SEDAC_ENERGY_NPPL.v1.00",
+"title": "Population Exposure Estimates in Proximity to Nuclear Power Plants, Locations"
+},
+{
+"id": "CIESIN_SEDAC_CROPCLIM_GISS_DB.v1.00",
+"title": "Potential Impacts of Climate Change on World Food Supply: Datasets from a Major Crop Modeling Study"
+},
+{
+"id": "CIESIN_SEDAC_PMP_IMR.v1.00",
+"title": "Poverty Mapping Project: Global Subnational Infant Mortality Rates"
+},
+{
+"id": "CIESIN_SEDAC_PMP_GSPCM.v1.00",
+"title": "Poverty Mapping Project: Global Subnational Prevalence of Child Malnutrition"
+},
+{
+"id": "CIESIN_SEDAC_PMP_PFSCS.v1.00",
+"title": "Poverty Mapping Project: Poverty and Food Security Case Studies"
+},
+{
+"id": "CIESIN_SEDAC_PMP_SAEPI.v1.00",
+"title": "Poverty Mapping Project: Small Area Estimates of Poverty and Inequality"
+},
+{
+"id": "CIESIN_SEDAC_PMP_UBN.v1.00",
+"title": "Poverty Mapping Project: Unsatisfied Basic Needs"
+},
+{
+"id": "CIESIN_SEDAC_ACRP_PUMS.v1.00",
+"title": "Public Use Microdata Samples (PUMS)"
+},
+{
+"id": "CIESIN_SEDAC_SDGI_UAPT_2023.v2023.00",
+"title": "SDG Indicator 11.2.1: Urban Access to Public Transport, 2023 Release"
+},
+{
+"id": "CIESIN_SEDAC_SDGI_UPSAE_2023.v2023.00",
+"title": "SDG Indicator 11.7.1: Urban Public Space, Availability and Access, 2023 Release"
+},
+{
+"id": "CIESIN_SEDAC_SDGI_ACCELEC_2023.v2023.00",
+"title": "SDG Indicator 7.1.1: Access to Electricity, 2023 Release"
+},
+{
+"id": "CIESIN_SEDAC_SDGI_RAI_2023.v2023.00",
+"title": "SDG Indicator 9.1.1: Rural Access Index (RAI), 2023 Release"
+},
+{
+"id": "CIESIN_SEDAC_LECZ_SLRIRAMSARWII.v1.00",
+"title": "Sea Level Rise Impacts on Ramsar Wetlands of International Importance"
+},
+{
+"id": "CIESIN_SEDAC_SSP_LITDB_V1.v1.00",
+"title": "Shared Socioeconomic Pathways (SSPs) Literature Database, v1, 2014-2019"
+},
+{
+"id": "CIESIN_SEDAC_INDIA_CENSUS_2011.v1.00",
+"title": "Spatial Data from the 2011 India Census"
+},
+{
+"id": "CIESIN_SEDAC_SSP_GSNLITDB_V1.v1.00",
+"title": "Sub-global Scenarios that Extend the Global SSP Narratives: Literature Database, Version 1, 2014-2021"
+},
+{
+"id": "CIESIN_SEDAC_IPCC_SAGDVCC.v1.00",
+"title": "Synthetic Assessment of Global Distribution of Vulnerability to Climate Change: Maps and Data, 2005, 2050, and 2100"
+},
+{
+"id": "CIESIN_SEDAC_SDEI_GFA_GRACE.v1.00",
+"title": "Trends in Global Freshwater Availability from the Gravity Recovery and Climate Experiment (GRACE)"
+},
+{
+"id": "CIESIN_SEDAC_FOOD_CROPSTAT_1900-2017.v1.00",
+"title": "Twentieth Century Crop Statistics, 1900-2017"
+},
+{
+"id": "CIESIN_SEDAC_USCG_90SF1.v1.00",
+"title": "U.S. Census Grids (Summary File 1), 1990"
+},
+{
+"id": "CIESIN_SEDAC_USCG_90SF1MSA.v1.00",
+"title": "U.S. Census Grids (Summary File 1), 1990: Metropolitan Statistical Areas"
+},
+{
+"id": "CIESIN_SEDAC_USCG_SF1.v1.00",
+"title": "U.S. Census Grids (Summary File 1), 2000"
+},
+{
+"id": "CIESIN_SEDAC_USCG_SF1MSA.v1.00",
+"title": "U.S. Census Grids (Summary File 1), 2000: Metropolitan Statistical Areas"
+},
+{
+"id": "CIESIN_SEDAC_USCG_SF12010.v1.00",
+"title": "U.S. Census Grids (Summary File 1), 2010"
+},
+{
+"id": "CIESIN_SEDAC_USCG_90SF3.v1.00",
+"title": "U.S. Census Grids (Summary File 3), 1990"
+},
+{
+"id": "CIESIN_SEDAC_USCG_90SF3MSA.v1.00",
+"title": "U.S. Census Grids (Summary File 3), 1990: Metropolitan Statistical Areas"
+},
+{
+"id": "CIESIN_SEDAC_USCG_SF3.v1.00",
+"title": "U.S. Census Grids (Summary File 3), 2000"
+},
+{
+"id": "CIESIN_SEDAC_USCG_SF3MSA.v1.00",
+"title": "U.S. Census Grids (Summary File 3), 2000: Metropolitan Statistical Areas"
+},
+{
+"id": "CIESIN_SEDAC_CRV_USCRPC_2040-2049.v1.00",
+"title": "U.S. Climate Risk Projections by County, 2040-2049"
+},
+{
+"id": "CIESIN_SEDAC_SSF_EPANPLSPDCMv2.v2.00",
+"title": "U.S. EPA National Priorities List (NPL) Sites Point Data with CIESIN Modifications, Version 2"
+},
+{
+"id": "CIESIN_SEDAC_PEND_ALLOMSTXSF1.valpha",
+"title": "U.S. Population Grids (Summary File 1), 2000: Alabama, Louisiana, Mississippi and Texas, Alpha Version"
+},
+{
+"id": "CIESIN_SEDAC_PEND_HSF1.valpha",
+"title": "U.S. Population Grids (Summary File 1), 2000: Houston Metropolitan Statistical Area, Alpha Version"
+},
+{
+"id": "CIESIN_SEDAC_PEND_NOSF1.valpha",
+"title": "U.S. Population Grids (Summary File 1), 2000: New Orleans Metropolitan Statistical Area, Alpha Version"
+},
+{
+"id": "CIESIN_SEDAC_PEND_ALLOMSSF3.valpha",
+"title": "U.S. Population Grids (Summary File 3), 2000: Alabama, Louisiana, and Mississippi, Alpha Version"
+},
+{
+"id": "CIESIN_SEDAC_PEND_NOSF3.valpha",
+"title": "U.S. Population Grids (Summary File 3), 2000: New Orleans Metropolitan Statistical Area, Alpha Version"
+},
+{
+"id": "CIESIN_SEDAC_USCG_USSVIG01.v1.01",
+"title": "U.S. Social Vulnerability Index Grids, Revision 01"
+},
+{
+"id": "CIESIN_SEDAC_ULANDSAT_URBAN_LANDSAT.v1.00",
+"title": "Urban Landsat: Cities from Space"
+},
+{
+"id": "CIESIN_SEDAC_SDEI_VDL.v1.00",
+"title": "VIIRS Plus DMSP Change in Lights (VIIRS+DMSP dLIGHT)"
+},
+{
+"id": "CIESIN_SEDAC_WATER_WSIM_GLDAS_V1.v1.00",
+"title": "Water Security Indicator Model - Global Land Data Assimilation System (WSIM-GLDAS) Monthly Grids, Version 1"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_CCPROD.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: Commercial Crop Production, 2000"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_DEFOR200012.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: Deforestation, 2000-2012"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_DHS.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: Demographic and Health Survey Data Sets"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_ECONSI.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: Economic Systems Index"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_GPWv4PR_PD.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: GPW Version 4 Population Density, Preliminary Release 1, 2010"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_GPWv4PR_PG.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: GPW Version 4 Population Growth, Preliminary Release 1, 2000-2010"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_GSSPEPP.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: Gridded Subset of Sub-national Poverty and Extreme Poverty Prevalence"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_MFD2000_POL.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: Mangrove Forests Distribution, 2000 Polygon"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_PGLF_200813.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: Point and Gridded Locations of Fatalities, 2008-2013"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_POPPROJ_203050.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: Population Projections, 2030 and 2050"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_SVI.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: Social Vulnerability Indices"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_SDMSPOLSNLEA_2010.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: Subset of DMSP-OLS Nighttime Lights for Economic Activity, 2010"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_SMAMAMP_RICH.v2015.00",
+"title": "West Africa Coastal Vulnerability Mapping: Subset of Global Mammal and Amphibian Richness Grids, 2015 Release"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_SUBSETACE2.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: Subset of High and Low Resolution Altimeter Corrected Elevations 2 (ACE2)"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_JRCMA.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: Subset of JRC Map of Accessibility"
+},
+{
+"id": "CIESIN_SEDAC_WACVM_OSM_ROADS.v1.00",
+"title": "West Africa Coastal Vulnerability Mapping: Subset of OpenStreetMap (OSM) Roads"
+},
+{
+"id": "CIESIN_SEDAC_SDEI_YCEOUHI_V4.v4.00",
+"title": "Yale Center for Earth Observation (YCEO) Surface Urban Heat Islands, Version 4, 2003-2018"
+}
+]

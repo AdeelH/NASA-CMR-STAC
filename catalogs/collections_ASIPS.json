@@ -1,0 +1,34 @@
+[
+{
+"id": "CLDMSK_L2_VIIRS_NOAA20_NRT.v1",
+"title": "VIIRS/NOAA-20 Cloud Mask L2 6-Min Swath 750m (NRT)"
+},
+{
+"id": "AERDT_L2_VIIRS_NOAA20_NRT.v2",
+"title": "VIIRS/NOAA-20 Dark Target Aerosol L2 6-Min Swath (v2.0)"
+},
+{
+"id": "AERDB_L2_VIIRS_NOAA20_NRT.v2",
+"title": "VIIRS/NOAA-20 Deep Blue Aerosol L2 6-Min Swath 6 km (v2.0)"
+},
+{
+"id": "CLDMSK_L2_VIIRS_SNPP_NRT.v1",
+"title": "VIIRS/SNPP Cloud Mask L2 6-Min Swath 750m (NRT)"
+},
+{
+"id": "AERDT_L2_VIIRS_SNPP_NRT.v1.1",
+"title": "VIIRS/SNPP Dark Target Aerosol L2 6-Min Swath"
+},
+{
+"id": "AERDT_L2_VIIRS_SNPP_NRT.v2",
+"title": "VIIRS/SNPP Dark Target Aerosol L2 6-Min Swath (v2.0)"
+},
+{
+"id": "AERDB_L2_VIIRS_SNPP_NRT.v1.1",
+"title": "VIIRS/SNPP Deep Blue Aerosol L2 6-Min Swath 6 km"
+},
+{
+"id": "AERDB_L2_VIIRS_SNPP_NRT.v2",
+"title": "VIIRS/SNPP Deep Blue Aerosol L2 6-Min Swath 6 km (v2.0)"
+}
+]
